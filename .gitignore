@@ -1,0 +1,48 @@
+# Large files and directories
+ocr-image/*.tar
+*.tar
+*.tar.gz
+
+# Virtual environment
+venv/
+env/
+**/venv/
+**/env/
+
+# Large binary files
+*.so
+*.so.*
+*.pt
+*.pth
+*.onnx
+
+# CUDA/GPU libraries
+**/torch/lib/
+**/nvidia/
+**/cuda/
+**/cudnn/
+**/nccl/
+**/cufft/
+**/nvrtc/
+**/nvshmem/
+
+# Model files
+models/
+*.model
+*.bin
+
+# Cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+.cache/
+tmp/
+temp/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
