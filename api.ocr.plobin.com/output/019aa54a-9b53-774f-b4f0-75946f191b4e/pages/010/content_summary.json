@@ -1,0 +1,406 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "자기소개서 및 직무수행계획서. ◇ 지원분야와 관련된 본인의 보유 역량을 기술하시오.. (구단연고 지역사회와의 교류 및 대외협력 증진계획 필수작성)",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 1,
+      "header": 0,
+      "body": 0,
+      "table": 0,
+      "footer": 0,
+      "other": 17
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.976,
+      "readability": "high",
+      "completeness": "complete",
+      "high_confidence_blocks": 17,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.713,
+      "english": 0.003,
+      "other": 0.285
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 18,
+    "total_characters": 379,
+    "analyzed_at": "2025-11-21T07:22:17.784885"
+  },
+  "block_summaries": [
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "자기소개서 및 직무수행계획서",
+      "keywords": [
+        "자기소개서",
+        "직무수행계획서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:22:17.784449"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "명 :",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:17.784468"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "◇ 지원분야와 관련된 본인의 보유 역량을 기술하시오.",
+      "keywords": [
+        "지원분야와",
+        "관련된",
+        "본인의",
+        "역량을",
+        "기술하시오"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 29,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T07:22:17.784489"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "(구단연고 지역사회와의 교류 및 대외협력 증진계획 필수...",
+      "keywords": [
+        "구단연고",
+        "지역사회와의",
+        "대외협력",
+        "증진계획",
+        "필수작성"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 33,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T07:22:17.784508"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "※ 작성요령",
+      "keywords": [
+        "작성요령"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:17.784521"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "■ 출신지역, 가족관계, 학력(출신학교) 등을 암시하는...",
+      "keywords": [
+        "출신지역",
+        "가족관계",
+        "출신학교",
+        "암시하는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T07:22:17.784541"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "할 수 없습니다.",
+      "keywords": [
+        "없습니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:22:17.784554"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "■ 직무수행계획서는 자유롭게 작성하시되, 축구단 운영계...",
+      "keywords": [
+        "직무수행계획서는",
+        "자유롭게",
+        "작성하시되",
+        "축구단",
+        "운영계획이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 6,
+      "analyzed_at": "2025-11-21T07:22:17.784571"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "나타나도록 작성바랍니다.",
+      "keywords": [
+        "나타나도록",
+        "작성바랍니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:17.784585"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "■ 운영목표 :",
+      "keywords": [
+        "운영목표"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:22:17.784597"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "지원자는 본인의 지원 분야에서 구단에 기여할 수 있는",
+      "keywords": [
+        "지원자는",
+        "본인의",
+        "분야에서",
+        "구단에",
+        "기여할"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 29,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T07:22:17.784614"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "자신만의 역량, 노하우, 계획 등을 상세히 기재하시기 ...",
+      "keywords": [
+        "자신만의",
+        "노하우",
+        "상세히",
+        "기재하시기",
+        "바랍니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T07:22:17.784632"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "■ 자기소개서의 전체분량은 A4지 5매 이내로 작성하여...",
+      "keywords": [
+        "자기소개서의",
+        "전체분량은",
+        "a4지",
+        "이내로",
+        "작성하여"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 40,
+      "word_count": 9,
+      "analyzed_at": "2025-11-21T07:22:17.784650"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "■ 자기소개서는 한글 및 워드프로세서를 사용하여 작성하...",
+      "keywords": [
+        "자기소개서는",
+        "워드프로세서를",
+        "사용하여",
+        "작성하여",
+        "주십시오"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T07:22:17.784667"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "상기내용은 사실과 다름없음을 확인합니다.",
+      "keywords": [
+        "상기내용은",
+        "사실과",
+        "다름없음을",
+        "확인합니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T07:22:17.784684"
+    },
+    {
+      "content_type": "other",
+      "language": "other",
+      "text_preview": "2025. .",
+      "keywords": [
+        "2025"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:17.784701"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "지원자 :",
+      "keywords": [
+        "지원자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:17.784713"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(인)",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:17.784723"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다.",
+    "주로 한국어 문서입니다."
+  ],
+  "recommendations": []
+}

@@ -1,0 +1,1952 @@
+{
+  "page_number": 1,
+  "total_blocks": 72,
+  "average_confidence": 0.9699837220583285,
+  "processing_time": 1.8602099418640137,
+  "blocks": [
+    {
+      "text": "참고 2",
+      "confidence": 0.9311166107654572,
+      "bbox": [
+        [
+          123,
+          131
+        ],
+        [
+          259,
+          131
+        ],
+        [
+          259,
+          170
+        ],
+        [
+          123,
+          170
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2022년 전국단위 수상실적",
+      "confidence": 0.998276247697718,
+      "bbox": [
+        [
+          293,
+          131
+        ],
+        [
+          812,
+          131
+        ],
+        [
+          812,
+          171
+        ],
+        [
+          293,
+          171
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(단위 : 백만원)",
+      "confidence": 0.6614624212185541,
+      "bbox": [
+        [
+          957,
+          214
+        ],
+        [
+          1134,
+          214
+        ],
+        [
+          1134,
+          239
+        ],
+        [
+          957,
+          239
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "합",
+      "confidence": 0.9949217736721039,
+      "bbox": [
+        [
+          200,
+          264
+        ],
+        [
+          234,
+          264
+        ],
+        [
+          234,
+          292
+        ],
+        [
+          200,
+          292
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "계",
+      "confidence": 0.9851938486099243,
+      "bbox": [
+        [
+          256,
+          264
+        ],
+        [
+          290,
+          264
+        ],
+        [
+          290,
+          292
+        ],
+        [
+          256,
+          292
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전국 1 위",
+      "confidence": 0.9565859213471413,
+      "bbox": [
+        [
+          436,
+          264
+        ],
+        [
+          569,
+          264
+        ],
+        [
+          569,
+          292
+        ],
+        [
+          436,
+          292
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전국 2 위",
+      "confidence": 0.972746729850769,
+      "bbox": [
+        [
+          688,
+          265
+        ],
+        [
+          822,
+          265
+        ],
+        [
+          822,
+          292
+        ],
+        [
+          688,
+          292
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전국 3 위",
+      "confidence": 0.9619800448417664,
+      "bbox": [
+        [
+          941,
+          265
+        ],
+        [
+          1073,
+          265
+        ],
+        [
+          1073,
+          292
+        ],
+        [
+          941,
+          292
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건 수",
+      "confidence": 0.904226815700531,
+      "bbox": [
+        [
+          142,
+          319
+        ],
+        [
+          213,
+          319
+        ],
+        [
+          213,
+          347
+        ],
+        [
+          142,
+          347
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인센티브",
+      "confidence": 0.9905114054679871,
+      "bbox": [
+        [
+          254,
+          318
+        ],
+        [
+          370,
+          318
+        ],
+        [
+          370,
+          345
+        ],
+        [
+          254,
+          345
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인센티브",
+      "confidence": 0.9970436692237854,
+      "bbox": [
+        [
+          507,
+          319
+        ],
+        [
+          624,
+          319
+        ],
+        [
+          624,
+          346
+        ],
+        [
+          507,
+          346
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인센티브",
+      "confidence": 0.9966967463493347,
+      "bbox": [
+        [
+          761,
+          319
+        ],
+        [
+          878,
+          319
+        ],
+        [
+          878,
+          346
+        ],
+        [
+          761,
+          346
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인센티브",
+      "confidence": 0.9939228057861328,
+      "bbox": [
+        [
+          1013,
+          318
+        ],
+        [
+          1129,
+          318
+        ],
+        [
+          1129,
+          345
+        ],
+        [
+          1013,
+          345
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건 수",
+      "confidence": 0.9407387137413025,
+      "bbox": [
+        [
+          406,
+          320
+        ],
+        [
+          477,
+          320
+        ],
+        [
+          477,
+          347
+        ],
+        [
+          406,
+          347
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건 수",
+      "confidence": 0.9586358070373535,
+      "bbox": [
+        [
+          658,
+          320
+        ],
+        [
+          729,
+          320
+        ],
+        [
+          729,
+          347
+        ],
+        [
+          658,
+          347
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건 수",
+      "confidence": 0.9245209932327271,
+      "bbox": [
+        [
+          909,
+          320
+        ],
+        [
+          982,
+          320
+        ],
+        [
+          982,
+          347
+        ],
+        [
+          909,
+          347
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "65",
+      "confidence": 0.9286424318949381,
+      "bbox": [
+        [
+          160,
+          386
+        ],
+        [
+          196,
+          386
+        ],
+        [
+          196,
+          411
+        ],
+        [
+          160,
+          411
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "35",
+      "confidence": 0.9559524257977804,
+      "bbox": [
+        [
+          424,
+          386
+        ],
+        [
+          459,
+          386
+        ],
+        [
+          459,
+          411
+        ],
+        [
+          424,
+          411
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "20",
+      "confidence": 0.9199791351954142,
+      "bbox": [
+        [
+          675,
+          386
+        ],
+        [
+          711,
+          386
+        ],
+        [
+          711,
+          411
+        ],
+        [
+          675,
+          411
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "51",
+      "confidence": 0.9694076180458069,
+      "bbox": [
+        [
+          1054,
+          386
+        ],
+        [
+          1087,
+          386
+        ],
+        [
+          1087,
+          411
+        ],
+        [
+          1054,
+          411
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "418.8",
+      "confidence": 0.9230855206648508,
+      "bbox": [
+        [
+          275,
+          387
+        ],
+        [
+          348,
+          387
+        ],
+        [
+          348,
+          411
+        ],
+        [
+          275,
+          411
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "314.2",
+      "confidence": 0.9616971214612325,
+      "bbox": [
+        [
+          530,
+          387
+        ],
+        [
+          604,
+          387
+        ],
+        [
+          604,
+          411
+        ],
+        [
+          530,
+          411
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "53.6",
+      "confidence": 0.9399891853332519,
+      "bbox": [
+        [
+          791,
+          387
+        ],
+        [
+          849,
+          387
+        ],
+        [
+          849,
+          411
+        ],
+        [
+          791,
+          411
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "10",
+      "confidence": 0.9417473673820496,
+      "bbox": [
+        [
+          927,
+          387
+        ],
+        [
+          962,
+          387
+        ],
+        [
+          962,
+          411
+        ],
+        [
+          927,
+          411
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전국 1위",
+      "confidence": 0.9924542818750653,
+      "bbox": [
+        [
+          148,
+          484
+        ],
+        [
+          282,
+          484
+        ],
+        [
+          282,
+          515
+        ],
+        [
+          148,
+          515
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인센티브",
+      "confidence": 0.9826575994491578,
+      "bbox": [
+        [
+          879,
+          565
+        ],
+        [
+          977,
+          565
+        ],
+        [
+          977,
+          589
+        ],
+        [
+          879,
+          589
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "평가기관",
+      "confidence": 0.9988934755325317,
+      "bbox": [
+        [
+          1007,
+          565
+        ],
+        [
+          1106,
+          565
+        ],
+        [
+          1106,
+          590
+        ],
+        [
+          1007,
+          590
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사 업 명",
+      "confidence": 0.9957643066133771,
+      "bbox": [
+        [
+          376,
+          579
+        ],
+        [
+          496,
+          579
+        ],
+        [
+          496,
+          604
+        ],
+        [
+          376,
+          604
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "연번",
+      "confidence": 0.9975953102111816,
+      "bbox": [
+        [
+          113,
+          580
+        ],
+        [
+          162,
+          580
+        ],
+        [
+          162,
+          604
+        ],
+        [
+          113,
+          604
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "담당부서",
+      "confidence": 0.9993444085121155,
+      "bbox": [
+        [
+          742,
+          580
+        ],
+        [
+          837,
+          580
+        ],
+        [
+          837,
+          604
+        ],
+        [
+          742,
+          604
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(백만원)",
+      "confidence": 0.9440349681036813,
+      "bbox": [
+        [
+          881,
+          597
+        ],
+        [
+          973,
+          597
+        ],
+        [
+          973,
+          619
+        ],
+        [
+          881,
+          619
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(수여기관)",
+      "confidence": 0.9973195865750313,
+      "bbox": [
+        [
+          1001,
+          596
+        ],
+        [
+          1113,
+          596
+        ],
+        [
+          1113,
+          620
+        ],
+        [
+          1001,
+          620
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "예산담당관",
+      "confidence": 0.9990757207075754,
+      "bbox": [
+        [
+          720,
+          676
+        ],
+        [
+          863,
+          676
+        ],
+        [
+          863,
+          703
+        ],
+        [
+          720,
+          703
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "100 행정안전부",
+      "confidence": 0.9947358640757474,
+      "bbox": [
+        [
+          932,
+          675
+        ],
+        [
+          1126,
+          675
+        ],
+        [
+          1126,
+          703
+        ],
+        [
+          932,
+          703
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2022 지방자치단체 재정분석 최우수",
+      "confidence": 0.9920554567467083,
+      "bbox": [
+        [
+          164,
+          677
+        ],
+        [
+          618,
+          677
+        ],
+        [
+          618,
+          703
+        ],
+        [
+          164,
+          703
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1",
+      "confidence": 0.972096711397171,
+      "bbox": [
+        [
+          126,
+          683
+        ],
+        [
+          147,
+          683
+        ],
+        [
+          147,
+          705
+        ],
+        [
+          126,
+          705
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2022 재난관리평가 전국 최우수",
+      "confidence": 0.9994811683893203,
+      "bbox": [
+        [
+          162,
+          784
+        ],
+        [
+          566,
+          784
+        ],
+        [
+          566,
+          811
+        ],
+        [
+          162,
+          811
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자연재난과",
+      "confidence": 0.9927227000395457,
+      "bbox": [
+        [
+          717,
+          784
+        ],
+        [
+          864,
+          784
+        ],
+        [
+          864,
+          810
+        ],
+        [
+          717,
+          810
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "10 행정안전부",
+      "confidence": 0.98806933760643,
+      "bbox": [
+        [
+          947,
+          784
+        ],
+        [
+          1126,
+          784
+        ],
+        [
+          1126,
+          810
+        ],
+        [
+          947,
+          810
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2",
+      "confidence": 0.9113062024116516,
+      "bbox": [
+        [
+          127,
+          790
+        ],
+        [
+          147,
+          790
+        ],
+        [
+          147,
+          810
+        ],
+        [
+          127,
+          810
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2021 국민행복소방정책",
+      "confidence": 0.9990379810333252,
+      "bbox": [
+        [
+          163,
+          894
+        ],
+        [
+          452,
+          894
+        ],
+        [
+          452,
+          919
+        ],
+        [
+          163,
+          919
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "소방청렴감사과",
+      "confidence": 0.9626777842640877,
+      "bbox": [
+        [
+          713,
+          894
+        ],
+        [
+          868,
+          894
+        ],
+        [
+          868,
+          919
+        ],
+        [
+          713,
+          919
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "소방청",
+      "confidence": 0.9960158318281174,
+      "bbox": [
+        [
+          1014,
+          894
+        ],
+        [
+          1097,
+          894
+        ],
+        [
+          1097,
+          919
+        ],
+        [
+          1014,
+          919
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "30",
+      "confidence": 0.9417721629142761,
+      "bbox": [
+        [
+          948,
+          895
+        ],
+        [
+          982,
+          895
+        ],
+        [
+          982,
+          919
+        ],
+        [
+          948,
+          919
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3",
+      "confidence": 0.954704612493515,
+      "bbox": [
+        [
+          126,
+          899
+        ],
+        [
+          147,
+          899
+        ],
+        [
+          147,
+          921
+        ],
+        [
+          126,
+          921
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2021 구급품질관리",
+      "confidence": 0.996123717381404,
+      "bbox": [
+        [
+          162,
+          1002
+        ],
+        [
+          400,
+          1002
+        ],
+        [
+          400,
+          1028
+        ],
+        [
+          162,
+          1028
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "구조구급과",
+      "confidence": 0.8242975771427155,
+      "bbox": [
+        [
+          718,
+          1003
+        ],
+        [
+          863,
+          1003
+        ],
+        [
+          863,
+          1029
+        ],
+        [
+          718,
+          1029
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "소방청",
+      "confidence": 0.9955996572971344,
+      "bbox": [
+        [
+          1014,
+          1003
+        ],
+        [
+          1097,
+          1003
+        ],
+        [
+          1097,
+          1029
+        ],
+        [
+          1014,
+          1029
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4",
+      "confidence": 0.9791586697101593,
+      "bbox": [
+        [
+          126,
+          1009
+        ],
+        [
+          148,
+          1009
+        ],
+        [
+          148,
+          1029
+        ],
+        [
+          126,
+          1029
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제3회 119상황관리 우수사례 경진대회",
+      "confidence": 0.9998353123664856,
+      "bbox": [
+        [
+          167,
+          1090
+        ],
+        [
+          643,
+          1090
+        ],
+        [
+          643,
+          1121
+        ],
+        [
+          167,
+          1121
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "119종합상황실",
+      "confidence": 0.9945881128311157,
+      "bbox": [
+        [
+          710,
+          1112
+        ],
+        [
+          868,
+          1112
+        ],
+        [
+          868,
+          1138
+        ],
+        [
+          710,
+          1138
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "소방청",
+      "confidence": 0.9941299259662628,
+      "bbox": [
+        [
+          1014,
+          1113
+        ],
+        [
+          1097,
+          1113
+        ],
+        [
+          1097,
+          1138
+        ],
+        [
+          1014,
+          1138
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "5",
+      "confidence": 0.9879886209964752,
+      "bbox": [
+        [
+          126,
+          1117
+        ],
+        [
+          146,
+          1117
+        ],
+        [
+          146,
+          1142
+        ],
+        [
+          126,
+          1142
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "“행안부장관상”",
+      "confidence": 0.9061269342899323,
+      "bbox": [
+        [
+          163,
+          1128
+        ],
+        [
+          361,
+          1128
+        ],
+        [
+          361,
+          1157
+        ],
+        [
+          163,
+          1157
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제14회 전국 화재조사 학술대회",
+      "confidence": 0.9998586334680256,
+      "bbox": [
+        [
+          167,
+          1201
+        ],
+        [
+          561,
+          1201
+        ],
+        [
+          561,
+          1229
+        ],
+        [
+          167,
+          1229
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "예방안전과",
+      "confidence": 0.9988377888997396,
+      "bbox": [
+        [
+          721,
+          1220
+        ],
+        [
+          862,
+          1220
+        ],
+        [
+          862,
+          1247
+        ],
+        [
+          721,
+          1247
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "소방청",
+      "confidence": 0.9957558512687683,
+      "bbox": [
+        [
+          1013,
+          1221
+        ],
+        [
+          1097,
+          1221
+        ],
+        [
+          1097,
+          1248
+        ],
+        [
+          1013,
+          1248
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6",
+      "confidence": 0.9917182922363281,
+      "bbox": [
+        [
+          126,
+          1230
+        ],
+        [
+          148,
+          1230
+        ],
+        [
+          148,
+          1252
+        ],
+        [
+          126,
+          1252
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "“행안부장관상”",
+      "confidence": 0.9851671695709229,
+      "bbox": [
+        [
+          162,
+          1237
+        ],
+        [
+          360,
+          1237
+        ],
+        [
+          360,
+          1264
+        ],
+        [
+          162,
+          1264
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인구정책 추진 우수 지자체 \"대통령표창\"",
+      "confidence": 0.9993439068396887,
+      "bbox": [
+        [
+          161,
+          1328
+        ],
+        [
+          698,
+          1328
+        ],
+        [
+          698,
+          1356
+        ],
+        [
+          161,
+          1356
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "출산보육정책과",
+      "confidence": 0.9978554621338844,
+      "bbox": [
+        [
+          710,
+          1329
+        ],
+        [
+          870,
+          1329
+        ],
+        [
+          870,
+          1355
+        ],
+        [
+          710,
+          1355
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "보건복지부",
+      "confidence": 0.9990711112817129,
+      "bbox": [
+        [
+          983,
+          1329
+        ],
+        [
+          1126,
+          1329
+        ],
+        [
+          1126,
+          1356
+        ],
+        [
+          983,
+          1356
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "7",
+      "confidence": 0.9706009924411774,
+      "bbox": [
+        [
+          126,
+          1335
+        ],
+        [
+          149,
+          1335
+        ],
+        [
+          149,
+          1357
+        ],
+        [
+          126,
+          1357
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "질병관리청",
+      "confidence": 0.9985755483309428,
+      "bbox": [
+        [
+          987,
+          1419
+        ],
+        [
+          1124,
+          1419
+        ],
+        [
+          1124,
+          1445
+        ],
+        [
+          987,
+          1445
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "감염병 관리 우수 지자체(2년 연속)",
+      "confidence": 0.9974433888088573,
+      "bbox": [
+        [
+          164,
+          1437
+        ],
+        [
+          610,
+          1437
+        ],
+        [
+          610,
+          1467
+        ],
+        [
+          164,
+          1467
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "감염병관리과",
+      "confidence": 0.9990126405443464,
+      "bbox": [
+        [
+          712,
+          1438
+        ],
+        [
+          869,
+          1438
+        ],
+        [
+          869,
+          1464
+        ],
+        [
+          712,
+          1464
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "8",
+      "confidence": 0.9779182970523834,
+      "bbox": [
+        [
+          126,
+          1444
+        ],
+        [
+          147,
+          1444
+        ],
+        [
+          147,
+          1466
+        ],
+        [
+          126,
+          1466
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(보건복지부)",
+      "confidence": 0.9991649190584818,
+      "bbox": [
+        [
+          982,
+          1456
+        ],
+        [
+          1129,
+          1456
+        ],
+        [
+          1129,
+          1485
+        ],
+        [
+          982,
+          1485
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2022 지역노사민정협력활성화 \"대상\"",
+      "confidence": 0.9991131502649059,
+      "bbox": [
+        [
+          162,
+          1547
+        ],
+        [
+          630,
+          1547
+        ],
+        [
+          630,
+          1574
+        ],
+        [
+          162,
+          1574
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "16 고용노동부",
+      "confidence": 0.9936287641525269,
+      "bbox": [
+        [
+          948,
+          1547
+        ],
+        [
+          1127,
+          1547
+        ],
+        [
+          1127,
+          1574
+        ],
+        [
+          948,
+          1574
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "9",
+      "confidence": 0.9960903227329254,
+      "bbox": [
+        [
+          126,
+          1551
+        ],
+        [
+          147,
+          1551
+        ],
+        [
+          147,
+          1575
+        ],
+        [
+          126,
+          1575
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 21 -",
+      "confidence": 0.9409263900348118,
+      "bbox": [
+        [
+          585,
+          1671
+        ],
+        [
+          654,
+          1671
+        ],
+        [
+          654,
+          1693
+        ],
+        [
+          585,
+          1693
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

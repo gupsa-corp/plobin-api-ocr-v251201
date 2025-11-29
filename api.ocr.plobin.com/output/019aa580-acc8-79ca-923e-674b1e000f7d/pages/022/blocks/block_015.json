@@ -1,0 +1,17 @@
+{
+  "block_id": 15,
+  "text": "└─ 석정",
+  "confidence": 0.8017300516366959,
+  "bbox": {
+    "x_min": 418,
+    "y_min": 728,
+    "x_max": 514,
+    "y_max": 753,
+    "width": 96,
+    "height": 25
+  },
+  "block_type": "text",
+  "text_length": 5,
+  "created_at": "2025-11-21T08:21:44.116618",
+  "version": "1.0"
+}

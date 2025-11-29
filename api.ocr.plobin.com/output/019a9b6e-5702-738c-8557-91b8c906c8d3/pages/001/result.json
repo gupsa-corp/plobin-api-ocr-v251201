@@ -1,0 +1,1628 @@
+{
+  "page_number": 1,
+  "total_blocks": 60,
+  "average_confidence": 0.969406946798648,
+  "processing_time": 3.0256452560424805,
+  "blocks": [
+    {
+      "text": "천안시인사위원회 공고 제2025 - 2750호",
+      "confidence": 0.9752232719350744,
+      "bbox": [
+        [
+          116,
+          88
+        ],
+        [
+          521,
+          88
+        ],
+        [
+          521,
+          106
+        ],
+        [
+          116,
+          106
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "<u>2025년 제8회 천안시</u> 지방임기제공무원 채용시험 계획 공고(재공고 포함)",
+      "confidence": 0.974870353937149,
+      "bbox": [
+        [
+          117,
+          148
+        ],
+        [
+          1123,
+          148
+        ],
+        [
+          1123,
+          195
+        ],
+        [
+          117,
+          195
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025년 제8회 천안시 지방임기제공무원 채용시험 계획을 다음과 같이 공고",
+      "confidence": 0.999719730643339,
+      "bbox": [
+        [
+          122,
+          231
+        ],
+        [
+          1113,
+          231
+        ],
+        [
+          1113,
+          259
+        ],
+        [
+          122,
+          259
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(2025년 제5회, 제7회 재공고 포함)하오니 많은 응모를 바랍니다.",
+      "confidence": 0.9976046899469887,
+      "bbox": [
+        [
+          122,
+          275
+        ],
+        [
+          934,
+          275
+        ],
+        [
+          934,
+          302
+        ],
+        [
+          122,
+          302
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 교통지도 분야 재공고 분야 사유",
+      "confidence": 0.7676566470237005,
+      "bbox": [
+        [
+          157,
+          338
+        ],
+        [
+          604,
+          338
+        ],
+        [
+          604,
+          364
+        ],
+        [
+          157,
+          364
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 당초합격자 임용후 사직서 제출",
+      "confidence": 0.9980875939130783,
+      "bbox": [
+        [
+          177,
+          375
+        ],
+        [
+          570,
+          375
+        ],
+        [
+          570,
+          399
+        ],
+        [
+          177,
+          399
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 산림재해 분야 재공고 분야 사유",
+      "confidence": 0.9925388211295718,
+      "bbox": [
+        [
+          156,
+          424
+        ],
+        [
+          604,
+          424
+        ],
+        [
+          604,
+          450
+        ],
+        [
+          156,
+          450
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 응시인원 또는 서류전형 합격인원이 선발예정 인원과 같거나 적음",
+      "confidence": 0.9983827518789392,
+      "bbox": [
+        [
+          177,
+          462
+        ],
+        [
+          970,
+          462
+        ],
+        [
+          970,
+          487
+        ],
+        [
+          177,
+          487
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(응시원서를 기 접수한 응시자는 별도 절차 없이 재공고에 따른 응시원서를",
+      "confidence": 0.9987601453349704,
+      "bbox": [
+        [
+          200,
+          496
+        ],
+        [
+          1092,
+          496
+        ],
+        [
+          1092,
+          525
+        ],
+        [
+          200,
+          525
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제출한 것으로 간주하여 시험절차를 진행)",
+      "confidence": 0.9997508476177851,
+      "bbox": [
+        [
+          203,
+          535
+        ],
+        [
+          691,
+          535
+        ],
+        [
+          691,
+          560
+        ],
+        [
+          203,
+          560
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025년 11월 17일",
+      "confidence": 0.997931973139445,
+      "bbox": [
+        [
+          499,
+          592
+        ],
+        [
+          736,
+          592
+        ],
+        [
+          736,
+          618
+        ],
+        [
+          499,
+          618
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시인사위원회위원",
+      "confidence": 0.9679446599700234,
+      "bbox": [
+        [
+          769,
+          646
+        ],
+        [
+          1068,
+          646
+        ],
+        [
+          1068,
+          675
+        ],
+        [
+          769,
+          675
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용예정 분야 및 인원",
+      "confidence": 0.998285140310015,
+      "bbox": [
+        [
+          208,
+          751
+        ],
+        [
+          588,
+          751
+        ],
+        [
+          588,
+          784
+        ],
+        [
+          208,
+          784
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용 채용 근",
+      "confidence": 0.9987728529506259,
+      "bbox": [
+        [
+          396,
+          818
+        ],
+        [
+          548,
+          818
+        ],
+        [
+          548,
+          843
+        ],
+        [
+          396,
+          843
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용",
+      "confidence": 0.9990206758181254,
+      "bbox": [
+        [
+          159,
+          819
+        ],
+        [
+          212,
+          819
+        ],
+        [
+          212,
+          843
+        ],
+        [
+          159,
+          843
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "무",
+      "confidence": 0.9834356307983398,
+      "bbox": [
+        [
+          583,
+          819
+        ],
+        [
+          612,
+          819
+        ],
+        [
+          612,
+          843
+        ],
+        [
+          583,
+          843
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용등급",
+      "confidence": 0.9994963765144348,
+      "bbox": [
+        [
+          271,
+          833
+        ],
+        [
+          372,
+          833
+        ],
+        [
+          372,
+          859
+        ],
+        [
+          271,
+          859
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직무내용",
+      "confidence": 0.9969835400581359,
+      "bbox": [
+        [
+          817,
+          834
+        ],
+        [
+          919,
+          834
+        ],
+        [
+          919,
+          856
+        ],
+        [
+          817,
+          856
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "분야",
+      "confidence": 0.998849630355835,
+      "bbox": [
+        [
+          159,
+          847
+        ],
+        [
+          212,
+          847
+        ],
+        [
+          212,
+          872
+        ],
+        [
+          159,
+          872
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인원 기간 예정부서",
+      "confidence": 0.9914278934399287,
+      "bbox": [
+        [
+          398,
+          847
+        ],
+        [
+          612,
+          847
+        ],
+        [
+          612,
+          873
+        ],
+        [
+          398,
+          873
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "。지능형교통체계(ITS) 기본계획 수립 및 구축",
+      "confidence": 0.9655896548567147,
+      "bbox": [
+        [
+          617,
+          892
+        ],
+        [
+          1100,
+          892
+        ],
+        [
+          1100,
+          916
+        ],
+        [
+          617,
+          916
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 자율주행 시범운행지구 구축 및 확대 운영",
+      "confidence": 0.9745151778826346,
+      "bbox": [
+        [
+          617,
+          928
+        ],
+        [
+          1102,
+          928
+        ],
+        [
+          1102,
+          952
+        ],
+        [
+          617,
+          952
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건설 안전 • 국가 · 도 지능형교통 관련 공모사업 추진",
+      "confidence": 0.8518186590888284,
+      "bbox": [
+        [
+          510,
+          961
+        ],
+        [
+          1098,
+          961
+        ],
+        [
+          1098,
+          992
+        ],
+        [
+          510,
+          992
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "통 지방시간선택제",
+      "confidence": 0.9560128504579718,
+      "bbox": [
+        [
+          218,
+          963
+        ],
+        [
+          384,
+          963
+        ],
+        [
+          384,
+          1000
+        ],
+        [
+          218,
+          1000
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2년 교 통 국 • 광역형 긴급차량 우선신호 구축",
+      "confidence": 0.9922923116848387,
+      "bbox": [
+        [
+          455,
+          996
+        ],
+        [
+          1006,
+          996
+        ],
+        [
+          1006,
+          1025
+        ],
+        [
+          455,
+          1025
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "( 지 능 형",
+      "confidence": 0.9025897317462497,
+      "bbox": [
+        [
+          121,
+          997
+        ],
+        [
+          253,
+          997
+        ],
+        [
+          253,
+          1030
+        ],
+        [
+          121,
+          1030
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1명",
+      "confidence": 0.9956007450819016,
+      "bbox": [
+        [
+          403,
+          1000
+        ],
+        [
+          448,
+          1000
+        ],
+        [
+          448,
+          1025
+        ],
+        [
+          403,
+          1025
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "임기제",
+      "confidence": 0.9993775933980942,
+      "bbox": [
+        [
+          291,
+          1001
+        ],
+        [
+          349,
+          1001
+        ],
+        [
+          349,
+          1025
+        ],
+        [
+          291,
+          1025
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "교통체계) 나급(6급상당)",
+      "confidence": 0.9634809531271458,
+      "bbox": [
+        [
+          121,
+          1027
+        ],
+        [
+          392,
+          1027
+        ],
+        [
+          392,
+          1067
+        ],
+        [
+          121,
+          1067
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "교통정책과。 실시간 교통신호 잔여시간 정보제공 서비스",
+      "confidence": 0.9998076135112394,
+      "bbox": [
+        [
+          511,
+          1032
+        ],
+        [
+          1097,
+          1032
+        ],
+        [
+          1097,
+          1063
+        ],
+        [
+          511,
+          1063
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "확대구축",
+      "confidence": 0.9997323036193848,
+      "bbox": [
+        [
+          638,
+          1075
+        ],
+        [
+          736,
+          1075
+        ],
+        [
+          736,
+          1097
+        ],
+        [
+          638,
+          1097
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 기타 부서장이 지정하는 업무 등",
+      "confidence": 0.967591465938659,
+      "bbox": [
+        [
+          617,
+          1108
+        ],
+        [
+          1017,
+          1108
+        ],
+        [
+          1017,
+          1135
+        ],
+        [
+          617,
+          1135
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 건축 인허가에 따른 기술적인 사항에 대한",
+      "confidence": 0.9785471994143266,
+      "bbox": [
+        [
+          617,
+          1160
+        ],
+        [
+          1105,
+          1160
+        ],
+        [
+          1105,
+          1185
+        ],
+        [
+          617,
+          1185
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "보고·확인·검토·심사·점검",
+      "confidence": 0.987823847681284,
+      "bbox": [
+        [
+          643,
+          1197
+        ],
+        [
+          918,
+          1197
+        ],
+        [
+          918,
+          1217
+        ],
+        [
+          643,
+          1217
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 건축물 및 건축공사장의 안전관리 및 안전점검",
+      "confidence": 0.9860089591571263,
+      "bbox": [
+        [
+          618,
+          1230
+        ],
+        [
+          1097,
+          1230
+        ],
+        [
+          1097,
+          1254
+        ],
+        [
+          618,
+          1254
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "◦ 건축물의 점검 및 개량·보수에 대한 기술지원",
+      "confidence": 0.9688413282235463,
+      "bbox": [
+        [
+          617,
+          1270
+        ],
+        [
+          1113,
+          1270
+        ],
+        [
+          1113,
+          1295
+        ],
+        [
+          617,
+          1295
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건 축 안 전 지방시간선택제",
+      "confidence": 0.9713642877690932,
+      "bbox": [
+        [
+          120,
+          1265
+        ],
+        [
+          387,
+          1265
+        ],
+        [
+          387,
+          1312
+        ],
+        [
+          120,
+          1312
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "도시주택국",
+      "confidence": 0.9925842583179474,
+      "bbox": [
+        [
+          511,
+          1295
+        ],
+        [
+          617,
+          1295
+        ],
+        [
+          617,
+          1321
+        ],
+        [
+          511,
+          1321
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "및 정보제공 업무",
+      "confidence": 0.9988404404033314,
+      "bbox": [
+        [
+          641,
+          1302
+        ],
+        [
+          844,
+          1302
+        ],
+        [
+          844,
+          1326
+        ],
+        [
+          641,
+          1326
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1명",
+      "confidence": 0.994738906621933,
+      "bbox": [
+        [
+          403,
+          1308
+        ],
+        [
+          445,
+          1308
+        ],
+        [
+          445,
+          1335
+        ],
+        [
+          403,
+          1335
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2년",
+      "confidence": 0.9951554387807846,
+      "bbox": [
+        [
+          456,
+          1308
+        ],
+        [
+          500,
+          1308
+        ],
+        [
+          500,
+          1335
+        ],
+        [
+          456,
+          1335
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "관",
+      "confidence": 0.9977521002292633,
+      "bbox": [
+        [
+          121,
+          1310
+        ],
+        [
+          162,
+          1310
+        ],
+        [
+          162,
+          1335
+        ],
+        [
+          121,
+          1335
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "김",
+      "confidence": 0.7081279456615448,
+      "bbox": [
+        [
+          217,
+          1310
+        ],
+        [
+          248,
+          1310
+        ],
+        [
+          248,
+          1334
+        ],
+        [
+          217,
+          1334
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "임기제",
+      "confidence": 0.9992373138666153,
+      "bbox": [
+        [
+          293,
+          1311
+        ],
+        [
+          350,
+          1311
+        ],
+        [
+          350,
+          1335
+        ],
+        [
+          293,
+          1335
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건 축 과",
+      "confidence": 0.9963190385273525,
+      "bbox": [
+        [
+          510,
+          1325
+        ],
+        [
+          617,
+          1325
+        ],
+        [
+          617,
+          1352
+        ],
+        [
+          510,
+          1352
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "( 건축구조) 나급(6급상당)",
+      "confidence": 0.9741433196597629,
+      "bbox": [
+        [
+          122,
+          1332
+        ],
+        [
+          392,
+          1332
+        ],
+        [
+          392,
+          1378
+        ],
+        [
+          122,
+          1378
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "。「건축법」제25조에 따른 공사감리에 대한 관리·감독",
+      "confidence": 0.9766635522246361,
+      "bbox": [
+        [
+          617,
+          1340
+        ],
+        [
+          1098,
+          1340
+        ],
+        [
+          1098,
+          1369
+        ],
+        [
+          617,
+          1369
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 건축물 부문 안전관리 대책에 대한 세부 실행",
+      "confidence": 0.9810694424169404,
+      "bbox": [
+        [
+          617,
+          1383
+        ],
+        [
+          1097,
+          1383
+        ],
+        [
+          1097,
+          1407
+        ],
+        [
+          617,
+          1407
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 건축물 안전 관련 매뉴얼 관리",
+      "confidence": 0.9659244745969773,
+      "bbox": [
+        [
+          617,
+          1421
+        ],
+        [
+          990,
+          1421
+        ],
+        [
+          990,
+          1445
+        ],
+        [
+          617,
+          1445
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 기타 부서장이 지정하는 업무 등",
+      "confidence": 0.9714050434884571,
+      "bbox": [
+        [
+          617,
+          1460
+        ],
+        [
+          1017,
+          1460
+        ],
+        [
+          1017,
+          1484
+        ],
+        [
+          617,
+          1484
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 불법주정차 지도 및 단속",
+      "confidence": 0.9696855159366832,
+      "bbox": [
+        [
+          616,
+          1512
+        ],
+        [
+          931,
+          1512
+        ],
+        [
+          931,
+          1534
+        ],
+        [
+          616,
+          1534
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지방시간선택제",
+      "confidence": 0.9992077052593231,
+      "bbox": [
+        [
+          253,
+          1535
+        ],
+        [
+          386,
+          1535
+        ],
+        [
+          386,
+          1565
+        ],
+        [
+          253,
+          1565
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "교통지도",
+      "confidence": 0.9313377976417542,
+      "bbox": [
+        [
+          121,
+          1547
+        ],
+        [
+          252,
+          1547
+        ],
+        [
+          252,
+          1573
+        ],
+        [
+          121,
+          1573
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "서 북 구 • 주정차위반 과태료 부과",
+      "confidence": 0.9994974867864088,
+      "bbox": [
+        [
+          510,
+          1546
+        ],
+        [
+          919,
+          1546
+        ],
+        [
+          919,
+          1573
+        ],
+        [
+          510,
+          1573
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1명",
+      "confidence": 0.9944169521331787,
+      "bbox": [
+        [
+          404,
+          1565
+        ],
+        [
+          444,
+          1565
+        ],
+        [
+          444,
+          1591
+        ],
+        [
+          404,
+          1591
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2년",
+      "confidence": 0.9949590265750885,
+      "bbox": [
+        [
+          457,
+          1565
+        ],
+        [
+          500,
+          1565
+        ],
+        [
+          500,
+          1591
+        ],
+        [
+          457,
+          1591
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "임기제",
+      "confidence": 0.9989790618419647,
+      "bbox": [
+        [
+          294,
+          1567
+        ],
+        [
+          350,
+          1567
+        ],
+        [
+          350,
+          1591
+        ],
+        [
+          294,
+          1591
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "산업교통과 - 무단 방치차량 처리",
+      "confidence": 0.9884072571992875,
+      "bbox": [
+        [
+          511,
+          1582
+        ],
+        [
+          866,
+          1582
+        ],
+        [
+          866,
+          1608
+        ],
+        [
+          511,
+          1608
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "( 재 공 고 ) 마급(9급상당)",
+      "confidence": 0.6718010455369949,
+      "bbox": [
+        [
+          120,
+          1579
+        ],
+        [
+          396,
+          1579
+        ],
+        [
+          396,
+          1626
+        ],
+        [
+          120,
+          1626
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 기타 부서장이 지시하는 업무 등",
+      "confidence": 0.9684257748581114,
+      "bbox": [
+        [
+          617,
+          1618
+        ],
+        [
+          1017,
+          1618
+        ],
+        [
+          1017,
+          1646
+        ],
+        [
+          617,
+          1646
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

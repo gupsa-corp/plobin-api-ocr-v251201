@@ -1,0 +1,618 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "다. 기타 경력 (※ 해당하는 사람만 작성)",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 1,
+      "footer": 0,
+      "other": 31
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.961,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 29,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.685,
+      "english": 0.019,
+      "other": 0.296
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 32,
+    "total_characters": 355,
+    "analyzed_at": "2025-11-21T01:31:13.477151"
+  },
+  "block_summaries": [
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "다. 기타 경력 (※ 해당하는 사람만 작성)",
+      "keywords": [
+        "해당하는",
+        "사람만"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 24,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T01:31:13.476599"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "수상내용",
+      "keywords": [
+        "수상내용"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476617"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "대회(명)",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476630"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "수상년월일",
+      "keywords": [
+        "수상년월일"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476640"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "수여기관",
+      "keywords": [
+        "수여기관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476650"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "발표기관",
+      "keywords": [
+        "발표기관"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476659"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(논문)제목",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476670"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "주요내용",
+      "keywords": [
+        "주요내용"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476680"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "발표 연월일",
+      "keywords": [
+        "연월일"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:31:13.476690"
+    },
+    {
+      "content_type": "other",
+      "language": "mixed",
+      "text_preview": "__<br>(출판사)",
+      "keywords": [
+        "출판사"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476705"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "연구 🤈 용역",
+      "keywords": [],
+      "confidence_level": "low",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T01:31:13.476720"
+    },
+    {
+      "content_type": "other",
+      "language": "mixed",
+      "text_preview": "실<br>적",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476731"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "시험명",
+      "keywords": [
+        "시험명"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476741"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "등록번호",
+      "keywords": [
+        "등록번호"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476750"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "응시일자",
+      "keywords": [
+        "응시일자"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476758"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "점수",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476768"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "영문성명",
+      "keywords": [
+        "영문성명"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476777"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "어",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476786"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "학",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476794"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476802"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "위 가~다 항목에 해당하지 않는 실적 및 능력 및 우대...",
+      "keywords": [
+        "항목에",
+        "해당하지",
+        "우대사항"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 44,
+      "word_count": 14,
+      "analyzed_at": "2025-11-21T01:31:13.476828"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "타",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476837"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "※ 작성 시 학교명, 출생지, 부모직업 등 개인 신상을...",
+      "keywords": [
+        "학교명",
+        "출생지",
+        "부모직업",
+        "신상을",
+        "간접적으로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 10,
+      "analyzed_at": "2025-11-21T01:31:13.476857"
+    },
+    {
+      "content_type": "other",
+      "language": "mixed",
+      "text_preview": "실<br>적",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476868"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "파악할 수 있도록 작성할 경우 불이익(감점)을 받을 수...",
+      "keywords": [
+        "파악할",
+        "있도록",
+        "작성할",
+        "불이익"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 33,
+      "word_count": 9,
+      "analyzed_at": "2025-11-21T01:31:13.476888"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "※ 작성사항(항목) 중 해당사항이 없으면 “해당없음”기...",
+      "keywords": [
+        "작성사항",
+        "해당사항이",
+        "없으면",
+        "해당없음"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 31,
+      "word_count": 6,
+      "analyzed_at": "2025-11-21T01:31:13.476907"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "위에 기재한 사항은 사실과 다름이 없음을 확인합니다.",
+      "keywords": [
+        "기재한",
+        "사항은",
+        "사실과",
+        "다름이",
+        "없음을"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 29,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T01:31:13.476926"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2025 년 월",
+      "keywords": [
+        "2025"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T01:31:13.476938"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "일",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:13.476947"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "응시자 :",
+      "keywords": [
+        "응시자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:31:13.476957"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(서명 / 인)",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T01:31:13.476969"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "천안시인사위원회위원장 귀하",
+      "keywords": [
+        "천안시인사위원회위원장"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 14,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:31:13.476981"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": []
+}

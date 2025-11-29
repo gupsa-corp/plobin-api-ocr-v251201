@@ -1,0 +1,17 @@
+{
+  "block_id": 38,
+  "text": "• 비밀번호 변경",
+  "confidence": 0.9903154048052701,
+  "bbox": {
+    "x_min": 171,
+    "y_min": 1527,
+    "x_max": 328,
+    "y_max": 1553,
+    "width": 157,
+    "height": 26
+  },
+  "block_type": "text",
+  "text_length": 9,
+  "created_at": "2025-11-25T06:28:12.869090",
+  "version": "1.0"
+}

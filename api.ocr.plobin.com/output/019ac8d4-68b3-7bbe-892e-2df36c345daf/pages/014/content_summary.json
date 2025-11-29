@@ -1,0 +1,379 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "[서식3 자기소개서]. 자 기 소 개 서",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 1,
+      "header": 0,
+      "body": 0,
+      "table": 1,
+      "footer": 0,
+      "other": 16
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.992,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 18,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.644,
+      "english": 0.004,
+      "other": 0.352
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 18,
+    "total_characters": 287,
+    "analyzed_at": "2025-11-28T04:59:41.350595"
+  },
+  "block_summaries": [
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[서식3 자기소개서]",
+      "keywords": [
+        "서식3",
+        "자기소개서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T04:59:41.350201"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "자 기 소 개 서",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T04:59:41.350223"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "응시",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T04:59:41.350234"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "응시",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T04:59:41.350243"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "성명",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T04:59:41.350252"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "분야",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T04:59:41.350261"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "직급",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T04:59:41.350269"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "ㅇ 작성요령",
+      "keywords": [
+        "작성요령"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T04:59:41.350281"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "- 지원동기, 생활신조와 가치관, 응시분야 경력 및 직...",
+      "keywords": [
+        "지원동기",
+        "생활신조와",
+        "가치관",
+        "응시분야",
+        "직무성과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T04:59:41.350304"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "전문성 등이 나타나도록 작성",
+      "keywords": [
+        "전문성",
+        "나타나도록"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T04:59:41.350320"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "- A4용지 2매 이내, 아래한글(워드)로 작성",
+      "keywords": [
+        "a4용지",
+        "아래한글"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T04:59:41.350334"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 글씨크기 휴먼명조 13포인트, 줄 간격 160으로 ...",
+      "keywords": [
+        "글씨크기",
+        "휴먼명조",
+        "13포인트",
+        "160으로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T04:59:41.350353"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "※ 작성 시 학교명, 출생지, 부모직업 등 개인 신상을...",
+      "keywords": [
+        "학교명",
+        "출생지",
+        "부모직업",
+        "신상을",
+        "간접적으로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 41,
+      "word_count": 11,
+      "analyzed_at": "2025-11-28T04:59:41.350374"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "할 수 있도록 작성할 경우 불이익(감점)을 받을 수 있...",
+      "keywords": [
+        "있도록",
+        "작성할",
+        "불이익"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 31,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T04:59:41.350395"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "위에 기재한 사항은 사실과 틀림없음을 확인합니다.",
+      "keywords": [
+        "기재한",
+        "사항은",
+        "사실과",
+        "틀림없음을",
+        "확인합니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 27,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T04:59:41.350413"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "2025.",
+      "keywords": [
+        "2025"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T04:59:41.350427"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": ". . 작성자 :",
+      "keywords": [
+        "작성자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T04:59:41.350444"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(날인 및 서명)",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T04:59:41.350457"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": []
+}

@@ -1,0 +1,17 @@
+{
+  "block_id": 7,
+  "text": "안녕하세요! 오늘도 좋은 하루 되세요.",
+  "confidence": 0.9999230529951013,
+  "bbox": {
+    "x_min": 352,
+    "y_min": 569,
+    "x_max": 519,
+    "y_max": 582,
+    "width": 167,
+    "height": 13
+  },
+  "block_type": "text",
+  "text_length": 21,
+  "created_at": "2025-11-21T07:48:29.506448",
+  "version": "1.0"
+}

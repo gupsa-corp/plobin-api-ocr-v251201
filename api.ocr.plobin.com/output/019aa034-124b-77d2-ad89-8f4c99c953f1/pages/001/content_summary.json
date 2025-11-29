@@ -1,0 +1,1669 @@
+{
+  "page_summary": {
+    "document_type": "contract",
+    "main_content": "No clear content summary available",
+    "key_entities": {
+      "companies": [
+        "지원 회사",
+        "중견기업",
+        "문서 회사"
+      ],
+      "dates": [
+        "47-60-0203"
+      ],
+      "amounts": [
+        "₩29,000",
+        "₩0"
+      ],
+      "emails": [
+        "support@plobin.com"
+      ],
+      "phones": [
+        ""
+      ],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 6,
+      "header": 0,
+      "body": 0,
+      "table": 14,
+      "footer": 0,
+      "other": 67
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.943,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 72,
+      "low_confidence_blocks": 7
+    },
+    "language_distribution": {
+      "korean": 0.584,
+      "english": 0.099,
+      "other": 0.317
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 87,
+    "total_characters": 1140,
+    "analyzed_at": "2025-11-20T07:39:22.030662"
+  },
+  "block_summaries": [
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "로그인",
+      "keywords": [
+        "로그인"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029118"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "무료 시작",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.029137"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "홈",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029148"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "제품 🗸",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.029161"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "지원 🗸",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.029172"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "비즈니스 🗸",
+      "keywords": [
+        "비즈니스"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.029185"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "합리적인 요금으로 시작하세요",
+      "keywords": [
+        "합리적인",
+        "요금으로",
+        "시작하세요"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029201"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "규모에 상관없이 모든 팀이 플로빈을 활용할 수 있도록 ...",
+      "keywords": [
+        "규모에",
+        "상관없이",
+        "플로빈을",
+        "활용할",
+        "있도록"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 53,
+      "word_count": 13,
+      "analyzed_at": "2025-11-20T07:39:22.029226"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "제든지 플랜을 변경하거나 취소할 수 있습니다.",
+      "keywords": [
+        "제든지",
+        "플랜을",
+        "변경하거나",
+        "취소할",
+        "있습니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:22.029245"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "인기",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029255"
+    },
+    {
+      "content_type": "other",
+      "language": "english",
+      "text_preview": "<b>Professional</b>",
+      "keywords": [
+        "professional"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029274"
+    },
+    {
+      "content_type": "other",
+      "language": "english",
+      "text_preview": "<b>Enterprise</b>",
+      "keywords": [
+        "enterprise"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029288"
+    },
+    {
+      "content_type": "other",
+      "language": "english",
+      "text_preview": "Free",
+      "keywords": [
+        "free"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029298"
+    },
+    {
+      "content_type": "number",
+      "language": "korean",
+      "text_preview": "₩29,000 /월",
+      "keywords": [
+        "000"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": true,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.029312"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "맞춤 견적",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.029323"
+    },
+    {
+      "content_type": "number",
+      "language": "korean",
+      "text_preview": "₩0 /월",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": true,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.029333"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "성장하는 팀과 비즈니스를 위한 전문 플랜",
+      "keywords": [
+        "성장하는",
+        "비즈니스를"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:22.029351"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "대기업과 복잡한 요구사항을 위한 맞춤형 솔루",
+      "keywords": [
+        "대기업과",
+        "복잡한",
+        "요구사항을",
+        "맞춤형"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 24,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:22.029367"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "개인 사용자와 소규모 팀을 위한 무료 플랜",
+      "keywords": [
+        "사용자와",
+        "소규모"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 7,
+      "analyzed_at": "2025-11-20T07:39:22.029384"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "션",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029393"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "✓ 최대 20명 사용자",
+      "keywords": [
+        "20명",
+        "사용자"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:22.029404"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "✓ 최대 3명 사용자",
+      "keywords": [
+        "사용자"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:22.029415"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "✓ 무제한 사용자",
+      "keywords": [
+        "무제한",
+        "사용자"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029427"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "✓ 무제한 프로젝트",
+      "keywords": [
+        "무제한",
+        "프로젝트"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029438"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "✓ 1개 프로젝트",
+      "keywords": [
+        "프로젝트"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029451"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "✓ 무제한 프로젝트",
+      "keywords": [
+        "무제한",
+        "프로젝트"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029462"
+    },
+    {
+      "content_type": "title",
+      "language": "mixed",
+      "text_preview": "✓ 1GB 스토리지",
+      "keywords": [
+        "1gb",
+        "스토리지"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029471"
+    },
+    {
+      "content_type": "title",
+      "language": "mixed",
+      "text_preview": "✓ 100GB 스토리지",
+      "keywords": [
+        "100gb",
+        "스토리지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029482"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "✓ 무제한 스토리지",
+      "keywords": [
+        "무제한",
+        "스토리지"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029493"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "✓ 커뮤니티 지원",
+      "keywords": [
+        "커뮤니티"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029505"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "✓ 우선 이메일 지원",
+      "keywords": [
+        "이메일"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:22.029518"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "✓ 24/7 전담 지원",
+      "keywords": [],
+      "confidence_level": "low",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:22.029529"
+    },
+    {
+      "content_type": "title",
+      "language": "mixed",
+      "text_preview": "✓ SLA 보장",
+      "keywords": [
+        "sla"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029538"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "무료로 시작하기",
+      "keywords": [
+        "무료로",
+        "시작하기"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.029549"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "시작하기",
+      "keywords": [
+        "시작하기"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029558"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "문의하기",
+      "keywords": [
+        "문의하기"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029568"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "요금제 상세 비교",
+      "keywords": [
+        "요금제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029579"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "신뢰할 수 있는 파트너",
+      "keywords": [
+        "신뢰할",
+        "파트너"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:22.029592"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "플로빈은 고객님의 비즈니스 성장과 보안을 최우선으로 생...",
+      "keywords": [
+        "플로빈은",
+        "고객님의",
+        "비즈니스",
+        "성장과",
+        "보안을"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 7,
+      "analyzed_at": "2025-11-20T07:39:22.029611"
+    },
+    {
+      "content_type": "other",
+      "language": "other",
+      "text_preview": "•••",
+      "keywords": [],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029621"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "엔터프라이즈급 보안",
+      "keywords": [
+        "엔터프라이즈급"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.029632"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "99.9% 가동률 보장",
+      "keywords": [
+        "가동률"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029645"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "7일 환불 보장",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029655"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "24/7 전문 지원",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029666"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "SLA 계약을 통해 안정적인 서비스를 보장하",
+      "keywords": [
+        "sla",
+        "계약을",
+        "안정적인",
+        "서비스를",
+        "보장하"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 24,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:22.029678"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "한국어 지원팀이 언제든지 도움을 드립니다.",
+      "keywords": [
+        "한국어",
+        "지원팀이",
+        "언제든지",
+        "도움을",
+        "드립니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:22.029698"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "서비스가 만족스럽지 않으시다면 7일 이내 전",
+      "keywords": [
+        "서비스가",
+        "만족스럽지",
+        "않으시다면"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 24,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:22.029712"
+    },
+    {
+      "content_type": "table",
+      "language": "english",
+      "text_preview": "256-bit SSL 암호화, SOC 2 Type II...",
+      "keywords": [
+        "256",
+        "bit",
+        "ssl",
+        "암호화",
+        "soc"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:22.029732"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "GDPR 준수로 데이터를 안전하게 보호합니",
+      "keywords": [
+        "gdpr",
+        "준수로",
+        "데이터를",
+        "안전하게",
+        "보호합니"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:22.029744"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "며, 중단 시 크레딧을 제공합니다.",
+      "keywords": [
+        "크레딧을",
+        "제공합니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:22.029758"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "평균 응답 시간 1시간 이내.",
+      "keywords": [
+        "1시간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 16,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:22.029770"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "액 환불해 드립니다.",
+      "keywords": [
+        "환불해",
+        "드립니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029784"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "다.",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029793"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "🏰 중견기업 200+",
+      "keywords": [
+        "중견기업",
+        "200"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:22.029808"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "신뢰하는 기업들:",
+      "keywords": [
+        "신뢰하는",
+        "기업들"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.029820"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "때기업 50+",
+      "keywords": [
+        "때기업"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.029832"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "요금제 관련 자주 묻는 질문",
+      "keywords": [
+        "요금제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:22.029847"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "결제 방법은 무엇이 있나요?",
+      "keywords": [
+        "방법은",
+        "무엇이",
+        "있나요"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:22.029861"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "언제든지 플랜을 변경할 수 있나요?",
+      "keywords": [
+        "언제든지",
+        "플랜을",
+        "변경할",
+        "있나요"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:22.029877"
+    },
+    {
+      "content_type": "other",
+      "language": "english",
+      "text_preview": "<math>\\vee</math>",
+      "keywords": [
+        "math",
+        "vee"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029893"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "환불 정책은 어떻게 되나요?",
+      "keywords": [
+        "정책은",
+        "어떻게",
+        "되나요"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:22.029907"
+    },
+    {
+      "content_type": "title",
+      "language": "english",
+      "text_preview": "V",
+      "keywords": [],
+      "confidence_level": "low",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029914"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "지금 바로 플로빈을 시작해보세요",
+      "keywords": [
+        "플로빈을",
+        "시작해보세요"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:22.029926"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "무료로 시작하고 언제든지 업그레이드하세요.",
+      "keywords": [
+        "무료로",
+        "시작하고",
+        "언제든지",
+        "업그레이드하세요"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:22.029941"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "무료로 시작하기",
+      "keywords": [
+        "무료로",
+        "시작하기"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.029952"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "문의하기",
+      "keywords": [
+        "문의하기"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029962"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "플로빈",
+      "keywords": [
+        "플로빈"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029971"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "제품",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029980"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "지원",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029988"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "회사",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.029997"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "핵심 기능",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.030007"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "문서",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.030015"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "회사 소개",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.030025"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "(주)겁쟁이사자들 | 대표 : 김준",
+      "keywords": [
+        "겁쟁이사자들"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:22.030037"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "충청남도 천안시 서북구 천안천4길 32, 404, 40...",
+      "keywords": [
+        "충청남도",
+        "천안시",
+        "서북구",
+        "천안천4길",
+        "404"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 7,
+      "analyzed_at": "2025-11-20T07:39:22.030058"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "파트너",
+      "keywords": [
+        "파트너"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.030067"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "요금제",
+      "keywords": [
+        "요금제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.030076"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "고객 지원",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.030087"
+    },
+    {
+      "content_type": "date",
+      "language": "korean",
+      "text_preview": "사업자등록번호: 447-60-02031",
+      "keywords": [
+        "사업자등록번호",
+        "447",
+        "02031"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": true,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 21,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.030107"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "통신판매업신고번호: 2021-충남천안-0497",
+      "keywords": [
+        "통신판매업신고번호",
+        "2021",
+        "충남천안",
+        "0497"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.030128"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "데모 보기",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.030139"
+    },
+    {
+      "content_type": "phone",
+      "language": "korean",
+      "text_preview": "고객센터: 041-553-5472",
+      "keywords": [
+        "고객센터",
+        "041",
+        "553",
+        "5472"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": true,
+      "text_length": 18,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.030158"
+    },
+    {
+      "content_type": "table",
+      "language": "english",
+      "text_preview": "© 2025 플로빈. All rights reserve...",
+      "keywords": [
+        "2025",
+        "플로빈",
+        "all",
+        "rights",
+        "reserved"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:22.030176"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "이용약관",
+      "keywords": [
+        "이용약관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.030186"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "개인정보처리방침",
+      "keywords": [
+        "개인정보처리방침"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.030197"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "보안정책",
+      "keywords": [
+        "보안정책"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:22.030206"
+    },
+    {
+      "content_type": "email",
+      "language": "english",
+      "text_preview": "문의: support@plobin.com",
+      "keywords": [
+        "support",
+        "plobin",
+        "com"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": true,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:22.030222"
+    }
+  ],
+  "insights": [
+    "6개의 중요한 정보 블록이 식별되었습니다."
+  ],
+  "recommendations": [
+    "신뢰도가 낮은 블록들에 대해 수동 검토를 권장합니다.",
+    "계약서의 주요 조항들을 별도로 추출하여 관리하는 것을 권장합니다.",
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

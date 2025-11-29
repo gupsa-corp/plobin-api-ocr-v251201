@@ -1,0 +1,521 @@
+{
+  "page_number": 9,
+  "total_blocks": 19,
+  "average_confidence": 0.9893188600702545,
+  "processing_time": 1.3147027492523193,
+  "blocks": [
+    {
+      "text": "4. 경험 혹은 경력사항",
+      "confidence": 0.9992911418279012,
+      "bbox": [
+        [
+          126,
+          153
+        ],
+        [
+          391,
+          153
+        ],
+        [
+          391,
+          181
+        ],
+        [
+          126,
+          181
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "* 지원직무 관련 경험 혹은 경력사항을 기입해 주십시오.",
+      "confidence": 0.9849730170134342,
+      "bbox": [
+        [
+          128,
+          194
+        ],
+        [
+          733,
+          194
+        ],
+        [
+          733,
+          222
+        ],
+        [
+          128,
+          222
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "구분",
+      "confidence": 0.9976925849914551,
+      "bbox": [
+        [
+          192,
+          235
+        ],
+        [
+          248,
+          235
+        ],
+        [
+          248,
+          264
+        ],
+        [
+          192,
+          264
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "역할",
+      "confidence": 0.9994023442268372,
+      "bbox": [
+        [
+          563,
+          236
+        ],
+        [
+          616,
+          236
+        ],
+        [
+          616,
+          263
+        ],
+        [
+          563,
+          263
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "활동기간",
+      "confidence": 0.9997121572494507,
+      "bbox": [
+        [
+          716,
+          236
+        ],
+        [
+          816,
+          236
+        ],
+        [
+          816,
+          264
+        ],
+        [
+          716,
+          264
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "소속조직",
+      "confidence": 0.9981977939605713,
+      "bbox": [
+        [
+          361,
+          237
+        ],
+        [
+          461,
+          237
+        ],
+        [
+          461,
+          263
+        ],
+        [
+          361,
+          263
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "활동내용",
+      "confidence": 0.9996896624565125,
+      "bbox": [
+        [
+          942,
+          237
+        ],
+        [
+          1039,
+          237
+        ],
+        [
+          1039,
+          264
+        ],
+        [
+          942,
+          264
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "□ 경험 □ 경력",
+      "confidence": 0.9718873600165049,
+      "bbox": [
+        [
+          128,
+          283
+        ],
+        [
+          307,
+          283
+        ],
+        [
+          307,
+          309
+        ],
+        [
+          128,
+          309
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "□ 경험 □ 경력",
+      "confidence": 0.9769591887791952,
+      "bbox": [
+        [
+          129,
+          328
+        ],
+        [
+          308,
+          328
+        ],
+        [
+          308,
+          355
+        ],
+        [
+          129,
+          355
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "□ 경험 □ 경력",
+      "confidence": 0.9781071692705154,
+      "bbox": [
+        [
+          129,
+          373
+        ],
+        [
+          306,
+          373
+        ],
+        [
+          306,
+          399
+        ],
+        [
+          129,
+          399
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "□ 경험 □ 경력",
+      "confidence": 0.9718873451153437,
+      "bbox": [
+        [
+          128,
+          420
+        ],
+        [
+          307,
+          420
+        ],
+        [
+          307,
+          446
+        ],
+        [
+          128,
+          446
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "□ 경험 □ 경력",
+      "confidence": 0.9767981221278509,
+      "bbox": [
+        [
+          128,
+          465
+        ],
+        [
+          307,
+          465
+        ],
+        [
+          307,
+          492
+        ],
+        [
+          128,
+          492
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "□ 경험 □ 경력",
+      "confidence": 0.9808782438437144,
+      "bbox": [
+        [
+          129,
+          510
+        ],
+        [
+          307,
+          510
+        ],
+        [
+          307,
+          538
+        ],
+        [
+          129,
+          538
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "* 직무활동, 동아리/동호회, 팀 프로젝트, 연구회, 재능기부 등이 주요 직무경험을 서술하여 주십시오",
+      "confidence": 0.999320370369944,
+      "bbox": [
+        [
+          128,
+          551
+        ],
+        [
+          1084,
+          551
+        ],
+        [
+          1084,
+          579
+        ],
+        [
+          128,
+          579
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직무관련 주요내용",
+      "confidence": 0.999929276379672,
+      "bbox": [
+        [
+          519,
+          592
+        ],
+        [
+          721,
+          592
+        ],
+        [
+          721,
+          620
+        ],
+        [
+          519,
+          620
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "위 사항은 사실과 다름이 없음을 확인합니다",
+      "confidence": 0.9997727799415589,
+      "bbox": [
+        [
+          560,
+          1078
+        ],
+        [
+          1122,
+          1078
+        ],
+        [
+          1122,
+          1108
+        ],
+        [
+          560,
+          1108
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지원날짜: 2025.",
+      "confidence": 0.9957483731783353,
+      "bbox": [
+        [
+          559,
+          1132
+        ],
+        [
+          776,
+          1132
+        ],
+        [
+          776,
+          1162
+        ],
+        [
+          559,
+          1162
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지 원 자 :",
+      "confidence": 0.9729485909144083,
+      "bbox": [
+        [
+          563,
+          1174
+        ],
+        [
+          699,
+          1174
+        ],
+        [
+          699,
+          1202
+        ],
+        [
+          563,
+          1202
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(인)",
+      "confidence": 0.9938628196716308,
+      "bbox": [
+        [
+          1016,
+          1175
+        ],
+        [
+          1070,
+          1175
+        ],
+        [
+          1070,
+          1202
+        ],
+        [
+          1016,
+          1202
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

@@ -1,0 +1,1871 @@
+{
+  "page_number": 2,
+  "total_blocks": 69,
+  "average_confidence": 0.9737145359202212,
+  "processing_time": 1.9452972412109375,
+  "blocks": [
+    {
+      "text": "인센티브",
+      "confidence": 0.9980767369270325,
+      "bbox": [
+        [
+          879,
+          136
+        ],
+        [
+          977,
+          136
+        ],
+        [
+          977,
+          161
+        ],
+        [
+          879,
+          161
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "평가기관",
+      "confidence": 0.9987241148948669,
+      "bbox": [
+        [
+          1007,
+          136
+        ],
+        [
+          1106,
+          136
+        ],
+        [
+          1106,
+          160
+        ],
+        [
+          1007,
+          160
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "연번",
+      "confidence": 0.9930908878644308,
+      "bbox": [
+        [
+          113,
+          150
+        ],
+        [
+          163,
+          150
+        ],
+        [
+          163,
+          174
+        ],
+        [
+          113,
+          174
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사 업 명",
+      "confidence": 0.9946568267686027,
+      "bbox": [
+        [
+          377,
+          151
+        ],
+        [
+          496,
+          151
+        ],
+        [
+          496,
+          175
+        ],
+        [
+          377,
+          175
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "담당부서",
+      "confidence": 0.9995803236961365,
+      "bbox": [
+        [
+          742,
+          151
+        ],
+        [
+          837,
+          151
+        ],
+        [
+          837,
+          175
+        ],
+        [
+          742,
+          175
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(백만원)",
+      "confidence": 0.9792285646711077,
+      "bbox": [
+        [
+          881,
+          166
+        ],
+        [
+          974,
+          166
+        ],
+        [
+          974,
+          191
+        ],
+        [
+          881,
+          191
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(수여기관)",
+      "confidence": 0.9972405657172203,
+      "bbox": [
+        [
+          1001,
+          166
+        ],
+        [
+          1113,
+          166
+        ],
+        [
+          1113,
+          191
+        ],
+        [
+          1001,
+          191
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "TV홈쇼핑 입점지원",
+      "confidence": 0.9981834705059345,
+      "bbox": [
+        [
+          163,
+          247
+        ],
+        [
+          410,
+          247
+        ],
+        [
+          410,
+          273
+        ],
+        [
+          163,
+          273
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기업지원과",
+      "confidence": 0.9986973206202189,
+      "bbox": [
+        [
+          718,
+          247
+        ],
+        [
+          863,
+          247
+        ],
+        [
+          863,
+          273
+        ],
+        [
+          718,
+          273
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1 행정안전부",
+      "confidence": 0.9772075282202827,
+      "bbox": [
+        [
+          959,
+          247
+        ],
+        [
+          1126,
+          247
+        ],
+        [
+          1126,
+          273
+        ],
+        [
+          959,
+          273
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "10",
+      "confidence": 0.947575310866038,
+      "bbox": [
+        [
+          118,
+          253
+        ],
+        [
+          154,
+          253
+        ],
+        [
+          154,
+          275
+        ],
+        [
+          118,
+          275
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "한국평가",
+      "confidence": 0.9991089820861816,
+      "bbox": [
+        [
+          999,
+          341
+        ],
+        [
+          1114,
+          341
+        ],
+        [
+          1114,
+          369
+        ],
+        [
+          999,
+          369
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2022 지방정부 성과관리 수준평가 최우수",
+      "confidence": 0.9996527504920959,
+      "bbox": [
+        [
+          177,
+          354
+        ],
+        [
+          705,
+          354
+        ],
+        [
+          705,
+          384
+        ],
+        [
+          177,
+          384
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인사과",
+      "confidence": 0.9994354844093323,
+      "bbox": [
+        [
+          747,
+          356
+        ],
+        [
+          837,
+          356
+        ],
+        [
+          837,
+          382
+        ],
+        [
+          747,
+          382
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "11",
+      "confidence": 0.9661608537038168,
+      "bbox": [
+        [
+          120,
+          363
+        ],
+        [
+          155,
+          363
+        ],
+        [
+          155,
+          383
+        ],
+        [
+          120,
+          383
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "감사연구원",
+      "confidence": 0.9956541061401367,
+      "bbox": [
+        [
+          985,
+          372
+        ],
+        [
+          1124,
+          372
+        ],
+        [
+          1124,
+          398
+        ],
+        [
+          985,
+          398
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(사)청년과",
+      "confidence": 0.9978649392724037,
+      "bbox": [
+        [
+          989,
+          447
+        ],
+        [
+          1122,
+          447
+        ],
+        [
+          1122,
+          475
+        ],
+        [
+          989,
+          475
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "청년친화헌정대상 \"정책대상\"",
+      "confidence": 0.9987164315055398,
+      "bbox": [
+        [
+          163,
+          464
+        ],
+        [
+          536,
+          464
+        ],
+        [
+          536,
+          491
+        ],
+        [
+          163,
+          491
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "청년정책과",
+      "confidence": 0.9981486697991689,
+      "bbox": [
+        [
+          719,
+          465
+        ],
+        [
+          861,
+          465
+        ],
+        [
+          861,
+          491
+        ],
+        [
+          719,
+          491
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "12",
+      "confidence": 0.9444221059481303,
+      "bbox": [
+        [
+          118,
+          471
+        ],
+        [
+          156,
+          471
+        ],
+        [
+          156,
+          491
+        ],
+        [
+          118,
+          491
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "미래",
+      "confidence": 0.9962698022524515,
+      "bbox": [
+        [
+          1026,
+          484
+        ],
+        [
+          1083,
+          484
+        ],
+        [
+          1083,
+          511
+        ],
+        [
+          1026,
+          511
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2022 국민참여 수준진단 우수기관",
+      "confidence": 0.999623818056924,
+      "bbox": [
+        [
+          173,
+          573
+        ],
+        [
+          602,
+          573
+        ],
+        [
+          602,
+          599
+        ],
+        [
+          173,
+          599
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "행정안전부",
+      "confidence": 0.9996329148610433,
+      "bbox": [
+        [
+          984,
+          573
+        ],
+        [
+          1126,
+          573
+        ],
+        [
+          1126,
+          599
+        ],
+        [
+          984,
+          599
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "공동체정책과",
+      "confidence": 0.999565201146262,
+      "bbox": [
+        [
+          713,
+          574
+        ],
+        [
+          870,
+          574
+        ],
+        [
+          870,
+          599
+        ],
+        [
+          713,
+          599
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1",
+      "confidence": 0.9794599711894989,
+      "bbox": [
+        [
+          948,
+          576
+        ],
+        [
+          978,
+          576
+        ],
+        [
+          978,
+          596
+        ],
+        [
+          948,
+          596
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "13",
+      "confidence": 0.9441400369008383,
+      "bbox": [
+        [
+          119,
+          578
+        ],
+        [
+          155,
+          578
+        ],
+        [
+          155,
+          602
+        ],
+        [
+          119,
+          602
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제39회 지역정보화 연구과제 발표대회",
+      "confidence": 0.9998051632534374,
+      "bbox": [
+        [
+          168,
+          662
+        ],
+        [
+          643,
+          662
+        ],
+        [
+          643,
+          689
+        ],
+        [
+          168,
+          689
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "데이터정책관",
+      "confidence": 0.9996427553040641,
+      "bbox": [
+        [
+          713,
+          682
+        ],
+        [
+          869,
+          682
+        ],
+        [
+          869,
+          708
+        ],
+        [
+          713,
+          708
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 행정안전부",
+      "confidence": 0.9608171184857687,
+      "bbox": [
+        [
+          965,
+          682
+        ],
+        [
+          1126,
+          682
+        ],
+        [
+          1126,
+          708
+        ],
+        [
+          965,
+          708
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "14",
+      "confidence": 0.8671502868334452,
+      "bbox": [
+        [
+          119,
+          688
+        ],
+        [
+          157,
+          688
+        ],
+        [
+          157,
+          712
+        ],
+        [
+          119,
+          712
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 「출장여비 간편산출 서비스」대통령상(전국1위)",
+      "confidence": 0.9775488397170757,
+      "bbox": [
+        [
+          173,
+          702
+        ],
+        [
+          708,
+          702
+        ],
+        [
+          708,
+          731
+        ],
+        [
+          173,
+          731
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "체육진흥과",
+      "confidence": 0.999416579802831,
+      "bbox": [
+        [
+          717,
+          790
+        ],
+        [
+          865,
+          790
+        ],
+        [
+          865,
+          817
+        ],
+        [
+          717,
+          817
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2021 생활체육지도자배치사업 최우수",
+      "confidence": 0.9993354353037748,
+      "bbox": [
+        [
+          161,
+          791
+        ],
+        [
+          633,
+          791
+        ],
+        [
+          633,
+          817
+        ],
+        [
+          161,
+          817
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 문화체육관광부",
+      "confidence": 0.9747477011247114,
+      "bbox": [
+        [
+          965,
+          791
+        ],
+        [
+          1128,
+          791
+        ],
+        [
+          1128,
+          818
+        ],
+        [
+          965,
+          818
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "15",
+      "confidence": 0.925268292427063,
+      "bbox": [
+        [
+          118,
+          797
+        ],
+        [
+          155,
+          797
+        ],
+        [
+          155,
+          819
+        ],
+        [
+          118,
+          819
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2021 충남스포츠과학센터 사업운영 우수기관 체육진흥과",
+      "confidence": 0.9898652620613575,
+      "bbox": [
+        [
+          160,
+          900
+        ],
+        [
+          864,
+          900
+        ],
+        [
+          864,
+          927
+        ],
+        [
+          160,
+          927
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문화체육관광부",
+      "confidence": 0.989983968436718,
+      "bbox": [
+        [
+          980,
+          900
+        ],
+        [
+          1128,
+          900
+        ],
+        [
+          1128,
+          927
+        ],
+        [
+          980,
+          927
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "16",
+      "confidence": 0.9541143178939819,
+      "bbox": [
+        [
+          119,
+          907
+        ],
+        [
+          156,
+          907
+        ],
+        [
+          156,
+          927
+        ],
+        [
+          119,
+          927
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "대통령 소속",
+      "confidence": 0.9997819662094116,
+      "bbox": [
+        [
+          982,
+          971
+        ],
+        [
+          1130,
+          971
+        ],
+        [
+          1130,
+          997
+        ],
+        [
+          982,
+          997
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제3차 도서관발전종합계획 21년 정책평가 우수기관",
+      "confidence": 0.9982115934635031,
+      "bbox": [
+        [
+          168,
+          991
+        ],
+        [
+          710,
+          991
+        ],
+        [
+          710,
+          1017
+        ],
+        [
+          168,
+          1017
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "충남도서관",
+      "confidence": 0.9992641508579254,
+      "bbox": [
+        [
+          719,
+          1008
+        ],
+        [
+          864,
+          1008
+        ],
+        [
+          864,
+          1035
+        ],
+        [
+          719,
+          1035
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6 도서관정보",
+      "confidence": 0.9932853447066413,
+      "bbox": [
+        [
+          959,
+          1009
+        ],
+        [
+          1125,
+          1009
+        ],
+        [
+          1125,
+          1035
+        ],
+        [
+          959,
+          1035
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "17",
+      "confidence": 0.8925269444783529,
+      "bbox": [
+        [
+          118,
+          1014
+        ],
+        [
+          155,
+          1014
+        ],
+        [
+          155,
+          1039
+        ],
+        [
+          118,
+          1039
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(광역지자체 1위)",
+      "confidence": 0.9978672862052917,
+      "bbox": [
+        [
+          167,
+          1027
+        ],
+        [
+          379,
+          1027
+        ],
+        [
+          379,
+          1056
+        ],
+        [
+          167,
+          1056
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "정책위원회",
+      "confidence": 0.9984478652477264,
+      "bbox": [
+        [
+          987,
+          1046
+        ],
+        [
+          1123,
+          1046
+        ],
+        [
+          1123,
+          1073
+        ],
+        [
+          987,
+          1073
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제5회 2022년 국가브랜드 大賞",
+      "confidence": 0.9786337103162494,
+      "bbox": [
+        [
+          167,
+          1098
+        ],
+        [
+          550,
+          1098
+        ],
+        [
+          550,
+          1125
+        ],
+        [
+          167,
+          1125
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "식량원예과",
+      "confidence": 0.9996897975603739,
+      "bbox": [
+        [
+          720,
+          1115
+        ],
+        [
+          864,
+          1115
+        ],
+        [
+          864,
+          1144
+        ],
+        [
+          720,
+          1144
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "조선일보",
+      "confidence": 0.9983465433120727,
+      "bbox": [
+        [
+          995,
+          1117
+        ],
+        [
+          1114,
+          1117
+        ],
+        [
+          1114,
+          1143
+        ],
+        [
+          995,
+          1143
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "18",
+      "confidence": 0.936226487159729,
+      "bbox": [
+        [
+          119,
+          1122
+        ],
+        [
+          154,
+          1122
+        ],
+        [
+          154,
+          1146
+        ],
+        [
+          119,
+          1146
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 자치단체 우수시책 부문 ‘충남 농작업지원단’",
+      "confidence": 0.9976585847990853,
+      "bbox": [
+        [
+          175,
+          1135
+        ],
+        [
+          706,
+          1135
+        ],
+        [
+          706,
+          1162
+        ],
+        [
+          175,
+          1162
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "청풍명월 골드쌀",
+      "confidence": 0.9996873080730438,
+      "bbox": [
+        [
+          167,
+          1206
+        ],
+        [
+          376,
+          1206
+        ],
+        [
+          376,
+          1232
+        ],
+        [
+          167,
+          1232
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(사)한국브랜드",
+      "confidence": 0.9871216773986816,
+      "bbox": [
+        [
+          983,
+          1207
+        ],
+        [
+          1127,
+          1207
+        ],
+        [
+          1127,
+          1235
+        ],
+        [
+          983,
+          1235
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "식량원예과",
+      "confidence": 0.9995552003383636,
+      "bbox": [
+        [
+          719,
+          1226
+        ],
+        [
+          861,
+          1226
+        ],
+        [
+          861,
+          1252
+        ],
+        [
+          719,
+          1252
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "19",
+      "confidence": 0.941965639591217,
+      "bbox": [
+        [
+          119,
+          1231
+        ],
+        [
+          156,
+          1231
+        ],
+        [
+          156,
+          1255
+        ],
+        [
+          119,
+          1255
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2022 대한민국 소비자신뢰 브랜드 대상",
+      "confidence": 0.9993287970622381,
+      "bbox": [
+        [
+          165,
+          1243
+        ],
+        [
+          659,
+          1243
+        ],
+        [
+          659,
+          1270
+        ],
+        [
+          165,
+          1270
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경영협회",
+      "confidence": 0.9969866752624512,
+      "bbox": [
+        [
+          1003,
+          1245
+        ],
+        [
+          1107,
+          1245
+        ],
+        [
+          1107,
+          1272
+        ],
+        [
+          1003,
+          1272
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "친환경광역브랜드 「더이로운충남」",
+      "confidence": 0.9788605413938823,
+      "bbox": [
+        [
+          167,
+          1315
+        ],
+        [
+          590,
+          1315
+        ],
+        [
+          590,
+          1342
+        ],
+        [
+          167,
+          1342
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "식량원예과",
+      "confidence": 0.9996012151241302,
+      "bbox": [
+        [
+          719,
+          1334
+        ],
+        [
+          865,
+          1334
+        ],
+        [
+          865,
+          1360
+        ],
+        [
+          719,
+          1360
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(予iMBC",
+      "confidence": 0.5107702811559042,
+      "bbox": [
+        [
+          1004,
+          1335
+        ],
+        [
+          1109,
+          1335
+        ],
+        [
+          1109,
+          1361
+        ],
+        [
+          1004,
+          1361
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "20",
+      "confidence": 0.9470008214314779,
+      "bbox": [
+        [
+          119,
+          1341
+        ],
+        [
+          157,
+          1341
+        ],
+        [
+          157,
+          1365
+        ],
+        [
+          119,
+          1365
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2022 대한민국 대표브랜드 대상",
+      "confidence": 0.999004465341568,
+      "bbox": [
+        [
+          164,
+          1354
+        ],
+        [
+          564,
+          1354
+        ],
+        [
+          564,
+          1380
+        ],
+        [
+          164,
+          1380
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2022 대한민국 우리술 품평회(불소곡주) \"대상\" 농촌활력과",
+      "confidence": 0.9927109496461021,
+      "bbox": [
+        [
+          160,
+          1442
+        ],
+        [
+          865,
+          1442
+        ],
+        [
+          865,
+          1473
+        ],
+        [
+          160,
+          1473
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "5 농림축산식품부",
+      "confidence": 0.9147071025588296,
+      "bbox": [
+        [
+          961,
+          1444
+        ],
+        [
+          1127,
+          1444
+        ],
+        [
+          1127,
+          1471
+        ],
+        [
+          961,
+          1471
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "21",
+      "confidence": 0.9740929206212362,
+      "bbox": [
+        [
+          120,
+          1451
+        ],
+        [
+          155,
+          1451
+        ],
+        [
+          155,
+          1471
+        ],
+        [
+          120,
+          1471
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2022 산림녹지분야 정부합동평가 최우수기관 산림자원과",
+      "confidence": 0.9971106089651585,
+      "bbox": [
+        [
+          160,
+          1553
+        ],
+        [
+          864,
+          1553
+        ],
+        [
+          864,
+          1579
+        ],
+        [
+          160,
+          1579
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "산림청",
+      "confidence": 0.9995301067829132,
+      "bbox": [
+        [
+          1012,
+          1553
+        ],
+        [
+          1098,
+          1553
+        ],
+        [
+          1098,
+          1579
+        ],
+        [
+          1012,
+          1579
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "18",
+      "confidence": 0.9216339190800985,
+      "bbox": [
+        [
+          948,
+          1554
+        ],
+        [
+          982,
+          1554
+        ],
+        [
+          982,
+          1579
+        ],
+        [
+          948,
+          1579
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "22",
+      "confidence": 0.9544094800949097,
+      "bbox": [
+        [
+          120,
+          1559
+        ],
+        [
+          155,
+          1559
+        ],
+        [
+          155,
+          1581
+        ],
+        [
+          120,
+          1581
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 22 -",
+      "confidence": 0.9444715550967625,
+      "bbox": [
+        [
+          585,
+          1671
+        ],
+        [
+          654,
+          1671
+        ],
+        [
+          654,
+          1691
+        ],
+        [
+          585,
+          1691
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

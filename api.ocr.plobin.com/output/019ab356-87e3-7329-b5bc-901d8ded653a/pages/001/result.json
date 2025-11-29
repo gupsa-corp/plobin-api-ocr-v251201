@@ -1,0 +1,107 @@
+{
+  "page_number": 1,
+  "total_blocks": 3,
+  "average_confidence": 0.664328097165027,
+  "processing_time": 0.34958529472351074,
+  "blocks": [
+    {
+      "id": 0,
+      "text": "OGM Lattaire Dal Graffing",
+      "confidence": 0.8676947046209265,
+      "bbox": {
+        "x_min": 30,
+        "y_min": 21,
+        "x_max": 112,
+        "y_max": 33,
+        "width": 82,
+        "height": 12
+      },
+      "bbox_points": [
+        [
+          30,
+          21
+        ],
+        [
+          112,
+          21
+        ],
+        [
+          112,
+          33
+        ],
+        [
+          30,
+          33
+        ]
+      ],
+      "type": "text",
+      "area": 984
+    },
+    {
+      "id": 1,
+      "text": "520 P 52338",
+      "confidence": 0.6138859070264376,
+      "bbox": {
+        "x_min": 30,
+        "y_min": 69,
+        "x_max": 113,
+        "y_max": 79,
+        "width": 83,
+        "height": 10
+      },
+      "bbox_points": [
+        [
+          30,
+          69
+        ],
+        [
+          113,
+          69
+        ],
+        [
+          113,
+          79
+        ],
+        [
+          30,
+          79
+        ]
+      ],
+      "type": "text",
+      "area": 830
+    },
+    {
+      "id": 3,
+      "text": "21",
+      "confidence": 0.5114036798477173,
+      "bbox": {
+        "x_min": 50,
+        "y_min": 92,
+        "x_max": 63,
+        "y_max": 101,
+        "width": 13,
+        "height": 9
+      },
+      "bbox_points": [
+        [
+          50,
+          92
+        ],
+        [
+          63,
+          92
+        ],
+        [
+          63,
+          101
+        ],
+        [
+          50,
+          101
+        ]
+      ],
+      "type": "text",
+      "area": 117
+    }
+  ]
+}

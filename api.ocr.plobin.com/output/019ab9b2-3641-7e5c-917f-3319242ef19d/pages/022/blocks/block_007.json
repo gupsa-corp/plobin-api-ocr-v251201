@@ -1,0 +1,17 @@
+{
+  "block_id": 7,
+  "text": "一 권한 란니",
+  "confidence": 0.5983361184597016,
+  "bbox": {
+    "x_min": 236,
+    "y_min": 497,
+    "x_max": 367,
+    "y_max": 519,
+    "width": 131,
+    "height": 22
+  },
+  "block_type": "text",
+  "text_length": 7,
+  "created_at": "2025-11-25T06:28:15.272166",
+  "version": "1.0"
+}

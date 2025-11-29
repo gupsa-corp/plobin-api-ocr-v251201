@@ -1,0 +1,17 @@
+{
+  "block_id": 48,
+  "text": "• 역할 (프로젝트 소유자 등)",
+  "confidence": 0.9886384418136195,
+  "bbox": {
+    "x_min": 172,
+    "y_min": 1442,
+    "x_max": 435,
+    "y_max": 1467,
+    "width": 263,
+    "height": 25
+  },
+  "block_type": "text",
+  "text_length": 17,
+  "created_at": "2025-11-25T06:27:59.248868",
+  "version": "1.0"
+}

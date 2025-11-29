@@ -1,0 +1,17 @@
+{
+  "block_id": 11,
+  "text": "프로젝트 관리 organization-member project-owner project-admin",
+  "confidence": 0.9880741635958354,
+  "bbox": {
+    "x_min": 194,
+    "y_min": 569,
+    "x_max": 960,
+    "y_max": 593,
+    "width": 766,
+    "height": 24
+  },
+  "block_type": "text",
+  "text_length": 55,
+  "created_at": "2025-11-21T08:21:23.146130",
+  "version": "1.0"
+}

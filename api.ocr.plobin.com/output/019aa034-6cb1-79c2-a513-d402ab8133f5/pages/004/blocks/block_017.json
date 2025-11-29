@@ -1,0 +1,27 @@
+{
+  "block_id": 17,
+  "text": "- 채용 사이트 바로가기 : https://recruit.incruit.com/cfac/",
+  "confidence": 0.9964439204105964,
+  "bbox": [
+    [
+      158,
+      792
+    ],
+    [
+      921,
+      792
+    ],
+    [
+      921,
+      821
+    ],
+    [
+      158,
+      821
+    ]
+  ],
+  "block_type": "text",
+  "text_length": 49,
+  "created_at": "2025-11-20T07:39:50.560611",
+  "version": "1.0"
+}

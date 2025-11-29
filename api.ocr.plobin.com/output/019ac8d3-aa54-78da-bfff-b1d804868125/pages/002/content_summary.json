@@ -1,0 +1,877 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "응시자격 요건. 가. 공통요건. ○ 거 주 지 : 제한없음",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 23,
+      "footer": 0,
+      "other": 17
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.994,
+      "readability": "high",
+      "completeness": "complete",
+      "high_confidence_blocks": 40,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.684,
+      "english": 0.0,
+      "other": 0.316
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 40,
+    "total_characters": 1251,
+    "analyzed_at": "2025-11-28T04:58:30.723941"
+  },
+  "block_summaries": [
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "응시자격 요건",
+      "keywords": [
+        "응시자격"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T04:58:30.722880"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "3",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T04:58:30.722899"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "가. 공통요건",
+      "keywords": [
+        "공통요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T04:58:30.722913"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 거 주 지 : 제한없음",
+      "keywords": [
+        "제한없음"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 14,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T04:58:30.722929"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 성별 : 제한없음(단, 남자의 경우 병역을 필하였거...",
+      "keywords": [
+        "제한없음",
+        "남자의",
+        "병역을",
+        "필하였거나",
+        "면제된"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T04:58:30.722955"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "○ 결격사유: 「지방공무원법」제31조(결격사유)에 해당...",
+      "keywords": [
+        "결격사유",
+        "지방공무원법",
+        "제31조",
+        "해당되지",
+        "아니하고"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 42,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T04:58:30.722976"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "공무원임용령」 제65조 및 「부패방지 및 국민권익위원회...",
+      "keywords": [
+        "공무원임용령",
+        "제65조",
+        "부패방지",
+        "국민권익위원회의",
+        "설치와"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 41,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T04:58:30.722995"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "한 법률」 제82조 등 기타 다른법령에 의하여 응시자격...",
+      "keywords": [
+        "제82조",
+        "다른법령에",
+        "의하여",
+        "응시자격이",
+        "정지되지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T04:58:30.723013"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "한 자",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T04:58:30.723024"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "「지방공무원법」 제31조(결격사유)",
+      "keywords": [
+        "지방공무원법",
+        "제31조",
+        "결격사유"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T04:58:30.723041"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "다음 각 호의 어느 하나에 해당하는 사람은 공무원이 될...",
+      "keywords": [
+        "하나에",
+        "해당하는",
+        "사람은",
+        "공무원이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 11,
+      "analyzed_at": "2025-11-28T04:58:30.723062"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1. 피성년후견인",
+      "keywords": [
+        "피성년후견인"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T04:58:30.723076"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 파산선고를 받고 복권되지 아니한 사람",
+      "keywords": [
+        "파산선고를",
+        "복권되지",
+        "아니한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T04:58:30.723089"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3. 금고 이상의 실형을 선고받고 그 집행이 끝나거나(...",
+      "keywords": [
+        "집행이",
+        "이상의",
+        "실형을",
+        "선고받고",
+        "끝나거나"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 46,
+      "word_count": 12,
+      "analyzed_at": "2025-11-28T04:58:30.723109"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "를 포함한다) 집행이 면제된 날부터 5년이 지나지 아니...",
+      "keywords": [
+        "포함한다",
+        "집행이",
+        "면제된",
+        "날부터",
+        "5년이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T04:58:30.723126"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "4. 금고 이상의 형의 집행유예를 선고받고 그 집행유예...",
+      "keywords": [
+        "이상의",
+        "집행유예를",
+        "선고받고",
+        "집행유예기간이",
+        "날부터"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 44,
+      "word_count": 11,
+      "analyzed_at": "2025-11-28T04:58:30.723145"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "지나지 아니한 사람",
+      "keywords": [
+        "지나지",
+        "아니한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T04:58:30.723158"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "5. 금고 이상의 형의 선고유예를 선고받고 그 선고유예...",
+      "keywords": [
+        "이상의",
+        "선고유예를",
+        "선고받고",
+        "선고유예기간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 41,
+      "word_count": 11,
+      "analyzed_at": "2025-11-28T04:58:30.723174"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "6. 법원의 판결 또는 다른 법률에 따라 자격이 상실되...",
+      "keywords": [
+        "법원의",
+        "법률에",
+        "자격이",
+        "상실되거나",
+        "정지된"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 11,
+      "analyzed_at": "2025-11-28T04:58:30.723191"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "6의2. 공무원으로 재직기간 중 직무와 관련하여 「형법...",
+      "keywords": [
+        "6의2",
+        "공무원으로",
+        "재직기간",
+        "직무와",
+        "관련하여"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 49,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T04:58:30.723212"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "죄를 범한 사람으로서 300만원 이상의 벌금형을 선고받...",
+      "keywords": [
+        "사람으로서",
+        "300만원",
+        "이상의",
+        "벌금형을",
+        "선고받고"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 42,
+      "word_count": 11,
+      "analyzed_at": "2025-11-28T04:58:30.723231"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2년이 지나지 아니한 사람",
+      "keywords": [
+        "2년이",
+        "지나지",
+        "아니한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 14,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T04:58:30.723242"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "6의3. 다음 각 목의 어느 하나에 해당하는 죄를 범한...",
+      "keywords": [
+        "6의3",
+        "하나에",
+        "해당하는",
+        "사람으로서",
+        "100만원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 46,
+      "word_count": 12,
+      "analyzed_at": "2025-11-28T04:58:30.723261"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "벌금형을 선고받고 그 형이 확정된 후 3년이 지나지 아...",
+      "keywords": [
+        "벌금형을",
+        "선고받고",
+        "확정된",
+        "3년이",
+        "지나지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T04:58:30.723278"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "가. 「성폭력범죄의 처벌 등에 관한 특례법」 제2조에 ...",
+      "keywords": [
+        "성폭력범죄의",
+        "특례법",
+        "제2조에",
+        "성폭력범죄"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T04:58:30.723295"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "나. 「정보통신망 이용촉진 및 정보보호 등에 관한 법률...",
+      "keywords": [
+        "정보통신망",
+        "이용촉진",
+        "정보보호",
+        "제74조제1항제2호"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 42,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T04:58:30.723312"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "및 제3호에 규정된 죄",
+      "keywords": [
+        "제3호에",
+        "규정된"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T04:58:30.723323"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "다. 「스토킹범죄의 처벌 등에 관한 법률」 제2조제2호...",
+      "keywords": [
+        "스토킹범죄의",
+        "제2조제2호에",
+        "스토킹범죄"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 40,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T04:58:30.723340"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "6의4. 미성년자에 대하여 「성폭력범죄의 처벌 등에 관...",
+      "keywords": [
+        "6의4",
+        "미성년자에",
+        "대하여",
+        "성폭력범죄의",
+        "특례법"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 44,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T04:58:30.723357"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "성폭력범죄 또는 「아동・청소년의 성보호에 관한 법률」 ...",
+      "keywords": [
+        "성폭력범죄",
+        "청소년의",
+        "성보호에",
+        "제2조제2호에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 40,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T04:58:30.723373"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "아동 • 청소년대상 성범죄를 범한 사람으로서 다음 각 ...",
+      "keywords": [
+        "청소년대상",
+        "성범죄를",
+        "사람으로서",
+        "하나에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 42,
+      "word_count": 12,
+      "analyzed_at": "2025-11-28T04:58:30.723392"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "하는 날부터 20년이 지나지 아니한 사람",
+      "keywords": [
+        "날부터",
+        "20년이",
+        "지나지",
+        "아니한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T04:58:30.723406"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "가. 금고 이상의 실형을 선고받고 그 집행이 끝나거나(...",
+      "keywords": [
+        "집행이",
+        "이상의",
+        "실형을",
+        "선고받고",
+        "끝나거나"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 43,
+      "word_count": 11,
+      "analyzed_at": "2025-11-28T04:58:30.723425"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "경우를 포함한다) 집행이 면제된 날",
+      "keywords": [
+        "경우를",
+        "포함한다",
+        "집행이",
+        "면제된"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T04:58:30.723445"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "나. 금고 이상의 형의 집행유예를 선고받고 그 집행유예...",
+      "keywords": [
+        "이상의",
+        "집행유예를",
+        "선고받고",
+        "집행유예가",
+        "확정된"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T04:58:30.723466"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "다. 벌금 이하의 형을 선고받고 그 형이 확정된 날",
+      "keywords": [
+        "이하의",
+        "선고받고",
+        "확정된"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 28,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T04:58:30.723484"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "라. 치료감호를 선고받고 그 집행이 끝나거나 집행이 면...",
+      "keywords": [
+        "집행이",
+        "치료감호를",
+        "선고받고",
+        "끝나거나",
+        "면제된"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T04:58:30.723503"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "마. 징계로 파면처분 또는 해임처분을 받은 날",
+      "keywords": [
+        "징계로",
+        "파면처분",
+        "해임처분을"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T04:58:30.723518"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "7. 징계로 파면처분을 받은 날부터 5년이 지나지 아니...",
+      "keywords": [
+        "징계로",
+        "파면처분을",
+        "날부터",
+        "5년이",
+        "지나지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T04:58:30.723534"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "8. 징계로 해임처분을 받은 날부터 3년이 지나지 아니...",
+      "keywords": [
+        "징계로",
+        "해임처분을",
+        "날부터",
+        "3년이",
+        "지나지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T04:58:30.723549"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

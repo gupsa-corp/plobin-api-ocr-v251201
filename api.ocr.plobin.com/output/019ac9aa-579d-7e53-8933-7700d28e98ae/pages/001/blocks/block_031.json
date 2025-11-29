@@ -1,0 +1,17 @@
+{
+  "block_id": 31,
+  "text": "아웃바운드 CLOUDV 물리적 상품(베어메탈, 맞춤 서버, GPU 서버 등) 2,400GB/월 50GB/월 70원/GB 40원/100M",
+  "confidence": 0.9922536655593917,
+  "bbox": {
+    "x_min": 222,
+    "y_min": 864,
+    "x_max": 971,
+    "y_max": 880,
+    "width": 749,
+    "height": 16
+  },
+  "block_type": "text",
+  "text_length": 75,
+  "created_at": "2025-11-28T08:52:58.351511",
+  "version": "1.0"
+}

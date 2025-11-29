@@ -1,0 +1,764 @@
+{
+  "page_number": 21,
+  "total_blocks": 28,
+  "average_confidence": 0.9955622434532578,
+  "processing_time": 1.6681222915649414,
+  "blocks": [
+    {
+      "text": "[서식6 채용서류 반환청구서]",
+      "confidence": 0.998536659611596,
+      "bbox": [
+        [
+          116,
+          87
+        ],
+        [
+          453,
+          87
+        ],
+        [
+          453,
+          113
+        ],
+        [
+          116,
+          113
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 채용절차의 공정화에 관한 법률 시행규칙[별지 제3호서식]",
+      "confidence": 0.9911474370294147,
+      "bbox": [
+        [
+          126,
+          135
+        ],
+        [
+          584,
+          135
+        ],
+        [
+          584,
+          153
+        ],
+        [
+          126,
+          153
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용서류 반환청구서",
+      "confidence": 0.9959679245948792,
+      "bbox": [
+        [
+          460,
+          223
+        ],
+        [
+          780,
+          223
+        ],
+        [
+          780,
+          258
+        ],
+        [
+          460,
+          258
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "접수번호",
+      "confidence": 0.9891436696052551,
+      "bbox": [
+        [
+          126,
+          289
+        ],
+        [
+          200,
+          289
+        ],
+        [
+          200,
+          309
+        ],
+        [
+          126,
+          309
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "접수일자",
+      "confidence": 0.9996308445930481,
+      "bbox": [
+        [
+          696,
+          290
+        ],
+        [
+          772,
+          290
+        ],
+        [
+          772,
+          312
+        ],
+        [
+          696,
+          312
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "청구인",
+      "confidence": 0.9985402971506119,
+      "bbox": [
+        [
+          125,
+          349
+        ],
+        [
+          193,
+          349
+        ],
+        [
+          193,
+          374
+        ],
+        [
+          125,
+          374
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성명",
+      "confidence": 0.9984554251035055,
+      "bbox": [
+        [
+          301,
+          350
+        ],
+        [
+          346,
+          350
+        ],
+        [
+          346,
+          374
+        ],
+        [
+          301,
+          374
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "수험번호",
+      "confidence": 0.9951083421707153,
+      "bbox": [
+        [
+          696,
+          350
+        ],
+        [
+          785,
+          350
+        ],
+        [
+          785,
+          374
+        ],
+        [
+          696,
+          374
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주 소",
+      "confidence": 0.9968089580535888,
+      "bbox": [
+        [
+          124,
+          430
+        ],
+        [
+          183,
+          430
+        ],
+        [
+          183,
+          450
+        ],
+        [
+          124,
+          450
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "반환장소",
+      "confidence": 0.9990091681480407,
+      "bbox": [
+        [
+          125,
+          509
+        ],
+        [
+          214,
+          509
+        ],
+        [
+          214,
+          531
+        ],
+        [
+          125,
+          531
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(주소와 다른 경<br>우 기재)",
+      "confidence": 0.9631338748666975,
+      "bbox": [
+        [
+          125,
+          534
+        ],
+        [
+          285,
+          534
+        ],
+        [
+          285,
+          582
+        ],
+        [
+          125,
+          582
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "반환청구서류",
+      "confidence": 0.9955483419554574,
+      "bbox": [
+        [
+          125,
+          651
+        ],
+        [
+          256,
+          651
+        ],
+        [
+          256,
+          675
+        ],
+        [
+          125,
+          675
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "「채용절차의 공정화에 관한 법률」제11조 및 같은 법 시행령 제2조 및 제4조에 따라 위와 같이 채",
+      "confidence": 0.9999023644547713,
+      "bbox": [
+        [
+          137,
+          869
+        ],
+        [
+          1117,
+          869
+        ],
+        [
+          1117,
+          894
+        ],
+        [
+          137,
+          894
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "용서류의 반환을 청구합니다.",
+      "confidence": 0.9999326081836925,
+      "bbox": [
+        [
+          136,
+          903
+        ],
+        [
+          418,
+          903
+        ],
+        [
+          418,
+          928
+        ],
+        [
+          136,
+          928
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "월",
+      "confidence": 0.9919242560863495,
+      "bbox": [
+        [
+          1023,
+          970
+        ],
+        [
+          1071,
+          970
+        ],
+        [
+          1071,
+          992
+        ],
+        [
+          1023,
+          992
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "일",
+      "confidence": 0.9977269172668457,
+      "bbox": [
+        [
+          1070,
+          969
+        ],
+        [
+          1116,
+          969
+        ],
+        [
+          1116,
+          993
+        ],
+        [
+          1070,
+          993
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "년",
+      "confidence": 0.9983360171318054,
+      "bbox": [
+        [
+          986,
+          971
+        ],
+        [
+          1018,
+          971
+        ],
+        [
+          1018,
+          993
+        ],
+        [
+          986,
+          993
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "청구인",
+      "confidence": 0.9979637414216995,
+      "bbox": [
+        [
+          607,
+          1054
+        ],
+        [
+          679,
+          1054
+        ],
+        [
+          679,
+          1079
+        ],
+        [
+          607,
+          1079
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(서명 또는 인)",
+      "confidence": 0.9990036704323508,
+      "bbox": [
+        [
+          958,
+          1054
+        ],
+        [
+          1116,
+          1054
+        ],
+        [
+          1116,
+          1081
+        ],
+        [
+          958,
+          1081
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시인사위원회 위원장 귀하",
+      "confidence": 0.9996971452937407,
+      "bbox": [
+        [
+          126,
+          1102
+        ],
+        [
+          510,
+          1102
+        ],
+        [
+          510,
+          1130
+        ],
+        [
+          126,
+          1130
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "공지사항",
+      "confidence": 0.9984373092651367,
+      "bbox": [
+        [
+          592,
+          1169
+        ],
+        [
+          679,
+          1169
+        ],
+        [
+          679,
+          1193
+        ],
+        [
+          592,
+          1193
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1.「채용절차의 공정화에 관한 법률 시행령」 제2조제1항에 따라 신청인이 채용서류의 반환을 요청하면 해당 사업장은 14일",
+      "confidence": 0.9944111765294835,
+      "bbox": [
+        [
+          125,
+          1246
+        ],
+        [
+          1117,
+          1246
+        ],
+        [
+          1117,
+          1266
+        ],
+        [
+          125,
+          1266
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "이내에 반환요구서류를 발송하도록 하고 있습니다.",
+      "confidence": 0.999860052551542,
+      "bbox": [
+        [
+          152,
+          1273
+        ],
+        [
+          550,
+          1273
+        ],
+        [
+          550,
+          1293
+        ],
+        [
+          152,
+          1293
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2.「채용절차의 공정화에 관한 법률 시행령」 제2조제2항에 따라 반환요구서류는 특수취급우편물을 통해서 전달받거나, 사업장",
+      "confidence": 0.993539980356244,
+      "bbox": [
+        [
+          125,
+          1308
+        ],
+        [
+          1117,
+          1308
+        ],
+        [
+          1117,
+          1328
+        ],
+        [
+          125,
+          1328
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "으로부터 직접 전달받을 수 있습니다.",
+      "confidence": 0.9999368326230482,
+      "bbox": [
+        [
+          153,
+          1333
+        ],
+        [
+          449,
+          1333
+        ],
+        [
+          449,
+          1353
+        ],
+        [
+          153,
+          1353
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3.「채용절차의 공정화에 관한 법률」 제11조제5항 및 같은 법 시행령 제5조제2항에 따라 채용서류의 반환에 드는 비용을 청",
+      "confidence": 0.9969529652259719,
+      "bbox": [
+        [
+          125,
+          1369
+        ],
+        [
+          1114,
+          1369
+        ],
+        [
+          1114,
+          1389
+        ],
+        [
+          125,
+          1389
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "구인이 부담할 수 있습니다.",
+      "confidence": 0.9990533309824327,
+      "bbox": [
+        [
+          155,
+          1397
+        ],
+        [
+          375,
+          1397
+        ],
+        [
+          375,
+          1415
+        ],
+        [
+          155,
+          1415
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "210mm×297mm[일반용지 60g/m²(재활용품)]",
+      "confidence": 0.9880335060032931,
+      "bbox": [
+        [
+          803,
+          1499
+        ],
+        [
+          1117,
+          1499
+        ],
+        [
+          1117,
+          1519
+        ],
+        [
+          803,
+          1519
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

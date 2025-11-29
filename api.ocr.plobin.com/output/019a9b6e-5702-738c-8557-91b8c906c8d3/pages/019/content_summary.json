@@ -1,0 +1,284 @@
+{
+  "page_summary": {
+    "document_type": "report",
+    "main_content": "[서식4 직무수행계획서]. 직 무 수 행 계 획 서. ○ 채용예정분야 :",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 2,
+      "header": 0,
+      "body": 0,
+      "table": 0,
+      "footer": 0,
+      "other": 10
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.986,
+      "readability": "high",
+      "completeness": "complete",
+      "high_confidence_blocks": 12,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.659,
+      "english": 0.007,
+      "other": 0.334
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 12,
+    "total_characters": 298,
+    "analyzed_at": "2025-11-19T09:25:30.339551"
+  },
+  "block_summaries": [
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[서식4 직무수행계획서]",
+      "keywords": [
+        "서식4",
+        "직무수행계획서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:30.339212"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "직 무 수 행 계 획 서",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:30.339238"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 채용예정분야 :",
+      "keywords": [
+        "채용예정분야"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-19T09:25:30.339252"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 작성요령",
+      "keywords": [
+        "작성요령"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:30.339265"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "- 특별한 양식없이 응시자가 자유롭게 기술하되, 응시하...",
+      "keywords": [
+        "특별한",
+        "양식없이",
+        "응시자가",
+        "자유롭게",
+        "기술하되"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 42,
+      "word_count": 9,
+      "analyzed_at": "2025-11-19T09:25:30.339289"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "참고하여 어떻게 업무를 수행할 것인지",
+      "keywords": [
+        "참고하여",
+        "어떻게",
+        "업무를",
+        "수행할",
+        "것인지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 20,
+      "word_count": 5,
+      "analyzed_at": "2025-11-19T09:25:30.339307"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "서론(정책·사업의 동향 및 전망 포함), 정책(사업)의...",
+      "keywords": [
+        "사업의",
+        "추진전략"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 40,
+      "word_count": 8,
+      "analyzed_at": "2025-11-19T09:25:30.339330"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "수단, 방법, 추진일정 등이 포함되도록 작성함.",
+      "keywords": [
+        "추진일정",
+        "포함되도록",
+        "작성함"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:30.339350"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "- 작성순서는 겉표지(작성자 성명기재), 목차, 요약서...",
+      "keywords": [
+        "작성순서는",
+        "겉표지",
+        "작성자",
+        "성명기재",
+        "요약서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 40,
+      "word_count": 9,
+      "analyzed_at": "2025-11-19T09:25:30.339371"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "- 분량은 A4용지 5매 내외(요약서 A4 1매 별도 ...",
+      "keywords": [
+        "분량은",
+        "a4용지",
+        "요약서",
+        "아래한글"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 44,
+      "word_count": 11,
+      "analyzed_at": "2025-11-19T09:25:30.339392"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "드프로세서)를 사용하여 작성",
+      "keywords": [
+        "드프로세서",
+        "사용하여"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 3,
+      "analyzed_at": "2025-11-19T09:25:30.339406"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "※ 보고서 매장마다 쪽 번호 부여",
+      "keywords": [
+        "보고서",
+        "매장마다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:30.339417"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": []
+}

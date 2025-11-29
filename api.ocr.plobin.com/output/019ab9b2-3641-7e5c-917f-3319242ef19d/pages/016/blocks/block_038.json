@@ -1,0 +1,17 @@
+{
+  "block_id": 38,
+  "text": "• 샌드박스 선택 버튼:",
+  "confidence": 0.9874325474103292,
+  "bbox": {
+    "x_min": 172,
+    "y_min": 1353,
+    "x_max": 382,
+    "y_max": 1377,
+    "width": 210,
+    "height": 24
+  },
+  "block_type": "text",
+  "text_length": 13,
+  "created_at": "2025-11-25T06:28:04.089854",
+  "version": "1.0"
+}

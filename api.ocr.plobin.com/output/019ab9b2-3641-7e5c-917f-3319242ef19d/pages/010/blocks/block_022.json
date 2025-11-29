@@ -1,0 +1,17 @@
+{
+  "block_id": 22,
+  "text": "멤버 정보 테이블:",
+  "confidence": 0.9961316287517548,
+  "bbox": {
+    "x_min": 145,
+    "y_min": 1184,
+    "x_max": 308,
+    "y_max": 1211,
+    "width": 163,
+    "height": 27
+  },
+  "block_type": "text",
+  "text_length": 10,
+  "created_at": "2025-11-25T06:27:51.483696",
+  "version": "1.0"
+}

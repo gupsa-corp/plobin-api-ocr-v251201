@@ -1,0 +1,1302 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "No clear content summary available",
+    "key_entities": {
+      "companies": [
+        "입점지원 기업"
+      ],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 1,
+      "header": 0,
+      "body": 0,
+      "table": 13,
+      "footer": 0,
+      "other": 55
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.974,
+      "readability": "low",
+      "completeness": "complete",
+      "high_confidence_blocks": 66,
+      "low_confidence_blocks": 1
+    },
+    "language_distribution": {
+      "korean": 0.696,
+      "english": 0.01,
+      "other": 0.293
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 69,
+    "total_characters": 661,
+    "analyzed_at": "2025-11-28T05:12:00.816504"
+  },
+  "block_summaries": [
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "인센티브",
+      "keywords": [
+        "인센티브"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815442"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "평가기관",
+      "keywords": [
+        "평가기관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815459"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "연번",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815470"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "사 업 명",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:12:00.815482"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "담당부서",
+      "keywords": [
+        "담당부서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815492"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(백만원)",
+      "keywords": [
+        "백만원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815502"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(수여기관)",
+      "keywords": [
+        "수여기관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815514"
+    },
+    {
+      "content_type": "title",
+      "language": "mixed",
+      "text_preview": "TV홈쇼핑 입점지원",
+      "keywords": [
+        "tv홈쇼핑",
+        "입점지원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:12:00.815526"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기업지원과",
+      "keywords": [
+        "기업지원과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815536"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1 행정안전부",
+      "keywords": [
+        "행정안전부"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:12:00.815549"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "10",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815562"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "한국평가",
+      "keywords": [
+        "한국평가"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815572"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2022 지방정부 성과관리 수준평가 최우수",
+      "keywords": [
+        "2022",
+        "지방정부",
+        "성과관리",
+        "수준평가",
+        "최우수"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T05:12:00.815590"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "인사과",
+      "keywords": [
+        "인사과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815600"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "11",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815609"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "감사연구원",
+      "keywords": [
+        "감사연구원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815619"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(사)청년과",
+      "keywords": [
+        "청년과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815630"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "청년친화헌정대상 \"정책대상\"",
+      "keywords": [
+        "청년친화헌정대상",
+        "정책대상"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:12:00.815644"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "청년정책과",
+      "keywords": [
+        "청년정책과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815654"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "12",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815662"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "미래",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815671"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2022 국민참여 수준진단 우수기관",
+      "keywords": [
+        "2022",
+        "국민참여",
+        "수준진단",
+        "우수기관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:12:00.815686"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "행정안전부",
+      "keywords": [
+        "행정안전부"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815696"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "공동체정책과",
+      "keywords": [
+        "공동체정책과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815705"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "1",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815714"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "13",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815722"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "제39회 지역정보화 연구과제 발표대회",
+      "keywords": [
+        "제39회",
+        "지역정보화",
+        "연구과제",
+        "발표대회"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 20,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:12:00.815735"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "데이터정책관",
+      "keywords": [
+        "데이터정책관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815746"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "- 행정안전부",
+      "keywords": [
+        "행정안전부"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:12:00.815757"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "14",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815765"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 「출장여비 간편산출 서비스」대통령상(전국1위)",
+      "keywords": [
+        "출장여비",
+        "간편산출",
+        "서비스",
+        "대통령상",
+        "전국1위"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 27,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:12:00.815780"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "체육진흥과",
+      "keywords": [
+        "체육진흥과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815790"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2021 생활체육지도자배치사업 최우수",
+      "keywords": [
+        "2021",
+        "생활체육지도자배치사업",
+        "최우수"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 20,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:12:00.815805"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "- 문화체육관광부",
+      "keywords": [
+        "문화체육관광부"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:12:00.815817"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "15",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815826"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2021 충남스포츠과학센터 사업운영 우수기관 체육진흥과",
+      "keywords": [
+        "2021",
+        "충남스포츠과학센터",
+        "사업운영",
+        "우수기관",
+        "체육진흥과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 30,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T05:12:00.815842"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "문화체육관광부",
+      "keywords": [
+        "문화체육관광부"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815852"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "16",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815860"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "대통령 소속",
+      "keywords": [
+        "대통령"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:12:00.815870"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "제3차 도서관발전종합계획 21년 정책평가 우수기관",
+      "keywords": [
+        "제3차",
+        "도서관발전종합계획",
+        "21년",
+        "정책평가",
+        "우수기관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 27,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T05:12:00.815885"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "충남도서관",
+      "keywords": [
+        "충남도서관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815894"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "6 도서관정보",
+      "keywords": [
+        "도서관정보"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:12:00.815905"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "17",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815913"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(광역지자체 1위)",
+      "keywords": [
+        "광역지자체"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:12:00.815926"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "정책위원회",
+      "keywords": [
+        "정책위원회"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815935"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "제5회 2022년 국가브랜드 大賞",
+      "keywords": [
+        "제5회",
+        "2022년",
+        "국가브랜드"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:12:00.815950"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "식량원예과",
+      "keywords": [
+        "식량원예과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815959"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "조선일보",
+      "keywords": [
+        "조선일보"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815968"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "18",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.815976"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "- 자치단체 우수시책 부문 ‘충남 농작업지원단’",
+      "keywords": [
+        "자치단체",
+        "우수시책",
+        "농작업지원단"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T05:12:00.815992"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "청풍명월 골드쌀",
+      "keywords": [
+        "청풍명월",
+        "골드쌀"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:12:00.816003"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(사)한국브랜드",
+      "keywords": [
+        "한국브랜드"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.816014"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "식량원예과",
+      "keywords": [
+        "식량원예과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.816023"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "19",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.816031"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2022 대한민국 소비자신뢰 브랜드 대상",
+      "keywords": [
+        "2022",
+        "대한민국",
+        "소비자신뢰",
+        "브랜드"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T05:12:00.816045"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "경영협회",
+      "keywords": [
+        "경영협회"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.816055"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "친환경광역브랜드 「더이로운충남」",
+      "keywords": [
+        "친환경광역브랜드",
+        "더이로운충남"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:12:00.816067"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "식량원예과",
+      "keywords": [
+        "식량원예과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.816077"
+    },
+    {
+      "content_type": "other",
+      "language": "english",
+      "text_preview": "(予iMBC",
+      "keywords": [
+        "予imbc"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.816087"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "20",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.816095"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2022 대한민국 대표브랜드 대상",
+      "keywords": [
+        "2022",
+        "대한민국",
+        "대표브랜드"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:12:00.816108"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2022 대한민국 우리술 품평회(불소곡주) \"대상\" 농...",
+      "keywords": [
+        "2022",
+        "대한민국",
+        "우리술",
+        "품평회",
+        "불소곡주"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T05:12:00.816126"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "5 농림축산식품부",
+      "keywords": [
+        "농림축산식품부"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:12:00.816138"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "21",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.816146"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2022 산림녹지분야 정부합동평가 최우수기관 산림자원과",
+      "keywords": [
+        "2022",
+        "산림녹지분야",
+        "정부합동평가",
+        "최우수기관",
+        "산림자원과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 30,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T05:12:00.816162"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "산림청",
+      "keywords": [
+        "산림청"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.816172"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "18",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.816180"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "22",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:12:00.816187"
+    },
+    {
+      "content_type": "table",
+      "language": "other",
+      "text_preview": "- 22 -",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:12:00.816197"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

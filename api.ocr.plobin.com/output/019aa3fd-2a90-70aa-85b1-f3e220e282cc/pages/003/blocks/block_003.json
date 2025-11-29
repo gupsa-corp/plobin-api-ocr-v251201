@@ -1,0 +1,27 @@
+{
+  "block_id": 3,
+  "text": "- 이메일 recruit@cfac.or.kr",
+  "confidence": 0.9077258529486479,
+  "bbox": [
+    [
+      151,
+      215
+    ],
+    [
+      484,
+      215
+    ],
+    [
+      484,
+      239
+    ],
+    [
+      151,
+      239
+    ]
+  ],
+  "block_type": "text",
+  "text_length": 24,
+  "created_at": "2025-11-21T01:17:54.994134",
+  "version": "1.0"
+}

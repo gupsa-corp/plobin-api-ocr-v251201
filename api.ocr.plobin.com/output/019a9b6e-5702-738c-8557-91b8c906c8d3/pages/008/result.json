@@ -1,0 +1,926 @@
+{
+  "page_number": 8,
+  "total_blocks": 34,
+  "average_confidence": 0.9916148175148317,
+  "processing_time": 1.7923219203948975,
+  "blocks": [
+    {
+      "text": "⑦ 국민건강보험 자격득실 확인서(원본) 1부",
+      "confidence": 0.9932210560028369,
+      "bbox": [
+        [
+          130,
+          87
+        ],
+        [
+          721,
+          87
+        ],
+        [
+          721,
+          114
+        ],
+        [
+          130,
+          114
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 국민건강보험공단(www.nhic.or.kr) 홈페이지에서 출력 또는 공단 방문 발급",
+      "confidence": 0.9896352945589552,
+      "bbox": [
+        [
+          172,
+          138
+        ],
+        [
+          1119,
+          138
+        ],
+        [
+          1119,
+          165
+        ],
+        [
+          172,
+          165
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 경력증명서 또는 재직증명서를 검토할 수 있도록 “보험가입 전체기간” 발급",
+      "confidence": 0.9952812357382341,
+      "bbox": [
+        [
+          174,
+          188
+        ],
+        [
+          1124,
+          188
+        ],
+        [
+          1124,
+          215
+        ],
+        [
+          174,
+          215
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 건강보험자격득실이 불명확할 경우 사업자등록증 사본 등 보충서류를 첨부",
+      "confidence": 0.9958907436756861,
+      "bbox": [
+        [
+          173,
+          240
+        ],
+        [
+          1117,
+          240
+        ],
+        [
+          1117,
+          268
+        ],
+        [
+          173,
+          268
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑧ 자격증 및 면허증 사본 1부(원본지참)",
+      "confidence": 0.9791114521026612,
+      "bbox": [
+        [
+          130,
+          289
+        ],
+        [
+          678,
+          289
+        ],
+        [
+          678,
+          315
+        ],
+        [
+          130,
+          315
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑨ 자격요건 검증을 위한 동의서(별지 서식5) 1부",
+      "confidence": 0.9834061205387116,
+      "bbox": [
+        [
+          130,
+          337
+        ],
+        [
+          794,
+          337
+        ],
+        [
+          794,
+          364
+        ],
+        [
+          130,
+          364
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑩ 기타 응시자격 적합여부를 증빙할 수 있는 서류 1부(해당자)",
+      "confidence": 0.9690130203962326,
+      "bbox": [
+        [
+          130,
+          386
+        ],
+        [
+          985,
+          386
+        ],
+        [
+          985,
+          412
+        ],
+        [
+          130,
+          412
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑪ 취업지원대상자 증명서(해당자)",
+      "confidence": 0.9508252498649415,
+      "bbox": [
+        [
+          130,
+          434
+        ],
+        [
+          592,
+          434
+        ],
+        [
+          592,
+          460
+        ],
+        [
+          130,
+          460
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "유의사항",
+      "confidence": 0.9912429451942444,
+      "bbox": [
+        [
+          572,
+          498
+        ],
+        [
+          674,
+          498
+        ],
+        [
+          674,
+          522
+        ],
+        [
+          572,
+          522
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 제출서류는 발급확인을 할 수 있도록 공고일 전 6개월 이내에 발행분만 인정하고,",
+      "confidence": 0.990451203925269,
+      "bbox": [
+        [
+          132,
+          554
+        ],
+        [
+          1080,
+          554
+        ],
+        [
+          1080,
+          579
+        ],
+        [
+          132,
+          579
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "외국어로 된 서류는 한글 번역문과 함께 제출하되 응시자격과 직접 관련된 증명서 등은",
+      "confidence": 0.9999382967750231,
+      "bbox": [
+        [
+          164,
+          590
+        ],
+        [
+          1116,
+          590
+        ],
+        [
+          1116,
+          614
+        ],
+        [
+          164,
+          614
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "공증을 필하여야 하며, 제출서류 중 미비 또는 불확실한 경우 불인정합니다.",
+      "confidence": 0.9952903791915538,
+      "bbox": [
+        [
+          162,
+          628
+        ],
+        [
+          1020,
+          628
+        ],
+        [
+          1020,
+          652
+        ],
+        [
+          162,
+          652
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 증빙자료가 없는 학력과 경력 등은 인정하지 아니하며, 필요시 추가서류 제출을",
+      "confidence": 0.9827873739931319,
+      "bbox": [
+        [
+          132,
+          666
+        ],
+        [
+          1116,
+          666
+        ],
+        [
+          1116,
+          692
+        ],
+        [
+          132,
+          692
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "요구할 수 있습니다.",
+      "confidence": 0.9996521381231455,
+      "bbox": [
+        [
+          163,
+          703
+        ],
+        [
+          393,
+          703
+        ],
+        [
+          393,
+          725
+        ],
+        [
+          163,
+          725
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 상기 제출서류는 위 순서대로 정리한 후 클립(또는 집게)로 고정하여 제출",
+      "confidence": 0.9986932115121321,
+      "bbox": [
+        [
+          131,
+          738
+        ],
+        [
+          1000,
+          738
+        ],
+        [
+          1000,
+          762
+        ],
+        [
+          131,
+          762
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(스테이플러 사용 금지)",
+      "confidence": 0.9947516878445943,
+      "bbox": [
+        [
+          161,
+          773
+        ],
+        [
+          431,
+          773
+        ],
+        [
+          431,
+          797
+        ],
+        [
+          161,
+          797
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기타 유의사항",
+      "confidence": 0.9980527692370944,
+      "bbox": [
+        [
+          204,
+          888
+        ],
+        [
+          450,
+          888
+        ],
+        [
+          450,
+          922
+        ],
+        [
+          204,
+          922
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "9",
+      "confidence": 0.9137860238552094,
+      "bbox": [
+        [
+          132,
+          892
+        ],
+        [
+          160,
+          892
+        ],
+        [
+          160,
+          920
+        ],
+        [
+          132,
+          920
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 1인이 1개 채용분야 및 등급에만 지원할 수 있습니다.",
+      "confidence": 0.9985258494104657,
+      "bbox": [
+        [
+          130,
+          960
+        ],
+        [
+          907,
+          960
+        ],
+        [
+          907,
+          988
+        ],
+        [
+          130,
+          988
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 응시희망자는 자격요건 등이 적합한지를 철저히 검토한 후 응시하시기",
+      "confidence": 0.9998255866329845,
+      "bbox": [
+        [
+          130,
+          1008
+        ],
+        [
+          1121,
+          1008
+        ],
+        [
+          1121,
+          1035
+        ],
+        [
+          130,
+          1035
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "바랍니다.",
+      "confidence": 0.9991497652871268,
+      "bbox": [
+        [
+          184,
+          1050
+        ],
+        [
+          314,
+          1050
+        ],
+        [
+          314,
+          1074
+        ],
+        [
+          184,
+          1074
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다. 응시원서 및 이력서에 기재된 사항은 증빙자료를 첨부하여야 인정합니다.",
+      "confidence": 0.9993521280066912,
+      "bbox": [
+        [
+          130,
+          1095
+        ],
+        [
+          1110,
+          1095
+        ],
+        [
+          1110,
+          1122
+        ],
+        [
+          130,
+          1122
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "라. 제출된 서류는 최종합격자 발표일 이후 15일간 응시자의 청구가 있을 경우",
+      "confidence": 0.9996049073007371,
+      "bbox": [
+        [
+          131,
+          1142
+        ],
+        [
+          1123,
+          1142
+        ],
+        [
+          1123,
+          1171
+        ],
+        [
+          131,
+          1171
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용절차법에 따라 반환되며, 반환되지 않은 서류는 최종합격자 발표",
+      "confidence": 0.9999468499108365,
+      "bbox": [
+        [
+          184,
+          1183
+        ],
+        [
+          1124,
+          1183
+        ],
+        [
+          1124,
+          1212
+        ],
+        [
+          184,
+          1212
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "일로부터 180일 보관 후 파기합니다. 또한 제출서류에 허위사실이 있을",
+      "confidence": 0.9994861774328279,
+      "bbox": [
+        [
+          187,
+          1224
+        ],
+        [
+          1125,
+          1224
+        ],
+        [
+          1125,
+          1251
+        ],
+        [
+          187,
+          1251
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "때에는 합격결정 후에도 합격을 취소할 수 있습니다.",
+      "confidence": 0.9999340772628784,
+      "bbox": [
+        [
+          184,
+          1266
+        ],
+        [
+          897,
+          1266
+        ],
+        [
+          897,
+          1293
+        ],
+        [
+          184,
+          1293
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "마. 응시원서에 e-mail주소와 휴대전화번호를 반드시 기재하고 응시원서상의",
+      "confidence": 0.9995255337821113,
+      "bbox": [
+        [
+          131,
+          1311
+        ],
+        [
+          1122,
+          1311
+        ],
+        [
+          1122,
+          1338
+        ],
+        [
+          131,
+          1338
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기재착오 및 누락이나 연락 불능으로 인하여 발생하는 일체의 불이익은",
+      "confidence": 0.9999093260520544,
+      "bbox": [
+        [
+          184,
+          1353
+        ],
+        [
+          1125,
+          1353
+        ],
+        [
+          1125,
+          1379
+        ],
+        [
+          184,
+          1379
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시자의 책임입니다.",
+      "confidence": 0.9995842071679922,
+      "bbox": [
+        [
+          184,
+          1394
+        ],
+        [
+          476,
+          1394
+        ],
+        [
+          476,
+          1420
+        ],
+        [
+          184,
+          1420
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "바. 서류전형 및 면접시험 결과 적격자가 없을 경우 선발하지 않을 수 있으며,",
+      "confidence": 0.999848218758901,
+      "bbox": [
+        [
+          130,
+          1439
+        ],
+        [
+          1125,
+          1439
+        ],
+        [
+          1125,
+          1468
+        ],
+        [
+          130,
+          1468
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "합격자 통지 후라도 신원조사 및 채용신체검사 등을 통하여 부적합한",
+      "confidence": 0.9999276791748247,
+      "bbox": [
+        [
+          186,
+          1483
+        ],
+        [
+          1126,
+          1483
+        ],
+        [
+          1126,
+          1509
+        ],
+        [
+          186,
+          1509
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "결격 사유가 있을 경우 합격이 취소 될 수 있습니다.",
+      "confidence": 0.999932462169278,
+      "bbox": [
+        [
+          185,
+          1521
+        ],
+        [
+          899,
+          1521
+        ],
+        [
+          899,
+          1551
+        ],
+        [
+          185,
+          1551
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사. 응시원서 접수결과 응시자가 선발예정 인원과 같거나 응시자가 없을",
+      "confidence": 0.9998362079262734,
+      "bbox": [
+        [
+          131,
+          1570
+        ],
+        [
+          1125,
+          1570
+        ],
+        [
+          1125,
+          1596
+        ],
+        [
+          131,
+          1596
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경우에는 1회 이상 재공고 후 시험을 실시할 예정입니다.",
+      "confidence": 0.9994846166986407,
+      "bbox": [
+        [
+          184,
+          1610
+        ],
+        [
+          956,
+          1610
+        ],
+        [
+          956,
+          1637
+        ],
+        [
+          184,
+          1637
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

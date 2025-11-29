@@ -1,0 +1,896 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "직 무 기 술 서. 근무예정부서. 임용예정직급",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 5,
+      "footer": 0,
+      "other": 40
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.976,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 43,
+      "low_confidence_blocks": 1
+    },
+    "language_distribution": {
+      "korean": 0.692,
+      "english": 0.003,
+      "other": 0.305
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 45,
+    "total_characters": 762,
+    "analyzed_at": "2025-11-21T01:31:06.214262"
+  },
+  "block_summaries": [
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "직 무 기 술 서",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 5,
+      "analyzed_at": "2025-11-21T01:31:06.213371"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "근무예정부서",
+      "keywords": [
+        "근무예정부서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213389"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "채용 분야",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:31:06.213400"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "임용예정직급",
+      "keywords": [
+        "임용예정직급"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213411"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "선발예정인원",
+      "keywords": [
+        "선발예정인원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213421"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "담헌달빛관 운영",
+      "keywords": [
+        "담헌달빛관"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:31:06.213433"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "천안박물관",
+      "keywords": [
+        "천안박물관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213448"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "시간선택제임기제",
+      "keywords": [
+        "시간선택제임기제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213459"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1명",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213470"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "(학예연구사)",
+      "keywords": [
+        "학예연구사"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213480"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "과학관운영팀",
+      "keywords": [
+        "과학관운영팀"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213490"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "다급(7급상당)",
+      "keywords": [
+        "7급상당"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213503"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 담헌달빛관 관리 운영",
+      "keywords": [
+        "담헌달빛관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T01:31:06.213517"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "○ 담헌달빛관 체험 및 강연 프로그램 등 기획 및 운영",
+      "keywords": [
+        "담헌달빛관",
+        "프로그램"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 30,
+      "word_count": 10,
+      "analyzed_at": "2025-11-21T01:31:06.213535"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "주요 업무",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:31:06.213546"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "○ 담헌달빛관 홍보 마케팅 및 시설관리 등",
+      "keywords": [
+        "담헌달빛관",
+        "마케팅",
+        "시설관리"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T01:31:06.213560"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 기타 부서장이 지정하는 업무 등",
+      "keywords": [
+        "부서장이",
+        "지정하는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 6,
+      "analyzed_at": "2025-11-21T01:31:06.213576"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ (공통 역량) 윤리의식, 공직의식, 고객지향마인드",
+      "keywords": [
+        "윤리의식",
+        "공직의식",
+        "고객지향마인드"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 29,
+      "word_count": 6,
+      "analyzed_at": "2025-11-21T01:31:06.213595"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "필요 역량",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:31:06.213605"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "○ (직급별 역량) 긍정적, 문제 해결력, 관계 구축력...",
+      "keywords": [
+        "직급별",
+        "긍정적",
+        "해결력",
+        "구축력",
+        "의사소통"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 45,
+      "word_count": 11,
+      "analyzed_at": "2025-11-21T01:31:06.213627"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ (직렬별 역량) 고고학 및 역사학, 미술사학, 박물...",
+      "keywords": [
+        "직렬별",
+        "고고학",
+        "역사학",
+        "미술사학",
+        "박물관학"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 10,
+      "analyzed_at": "2025-11-21T01:31:06.213649"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "필요 지식",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:31:06.213659"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 박물관·미술관 관련 지식",
+      "keywords": [
+        "박물관",
+        "미술관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T01:31:06.213673"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "아래의 필수자격을 충족하고 경력요건 중 한 가지 이상을",
+      "keywords": [
+        "아래의",
+        "필수자격을",
+        "충족하고",
+        "경력요건",
+        "이상을"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 30,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T01:31:06.213693"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "충족하는 자",
+      "keywords": [
+        "충족하는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:31:06.213703"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[필<b>수자격</b>] 박물관·미술관 정학예사 자격증...",
+      "keywords": [
+        "수자격",
+        "박물관",
+        "미술관",
+        "정학예사",
+        "자격증"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 5,
+      "analyzed_at": "2025-11-21T01:31:06.213724"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[경력요건]",
+      "keywords": [
+        "경력요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213735"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 학사학위를 취득한 후 1년 이상 관련분야의 실무경...",
+      "keywords": [
+        "학사학위를",
+        "취득한",
+        "관련분야의",
+        "실무경력이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 10,
+      "analyzed_at": "2025-11-21T01:31:06.213752"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 3년 이상 관련분야의 실무경력이 있는 자",
+      "keywords": [
+        "관련분야의",
+        "실무경력이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T01:31:06.213767"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3. 8급 또는 8급 상당 이상의 공무원으로서 2년 이...",
+      "keywords": [
+        "이상의",
+        "공무원으로서",
+        "관련분야의"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 10,
+      "analyzed_at": "2025-11-21T01:31:06.213783"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "실무경력이 있는 자",
+      "keywords": [
+        "실무경력이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T01:31:06.213795"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[관련학과 및 관련분야 실무경력]",
+      "keywords": [
+        "관련학과",
+        "관련분야",
+        "실무경력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T01:31:06.213810"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "응시자격요건",
+      "keywords": [
+        "응시자격요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213820"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1. 관련학과",
+      "keywords": [
+        "관련학과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:31:06.213832"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "-고고학, 민속학, 미술사학, 역사학, 박물관학,",
+      "keywords": [
+        "고고학",
+        "민속학",
+        "미술사학",
+        "역사학",
+        "박물관학"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 27,
+      "word_count": 5,
+      "analyzed_at": "2025-11-21T01:31:06.213850"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "문화재보존학 등",
+      "keywords": [
+        "문화재보존학"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:31:06.213862"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 관련분야 실무경력",
+      "keywords": [
+        "관련분야",
+        "실무경력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T01:31:06.213872"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "- 국립·공립·사립·대학(박물관 및 미술관 진흥법에 따...",
+      "keywords": [
+        "박물관",
+        "미술관",
+        "진흥법에",
+        "등록된"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T01:31:06.213893"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "박물관에 한함) 박물관 학예업무(전시·교육·유물관리 등...",
+      "keywords": [
+        "박물관에",
+        "박물관",
+        "학예업무",
+        "유물관리"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 6,
+      "analyzed_at": "2025-11-21T01:31:06.213909"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "경력",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213918"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[기타요건]",
+      "keywords": [
+        "기타요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213928"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "휴관일(월요일)에 따른 주말 및 공휴일 근무가 가능한 ...",
+      "keywords": [
+        "휴관일",
+        "월요일",
+        "공휴일",
+        "근무가",
+        "가능한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 31,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T01:31:06.213948"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "※근무일: 화요일 ~ 금요일 및 주말(토, 일) 중 1...",
+      "keywords": [
+        "근무일",
+        "화요일",
+        "금요일",
+        "공휴일"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 10,
+      "analyzed_at": "2025-11-21T01:31:06.213965"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "우대요건",
+      "keywords": [
+        "우대요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213975"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "해당없음",
+      "keywords": [
+        "해당없음"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:31:06.213983"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "block_id": 11,
+  "text": "날씨 강수 바람 습도",
+  "confidence": 0.9810363799333572,
+  "bbox": {
+    "x_min": 24,
+    "y_min": 459,
+    "x_max": 206,
+    "y_max": 474,
+    "width": 182,
+    "height": 15
+  },
+  "block_type": "text",
+  "text_length": 11,
+  "created_at": "2025-11-25T06:27:34.098998",
+  "version": "1.0"
+}

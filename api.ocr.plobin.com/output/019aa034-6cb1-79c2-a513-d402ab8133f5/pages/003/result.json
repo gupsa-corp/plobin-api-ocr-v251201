@@ -1,0 +1,1655 @@
+{
+  "page_number": 3,
+  "total_blocks": 61,
+  "average_confidence": 0.9835114449028046,
+  "processing_time": 2.0732572078704834,
+  "blocks": [
+    {
+      "text": "○ 세부 응시자격 및 우대사항",
+      "confidence": 0.9782817614705939,
+      "bbox": [
+        [
+          160,
+          111
+        ],
+        [
+          572,
+          111
+        ],
+        [
+          572,
+          139
+        ],
+        [
+          160,
+          139
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용분야",
+      "confidence": 0.9992309212684631,
+      "bbox": [
+        [
+          237,
+          183
+        ],
+        [
+          352,
+          183
+        ],
+        [
+          352,
+          210
+        ],
+        [
+          237,
+          210
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직급",
+      "confidence": 0.9975337386131287,
+      "bbox": [
+        [
+          145,
+          184
+        ],
+        [
+          205,
+          184
+        ],
+        [
+          205,
+          210
+        ],
+        [
+          145,
+          210
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "세부 자격요건",
+      "confidence": 0.9994105365541246,
+      "bbox": [
+        [
+          646,
+          183
+        ],
+        [
+          825,
+          183
+        ],
+        [
+          825,
+          211
+        ],
+        [
+          646,
+          211
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "남",
+      "confidence": 0.9937936365604401,
+      "bbox": [
+        [
+          251,
+          240
+        ],
+        [
+          300,
+          240
+        ],
+        [
+          300,
+          266
+        ],
+        [
+          251,
+          266
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "산",
+      "confidence": 0.9977520406246185,
+      "bbox": [
+        [
+          299,
+          241
+        ],
+        [
+          339,
+          241
+        ],
+        [
+          339,
+          267
+        ],
+        [
+          299,
+          267
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필수",
+      "confidence": 0.997854749361674,
+      "bbox": [
+        [
+          377,
+          245
+        ],
+        [
+          435,
+          245
+        ],
+        [
+          435,
+          271
+        ],
+        [
+          377,
+          271
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 취업지원 대상자(보훈처·보훈지청 발급증명서 제출)",
+      "confidence": 0.9809602625442274,
+      "bbox": [
+        [
+          459,
+          264
+        ],
+        [
+          1108,
+          264
+        ],
+        [
+          1108,
+          290
+        ],
+        [
+          459,
+          290
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문",
+      "confidence": 0.9921181499958038,
+      "bbox": [
+        [
+          252,
+          276
+        ],
+        [
+          286,
+          276
+        ],
+        [
+          286,
+          302
+        ],
+        [
+          252,
+          302
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "화",
+      "confidence": 0.9951599538326263,
+      "bbox": [
+        [
+          303,
+          278
+        ],
+        [
+          338,
+          278
+        ],
+        [
+          338,
+          303
+        ],
+        [
+          303,
+          303
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사항",
+      "confidence": 0.998611847559611,
+      "bbox": [
+        [
+          375,
+          282
+        ],
+        [
+          435,
+          282
+        ],
+        [
+          435,
+          308
+        ],
+        [
+          375,
+          308
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "창작소",
+      "confidence": 0.9989683926105499,
+      "bbox": [
+        [
+          251,
+          315
+        ],
+        [
+          337,
+          315
+        ],
+        [
+          337,
+          340
+        ],
+        [
+          251,
+          340
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "우대",
+      "confidence": 0.9955759247144064,
+      "bbox": [
+        [
+          376,
+          348
+        ],
+        [
+          435,
+          348
+        ],
+        [
+          435,
+          374
+        ],
+        [
+          376,
+          374
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기 획",
+      "confidence": 0.9373270153999329,
+      "bbox": [
+        [
+          251,
+          353
+        ],
+        [
+          335,
+          353
+        ],
+        [
+          335,
+          379
+        ],
+        [
+          251,
+          379
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 문화예술행정관련 근무 경력 1년 이상 보유자",
+      "confidence": 0.9994709286196478,
+      "bbox": [
+        [
+          459,
+          366
+        ],
+        [
+          1068,
+          366
+        ],
+        [
+          1068,
+          392
+        ],
+        [
+          459,
+          392
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사항",
+      "confidence": 0.9990744193394979,
+      "bbox": [
+        [
+          376,
+          386
+        ],
+        [
+          435,
+          386
+        ],
+        [
+          435,
+          412
+        ],
+        [
+          376,
+          412
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "운 영",
+      "confidence": 0.9696674704551697,
+      "bbox": [
+        [
+          253,
+          389
+        ],
+        [
+          334,
+          389
+        ],
+        [
+          334,
+          416
+        ],
+        [
+          253,
+          416
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 취업지원 대상자(보훈처·보훈지청 발급증명서 제출)",
+      "confidence": 0.9866834698301373,
+      "bbox": [
+        [
+          458,
+          452
+        ],
+        [
+          1108,
+          452
+        ],
+        [
+          1108,
+          477
+        ],
+        [
+          458,
+          477
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필수",
+      "confidence": 0.997278094291687,
+      "bbox": [
+        [
+          377,
+          455
+        ],
+        [
+          435,
+          455
+        ],
+        [
+          435,
+          480
+        ],
+        [
+          377,
+          480
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사항",
+      "confidence": 0.9989809989929199,
+      "bbox": [
+        [
+          375,
+          494
+        ],
+        [
+          436,
+          494
+        ],
+        [
+          436,
+          519
+        ],
+        [
+          375,
+          519
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 문화예술교육사자격증 소유자",
+      "confidence": 0.998857789917996,
+      "bbox": [
+        [
+          458,
+          498
+        ],
+        [
+          865,
+          498
+        ],
+        [
+          865,
+          523
+        ],
+        [
+          458,
+          523
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문 화",
+      "confidence": 0.9780259847640991,
+      "bbox": [
+        [
+          251,
+          528
+        ],
+        [
+          338,
+          528
+        ],
+        [
+          338,
+          554
+        ],
+        [
+          251,
+          554
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "예",
+      "confidence": 0.9923766851425171,
+      "bbox": [
+        [
+          252,
+          566
+        ],
+        [
+          287,
+          566
+        ],
+        [
+          287,
+          591
+        ],
+        [
+          252,
+          591
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "술",
+      "confidence": 0.9823881685733795,
+      "bbox": [
+        [
+          302,
+          566
+        ],
+        [
+          339,
+          566
+        ],
+        [
+          339,
+          591
+        ],
+        [
+          302,
+          591
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 미술관련 학과 졸업자",
+      "confidence": 0.9937394633889198,
+      "bbox": [
+        [
+          459,
+          571
+        ],
+        [
+          769,
+          571
+        ],
+        [
+          769,
+          595
+        ],
+        [
+          459,
+          595
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "우대",
+      "confidence": 0.9966153701146444,
+      "bbox": [
+        [
+          374,
+          603
+        ],
+        [
+          434,
+          603
+        ],
+        [
+          434,
+          628
+        ],
+        [
+          374,
+          628
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "교육사",
+      "confidence": 0.9993894845247269,
+      "bbox": [
+        [
+          250,
+          604
+        ],
+        [
+          340,
+          604
+        ],
+        [
+          340,
+          631
+        ],
+        [
+          250,
+          631
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "미술사학, 예술학, 박물관학, 미술이론, 미술실기, 미술교육, 예술경영 등",
+      "confidence": 0.9995629939922067,
+      "bbox": [
+        [
+          465,
+          629
+        ],
+        [
+          1101,
+          629
+        ],
+        [
+          1101,
+          654
+        ],
+        [
+          465,
+          654
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기간제",
+      "confidence": 0.998325765132904,
+      "bbox": [
+        [
+          131,
+          634
+        ],
+        [
+          217,
+          634
+        ],
+        [
+          217,
+          658
+        ],
+        [
+          131,
+          658
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사항",
+      "confidence": 0.999074379603068,
+      "bbox": [
+        [
+          376,
+          641
+        ],
+        [
+          435,
+          641
+        ],
+        [
+          435,
+          667
+        ],
+        [
+          376,
+          667
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "이와 유사한 전공 학사 학위 이상 소지자",
+      "confidence": 0.9994449317455292,
+      "bbox": [
+        [
+          466,
+          662
+        ],
+        [
+          863,
+          662
+        ],
+        [
+          863,
+          686
+        ],
+        [
+          466,
+          686
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "근로자",
+      "confidence": 0.9994793236255646,
+      "bbox": [
+        [
+          131,
+          669
+        ],
+        [
+          219,
+          669
+        ],
+        [
+          219,
+          700
+        ],
+        [
+          131,
+          700
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 장애인(장애인증명서 보유자)",
+      "confidence": 0.8213599890470504,
+      "bbox": [
+        [
+          458,
+          748
+        ],
+        [
+          856,
+          748
+        ],
+        [
+          856,
+          774
+        ],
+        [
+          458,
+          774
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필수",
+      "confidence": 0.9981866081555685,
+      "bbox": [
+        [
+          378,
+          774
+        ],
+        [
+          435,
+          774
+        ],
+        [
+          435,
+          801
+        ],
+        [
+          378,
+          801
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 3급 정학예사 이상 자격증 소지자",
+      "confidence": 0.9953546005746593,
+      "bbox": [
+        [
+          457,
+          792
+        ],
+        [
+          918,
+          792
+        ],
+        [
+          918,
+          820
+        ],
+        [
+          457,
+          820
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사항",
+      "confidence": 0.9992812673250834,
+      "bbox": [
+        [
+          376,
+          813
+        ],
+        [
+          435,
+          813
+        ],
+        [
+          435,
+          840
+        ],
+        [
+          376,
+          840
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "안",
+      "confidence": 0.9938732981681824,
+      "bbox": [
+        [
+          302,
+          826
+        ],
+        [
+          338,
+          826
+        ],
+        [
+          338,
+          851
+        ],
+        [
+          302,
+          851
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천",
+      "confidence": 0.9955791234970093,
+      "bbox": [
+        [
+          251,
+          827
+        ],
+        [
+          300,
+          827
+        ],
+        [
+          300,
+          851
+        ],
+        [
+          251,
+          851
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 한글, 엑셀 등 PC 활용 및 민원응대(전화상담)이 가능한 자",
+      "confidence": 0.9957312524318696,
+      "bbox": [
+        [
+          459,
+          840
+        ],
+        [
+          1108,
+          840
+        ],
+        [
+          1108,
+          866
+        ],
+        [
+          459,
+          866
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시",
+      "confidence": 0.9815379083156586,
+      "bbox": [
+        [
+          250,
+          863
+        ],
+        [
+          287,
+          863
+        ],
+        [
+          287,
+          889
+        ],
+        [
+          250,
+          889
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "립",
+      "confidence": 0.9982101917266846,
+      "bbox": [
+        [
+          304,
+          864
+        ],
+        [
+          335,
+          864
+        ],
+        [
+          335,
+          890
+        ],
+        [
+          304,
+          890
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "미술관",
+      "confidence": 0.9993641823530197,
+      "bbox": [
+        [
+          250,
+          903
+        ],
+        [
+          338,
+          903
+        ],
+        [
+          338,
+          928
+        ],
+        [
+          250,
+          928
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 문화예술행정관련 근무 경력 1년 이상 보유자",
+      "confidence": 0.9991664516514746,
+      "bbox": [
+        [
+          459,
+          911
+        ],
+        [
+          1068,
+          911
+        ],
+        [
+          1068,
+          937
+        ],
+        [
+          459,
+          937
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전 시",
+      "confidence": 0.9807894229888916,
+      "bbox": [
+        [
+          251,
+          941
+        ],
+        [
+          336,
+          941
+        ],
+        [
+          336,
+          966
+        ],
+        [
+          251,
+          966
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 미술관련 학과 졸업자",
+      "confidence": 0.9970901533961296,
+      "bbox": [
+        [
+          458,
+          958
+        ],
+        [
+          770,
+          958
+        ],
+        [
+          770,
+          983
+        ],
+        [
+          458,
+          983
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "우대",
+      "confidence": 0.9922672112782797,
+      "bbox": [
+        [
+          377,
+          963
+        ],
+        [
+          435,
+          963
+        ],
+        [
+          435,
+          989
+        ],
+        [
+          377,
+          989
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "운",
+      "confidence": 0.9914928078651428,
+      "bbox": [
+        [
+          252,
+          976
+        ],
+        [
+          291,
+          976
+        ],
+        [
+          291,
+          1003
+        ],
+        [
+          252,
+          1003
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "영",
+      "confidence": 0.8508770763874054,
+      "bbox": [
+        [
+          294,
+          978
+        ],
+        [
+          336,
+          978
+        ],
+        [
+          336,
+          1002
+        ],
+        [
+          294,
+          1002
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사항",
+      "confidence": 0.9992814660072327,
+      "bbox": [
+        [
+          376,
+          1002
+        ],
+        [
+          435,
+          1002
+        ],
+        [
+          435,
+          1029
+        ],
+        [
+          376,
+          1029
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "미술사학, 예술학, 박물관학, 미술이론, 미술실기, 미술교육, 예술경영 등",
+      "confidence": 0.9996097392814104,
+      "bbox": [
+        [
+          465,
+          1014
+        ],
+        [
+          1102,
+          1014
+        ],
+        [
+          1102,
+          1039
+        ],
+        [
+          465,
+          1039
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "이와 유사한 전공 학사 학위 이상 소지자",
+      "confidence": 0.9994037648042043,
+      "bbox": [
+        [
+          466,
+          1047
+        ],
+        [
+          863,
+          1047
+        ],
+        [
+          863,
+          1069
+        ],
+        [
+          466,
+          1069
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 선발 방법 : 1차(서류전형) ⇒ 2차(면접전형) ⇒ 최종합격자 결정",
+      "confidence": 0.9840614511208101,
+      "bbox": [
+        [
+          114,
+          1133
+        ],
+        [
+          1013,
+          1133
+        ],
+        [
+          1013,
+          1160
+        ],
+        [
+          114,
+          1160
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 1차 시험 : 서류전형",
+      "confidence": 0.9827163359698128,
+      "bbox": [
+        [
+          130,
+          1186
+        ],
+        [
+          453,
+          1186
+        ],
+        [
+          453,
+          1215
+        ],
+        [
+          130,
+          1215
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1) 당해 채용 분야와 관련되는 응시자격 요건 및 적격 여부 등",
+      "confidence": 0.9994354538015418,
+      "bbox": [
+        [
+          143,
+          1241
+        ],
+        [
+          988,
+          1241
+        ],
+        [
+          988,
+          1269
+        ],
+        [
+          143,
+          1269
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2) 합격자 선정 : 서류전형 기준에 따른 총점(100점) 순위 60점 이상자 중 선발",
+      "confidence": 0.9877757060527802,
+      "bbox": [
+        [
+          143,
+          1295
+        ],
+        [
+          1122,
+          1295
+        ],
+        [
+          1122,
+          1322
+        ],
+        [
+          143,
+          1322
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3) 서류전형 합격자 발표 : 2025. 06. 23.(월) / 재단 채용 사이트 내 공고",
+      "confidence": 0.9973837355008492,
+      "bbox": [
+        [
+          143,
+          1348
+        ],
+        [
+          1120,
+          1348
+        ],
+        [
+          1120,
+          1376
+        ],
+        [
+          143,
+          1376
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 2차 시험 : 면접전형",
+      "confidence": 0.9766825682976666,
+      "bbox": [
+        [
+          130,
+          1422
+        ],
+        [
+          451,
+          1422
+        ],
+        [
+          451,
+          1449
+        ],
+        [
+          130,
+          1449
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1) 직전 전형 합격자에 한하여 면접평가",
+      "confidence": 0.9988020832339922,
+      "bbox": [
+        [
+          143,
+          1476
+        ],
+        [
+          683,
+          1476
+        ],
+        [
+          683,
+          1503
+        ],
+        [
+          143,
+          1503
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2) 평가항목(100점) : 인성, 의지, 표현력, 발전가능성 등 평가",
+      "confidence": 0.9907108341775289,
+      "bbox": [
+        [
+          143,
+          1530
+        ],
+        [
+          968,
+          1530
+        ],
+        [
+          968,
+          1558
+        ],
+        [
+          143,
+          1558
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3) 면접전형일 : 2025. 06. 26.(목) 예정 / 재단 채용 사이트 내 공고",
+      "confidence": 0.9882402791052448,
+      "bbox": [
+        [
+          143,
+          1584
+        ],
+        [
+          1047,
+          1584
+        ],
+        [
+          1047,
+          1613
+        ],
+        [
+          143,
+          1613
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 3 -",
+      "confidence": 0.7489185233910879,
+      "bbox": [
+        [
+          587,
+          1679
+        ],
+        [
+          651,
+          1679
+        ],
+        [
+          651,
+          1697
+        ],
+        [
+          587,
+          1697
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

@@ -1,0 +1,1047 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률ㅣ 제82조(결격사유). ① 비위면직자 등은 다음 각 호의 어느 하나에 해당하는 사람을 말한다.. 1. 공직자가 재직 중 직무와 관련된 부패행위로 당연퇴직, 파면 또는 해임된 자",
+    "key_entities": {
+      "companies": [
+        "영리사기업",
+        "영리사 기업"
+      ],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 16,
+      "footer": 0,
+      "other": 35
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.991,
+      "readability": "high",
+      "completeness": "complete",
+      "high_confidence_blocks": 51,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.68,
+      "english": 0.002,
+      "other": 0.318
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 51,
+    "total_characters": 1228,
+    "analyzed_at": "2025-11-21T01:30:54.651894"
+  },
+  "block_summaries": [
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률...",
+      "keywords": [
+        "부패방지",
+        "국민권익위원회의",
+        "설치와",
+        "운영에",
+        "법률ㅣ"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 42,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T01:30:54.650733"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "① 비위면직자 등은 다음 각 호의 어느 하나에 해당하는...",
+      "keywords": [
+        "비위면직자",
+        "하나에",
+        "해당하는",
+        "사람을",
+        "말한다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 11,
+      "analyzed_at": "2025-11-21T01:30:54.650766"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 공직자가 재직 중 직무와 관련된 부패행위로 당연퇴...",
+      "keywords": [
+        "공직자가",
+        "직무와",
+        "관련된",
+        "부패행위로",
+        "당연퇴직"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 44,
+      "word_count": 12,
+      "analyzed_at": "2025-11-21T01:30:54.650788"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 공직자였던 사람으로서 재직 중 직무와 관련된 부패...",
+      "keywords": [
+        "공직자였던",
+        "사람으로서",
+        "직무와",
+        "관련된",
+        "부패행위로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 46,
+      "word_count": 11,
+      "analyzed_at": "2025-11-21T01:30:54.650809"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "형의 선고를 받은 사람(해당 형의 집행유예 선고를 받고...",
+      "keywords": [
+        "선고를",
+        "집행유예",
+        "유예기간이",
+        "경과된"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 42,
+      "word_count": 11,
+      "analyzed_at": "2025-11-21T01:30:54.650834"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "사람을 포함한다)",
+      "keywords": [
+        "사람을",
+        "포함한다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:30:54.650847"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "② 제1항에 따른 비위면직자 등(이하 “비위면직자등”이...",
+      "keywords": [
+        "제1항에",
+        "비위면직자",
+        "비위면직자등",
+        "제3항"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 47,
+      "word_count": 11,
+      "analyzed_at": "2025-11-21T01:30:54.650867"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "분에 따른 날부터 5년 동안 다음 각 호의 취업제한기관...",
+      "keywords": [
+        "날부터",
+        "취업제한기관에",
+        "취업할"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 41,
+      "word_count": 12,
+      "analyzed_at": "2025-11-21T01:30:54.650885"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 공공기관(「유아교육법」, 「초・중등교육법」, 「고...",
+      "keywords": [
+        "공공기관",
+        "유아교육법",
+        "중등교육법",
+        "고등교육법"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 45,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T01:30:54.650903"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "법령에 따라 설치된 국·공립학교를 포함한다)",
+      "keywords": [
+        "법령에",
+        "설치된",
+        "공립학교를",
+        "포함한다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 24,
+      "word_count": 5,
+      "analyzed_at": "2025-11-21T01:30:54.650921"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 대통령령으로 정하는 부패행위 관련 기관",
+      "keywords": [
+        "대통령령으로",
+        "정하는",
+        "부패행위"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 24,
+      "word_count": 6,
+      "analyzed_at": "2025-11-21T01:30:54.650935"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3. 퇴직 전 5년간 소속하였던 부서 또는 기관의 업무...",
+      "keywords": [
+        "5년간",
+        "소속하였던",
+        "기관의",
+        "업무와",
+        "밀접한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 46,
+      "word_count": 13,
+      "analyzed_at": "2025-11-21T01:30:54.650954"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기업체 등(다음 각 목의 법인 등을 포함한다)",
+      "keywords": [
+        "기업체",
+        "포함한다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T01:30:54.650972"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "4. 제3호에 따른 영리사기업체 등의 공동이익과 상호협...",
+      "keywords": [
+        "제3호에",
+        "영리사기업체",
+        "공동이익과",
+        "상호협력",
+        "위하여"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 45,
+      "word_count": 11,
+      "analyzed_at": "2025-11-21T01:30:54.650990"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "• 단체(이하 “협회”라 한다)",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T01:30:54.651006"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "나. 관련분야 최종경력 기준으로 시험공고일 현재 퇴직 ...",
+      "keywords": [
+        "관련분야",
+        "최종경력",
+        "기준으로",
+        "시험공고일",
+        "10년이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 41,
+      "word_count": 10,
+      "analyzed_at": "2025-11-21T01:30:54.651025"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "않아야 함 (지방공무원임용령 제17조 제5항)",
+      "keywords": [
+        "않아야",
+        "지방공무원임용령",
+        "제17조",
+        "제5항"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 5,
+      "analyzed_at": "2025-11-21T01:30:54.651039"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "다. 자격 및 경력 : 분야별 채용기준 각 호의 어느 ...",
+      "keywords": [
+        "분야별",
+        "채용기준",
+        "하나에",
+        "해당하는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 44,
+      "word_count": 14,
+      "analyzed_at": "2025-11-21T01:30:54.651062"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "을 갖춘 자 (기준일 : 면접시험 예정일)",
+      "keywords": [
+        "기준일",
+        "면접시험",
+        "예정일"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T01:30:54.651078"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "분야",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:30:54.651087"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "직급",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:30:54.651096"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "용 자 격",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T01:30:54.651107"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:30:54.651115"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "준",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:30:54.651123"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "채",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:30:54.651131"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "아래의 필수자격을 충족하고 경력요건 중 한 가지 이상을",
+      "keywords": [
+        "아래의",
+        "필수자격을",
+        "충족하고",
+        "경력요건",
+        "이상을"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 30,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T01:30:54.651152"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "충족하는 자",
+      "keywords": [
+        "충족하는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:30:54.651163"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[<b>필수자격</b>] 박물관·미술관 정학예사 자격증...",
+      "keywords": [
+        "필수자격",
+        "박물관",
+        "미술관",
+        "정학예사",
+        "자격증"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 5,
+      "analyzed_at": "2025-11-21T01:30:54.651184"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[경력요건]",
+      "keywords": [
+        "경력요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:30:54.651194"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 학사학위를 취득한 후 1년 이상 관련분야의 실무경...",
+      "keywords": [
+        "학사학위를",
+        "취득한",
+        "관련분야의",
+        "실무경력이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T01:30:54.651211"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "있는 자",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:30:54.651221"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 3년 이상 관련분야의 실무경력이 있는 자",
+      "keywords": [
+        "관련분야의",
+        "실무경력이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T01:30:54.651234"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3. 8급 또는 8급 상당 이상의 공무원으로서 2년 이...",
+      "keywords": [
+        "이상의",
+        "공무원으로서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 10,
+      "analyzed_at": "2025-11-21T01:30:54.651250"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "분야의 실무경력이 있는 자",
+      "keywords": [
+        "분야의",
+        "실무경력이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 14,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T01:30:54.651265"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "담헌달빛관 지방시간선택제임기제",
+      "keywords": [
+        "담헌달빛관",
+        "지방시간선택제임기제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 16,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:30:54.651277"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[관련학과 및 관련분야 실무경력]",
+      "keywords": [
+        "관련학과",
+        "관련분야",
+        "실무경력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T01:30:54.651291"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "운 영",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:30:54.651301"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "다급(7급상당)",
+      "keywords": [
+        "7급상당"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:30:54.651313"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1. 관련학과",
+      "keywords": [
+        "관련학과"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:30:54.651324"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "(학예연구사)",
+      "keywords": [
+        "학예연구사"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:30:54.651334"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "주35시간",
+      "keywords": [
+        "주35시간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:30:54.651344"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "-고고학, 민속학, 미술사학, 역사학, 박물관학,",
+      "keywords": [
+        "고고학",
+        "민속학",
+        "미술사학",
+        "역사학",
+        "박물관학"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 27,
+      "word_count": 5,
+      "analyzed_at": "2025-11-21T01:30:54.651362"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "문화재보존학 등",
+      "keywords": [
+        "문화재보존학"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T01:30:54.651373"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 관련분야 실무경력",
+      "keywords": [
+        "관련분야",
+        "실무경력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T01:30:54.651384"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "- 국립·공립·사립·대학(박물관 및 미술관 진흥법에 따...",
+      "keywords": [
+        "박물관",
+        "미술관",
+        "진흥법에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 31,
+      "word_count": 6,
+      "analyzed_at": "2025-11-21T01:30:54.651403"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "등록된 박물관에 한함) 박물관 학예업무(전시·교육·",
+      "keywords": [
+        "등록된",
+        "박물관에",
+        "박물관",
+        "학예업무"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 28,
+      "word_count": 5,
+      "analyzed_at": "2025-11-21T01:30:54.651419"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "유물관리 등) 근무경력",
+      "keywords": [
+        "유물관리",
+        "근무경력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T01:30:54.651431"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[기타요건]",
+      "keywords": [
+        "기타요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T01:30:54.651446"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "휴관일(월요일)에 따른 주말 및 공휴일 근무가 가능한 ...",
+      "keywords": [
+        "휴관일",
+        "월요일",
+        "공휴일",
+        "근무가",
+        "가능한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 31,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T01:30:54.651466"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "※근무일: 화요일 ~ 금요일 및 주말(토, 일) 중 1...",
+      "keywords": [
+        "근무일",
+        "화요일",
+        "금요일",
+        "공휴일"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 10,
+      "analyzed_at": "2025-11-21T01:30:54.651482"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "※ 실무경력 인정범위 : 관련(직무)분야 근무경력으로 ...",
+      "keywords": [
+        "실무경력",
+        "인정범위",
+        "근무경력으로",
+        "경력증명서상",
+        "근무기간과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 57,
+      "word_count": 11,
+      "analyzed_at": "2025-11-21T01:30:54.651504"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

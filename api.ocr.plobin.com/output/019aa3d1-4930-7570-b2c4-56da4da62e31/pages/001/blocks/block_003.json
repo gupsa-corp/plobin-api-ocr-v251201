@@ -1,0 +1,17 @@
+{
+  "block_id": 3,
+  "text": "reductor, independ",
+  "confidence": 0.5325693875551224,
+  "bbox": {
+    "x_min": 286,
+    "y_min": 19,
+    "x_max": 312,
+    "y_max": 24,
+    "width": 26,
+    "height": 5
+  },
+  "block_type": "text",
+  "text_length": 18,
+  "created_at": "2025-11-21T00:29:53.328988",
+  "version": "1.0"
+}

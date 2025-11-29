@@ -1,0 +1,978 @@
+{
+  "page_number": 11,
+  "total_blocks": 29,
+  "average_confidence": 0.8768658395242813,
+  "processing_time": 1.6206529140472412,
+  "blocks": [
+    {
+      "id": 0,
+      "text": "플로빈 사용자 매뉴얼 v251029133908",
+      "confidence": 0.9958951534369053,
+      "bbox": {
+        "x_min": 144,
+        "y_min": 84,
+        "x_max": 1094,
+        "y_max": 104,
+        "width": 950,
+        "height": 20
+      },
+      "bbox_points": [
+        [
+          144,
+          84
+        ],
+        [
+          1094,
+          84
+        ],
+        [
+          1094,
+          104
+        ],
+        [
+          144,
+          104
+        ]
+      ],
+      "type": "text",
+      "area": 19000,
+      "merged_from": 2
+    },
+    {
+      "id": 2,
+      "text": "3.3.2 권한 관리",
+      "confidence": 0.9975816836723914,
+      "bbox": {
+        "x_min": 142,
+        "y_min": 172,
+        "x_max": 315,
+        "y_max": 200,
+        "width": 173,
+        "height": 28
+      },
+      "bbox_points": [
+        [
+          142,
+          172
+        ],
+        [
+          315,
+          172
+        ],
+        [
+          315,
+          200
+        ],
+        [
+          142,
+          200
+        ]
+      ],
+      "type": "text",
+      "area": 4844
+    },
+    {
+      "id": 3,
+      "text": "권한 개요 페이지에서는 다양한 권한 역할과 사용자 수를 확인할 수 있습니다:",
+      "confidence": 0.9993698705326427,
+      "bbox": {
+        "x_min": 143,
+        "y_min": 222,
+        "x_max": 831,
+        "y_max": 247,
+        "width": 688,
+        "height": 25
+      },
+      "bbox_points": [
+        [
+          143,
+          222
+        ],
+        [
+          831,
+          222
+        ],
+        [
+          831,
+          247
+        ],
+        [
+          143,
+          247
+        ]
+      ],
+      "type": "text",
+      "area": 17200
+    },
+    {
+      "id": 9,
+      "text": "대시보드 > 조직 관리자 조직 관리자 admin@example.com admin Α",
+      "confidence": 0.9522093944578318,
+      "bbox": {
+        "x_min": 352,
+        "y_min": 309,
+        "x_max": 1070,
+        "y_max": 342,
+        "width": 718,
+        "height": 33
+      },
+      "bbox_points": [
+        [
+          352,
+          309
+        ],
+        [
+          1070,
+          309
+        ],
+        [
+          1070,
+          342
+        ],
+        [
+          352,
+          342
+        ]
+      ],
+      "type": "text",
+      "area": 23694,
+      "merged_from": 2
+    },
+    {
+      "id": 10,
+      "text": "테스트 조직 권한 개요",
+      "confidence": 0.9993153938225338,
+      "bbox": {
+        "x_min": 178,
+        "y_min": 377,
+        "x_max": 427,
+        "y_max": 398,
+        "width": 249,
+        "height": 21
+      },
+      "bbox_points": [
+        [
+          178,
+          377
+        ],
+        [
+          427,
+          377
+        ],
+        [
+          427,
+          398
+        ],
+        [
+          178,
+          398
+        ]
+      ],
+      "type": "text",
+      "area": 5229,
+      "merged_from": 2
+    },
+    {
+      "id": 13,
+      "text": "🎥 회원 관리 platform-admin organization-owner organization-admin",
+      "confidence": 0.9570925823723277,
+      "bbox": {
+        "x_min": 172,
+        "y_min": 445,
+        "x_max": 995,
+        "y_max": 460,
+        "width": 823,
+        "height": 15
+      },
+      "bbox_points": [
+        [
+          172,
+          445
+        ],
+        [
+          995,
+          445
+        ],
+        [
+          995,
+          460
+        ],
+        [
+          172,
+          460
+        ]
+      ],
+      "type": "text",
+      "area": 12345,
+      "merged_from": 4
+    },
+    {
+      "id": 17,
+      "text": "Platform Administrator Organization Owner Organization Administrator",
+      "confidence": 0.7372386122506763,
+      "bbox": {
+        "x_min": 373,
+        "y_min": 470,
+        "x_max": 1002,
+        "y_max": 484,
+        "width": 629,
+        "height": 14
+      },
+      "bbox_points": [
+        [
+          373,
+          470
+        ],
+        [
+          1002,
+          470
+        ],
+        [
+          1002,
+          484
+        ],
+        [
+          373,
+          484
+        ]
+      ],
+      "type": "text",
+      "area": 8806,
+      "merged_from": 3
+    },
+    {
+      "id": 20,
+      "text": "█ 권한 관리",
+      "confidence": 0.7841195888817311,
+      "bbox": {
+        "x_min": 174,
+        "y_min": 486,
+        "x_max": 244,
+        "y_max": 500,
+        "width": 70,
+        "height": 14
+      },
+      "bbox_points": [
+        [
+          174,
+          486
+        ],
+        [
+          244,
+          486
+        ],
+        [
+          244,
+          500
+        ],
+        [
+          174,
+          500
+        ]
+      ],
+      "type": "text",
+      "area": 980
+    },
+    {
+      "id": 25,
+      "text": "1 사용자 1 사용자 0 사용자",
+      "confidence": 0.9557643408576647,
+      "bbox": {
+        "x_min": 374,
+        "y_min": 500,
+        "x_max": 1056,
+        "y_max": 515,
+        "width": 682,
+        "height": 15
+      },
+      "bbox_points": [
+        [
+          374,
+          500
+        ],
+        [
+          1056,
+          500
+        ],
+        [
+          1056,
+          515
+        ],
+        [
+          374,
+          515
+        ]
+      ],
+      "type": "text",
+      "area": 10230,
+      "merged_from": 6
+    },
+    {
+      "id": 27,
+      "text": "클 결제 관리",
+      "confidence": 0.804016070233451,
+      "bbox": {
+        "x_min": 172,
+        "y_min": 527,
+        "x_max": 245,
+        "y_max": 542,
+        "width": 73,
+        "height": 15
+      },
+      "bbox_points": [
+        [
+          172,
+          527
+        ],
+        [
+          245,
+          527
+        ],
+        [
+          245,
+          542
+        ],
+        [
+          172,
+          542
+        ]
+      ],
+      "type": "text",
+      "area": 1095
+    },
+    {
+      "id": 28,
+      "text": "프로젝트 관리 organization-member project-owner project-admin",
+      "confidence": 0.9880741635958354,
+      "bbox": {
+        "x_min": 194,
+        "y_min": 569,
+        "x_max": 960,
+        "y_max": 593,
+        "width": 766,
+        "height": 24
+      },
+      "bbox_points": [
+        [
+          194,
+          569
+        ],
+        [
+          960,
+          569
+        ],
+        [
+          960,
+          593
+        ],
+        [
+          194,
+          593
+        ]
+      ],
+      "type": "text",
+      "area": 18384,
+      "merged_from": 4
+    },
+    {
+      "id": 35,
+      "text": "🌣 조직 설정 Organization Member Project Owner Project Administrator",
+      "confidence": 0.7982668604580924,
+      "bbox": {
+        "x_min": 175,
+        "y_min": 603,
+        "x_max": 973,
+        "y_max": 623,
+        "width": 798,
+        "height": 20
+      },
+      "bbox_points": [
+        [
+          175,
+          603
+        ],
+        [
+          973,
+          603
+        ],
+        [
+          973,
+          623
+        ],
+        [
+          175,
+          623
+        ]
+      ],
+      "type": "text",
+      "area": 15960,
+      "merged_from": 4
+    },
+    {
+      "id": 39,
+      "text": "0 사용자 1 사용자 0 사용자",
+      "confidence": 0.9189290006955465,
+      "bbox": {
+        "x_min": 374,
+        "y_min": 632,
+        "x_max": 1056,
+        "y_max": 648,
+        "width": 682,
+        "height": 16
+      },
+      "bbox_points": [
+        [
+          374,
+          632
+        ],
+        [
+          1056,
+          632
+        ],
+        [
+          1056,
+          648
+        ],
+        [
+          374,
+          648
+        ]
+      ],
+      "type": "text",
+      "area": 10912,
+      "merged_from": 6
+    },
+    {
+      "id": 43,
+      "text": "project-member project-manager project-viewer",
+      "confidence": 0.9705441269074001,
+      "bbox": {
+        "x_min": 372,
+        "y_min": 709,
+        "x_max": 961,
+        "y_max": 725,
+        "width": 589,
+        "height": 16
+      },
+      "bbox_points": [
+        [
+          372,
+          709
+        ],
+        [
+          961,
+          709
+        ],
+        [
+          961,
+          725
+        ],
+        [
+          372,
+          725
+        ]
+      ],
+      "type": "text",
+      "area": 9424,
+      "merged_from": 3
+    },
+    {
+      "id": 45,
+      "text": "Project Member Project manager Project viewer",
+      "confidence": 0.8554074045489816,
+      "bbox": {
+        "x_min": 372,
+        "y_min": 736,
+        "x_max": 935,
+        "y_max": 750,
+        "width": 563,
+        "height": 14
+      },
+      "bbox_points": [
+        [
+          372,
+          736
+        ],
+        [
+          935,
+          736
+        ],
+        [
+          935,
+          750
+        ],
+        [
+          372,
+          750
+        ]
+      ],
+      "type": "text",
+      "area": 7882,
+      "merged_from": 3
+    },
+    {
+      "id": 48,
+      "text": "0 사용자 0 사용자 0 사용자",
+      "confidence": 0.8676052217682203,
+      "bbox": {
+        "x_min": 374,
+        "y_min": 765,
+        "x_max": 1056,
+        "y_max": 780,
+        "width": 682,
+        "height": 15
+      },
+      "bbox_points": [
+        [
+          374,
+          765
+        ],
+        [
+          1056,
+          765
+        ],
+        [
+          1056,
+          780
+        ],
+        [
+          374,
+          780
+        ]
+      ],
+      "type": "text",
+      "area": 10230,
+      "merged_from": 6
+    },
+    {
+      "id": 54,
+      "text": "그림 6: 조직 권한 관리 화면",
+      "confidence": 0.9992633775660866,
+      "bbox": {
+        "x_min": 493,
+        "y_min": 1031,
+        "x_max": 745,
+        "y_max": 1055,
+        "width": 252,
+        "height": 24
+      },
+      "bbox_points": [
+        [
+          493,
+          1031
+        ],
+        [
+          745,
+          1031
+        ],
+        [
+          745,
+          1055
+        ],
+        [
+          493,
+          1055
+        ]
+      ],
+      "type": "text",
+      "area": 6048
+    },
+    {
+      "id": 55,
+      "text": "플랫폼 권한",
+      "confidence": 0.9977549836039543,
+      "bbox": {
+        "x_min": 144,
+        "y_min": 1085,
+        "x_max": 261,
+        "y_max": 1109,
+        "width": 117,
+        "height": 24
+      },
+      "bbox_points": [
+        [
+          144,
+          1085
+        ],
+        [
+          261,
+          1085
+        ],
+        [
+          261,
+          1109
+        ],
+        [
+          144,
+          1109
+        ]
+      ],
+      "type": "text",
+      "area": 2808
+    },
+    {
+      "id": 58,
+      "text": "• organization-admin: Organization Administrator",
+      "confidence": 0.5285976433753967,
+      "bbox": {
+        "x_min": 172,
+        "y_min": 1188,
+        "x_max": 682,
+        "y_max": 1216,
+        "width": 510,
+        "height": 28
+      },
+      "bbox_points": [
+        [
+          172,
+          1188
+        ],
+        [
+          682,
+          1188
+        ],
+        [
+          682,
+          1216
+        ],
+        [
+          172,
+          1216
+        ]
+      ],
+      "type": "text",
+      "area": 14280
+    },
+    {
+      "id": 60,
+      "text": "프로젝트 권한",
+      "confidence": 0.9988375902175903,
+      "bbox": {
+        "x_min": 142,
+        "y_min": 1267,
+        "x_max": 282,
+        "y_max": 1291,
+        "width": 140,
+        "height": 24
+      },
+      "bbox_points": [
+        [
+          142,
+          1267
+        ],
+        [
+          282,
+          1267
+        ],
+        [
+          282,
+          1291
+        ],
+        [
+          142,
+          1291
+        ]
+      ],
+      "type": "text",
+      "area": 3360
+    },
+    {
+      "id": 61,
+      "text": "• project-owner: Project Owner",
+      "confidence": 0.5632662083953619,
+      "bbox": {
+        "x_min": 172,
+        "y_min": 1302,
+        "x_max": 506,
+        "y_max": 1326,
+        "width": 334,
+        "height": 24
+      },
+      "bbox_points": [
+        [
+          172,
+          1302
+        ],
+        [
+          506,
+          1302
+        ],
+        [
+          506,
+          1326
+        ],
+        [
+          172,
+          1326
+        ]
+      ],
+      "type": "text",
+      "area": 8016
+    },
+    {
+      "id": 62,
+      "text": "• project-admin: Project Administrator",
+      "confidence": 0.5725341960787773,
+      "bbox": {
+        "x_min": 172,
+        "y_min": 1336,
+        "x_max": 572,
+        "y_max": 1361,
+        "width": 400,
+        "height": 25
+      },
+      "bbox_points": [
+        [
+          172,
+          1336
+        ],
+        [
+          572,
+          1336
+        ],
+        [
+          572,
+          1361
+        ],
+        [
+          172,
+          1361
+        ]
+      ],
+      "type": "text",
+      "area": 10000
+    },
+    {
+      "id": 63,
+      "text": "• <b>project-member</b>: Project Member",
+      "confidence": 0.9758417026864158,
+      "bbox": {
+        "x_min": 172,
+        "y_min": 1371,
+        "x_max": 545,
+        "y_max": 1395,
+        "width": 373,
+        "height": 24
+      },
+      "bbox_points": [
+        [
+          172,
+          1371
+        ],
+        [
+          545,
+          1371
+        ],
+        [
+          545,
+          1395
+        ],
+        [
+          172,
+          1395
+        ]
+      ],
+      "type": "text",
+      "area": 8952
+    },
+    {
+      "id": 64,
+      "text": "• project-manager: Project Manager",
+      "confidence": 0.711452403002315,
+      "bbox": {
+        "x_min": 172,
+        "y_min": 1405,
+        "x_max": 551,
+        "y_max": 1430,
+        "width": 379,
+        "height": 25
+      },
+      "bbox_points": [
+        [
+          172,
+          1405
+        ],
+        [
+          551,
+          1405
+        ],
+        [
+          551,
+          1430
+        ],
+        [
+          172,
+          1430
+        ]
+      ],
+      "type": "text",
+      "area": 9475
+    },
+    {
+      "id": 65,
+      "text": "• project-viewer: Project Viewer",
+      "confidence": 0.5943029838449815,
+      "bbox": {
+        "x_min": 172,
+        "y_min": 1439,
+        "x_max": 513,
+        "y_max": 1464,
+        "width": 341,
+        "height": 25
+      },
+      "bbox_points": [
+        [
+          172,
+          1439
+        ],
+        [
+          513,
+          1439
+        ],
+        [
+          513,
+          1464
+        ],
+        [
+          172,
+          1464
+        ]
+      ],
+      "type": "text",
+      "area": 8525
+    },
+    {
+      "id": 66,
+      "text": "각 권한 카드에는:",
+      "confidence": 0.9992289493481318,
+      "bbox": {
+        "x_min": 142,
+        "y_min": 1482,
+        "x_max": 307,
+        "y_max": 1507,
+        "width": 165,
+        "height": 25
+      },
+      "bbox_points": [
+        [
+          142,
+          1482
+        ],
+        [
+          307,
+          1482
+        ],
+        [
+          307,
+          1507
+        ],
+        [
+          142,
+          1507
+        ]
+      ],
+      "type": "text",
+      "area": 4125
+    },
+    {
+      "id": 67,
+      "text": "• 권한 이름 및 설명",
+      "confidence": 0.9903046701635633,
+      "bbox": {
+        "x_min": 171,
+        "y_min": 1517,
+        "x_max": 360,
+        "y_max": 1541,
+        "width": 189,
+        "height": 24
+      },
+      "bbox_points": [
+        [
+          171,
+          1517
+        ],
+        [
+          360,
+          1517
+        ],
+        [
+          360,
+          1541
+        ],
+        [
+          171,
+          1541
+        ]
+      ],
+      "type": "text",
+      "area": 4536
+    },
+    {
+      "id": 68,
+      "text": "• 현재 해당 권한을 가진 사용자 수",
+      "confidence": 0.9980252520604567,
+      "bbox": {
+        "x_min": 171,
+        "y_min": 1551,
+        "x_max": 492,
+        "y_max": 1576,
+        "width": 321,
+        "height": 25
+      },
+      "bbox_points": [
+        [
+          171,
+          1551
+        ],
+        [
+          492,
+          1551
+        ],
+        [
+          492,
+          1576
+        ],
+        [
+          171,
+          1576
+        ]
+      ],
+      "type": "text",
+      "area": 8025
+    },
+    {
+      "id": 69,
+      "text": "Plobin 8",
+      "confidence": 0.9182699173688889,
+      "bbox": {
+        "x_min": 144,
+        "y_min": 1681,
+        "x_max": 1095,
+        "y_max": 1699,
+        "width": 951,
+        "height": 18
+      },
+      "bbox_points": [
+        [
+          144,
+          1681
+        ],
+        [
+          1095,
+          1681
+        ],
+        [
+          1095,
+          1699
+        ],
+        [
+          144,
+          1699
+        ]
+      ],
+      "type": "text",
+      "area": 17118,
+      "merged_from": 2
+    }
+  ]
+}

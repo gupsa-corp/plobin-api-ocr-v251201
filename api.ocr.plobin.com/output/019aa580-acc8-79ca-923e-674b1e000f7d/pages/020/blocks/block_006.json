@@ -1,0 +1,17 @@
+{
+  "block_id": 6,
+  "text": "🚨 마이페이지",
+  "confidence": 0.9182853235138787,
+  "bbox": {
+    "x_min": 935,
+    "y_min": 520,
+    "x_max": 1005,
+    "y_max": 536,
+    "width": 70,
+    "height": 16
+  },
+  "block_type": "text",
+  "text_length": 7,
+  "created_at": "2025-11-21T08:21:41.765420",
+  "version": "1.0"
+}

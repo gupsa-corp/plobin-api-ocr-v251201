@@ -1,0 +1,494 @@
+{
+  "page_number": 15,
+  "total_blocks": 18,
+  "average_confidence": 0.9542117742840461,
+  "processing_time": 1.3078563213348389,
+  "blocks": [
+    {
+      "text": "응시원서 작성요령",
+      "confidence": 0.999412867155942,
+      "bbox": [
+        [
+          429,
+          132
+        ],
+        [
+          809,
+          132
+        ],
+        [
+          809,
+          166
+        ],
+        [
+          429,
+          166
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "◎ 응시원서는 다음 요령에 의하여 빠짐없이 작성하여야 합니다.",
+      "confidence": 0.9864279579471897,
+      "bbox": [
+        [
+          159,
+          278
+        ],
+        [
+          972,
+          278
+        ],
+        [
+          972,
+          304
+        ],
+        [
+          159,
+          304
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 「※응시번호」: 기재하지 않음",
+      "confidence": 0.9441053441592625,
+      "bbox": [
+        [
+          159,
+          342
+        ],
+        [
+          577,
+          342
+        ],
+        [
+          577,
+          368
+        ],
+        [
+          159,
+          368
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 응시직급 : 응시하고자 하는 모집단위의 직급을 기재함",
+      "confidence": 0.9898466064649469,
+      "bbox": [
+        [
+          159,
+          406
+        ],
+        [
+          889,
+          406
+        ],
+        [
+          889,
+          432
+        ],
+        [
+          159,
+          432
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(예, 지방행정주사보(일반임기제) 지방시간선택제임기제 다급 등)",
+      "confidence": 0.9982300255749676,
+      "bbox": [
+        [
+          197,
+          451
+        ],
+        [
+          1013,
+          451
+        ],
+        [
+          1013,
+          476
+        ],
+        [
+          197,
+          476
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- (응시분야) : 응시하고자 하는 모집단위의 분야를 기재",
+      "confidence": 0.9947118250762715,
+      "bbox": [
+        [
+          167,
+          493
+        ],
+        [
+          881,
+          493
+        ],
+        [
+          881,
+          519
+        ],
+        [
+          167,
+          519
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(○○분야, △△분야, □□분야 등)",
+      "confidence": 0.9375035685041676,
+      "bbox": [
+        [
+          360,
+          536
+        ],
+        [
+          792,
+          536
+        ],
+        [
+          792,
+          562
+        ],
+        [
+          360,
+          562
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 주소 : 현재 거주하는 곳(우편물 수령 등)을 정확히 기재함",
+      "confidence": 0.9903239152933422,
+      "bbox": [
+        [
+          159,
+          599
+        ],
+        [
+          937,
+          599
+        ],
+        [
+          937,
+          626
+        ],
+        [
+          159,
+          626
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4. 성명·생년월일·전자우편·(휴대)전화: 빠짐없이 정확하게 기재함",
+      "confidence": 0.9888757020235062,
+      "bbox": [
+        [
+          159,
+          662
+        ],
+        [
+          980,
+          662
+        ],
+        [
+          980,
+          692
+        ],
+        [
+          159,
+          692
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "5. 복수국적 : 복수국적자의 경우 취득한 외국국적명 기재",
+      "confidence": 0.990039587020874,
+      "bbox": [
+        [
+          159,
+          734
+        ],
+        [
+          888,
+          734
+        ],
+        [
+          888,
+          760
+        ],
+        [
+          159,
+          760
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6. 수입증지 (천안시청 민원실 구입 / 정부수입인지 사용 불가)",
+      "confidence": 0.9983771490423303,
+      "bbox": [
+        [
+          159,
+          803
+        ],
+        [
+          951,
+          803
+        ],
+        [
+          951,
+          829
+        ],
+        [
+          159,
+          829
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 5급(가급) 이상 : 1만원",
+      "confidence": 0.8987953882468375,
+      "bbox": [
+        [
+          186,
+          867
+        ],
+        [
+          513,
+          867
+        ],
+        [
+          513,
+          893
+        ],
+        [
+          186,
+          893
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 6급(나급)·7급(다급) : 7천원",
+      "confidence": 0.6773806835214297,
+      "bbox": [
+        [
+          187,
+          931
+        ],
+        [
+          571,
+          931
+        ],
+        [
+          571,
+          956
+        ],
+        [
+          187,
+          956
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 8급(라급)·9급(마급) : 5천원",
+      "confidence": 0.7952190761764845,
+      "bbox": [
+        [
+          187,
+          995
+        ],
+        [
+          572,
+          995
+        ],
+        [
+          572,
+          1020
+        ],
+        [
+          187,
+          1020
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "「국민기초생활 보장법」에 따른 수급자 및 차상위계층, 「한부모가족",
+      "confidence": 0.9992999418785697,
+      "bbox": [
+        [
+          216,
+          1058
+        ],
+        [
+          1033,
+          1058
+        ],
+        [
+          1033,
+          1087
+        ],
+        [
+          216,
+          1087
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지원법」에 따른 지원대상자, 「장애인연금법」에 따른 수급자 또는",
+      "confidence": 0.9881742580516918,
+      "bbox": [
+        [
+          207,
+          1094
+        ],
+        [
+          1031,
+          1094
+        ],
+        [
+          1031,
+          1121
+        ],
+        [
+          207,
+          1121
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "「민법」제4조에 따른 2명 이상의 미성년 자녀가 있는 사람으로서",
+      "confidence": 0.9991768308587976,
+      "bbox": [
+        [
+          207,
+          1131
+        ],
+        [
+          1030,
+          1131
+        ],
+        [
+          1030,
+          1156
+        ],
+        [
+          207,
+          1156
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시수수료를 면제받을 경우 수입증지 대신 해당 증명서 첨부",
+      "confidence": 0.9999112101162181,
+      "bbox": [
+        [
+          208,
+          1164
+        ],
+        [
+          945,
+          1164
+        ],
+        [
+          945,
+          1193
+        ],
+        [
+          208,
+          1193
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

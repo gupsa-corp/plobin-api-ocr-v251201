@@ -1,0 +1,845 @@
+{
+  "page_number": 2,
+  "total_blocks": 31,
+  "average_confidence": 0.959407538292411,
+  "processing_time": 1.5746955871582031,
+  "blocks": [
+    {
+      "text": "O 자격요건: 다음의 자격요건(기준일: 공고마감일) 중 어느 하나 이상의 요건을 갖춘 자",
+      "confidence": 0.6153108385893015,
+      "bbox": [
+        [
+          128,
+          111
+        ],
+        [
+          1028,
+          111
+        ],
+        [
+          1028,
+          136
+        ],
+        [
+          128,
+          136
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직위",
+      "confidence": 0.9994940559069315,
+      "bbox": [
+        [
+          193,
+          183
+        ],
+        [
+          239,
+          183
+        ],
+        [
+          239,
+          205
+        ],
+        [
+          193,
+          205
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자격기준",
+      "confidence": 0.996498417854309,
+      "bbox": [
+        [
+          671,
+          184
+        ],
+        [
+          758,
+          184
+        ],
+        [
+          758,
+          204
+        ],
+        [
+          671,
+          204
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 등단 10년 이상 문인으로 문단에서 활발한 활동을 하고 있는 사람",
+      "confidence": 0.9990909233689308,
+      "bbox": [
+        [
+          349,
+          256
+        ],
+        [
+          1079,
+          256
+        ],
+        [
+          1079,
+          274
+        ],
+        [
+          349,
+          274
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 문학분야 학과의 대학 부교수 이상 재직 경력이 있는 사람",
+      "confidence": 0.9994870628629412,
+      "bbox": [
+        [
+          347,
+          297
+        ],
+        [
+          995,
+          297
+        ],
+        [
+          995,
+          319
+        ],
+        [
+          347,
+          319
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 문학관련 시설 및 기관에서 7년이상 근무경력이 있는 사람",
+      "confidence": 0.9940381578036717,
+      "bbox": [
+        [
+          347,
+          340
+        ],
+        [
+          997,
+          340
+        ],
+        [
+          997,
+          360
+        ],
+        [
+          347,
+          360
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시립문학관",
+      "confidence": 0.9987795501947403,
+      "bbox": [
+        [
+          134,
+          342
+        ],
+        [
+          300,
+          342
+        ],
+        [
+          300,
+          362
+        ],
+        [
+          134,
+          362
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "명예관장",
+      "confidence": 0.9593779563903808,
+      "bbox": [
+        [
+          168,
+          384
+        ],
+        [
+          264,
+          384
+        ],
+        [
+          264,
+          406
+        ],
+        [
+          168,
+          406
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 문학관련 단체에서 7년이상 활동경력이 있는 사람",
+      "confidence": 0.9995521744092305,
+      "bbox": [
+        [
+          347,
+          384
+        ],
+        [
+          906,
+          384
+        ],
+        [
+          906,
+          406
+        ],
+        [
+          347,
+          406
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 문학분야 박사학위 취득 후 관련분야에 10년 이상 재직 또는 재직경력이",
+      "confidence": 0.998803970425628,
+      "bbox": [
+        [
+          347,
+          428
+        ],
+        [
+          1107,
+          428
+        ],
+        [
+          1107,
+          448
+        ],
+        [
+          347,
+          448
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "있는 사람 등 기타 이에 상응하는 조건을 충족한 사람",
+      "confidence": 0.9997874286866957,
+      "bbox": [
+        [
+          370,
+          471
+        ],
+        [
+          947,
+          471
+        ],
+        [
+          947,
+          491
+        ],
+        [
+          370,
+          491
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4. 보수수준",
+      "confidence": 0.9798982606993781,
+      "bbox": [
+        [
+          126,
+          585
+        ],
+        [
+          302,
+          585
+        ],
+        [
+          302,
+          614
+        ],
+        [
+          126,
+          614
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 활동비(월 1,000,000원) 원천징수 후 지급",
+      "confidence": 0.6555469259619713,
+      "bbox": [
+        [
+          128,
+          643
+        ],
+        [
+          654,
+          643
+        ],
+        [
+          654,
+          667
+        ],
+        [
+          128,
+          667
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "5. 관장후보 추천절차",
+      "confidence": 0.9693667037146432,
+      "bbox": [
+        [
+          126,
+          738
+        ],
+        [
+          434,
+          738
+        ],
+        [
+          434,
+          767
+        ],
+        [
+          126,
+          767
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 천안시립문학관 명예관장 공개모집 공고",
+      "confidence": 0.9531302011013031,
+      "bbox": [
+        [
+          129,
+          799
+        ],
+        [
+          630,
+          799
+        ],
+        [
+          630,
+          819
+        ],
+        [
+          129,
+          819
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 공개모집 원서 접수 결과 신청자 수가 2배수 미달 시 재공고 결정",
+      "confidence": 0.9988215535879135,
+      "bbox": [
+        [
+          167,
+          845
+        ],
+        [
+          968,
+          845
+        ],
+        [
+          968,
+          867
+        ],
+        [
+          167,
+          867
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 1차 적격심사 : 응시자격 적격여부 심사",
+      "confidence": 0.9726435983622516,
+      "bbox": [
+        [
+          129,
+          893
+        ],
+        [
+          629,
+          893
+        ],
+        [
+          629,
+          915
+        ],
+        [
+          129,
+          915
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 2차 서류심사 : 서류심사",
+      "confidence": 0.9611445822213825,
+      "bbox": [
+        [
+          129,
+          940
+        ],
+        [
+          454,
+          940
+        ],
+        [
+          454,
+          962
+        ],
+        [
+          129,
+          962
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ (재)천안문화재단 이사장 최종 결정 및 위촉",
+      "confidence": 0.9767557639500191,
+      "bbox": [
+        [
+          129,
+          989
+        ],
+        [
+          674,
+          989
+        ],
+        [
+          674,
+          1011
+        ],
+        [
+          129,
+          1011
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6. 심사방법 및 일정",
+      "confidence": 0.9907889834472111,
+      "bbox": [
+        [
+          126,
+          1082
+        ],
+        [
+          416,
+          1082
+        ],
+        [
+          416,
+          1111
+        ],
+        [
+          126,
+          1111
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 1차: 자격요건 심사",
+      "confidence": 0.9915812239050865,
+      "bbox": [
+        [
+          129,
+          1152
+        ],
+        [
+          391,
+          1152
+        ],
+        [
+          391,
+          1176
+        ],
+        [
+          129,
+          1176
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 경력 및 자격 등 해당분야의 자격요건에 부합한지 적격여부 심사",
+      "confidence": 0.9993967570756611,
+      "bbox": [
+        [
+          176,
+          1202
+        ],
+        [
+          959,
+          1202
+        ],
+        [
+          959,
+          1224
+        ],
+        [
+          176,
+          1224
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 2차: 서류심사",
+      "confidence": 0.9629509082207313,
+      "bbox": [
+        [
+          129,
+          1257
+        ],
+        [
+          330,
+          1257
+        ],
+        [
+          330,
+          1281
+        ],
+        [
+          129,
+          1281
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 대상: 적격자 전원",
+      "confidence": 0.996725755078452,
+      "bbox": [
+        [
+          177,
+          1308
+        ],
+        [
+          416,
+          1308
+        ],
+        [
+          416,
+          1330
+        ],
+        [
+          177,
+          1330
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 시행방법 : 심사위원 3명으로 평가",
+      "confidence": 0.9989424969839014,
+      "bbox": [
+        [
+          177,
+          1354
+        ],
+        [
+          608,
+          1354
+        ],
+        [
+          608,
+          1376
+        ],
+        [
+          177,
+          1376
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 심사방법 : 경력기술서 및 직무수행계획서를 바탕으로 전문성, 비전, 윤리관(인성),",
+      "confidence": 0.9923835647106171,
+      "bbox": [
+        [
+          176,
+          1400
+        ],
+        [
+          1124,
+          1400
+        ],
+        [
+          1124,
+          1426
+        ],
+        [
+          176,
+          1426
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "혁신·소통 등을 종합적으로 평가하며. 위원 평균 60점 이상자 중 위원 전체",
+      "confidence": 0.9883932921621534,
+      "bbox": [
+        [
+          207,
+          1449
+        ],
+        [
+          1121,
+          1449
+        ],
+        [
+          1121,
+          1471
+        ],
+        [
+          207,
+          1471
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "산술평균 고득점자 순위로 선발 (소수점 이하 둘째자리 산정)",
+      "confidence": 0.9962370821407863,
+      "bbox": [
+        [
+          206,
+          1498
+        ],
+        [
+          861,
+          1498
+        ],
+        [
+          861,
+          1520
+        ],
+        [
+          206,
+          1520
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 인사위원회에서 2배수 추천 후 이사장 결정·위촉",
+      "confidence": 0.9812547208801392,
+      "bbox": [
+        [
+          176,
+          1543
+        ],
+        [
+          786,
+          1543
+        ],
+        [
+          786,
+          1567
+        ],
+        [
+          176,
+          1567
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 합격자 발표 예정 : 2025. 12. 09. / 홈페이지 공고 및 개별 통보",
+      "confidence": 0.9918324835598469,
+      "bbox": [
+        [
+          129,
+          1595
+        ],
+        [
+          926,
+          1595
+        ],
+        [
+          926,
+          1619
+        ],
+        [
+          129,
+          1619
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 2 -",
+      "confidence": 0.8236182928085327,
+      "bbox": [
+        [
+          586,
+          1678
+        ],
+        [
+          651,
+          1678
+        ],
+        [
+          651,
+          1696
+        ],
+        [
+          586,
+          1696
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

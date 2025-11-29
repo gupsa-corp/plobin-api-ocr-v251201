@@ -1,0 +1,2357 @@
+{
+  "page_number": 1,
+  "total_blocks": 87,
+  "average_confidence": 0.9432439195803723,
+  "processing_time": 3.5539474487304688,
+  "blocks": [
+    {
+      "text": "로그인",
+      "confidence": 0.9994902312755585,
+      "bbox": [
+        [
+          1096,
+          22
+        ],
+        [
+          1145,
+          22
+        ],
+        [
+          1145,
+          39
+        ],
+        [
+          1096,
+          39
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "무료 시작",
+      "confidence": 0.9983309847967965,
+      "bbox": [
+        [
+          1170,
+          22
+        ],
+        [
+          1233,
+          22
+        ],
+        [
+          1233,
+          40
+        ],
+        [
+          1170,
+          40
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "홈",
+      "confidence": 0.9772981107234955,
+      "bbox": [
+        [
+          457,
+          24
+        ],
+        [
+          474,
+          24
+        ],
+        [
+          474,
+          38
+        ],
+        [
+          457,
+          38
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제품 🗸",
+      "confidence": 0.9930200676123301,
+      "bbox": [
+        [
+          523,
+          24
+        ],
+        [
+          574,
+          24
+        ],
+        [
+          574,
+          39
+        ],
+        [
+          523,
+          39
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지원 🗸",
+      "confidence": 0.9830118318398794,
+      "bbox": [
+        [
+          621,
+          24
+        ],
+        [
+          676,
+          24
+        ],
+        [
+          676,
+          39
+        ],
+        [
+          621,
+          39
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "비즈니스 🗸",
+      "confidence": 0.9908160418272018,
+      "bbox": [
+        [
+          723,
+          24
+        ],
+        [
+          795,
+          24
+        ],
+        [
+          795,
+          39
+        ],
+        [
+          723,
+          39
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "합리적인 요금으로 시작하세요",
+      "confidence": 0.9994994436993319,
+      "bbox": [
+        [
+          354,
+          125
+        ],
+        [
+          922,
+          125
+        ],
+        [
+          922,
+          177
+        ],
+        [
+          354,
+          177
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "규모에 상관없이 모든 팀이 플로빈을 활용할 수 있도록 투명하고 합리적인 요금제를 제공합니다. 언",
+      "confidence": 0.9998980262062767,
+      "bbox": [
+        [
+          258,
+          203
+        ],
+        [
+          1019,
+          203
+        ],
+        [
+          1019,
+          223
+        ],
+        [
+          258,
+          223
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제든지 플랜을 변경하거나 취소할 수 있습니다.",
+      "confidence": 0.999709255165524,
+      "bbox": [
+        [
+          456,
+          230
+        ],
+        [
+          822,
+          230
+        ],
+        [
+          822,
+          252
+        ],
+        [
+          456,
+          252
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인기",
+      "confidence": 0.9978453318277994,
+      "bbox": [
+        [
+          619,
+          264
+        ],
+        [
+          653,
+          264
+        ],
+        [
+          653,
+          279
+        ],
+        [
+          619,
+          279
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "<b>Professional</b>",
+      "confidence": 0.9656225778162479,
+      "bbox": [
+        [
+          564,
+          315
+        ],
+        [
+          716,
+          315
+        ],
+        [
+          716,
+          339
+        ],
+        [
+          564,
+          339
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "<b>Enterprise</b>",
+      "confidence": 0.9660451923097882,
+      "bbox": [
+        [
+          973,
+          326
+        ],
+        [
+          1096,
+          326
+        ],
+        [
+          1096,
+          353
+        ],
+        [
+          973,
+          353
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "Free",
+      "confidence": 0.7581887364387512,
+      "bbox": [
+        [
+          216,
+          328
+        ],
+        [
+          273,
+          328
+        ],
+        [
+          273,
+          348
+        ],
+        [
+          216,
+          348
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "₩29,000 /월",
+      "confidence": 0.9696785509586334,
+      "bbox": [
+        [
+          538,
+          357
+        ],
+        [
+          740,
+          357
+        ],
+        [
+          740,
+          396
+        ],
+        [
+          538,
+          396
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "맞춤 견적",
+      "confidence": 0.9992272087505886,
+      "bbox": [
+        [
+          965,
+          364
+        ],
+        [
+          1101,
+          364
+        ],
+        [
+          1101,
+          398
+        ],
+        [
+          965,
+          398
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "₩0 /월",
+      "confidence": 0.8568370086806161,
+      "bbox": [
+        [
+          199,
+          367
+        ],
+        [
+          289,
+          367
+        ],
+        [
+          289,
+          397
+        ],
+        [
+          199,
+          397
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성장하는 팀과 비즈니스를 위한 전문 플랜",
+      "confidence": 0.9998968665798506,
+      "bbox": [
+        [
+          502,
+          416
+        ],
+        [
+          777,
+          416
+        ],
+        [
+          777,
+          432
+        ],
+        [
+          502,
+          432
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "대기업과 복잡한 요구사항을 위한 맞춤형 솔루",
+      "confidence": 0.9999261177503146,
+      "bbox": [
+        [
+          889,
+          420
+        ],
+        [
+          1179,
+          420
+        ],
+        [
+          1179,
+          438
+        ],
+        [
+          889,
+          438
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "개인 사용자와 소규모 팀을 위한 무료 플랜",
+      "confidence": 0.9997956252098084,
+      "bbox": [
+        [
+          112,
+          421
+        ],
+        [
+          378,
+          421
+        ],
+        [
+          378,
+          438
+        ],
+        [
+          112,
+          438
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "션",
+      "confidence": 0.995051771402359,
+      "bbox": [
+        [
+          1026,
+          446
+        ],
+        [
+          1043,
+          446
+        ],
+        [
+          1043,
+          461
+        ],
+        [
+          1026,
+          461
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "✓ 최대 20명 사용자",
+      "confidence": 0.8708530545234681,
+      "bbox": [
+        [
+          485,
+          473
+        ],
+        [
+          637,
+          473
+        ],
+        [
+          637,
+          490
+        ],
+        [
+          485,
+          490
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "✓ 최대 3명 사용자",
+      "confidence": 0.8227268287113735,
+      "bbox": [
+        [
+          97,
+          477
+        ],
+        [
+          234,
+          477
+        ],
+        [
+          234,
+          493
+        ],
+        [
+          97,
+          493
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "✓ 무제한 사용자",
+      "confidence": 0.5705694357554117,
+      "bbox": [
+        [
+          887,
+          501
+        ],
+        [
+          1010,
+          501
+        ],
+        [
+          1010,
+          518
+        ],
+        [
+          887,
+          518
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "✓ 무제한 프로젝트",
+      "confidence": 0.5573433958567106,
+      "bbox": [
+        [
+          486,
+          516
+        ],
+        [
+          628,
+          516
+        ],
+        [
+          628,
+          532
+        ],
+        [
+          486,
+          532
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "✓ 1개 프로젝트",
+      "confidence": 0.9509657273689905,
+      "bbox": [
+        [
+          97,
+          516
+        ],
+        [
+          213,
+          516
+        ],
+        [
+          213,
+          532
+        ],
+        [
+          97,
+          532
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "✓ 무제한 프로젝트",
+      "confidence": 0.9229145531470959,
+      "bbox": [
+        [
+          887,
+          541
+        ],
+        [
+          1022,
+          541
+        ],
+        [
+          1022,
+          558
+        ],
+        [
+          887,
+          558
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "✓ 1GB 스토리지",
+      "confidence": 0.9303975247201466,
+      "bbox": [
+        [
+          98,
+          557
+        ],
+        [
+          221,
+          557
+        ],
+        [
+          221,
+          574
+        ],
+        [
+          98,
+          574
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "✓ 100GB 스토리지",
+      "confidence": 0.9539297404496566,
+      "bbox": [
+        [
+          486,
+          558
+        ],
+        [
+          635,
+          558
+        ],
+        [
+          635,
+          574
+        ],
+        [
+          486,
+          574
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "✓ 무제한 스토리지",
+      "confidence": 0.9260313510894775,
+      "bbox": [
+        [
+          887,
+          581
+        ],
+        [
+          1021,
+          581
+        ],
+        [
+          1021,
+          598
+        ],
+        [
+          887,
+          598
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "✓ 커뮤니티 지원",
+      "confidence": 0.6752145886421204,
+      "bbox": [
+        [
+          98,
+          597
+        ],
+        [
+          219,
+          597
+        ],
+        [
+          219,
+          614
+        ],
+        [
+          98,
+          614
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "✓ 우선 이메일 지원",
+      "confidence": 0.9360668531485966,
+      "bbox": [
+        [
+          486,
+          598
+        ],
+        [
+          632,
+          598
+        ],
+        [
+          632,
+          616
+        ],
+        [
+          486,
+          616
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "✓ 24/7 전담 지원",
+      "confidence": 0.754349950949351,
+      "bbox": [
+        [
+          887,
+          621
+        ],
+        [
+          1017,
+          621
+        ],
+        [
+          1017,
+          638
+        ],
+        [
+          887,
+          638
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "✓ SLA 보장",
+      "confidence": 0.6500190182736045,
+      "bbox": [
+        [
+          886,
+          660
+        ],
+        [
+          983,
+          660
+        ],
+        [
+          983,
+          677
+        ],
+        [
+          886,
+          677
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "무료로 시작하기",
+      "confidence": 0.999740993976593,
+      "bbox": [
+        [
+          189,
+          665
+        ],
+        [
+          299,
+          665
+        ],
+        [
+          299,
+          682
+        ],
+        [
+          189,
+          682
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시작하기",
+      "confidence": 0.9980832457542419,
+      "bbox": [
+        [
+          606,
+          670
+        ],
+        [
+          673,
+          670
+        ],
+        [
+          673,
+          690
+        ],
+        [
+          606,
+          690
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문의하기",
+      "confidence": 0.9991187930107117,
+      "bbox": [
+        [
+          1004,
+          731
+        ],
+        [
+          1065,
+          731
+        ],
+        [
+          1065,
+          748
+        ],
+        [
+          1004,
+          748
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "요금제 상세 비교",
+      "confidence": 0.9984728368845853,
+      "bbox": [
+        [
+          538,
+          930
+        ],
+        [
+          739,
+          930
+        ],
+        [
+          739,
+          959
+        ],
+        [
+          538,
+          959
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "신뢰할 수 있는 파트너",
+      "confidence": 0.9992385974952153,
+      "bbox": [
+        [
+          509,
+          1142
+        ],
+        [
+          768,
+          1142
+        ],
+        [
+          768,
+          1172
+        ],
+        [
+          509,
+          1172
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "플로빈은 고객님의 비즈니스 성장과 보안을 최우선으로 생각합니다",
+      "confidence": 0.9932342949840758,
+      "bbox": [
+        [
+          381,
+          1197
+        ],
+        [
+          898,
+          1197
+        ],
+        [
+          898,
+          1214
+        ],
+        [
+          381,
+          1214
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "•••",
+      "confidence": 0.698047548532486,
+      "bbox": [
+        [
+          788,
+          1290
+        ],
+        [
+          809,
+          1290
+        ],
+        [
+          809,
+          1304
+        ],
+        [
+          788,
+          1304
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "엔터프라이즈급 보안",
+      "confidence": 0.9997204144795736,
+      "bbox": [
+        [
+          90,
+          1352
+        ],
+        [
+          242,
+          1352
+        ],
+        [
+          242,
+          1370
+        ],
+        [
+          90,
+          1370
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "99.9% 가동률 보장",
+      "confidence": 0.9428773990699223,
+      "bbox": [
+        [
+          407,
+          1352
+        ],
+        [
+          556,
+          1352
+        ],
+        [
+          556,
+          1370
+        ],
+        [
+          407,
+          1370
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "7일 환불 보장",
+      "confidence": 0.9922504961490631,
+      "bbox": [
+        [
+          1061,
+          1352
+        ],
+        [
+          1166,
+          1352
+        ],
+        [
+          1166,
+          1370
+        ],
+        [
+          1061,
+          1370
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "24/7 전문 지원",
+      "confidence": 0.899870753288269,
+      "bbox": [
+        [
+          741,
+          1353
+        ],
+        [
+          855,
+          1353
+        ],
+        [
+          855,
+          1370
+        ],
+        [
+          741,
+          1370
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "SLA 계약을 통해 안정적인 서비스를 보장하",
+      "confidence": 0.9988185741283275,
+      "bbox": [
+        [
+          343,
+          1386
+        ],
+        [
+          626,
+          1386
+        ],
+        [
+          626,
+          1403
+        ],
+        [
+          343,
+          1403
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "한국어 지원팀이 언제든지 도움을 드립니다.",
+      "confidence": 0.9998724341392518,
+      "bbox": [
+        [
+          659,
+          1387
+        ],
+        [
+          941,
+          1387
+        ],
+        [
+          941,
+          1404
+        ],
+        [
+          659,
+          1404
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "서비스가 만족스럽지 않으시다면 7일 이내 전",
+      "confidence": 0.999830926840122,
+      "bbox": [
+        [
+          970,
+          1387
+        ],
+        [
+          1255,
+          1387
+        ],
+        [
+          1255,
+          1404
+        ],
+        [
+          970,
+          1404
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "256-bit SSL 암호화, SOC 2 Type II 인증,",
+      "confidence": 0.9987151751647124,
+      "bbox": [
+        [
+          24,
+          1388
+        ],
+        [
+          311,
+          1388
+        ],
+        [
+          311,
+          1406
+        ],
+        [
+          24,
+          1406
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "GDPR 준수로 데이터를 안전하게 보호합니",
+      "confidence": 0.9846218388814193,
+      "bbox": [
+        [
+          28,
+          1411
+        ],
+        [
+          306,
+          1411
+        ],
+        [
+          306,
+          1428
+        ],
+        [
+          28,
+          1428
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "며, 중단 시 크레딧을 제공합니다.",
+      "confidence": 0.9993159770965576,
+      "bbox": [
+        [
+          376,
+          1411
+        ],
+        [
+          589,
+          1411
+        ],
+        [
+          589,
+          1428
+        ],
+        [
+          376,
+          1428
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "평균 응답 시간 1시간 이내.",
+      "confidence": 0.999565323193868,
+      "bbox": [
+        [
+          710,
+          1411
+        ],
+        [
+          886,
+          1411
+        ],
+        [
+          886,
+          1428
+        ],
+        [
+          710,
+          1428
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "액 환불해 드립니다.",
+      "confidence": 0.9997950333815354,
+      "bbox": [
+        [
+          1049,
+          1411
+        ],
+        [
+          1178,
+          1411
+        ],
+        [
+          1178,
+          1428
+        ],
+        [
+          1049,
+          1428
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다.",
+      "confidence": 0.9687881916761398,
+      "bbox": [
+        [
+          152,
+          1435
+        ],
+        [
+          180,
+          1435
+        ],
+        [
+          180,
+          1451
+        ],
+        [
+          152,
+          1451
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "🏰 중견기업 200+",
+      "confidence": 0.900178645665829,
+      "bbox": [
+        [
+          622,
+          1543
+        ],
+        [
+          772,
+          1543
+        ],
+        [
+          772,
+          1563
+        ],
+        [
+          622,
+          1563
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "신뢰하는 기업들:",
+      "confidence": 0.99792757359418,
+      "bbox": [
+        [
+          347,
+          1545
+        ],
+        [
+          461,
+          1545
+        ],
+        [
+          461,
+          1561
+        ],
+        [
+          347,
+          1561
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "때기업 50+",
+      "confidence": 0.6971757610638937,
+      "bbox": [
+        [
+          485,
+          1545
+        ],
+        [
+          600,
+          1545
+        ],
+        [
+          600,
+          1562
+        ],
+        [
+          485,
+          1562
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "요금제 관련 자주 묻는 질문",
+      "confidence": 0.9990613530663883,
+      "bbox": [
+        [
+          480,
+          1699
+        ],
+        [
+          797,
+          1699
+        ],
+        [
+          797,
+          1729
+        ],
+        [
+          480,
+          1729
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "결제 방법은 무엇이 있나요?",
+      "confidence": 0.9998545611605925,
+      "bbox": [
+        [
+          237,
+          1802
+        ],
+        [
+          437,
+          1802
+        ],
+        [
+          437,
+          1820
+        ],
+        [
+          237,
+          1820
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "언제든지 플랜을 변경할 수 있나요?",
+      "confidence": 0.9998441281772795,
+      "bbox": [
+        [
+          237,
+          1896
+        ],
+        [
+          489,
+          1896
+        ],
+        [
+          489,
+          1914
+        ],
+        [
+          237,
+          1914
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "<math>\\vee</math>",
+      "confidence": 0.741392519738939,
+      "bbox": [
+        [
+          1021,
+          1901
+        ],
+        [
+          1037,
+          1901
+        ],
+        [
+          1037,
+          1913
+        ],
+        [
+          1021,
+          1913
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "환불 정책은 어떻게 되나요?",
+      "confidence": 0.9993335008621216,
+      "bbox": [
+        [
+          237,
+          1990
+        ],
+        [
+          437,
+          1990
+        ],
+        [
+          437,
+          2008
+        ],
+        [
+          237,
+          2008
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "V",
+      "confidence": 0.5625616163015366,
+      "bbox": [
+        [
+          1020,
+          1993
+        ],
+        [
+          1037,
+          1993
+        ],
+        [
+          1037,
+          2006
+        ],
+        [
+          1020,
+          2006
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지금 바로 플로빈을 시작해보세요",
+      "confidence": 0.999479918103469,
+      "bbox": [
+        [
+          443,
+          2159
+        ],
+        [
+          834,
+          2159
+        ],
+        [
+          834,
+          2191
+        ],
+        [
+          443,
+          2191
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "무료로 시작하고 언제든지 업그레이드하세요.",
+      "confidence": 0.9999064898490906,
+      "bbox": [
+        [
+          461,
+          2220
+        ],
+        [
+          814,
+          2220
+        ],
+        [
+          814,
+          2242
+        ],
+        [
+          461,
+          2242
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "무료로 시작하기",
+      "confidence": 0.9990340054035187,
+      "bbox": [
+        [
+          509,
+          2299
+        ],
+        [
+          627,
+          2299
+        ],
+        [
+          627,
+          2317
+        ],
+        [
+          509,
+          2317
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문의하기",
+      "confidence": 0.9970573306083679,
+      "bbox": [
+        [
+          704,
+          2300
+        ],
+        [
+          769,
+          2300
+        ],
+        [
+          769,
+          2318
+        ],
+        [
+          704,
+          2318
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "플로빈",
+      "confidence": 0.9391775876283646,
+      "bbox": [
+        [
+          30,
+          2457
+        ],
+        [
+          86,
+          2457
+        ],
+        [
+          86,
+          2475
+        ],
+        [
+          30,
+          2475
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제품",
+      "confidence": 0.9982400337855021,
+      "bbox": [
+        [
+          340,
+          2457
+        ],
+        [
+          375,
+          2457
+        ],
+        [
+          375,
+          2474
+        ],
+        [
+          340,
+          2474
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지원",
+      "confidence": 0.998989999294281,
+      "bbox": [
+        [
+          652,
+          2457
+        ],
+        [
+          684,
+          2457
+        ],
+        [
+          684,
+          2474
+        ],
+        [
+          652,
+          2474
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "회사",
+      "confidence": 0.9986023902893066,
+      "bbox": [
+        [
+          965,
+          2457
+        ],
+        [
+          998,
+          2457
+        ],
+        [
+          998,
+          2473
+        ],
+        [
+          965,
+          2473
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "핵심 기능",
+      "confidence": 0.9993318659918649,
+      "bbox": [
+        [
+          341,
+          2494
+        ],
+        [
+          397,
+          2494
+        ],
+        [
+          397,
+          2509
+        ],
+        [
+          341,
+          2509
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문서",
+      "confidence": 0.9986315766970316,
+      "bbox": [
+        [
+          654,
+          2495
+        ],
+        [
+          683,
+          2495
+        ],
+        [
+          683,
+          2510
+        ],
+        [
+          654,
+          2510
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "회사 소개",
+      "confidence": 0.999678203037807,
+      "bbox": [
+        [
+          966,
+          2495
+        ],
+        [
+          1021,
+          2495
+        ],
+        [
+          1021,
+          2510
+        ],
+        [
+          966,
+          2510
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(주)겁쟁이사자들 | 대표 : 김준",
+      "confidence": 0.9893853919846671,
+      "bbox": [
+        [
+          28,
+          2497
+        ],
+        [
+          179,
+          2497
+        ],
+        [
+          179,
+          2511
+        ],
+        [
+          28,
+          2511
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "충청남도 천안시 서북구 천안천4길 32, 404, 409호",
+      "confidence": 0.9945409683620229,
+      "bbox": [
+        [
+          29,
+          2513
+        ],
+        [
+          286,
+          2513
+        ],
+        [
+          286,
+          2527
+        ],
+        [
+          29,
+          2527
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "파트너",
+      "confidence": 0.9992368221282959,
+      "bbox": [
+        [
+          965,
+          2522
+        ],
+        [
+          1006,
+          2522
+        ],
+        [
+          1006,
+          2538
+        ],
+        [
+          965,
+          2538
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "요금제",
+      "confidence": 0.9993671029806137,
+      "bbox": [
+        [
+          341,
+          2523
+        ],
+        [
+          382,
+          2523
+        ],
+        [
+          382,
+          2538
+        ],
+        [
+          341,
+          2538
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "고객 지원",
+      "confidence": 0.9995041574750628,
+      "bbox": [
+        [
+          653,
+          2523
+        ],
+        [
+          710,
+          2523
+        ],
+        [
+          710,
+          2538
+        ],
+        [
+          653,
+          2538
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사업자등록번호: 447-60-02031",
+      "confidence": 0.9992263498513595,
+      "bbox": [
+        [
+          29,
+          2529
+        ],
+        [
+          204,
+          2529
+        ],
+        [
+          204,
+          2543
+        ],
+        [
+          29,
+          2543
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "통신판매업신고번호: 2021-충남천안-0497",
+      "confidence": 0.983419782585568,
+      "bbox": [
+        [
+          29,
+          2545
+        ],
+        [
+          250,
+          2545
+        ],
+        [
+          250,
+          2559
+        ],
+        [
+          29,
+          2559
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "데모 보기",
+      "confidence": 0.9995383279664176,
+      "bbox": [
+        [
+          340,
+          2551
+        ],
+        [
+          400,
+          2551
+        ],
+        [
+          400,
+          2566
+        ],
+        [
+          340,
+          2566
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "고객센터: 041-553-5472",
+      "confidence": 0.870557501912117,
+      "bbox": [
+        [
+          29,
+          2561
+        ],
+        [
+          170,
+          2561
+        ],
+        [
+          170,
+          2574
+        ],
+        [
+          29,
+          2574
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "© 2025 플로빈. All rights reserved.",
+      "confidence": 0.966579954964774,
+      "bbox": [
+        [
+          28,
+          2600
+        ],
+        [
+          225,
+          2600
+        ],
+        [
+          225,
+          2614
+        ],
+        [
+          28,
+          2614
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "이용약관",
+      "confidence": 0.9995988726615905,
+      "bbox": [
+        [
+          152,
+          2684
+        ],
+        [
+          210,
+          2684
+        ],
+        [
+          210,
+          2699
+        ],
+        [
+          152,
+          2699
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "개인정보처리방침",
+      "confidence": 0.9980281790097555,
+      "bbox": [
+        [
+          28,
+          2685
+        ],
+        [
+          130,
+          2685
+        ],
+        [
+          130,
+          2699
+        ],
+        [
+          28,
+          2699
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "보안정책",
+      "confidence": 0.9994304895401,
+      "bbox": [
+        [
+          229,
+          2685
+        ],
+        [
+          282,
+          2685
+        ],
+        [
+          282,
+          2698
+        ],
+        [
+          229,
+          2698
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문의: support@plobin.com",
+      "confidence": 0.9977981901168823,
+      "bbox": [
+        [
+          1068,
+          2685
+        ],
+        [
+          1250,
+          2685
+        ],
+        [
+          1250,
+          2700
+        ],
+        [
+          1068,
+          2700
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

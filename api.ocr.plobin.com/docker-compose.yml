@@ -1,0 +1,30 @@
+services:
+  ocr-reader-gpu:
+    image: docker.io/library/apiocrplobincom-ocr-reader-gpu:latest
+    container_name: plobin-ocr-reader-gpu
+    ports:
+      - "40001:40001"
+    volumes:
+      - ./FastApi:/app
+      - ./fonts:/fonts
+      - ./output:/app/output
+      - ./cache:/tmp/.cache
+      - ./cache:/root/.cache
+    environment:
+      - PYTHONUNBUFFERED=1
+      - TORCH_HOME=/tmp/.cache
+      - TRANSFORMERS_CACHE=/tmp/.cache
+      - HF_HOME=/tmp/.cache
+      - CUDA_VISIBLE_DEVICES=0
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+    restart: unless-stopped
+    command: uvicorn api_server:app --host 0.0.0.0 --port 40001 --reload
+    devices:
+      - nvidia.com/gpu=all
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:40001/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 120s

@@ -1,0 +1,820 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "(재)천안문화재단 공고 2025 - 86호. 천안문화재단 2025년 제3차 기간제 근로자. (장애인·보훈전형) 채용 재공고",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 10,
+      "footer": 0,
+      "other": 32
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.985,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 41,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.668,
+      "english": 0.0,
+      "other": 0.332
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 42,
+    "total_characters": 559,
+    "analyzed_at": "2025-11-20T07:39:43.693365"
+  },
+  "block_summaries": [
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "(재)천안문화재단 공고 2025 - 86호",
+      "keywords": [
+        "천안문화재단",
+        "2025",
+        "86호"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:43.692596"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "천안문화재단 2025년 제3차 기간제 근로자",
+      "keywords": [
+        "천안문화재단",
+        "2025년",
+        "제3차",
+        "기간제",
+        "근로자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 24,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:43.692623"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(장애인·보훈전형) 채용 재공고",
+      "keywords": [
+        "장애인",
+        "보훈전형",
+        "재공고"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:43.692643"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "(재)천안문화재단에서 공고 2025 -71호(2025년...",
+      "keywords": [
+        "천안문화재단에서",
+        "2025",
+        "71호",
+        "2025년",
+        "제3차"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 46,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:43.692668"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "관련하여 경쟁미달 및 적격자가 없음에 따라, 재공고 모...",
+      "keywords": [
+        "관련하여",
+        "경쟁미달",
+        "적격자가",
+        "없음에",
+        "재공고"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 10,
+      "analyzed_at": "2025-11-20T07:39:43.692693"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "지원 바랍니다.",
+      "keywords": [
+        "바랍니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:43.692707"
+    },
+    {
+      "content_type": "table",
+      "language": "other",
+      "text_preview": "2025. 06. 05.",
+      "keywords": [
+        "2025"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:43.692726"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(재)천안문화재단 이사장",
+      "keywords": [
+        "천안문화재단",
+        "이사장"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:43.692742"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 채용분야 및 인원",
+      "keywords": [
+        "채용분야"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:43.692755"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "직급",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692766"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "인원",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692775"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "채용분야",
+      "keywords": [
+        "채용분야"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692785"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "담당업무",
+      "keywords": [
+        "담당업무"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692794"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "비고",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692803"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "계",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692812"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "3",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692821"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "남산문화창작소",
+      "keywords": [
+        "남산문화창작소"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692832"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "• 남산문화창작소 프로그램 등 기획·운영",
+      "keywords": [
+        "남산문화창작소",
+        "프로그램"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:43.692848"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기획운영",
+      "keywords": [
+        "기획운영"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692857"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "1",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692865"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "• 부서 사업운영 지원 및 서무업무",
+      "keywords": [
+        "사업운영",
+        "서무업무"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:43.692881"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(육아휴직대체)",
+      "keywords": [
+        "육아휴직대체"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692892"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "보훈",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692900"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "• 2025 문화예술교육사 현장 역량강화",
+      "keywords": [
+        "2025",
+        "문화예술교육사",
+        "역량강화"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:43.692916"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기간제",
+      "keywords": [
+        "기간제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692925"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "문화예술교육사",
+      "keywords": [
+        "문화예술교육사"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692935"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "사업 교육프로그램 기획 및 운영",
+      "keywords": [
+        "교육프로그램"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:43.692948"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "1",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692956"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "근로자",
+      "keywords": [
+        "근로자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.692965"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "• 천안시립미술관 학예업무 운영지원",
+      "keywords": [
+        "천안시립미술관",
+        "학예업무",
+        "운영지원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:43.692977"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "• 교육프로그램 기획 및 운영(지역특성화)",
+      "keywords": [
+        "교육프로그램",
+        "지역특성화"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:43.692992"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "천안시립미술관",
+      "keywords": [
+        "천안시립미술관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.693001"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "전시운영",
+      "keywords": [
+        "전시운영"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.693010"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1 • 문화행사 기획 및 운영",
+      "keywords": [
+        "문화행사"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 16,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:43.693022"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "장애인",
+      "keywords": [
+        "장애인"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.693032"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(육아휴직대체)",
+      "keywords": [
+        "육아휴직대체"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:43.693043"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "• 학예업무 및 미술관 업무 등",
+      "keywords": [
+        "학예업무",
+        "미술관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:43.693058"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 응시 자격",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:43.693068"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "가. 공통사항",
+      "keywords": [
+        "공통사항"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:43.693079"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1) 지방공무원법 제31조 및 천안문화재단 인사규정 제...",
+      "keywords": [
+        "지방공무원법",
+        "제31조",
+        "천안문화재단",
+        "인사규정",
+        "제20조의"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 40,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:43.693097"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "없는 자 및 기타 법령에 의하여 응시자격이 정지되지 아...",
+      "keywords": [
+        "법령에",
+        "의하여",
+        "응시자격이",
+        "정지되지",
+        "아니한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 10,
+      "analyzed_at": "2025-11-20T07:39:43.693115"
+    },
+    {
+      "content_type": "table",
+      "language": "other",
+      "text_preview": "- 1 -",
+      "keywords": [],
+      "confidence_level": "low",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:43.693124"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

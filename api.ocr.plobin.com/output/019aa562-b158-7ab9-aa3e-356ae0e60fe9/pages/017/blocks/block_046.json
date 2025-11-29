@@ -1,0 +1,17 @@
+{
+  "block_id": 46,
+  "text": "• 배포 설정: 페이지 배포 관련 설정",
+  "confidence": 0.9585285705068837,
+  "bbox": {
+    "x_min": 172,
+    "y_min": 1540,
+    "x_max": 497,
+    "y_max": 1564,
+    "width": 325,
+    "height": 24
+  },
+  "block_type": "text",
+  "text_length": 21,
+  "created_at": "2025-11-21T07:48:51.350272",
+  "version": "1.0"
+}

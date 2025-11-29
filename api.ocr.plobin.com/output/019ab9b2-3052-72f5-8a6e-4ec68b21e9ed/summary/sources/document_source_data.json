@@ -1,0 +1,901 @@
+{
+  "request_id": "019ab9b2-3052-72f5-8a6e-4ec68b21e9ed",
+  "collection_timestamp": "2025-11-25T06:31:25.820747",
+  "total_pages": 1,
+  "total_blocks": 18,
+  "pages_data": [
+    {
+      "page_number": 1,
+      "data": {
+        "page_number": 1,
+        "total_blocks": 18,
+        "average_confidence": 0.9251316862232384,
+        "processing_time": 1.4264099597930908,
+        "blocks": [
+          {
+            "id": 0,
+            "text": "강원특별자치도 동해시",
+            "confidence": 0.9997730346826407,
+            "bbox": {
+              "x_min": 12,
+              "y_min": 5,
+              "x_max": 178,
+              "y_max": 22,
+              "width": 166,
+              "height": 17
+            },
+            "bbox_points": [
+              [
+                12,
+                5
+              ],
+              [
+                178,
+                5
+              ],
+              [
+                178,
+                22
+              ],
+              [
+                12,
+                22
+              ]
+            ],
+            "type": "text",
+            "area": 2822
+          },
+          {
+            "id": 1,
+            "text": "천곡동 기준",
+            "confidence": 0.9986872225999832,
+            "bbox": {
+              "x_min": 12,
+              "y_min": 27,
+              "x_max": 81,
+              "y_max": 41,
+              "width": 69,
+              "height": 14
+            },
+            "bbox_points": [
+              [
+                12,
+                27
+              ],
+              [
+                81,
+                27
+              ],
+              [
+                81,
+                41
+              ],
+              [
+                12,
+                41
+              ]
+            ],
+            "type": "text",
+            "area": 966
+          },
+          {
+            "id": 2,
+            "text": "오늘 내일 모레 월간 과거",
+            "confidence": 0.9980932772159576,
+            "bbox": {
+              "x_min": 12,
+              "y_min": 60,
+              "x_max": 228,
+              "y_max": 74,
+              "width": 216,
+              "height": 14
+            },
+            "bbox_points": [
+              [
+                12,
+                60
+              ],
+              [
+                228,
+                60
+              ],
+              [
+                228,
+                74
+              ],
+              [
+                12,
+                74
+              ]
+            ],
+            "type": "text",
+            "area": 3024
+          },
+          {
+            "id": 3,
+            "text": "기상청 아큐웨더 웨더채널 웨더뉴스",
+            "confidence": 0.9970135591924191,
+            "bbox": {
+              "x_min": 22,
+              "y_min": 112,
+              "x_max": 292,
+              "y_max": 128,
+              "width": 270,
+              "height": 16
+            },
+            "bbox_points": [
+              [
+                22,
+                112
+              ],
+              [
+                292,
+                112
+              ],
+              [
+                292,
+                128
+              ],
+              [
+                22,
+                128
+              ]
+            ],
+            "type": "text",
+            "area": 4320,
+            "merged_from": 4
+          },
+          {
+            "id": 8,
+            "text": "17.8°",
+            "confidence": 0.7289016417094639,
+            "bbox": {
+              "x_min": 265,
+              "y_min": 180,
+              "x_max": 385,
+              "y_max": 222,
+              "width": 120,
+              "height": 42
+            },
+            "bbox_points": [
+              [
+                265,
+                180
+              ],
+              [
+                385,
+                180
+              ],
+              [
+                385,
+                222
+              ],
+              [
+                265,
+                222
+              ]
+            ],
+            "type": "text",
+            "area": 5040
+          },
+          {
+            "id": 9,
+            "text": "어제보다 0.3°↑ / 맑음",
+            "confidence": 0.988718004603135,
+            "bbox": {
+              "x_min": 210,
+              "y_min": 245,
+              "x_max": 387,
+              "y_max": 262,
+              "width": 177,
+              "height": 17
+            },
+            "bbox_points": [
+              [
+                210,
+                245
+              ],
+              [
+                387,
+                245
+              ],
+              [
+                387,
+                262
+              ],
+              [
+                210,
+                262
+              ]
+            ],
+            "type": "text",
+            "area": 3009
+          },
+          {
+            "id": 10,
+            "text": "체감 17.8° - 습도 68% - 북풍 3.3m/s",
+            "confidence": 0.9836567956954241,
+            "bbox": {
+              "x_min": 192,
+              "y_min": 273,
+              "x_max": 405,
+              "y_max": 286,
+              "width": 213,
+              "height": 13
+            },
+            "bbox_points": [
+              [
+                192,
+                273
+              ],
+              [
+                405,
+                273
+              ],
+              [
+                405,
+                286
+              ],
+              [
+                192,
+                286
+              ]
+            ],
+            "type": "text",
+            "area": 2769
+          },
+          {
+            "id": 14,
+            "text": "미세먼지 초미세먼지 자외선 일몰 날씨를 공유해보세요!",
+            "confidence": 0.9933817006227297,
+            "bbox": {
+              "x_min": 30,
+              "y_min": 313,
+              "x_max": 574,
+              "y_max": 328,
+              "width": 544,
+              "height": 15
+            },
+            "bbox_points": [
+              [
+                30,
+                313
+              ],
+              [
+                574,
+                313
+              ],
+              [
+                574,
+                328
+              ],
+              [
+                30,
+                328
+              ]
+            ],
+            "type": "text",
+            "area": 8160,
+            "merged_from": 5
+          },
+          {
+            "id": 18,
+            "text": "좋음 좋음 좋음 17:27 ♪ 날씨 제보톡 >",
+            "confidence": 0.976407217411768,
+            "bbox": {
+              "x_min": 30,
+              "y_min": 330,
+              "x_max": 545,
+              "y_max": 346,
+              "width": 515,
+              "height": 16
+            },
+            "bbox_points": [
+              [
+                30,
+                330
+              ],
+              [
+                545,
+                330
+              ],
+              [
+                545,
+                346
+              ],
+              [
+                30,
+                346
+              ]
+            ],
+            "type": "text",
+            "area": 8240,
+            "merged_from": 5
+          },
+          {
+            "id": 21,
+            "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 날씨 지도",
+            "confidence": 0.8735748000797772,
+            "bbox": {
+              "x_min": 128,
+              "y_min": 387,
+              "x_max": 470,
+              "y_max": 401,
+              "width": 342,
+              "height": 14
+            },
+            "bbox_points": [
+              [
+                128,
+                387
+              ],
+              [
+                470,
+                387
+              ],
+              [
+                470,
+                401
+              ],
+              [
+                128,
+                401
+              ]
+            ],
+            "type": "text",
+            "area": 4788,
+            "merged_from": 2
+          },
+          {
+            "id": 23,
+            "text": "날씨 강수 바람 습도",
+            "confidence": 0.9810363799333572,
+            "bbox": {
+              "x_min": 24,
+              "y_min": 459,
+              "x_max": 206,
+              "y_max": 474,
+              "width": 182,
+              "height": 15
+            },
+            "bbox_points": [
+              [
+                24,
+                459
+              ],
+              [
+                206,
+                459
+              ],
+              [
+                206,
+                474
+              ],
+              [
+                24,
+                474
+              ]
+            ],
+            "type": "text",
+            "area": 2730,
+            "merged_from": 4
+          },
+          {
+            "id": 34,
+            "text": "13° 13° 12° 12° 12° 12° 13° 14° 15° 16° 17° 17° 17°",
+            "confidence": 0.9424787017015309,
+            "bbox": {
+              "x_min": 13,
+              "y_min": 510,
+              "x_max": 562,
+              "y_max": 533,
+              "width": 549,
+              "height": 23
+            },
+            "bbox_points": [
+              [
+                13,
+                510
+              ],
+              [
+                562,
+                510
+              ],
+              [
+                562,
+                533
+              ],
+              [
+                13,
+                533
+              ]
+            ],
+            "type": "text",
+            "area": 12627,
+            "merged_from": 13
+          },
+          {
+            "id": 41,
+            "text": "< >",
+            "confidence": 0.8278788626194,
+            "bbox": {
+              "x_min": 10,
+              "y_min": 552,
+              "x_max": 587,
+              "y_max": 570,
+              "width": 577,
+              "height": 18
+            },
+            "bbox_points": [
+              [
+                10,
+                552
+              ],
+              [
+                587,
+                552
+              ],
+              [
+                587,
+                570
+              ],
+              [
+                10,
+                570
+              ]
+            ],
+            "type": "text",
+            "area": 10386,
+            "merged_from": 2
+          },
+          {
+            "id": 42,
+            "text": "986",
+            "confidence": 0.5009552165865898,
+            "bbox": {
+              "x_min": 186,
+              "y_min": 574,
+              "x_max": 209,
+              "y_max": 588,
+              "width": 23,
+              "height": 14
+            },
+            "bbox_points": [
+              [
+                186,
+                574
+              ],
+              [
+                209,
+                574
+              ],
+              [
+                209,
+                588
+              ],
+              [
+                186,
+                588
+              ]
+            ],
+            "type": "text",
+            "area": 322
+          },
+          {
+            "id": 44,
+            "text": "02시 03시 04시 05시 06시 07시 08시 09시 10시 11시 12시 13시",
+            "confidence": 0.9050704116622607,
+            "bbox": {
+              "x_min": 12,
+              "y_min": 602,
+              "x_max": 520,
+              "y_max": 614,
+              "width": 508,
+              "height": 12
+            },
+            "bbox_points": [
+              [
+                12,
+                602
+              ],
+              [
+                520,
+                602
+              ],
+              [
+                520,
+                614
+              ],
+              [
+                12,
+                614
+              ]
+            ],
+            "type": "text",
+            "area": 6096,
+            "merged_from": 12
+          },
+          {
+            "id": 57,
+            "text": "주간예보 ① 최저 최고 기준",
+            "confidence": 0.9813495695590972,
+            "bbox": {
+              "x_min": 12,
+              "y_min": 675,
+              "x_max": 585,
+              "y_max": 691,
+              "width": 573,
+              "height": 16
+            },
+            "bbox_points": [
+              [
+                12,
+                675
+              ],
+              [
+                585,
+                675
+              ],
+              [
+                585,
+                691
+              ],
+              [
+                12,
+                691
+              ]
+            ],
+            "type": "text",
+            "area": 9168,
+            "merged_from": 2
+          },
+          {
+            "id": 60,
+            "text": "오늘 오전 오후 11° 18° 내일 60% 0% 11° 18°",
+            "confidence": 0.9858554047014977,
+            "bbox": {
+              "x_min": 27,
+              "y_min": 717,
+              "x_max": 576,
+              "y_max": 738,
+              "width": 549,
+              "height": 21
+            },
+            "bbox_points": [
+              [
+                27,
+                717
+              ],
+              [
+                576,
+                717
+              ],
+              [
+                576,
+                738
+              ],
+              [
+                27,
+                738
+              ]
+            ],
+            "type": "text",
+            "area": 11529,
+            "merged_from": 8
+          },
+          {
+            "id": 70,
+            "text": "10.31. 20% 20% 11.01.",
+            "confidence": 0.9895385514412607,
+            "bbox": {
+              "x_min": 26,
+              "y_min": 734,
+              "x_max": 353,
+              "y_max": 748,
+              "width": 327,
+              "height": 14
+            },
+            "bbox_points": [
+              [
+                26,
+                734
+              ],
+              [
+                353,
+                734
+              ],
+              [
+                353,
+                748
+              ],
+              [
+                26,
+                748
+              ]
+            ],
+            "type": "text",
+            "area": 4578,
+            "merged_from": 4
+          }
+        ]
+      }
+    }
+  ],
+  "text_blocks": [
+    {
+      "page": 1,
+      "block_id": 0,
+      "text": "강원특별자치도 동해시",
+      "confidence": 0.9997730346826407,
+      "type": "text",
+      "bbox": {
+        "x_min": 12,
+        "y_min": 5,
+        "x_max": 178,
+        "y_max": 22,
+        "width": 166,
+        "height": 17
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 1,
+      "text": "천곡동 기준",
+      "confidence": 0.9986872225999832,
+      "type": "text",
+      "bbox": {
+        "x_min": 12,
+        "y_min": 27,
+        "x_max": 81,
+        "y_max": 41,
+        "width": 69,
+        "height": 14
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 2,
+      "text": "오늘 내일 모레 월간 과거",
+      "confidence": 0.9980932772159576,
+      "type": "text",
+      "bbox": {
+        "x_min": 12,
+        "y_min": 60,
+        "x_max": 228,
+        "y_max": 74,
+        "width": 216,
+        "height": 14
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 3,
+      "text": "기상청 아큐웨더 웨더채널 웨더뉴스",
+      "confidence": 0.9970135591924191,
+      "type": "text",
+      "bbox": {
+        "x_min": 22,
+        "y_min": 112,
+        "x_max": 292,
+        "y_max": 128,
+        "width": 270,
+        "height": 16
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 8,
+      "text": "17.8°",
+      "confidence": 0.7289016417094639,
+      "type": "text",
+      "bbox": {
+        "x_min": 265,
+        "y_min": 180,
+        "x_max": 385,
+        "y_max": 222,
+        "width": 120,
+        "height": 42
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 9,
+      "text": "어제보다 0.3°↑ / 맑음",
+      "confidence": 0.988718004603135,
+      "type": "text",
+      "bbox": {
+        "x_min": 210,
+        "y_min": 245,
+        "x_max": 387,
+        "y_max": 262,
+        "width": 177,
+        "height": 17
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 10,
+      "text": "체감 17.8° - 습도 68% - 북풍 3.3m/s",
+      "confidence": 0.9836567956954241,
+      "type": "text",
+      "bbox": {
+        "x_min": 192,
+        "y_min": 273,
+        "x_max": 405,
+        "y_max": 286,
+        "width": 213,
+        "height": 13
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 14,
+      "text": "미세먼지 초미세먼지 자외선 일몰 날씨를 공유해보세요!",
+      "confidence": 0.9933817006227297,
+      "type": "text",
+      "bbox": {
+        "x_min": 30,
+        "y_min": 313,
+        "x_max": 574,
+        "y_max": 328,
+        "width": 544,
+        "height": 15
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 18,
+      "text": "좋음 좋음 좋음 17:27 ♪ 날씨 제보톡 >",
+      "confidence": 0.976407217411768,
+      "type": "text",
+      "bbox": {
+        "x_min": 30,
+        "y_min": 330,
+        "x_max": 545,
+        "y_max": 346,
+        "width": 515,
+        "height": 16
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 21,
+      "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 날씨 지도",
+      "confidence": 0.8735748000797772,
+      "type": "text",
+      "bbox": {
+        "x_min": 128,
+        "y_min": 387,
+        "x_max": 470,
+        "y_max": 401,
+        "width": 342,
+        "height": 14
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 23,
+      "text": "날씨 강수 바람 습도",
+      "confidence": 0.9810363799333572,
+      "type": "text",
+      "bbox": {
+        "x_min": 24,
+        "y_min": 459,
+        "x_max": 206,
+        "y_max": 474,
+        "width": 182,
+        "height": 15
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 34,
+      "text": "13° 13° 12° 12° 12° 12° 13° 14° 15° 16° 17° 17° 17°",
+      "confidence": 0.9424787017015309,
+      "type": "text",
+      "bbox": {
+        "x_min": 13,
+        "y_min": 510,
+        "x_max": 562,
+        "y_max": 533,
+        "width": 549,
+        "height": 23
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 41,
+      "text": "< >",
+      "confidence": 0.8278788626194,
+      "type": "text",
+      "bbox": {
+        "x_min": 10,
+        "y_min": 552,
+        "x_max": 587,
+        "y_max": 570,
+        "width": 577,
+        "height": 18
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 42,
+      "text": "986",
+      "confidence": 0.5009552165865898,
+      "type": "text",
+      "bbox": {
+        "x_min": 186,
+        "y_min": 574,
+        "x_max": 209,
+        "y_max": 588,
+        "width": 23,
+        "height": 14
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 44,
+      "text": "02시 03시 04시 05시 06시 07시 08시 09시 10시 11시 12시 13시",
+      "confidence": 0.9050704116622607,
+      "type": "text",
+      "bbox": {
+        "x_min": 12,
+        "y_min": 602,
+        "x_max": 520,
+        "y_max": 614,
+        "width": 508,
+        "height": 12
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 57,
+      "text": "주간예보 ① 최저 최고 기준",
+      "confidence": 0.9813495695590972,
+      "type": "text",
+      "bbox": {
+        "x_min": 12,
+        "y_min": 675,
+        "x_max": 585,
+        "y_max": 691,
+        "width": 573,
+        "height": 16
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 60,
+      "text": "오늘 오전 오후 11° 18° 내일 60% 0% 11° 18°",
+      "confidence": 0.9858554047014977,
+      "type": "text",
+      "bbox": {
+        "x_min": 27,
+        "y_min": 717,
+        "x_max": 576,
+        "y_max": 738,
+        "width": 549,
+        "height": 21
+      }
+    },
+    {
+      "page": 1,
+      "block_id": 70,
+      "text": "10.31. 20% 20% 11.01.",
+      "confidence": 0.9895385514412607,
+      "type": "text",
+      "bbox": {
+        "x_min": 26,
+        "y_min": 734,
+        "x_max": 353,
+        "y_max": 748,
+        "width": 327,
+        "height": 14
+      }
+    }
+  ],
+  "summary_config": {
+    "model": "boto",
+    "summary_type": "comprehensive",
+    "include_raw_data": true
+  }
+}

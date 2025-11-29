@@ -1,0 +1,17 @@
+{
+  "block_id": 5,
+  "text": "▶ 마지막 업데이트 시간",
+  "confidence": 0.986222967505455,
+  "bbox": {
+    "x_min": 221,
+    "y_min": 274,
+    "x_max": 439,
+    "y_max": 298,
+    "width": 218,
+    "height": 24
+  },
+  "block_type": "text",
+  "text_length": 13,
+  "created_at": "2025-11-21T08:21:36.120630",
+  "version": "1.0"
+}

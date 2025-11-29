@@ -1,0 +1,589 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "7. 유의 사항. 가. 지원희망자는 지원자격 등을 우선 확인하고 응시원서를 작성하기 바. 라며, 채용분야간 중복지원은 불가(중복시 전분야 접수 제외)합니다.",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [
+        ""
+      ],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 6,
+      "footer": 0,
+      "other": 20
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.984,
+      "readability": "high",
+      "completeness": "complete",
+      "high_confidence_blocks": 25,
+      "low_confidence_blocks": 1
+    },
+    "language_distribution": {
+      "korean": 0.708,
+      "english": 0.0,
+      "other": 0.292
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 26,
+    "total_characters": 767,
+    "analyzed_at": "2025-11-20T07:39:55.220780"
+  },
+  "block_summaries": [
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "7. 유의 사항",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:55.220060"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "가. 지원희망자는 지원자격 등을 우선 확인하고 응시원서...",
+      "keywords": [
+        "지원희망자는",
+        "지원자격",
+        "확인하고",
+        "응시원서를",
+        "작성하기"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 9,
+      "analyzed_at": "2025-11-20T07:39:55.220091"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "라며, 채용분야간 중복지원은 불가(중복시 전분야 접수 ...",
+      "keywords": [
+        "채용분야간",
+        "중복지원은",
+        "중복시",
+        "전분야",
+        "합니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 7,
+      "analyzed_at": "2025-11-20T07:39:55.220113"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "나. 제출서류에 대한 판단은 채용 공고일자를 기준으로 ...",
+      "keywords": [
+        "제출서류에",
+        "판단은",
+        "공고일자를",
+        "기준으로",
+        "합니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:55.220132"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "다. 개명 등의 사유로 입사지원서와 자격증 및 학위 등...",
+      "keywords": [
+        "사유로",
+        "입사지원서와",
+        "자격증",
+        "등과의",
+        "성명이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 43,
+      "word_count": 12,
+      "analyzed_at": "2025-11-20T07:39:55.220154"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "응시원서에 개명 전 후 성명을 모두 기재합니다.",
+      "keywords": [
+        "응시원서에",
+        "성명을",
+        "기재합니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 7,
+      "analyzed_at": "2025-11-20T07:39:55.220171"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "라. 경력의 인정은 아래와 같이 처리합니다.",
+      "keywords": [
+        "경력의",
+        "인정은",
+        "아래와",
+        "처리합니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 24,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:55.220189"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1) 경력산정시 상근 여부, 근무기간, 직급, 직위, ...",
+      "keywords": [
+        "경력산정시",
+        "근무기간",
+        "담당업무",
+        "정확하게"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 45,
+      "word_count": 11,
+      "analyzed_at": "2025-11-20T07:39:55.220209"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기재된 경력증명서와 건강보험자격득실확인서(공문서 포함)...",
+      "keywords": [
+        "기재된",
+        "경력증명서와",
+        "건강보험자격득실확인서",
+        "공문서",
+        "제출한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:55.220231"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "경우에 한해 인정",
+      "keywords": [
+        "경우에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:55.220244"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "※ 불명확하거나 증빙 미흡의 경우 인정되지 않으며, 대...",
+      "keywords": [
+        "불명확하거나",
+        "미흡의",
+        "인정되지",
+        "않으며",
+        "대학의"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 9,
+      "analyzed_at": "2025-11-20T07:39:55.220263"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "경력은 인정되지 않음",
+      "keywords": [
+        "경력은",
+        "인정되지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:55.220276"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2) 상근(주 40시간) 근무경력 기준으로 환산",
+      "keywords": [
+        "40시간",
+        "근무경력",
+        "기준으로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:55.220293"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "※ 시간제 근무는 근무시간에 비례하여 인정",
+      "keywords": [
+        "시간제",
+        "근무는",
+        "근무시간에",
+        "비례하여"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:55.220308"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "마. 제출한 서류는 「채용절차의 공정화에 관한 법률」 ...",
+      "keywords": [
+        "제출한",
+        "서류는",
+        "채용절차의",
+        "공정화에",
+        "제11조"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 10,
+      "analyzed_at": "2025-11-20T07:39:55.220327"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "시행령과 시행규칙에 따라 반환청구기간 내 청구가 있는 ...",
+      "keywords": [
+        "시행령과",
+        "시행규칙에",
+        "반환청구기간",
+        "청구가",
+        "반환하며"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 9,
+      "analyzed_at": "2025-11-20T07:39:55.220345"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "청구기간이 경과 후에는 법령에 따라 파기됩니다.",
+      "keywords": [
+        "청구기간이",
+        "후에는",
+        "법령에",
+        "파기됩니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:55.220360"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "바. 응시원서 또는 각종 제출 서류의 기재내용이 사실과...",
+      "keywords": [
+        "응시원서",
+        "서류의",
+        "기재내용이",
+        "사실과",
+        "다르거나"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 10,
+      "analyzed_at": "2025-11-20T07:39:55.220379"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "착오, 누락, 연락불능, 자격미비자의 응시 등으로 인한...",
+      "keywords": [
+        "연락불능",
+        "자격미비자의",
+        "등으로",
+        "불이익이나"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:55.220397"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "손해에 대한 책임은 일체 응시자 본인의 책임으로 합니다...",
+      "keywords": [
+        "손해에",
+        "책임은",
+        "응시자",
+        "본인의",
+        "책임으로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 31,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:55.220414"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "사. 제출된 서류에 추후 허위사실이 발견된 때에는 합격...",
+      "keywords": [
+        "제출된",
+        "서류에",
+        "허위사실이",
+        "발견된",
+        "때에는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 10,
+      "analyzed_at": "2025-11-20T07:39:55.220435"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "취소합니다.",
+      "keywords": [
+        "취소합니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:55.220449"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "아. 적임자가 없는 경우에는 최종 합격자가 없을 수도 ...",
+      "keywords": [
+        "적임자가",
+        "경우에는",
+        "합격자가",
+        "있습니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 9,
+      "analyzed_at": "2025-11-20T07:39:55.220469"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "자. 기타 채용관련 문의사항은 천안문화재단 경영지원팀(...",
+      "keywords": [
+        "채용관련",
+        "문의사항은",
+        "천안문화재단",
+        "경영지원팀",
+        "041"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": true,
+      "text_length": 45,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:55.220491"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "문의바랍니다.",
+      "keywords": [
+        "문의바랍니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:55.220503"
+    },
+    {
+      "content_type": "table",
+      "language": "other",
+      "text_preview": "- 6 -",
+      "keywords": [],
+      "confidence_level": "low",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:55.220515"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다.",
+    "주로 한국어 문서입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

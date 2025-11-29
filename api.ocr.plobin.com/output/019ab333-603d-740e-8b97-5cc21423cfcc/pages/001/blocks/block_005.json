@@ -1,0 +1,17 @@
+{
+  "block_id": 5,
+  "text": "검정유효기간: 6년 Q3/Q1:250 (±5.0%)",
+  "confidence": 0.9820226392438335,
+  "bbox": {
+    "x_min": 448,
+    "y_min": 1660,
+    "x_max": 2363,
+    "y_max": 1845,
+    "width": 1915,
+    "height": 185
+  },
+  "block_type": "text",
+  "text_length": 28,
+  "created_at": "2025-11-24T00:11:19.997808",
+  "version": "1.0"
+}

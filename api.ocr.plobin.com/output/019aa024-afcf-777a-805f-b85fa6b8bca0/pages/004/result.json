@@ -1,0 +1,1169 @@
+{
+  "page_number": 4,
+  "total_blocks": 43,
+  "average_confidence": 0.9682199473511794,
+  "processing_time": 1.9673151969909668,
+  "blocks": [
+    {
+      "text": "다. 전형별 합격자 인원(배수)",
+      "confidence": 0.9954291425253216,
+      "bbox": [
+        [
+          130,
+          113
+        ],
+        [
+          525,
+          113
+        ],
+        [
+          525,
+          140
+        ],
+        [
+          130,
+          140
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용인원(응시분야)",
+      "confidence": 0.9994043012460073,
+      "bbox": [
+        [
+          170,
+          180
+        ],
+        [
+          409,
+          180
+        ],
+        [
+          409,
+          209
+        ],
+        [
+          170,
+          209
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "서류전형",
+      "confidence": 0.9982794642448425,
+      "bbox": [
+        [
+          561,
+          182
+        ],
+        [
+          671,
+          182
+        ],
+        [
+          671,
+          208
+        ],
+        [
+          561,
+          208
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "면접전형",
+      "confidence": 0.9973422050476074,
+      "bbox": [
+        [
+          893,
+          183
+        ],
+        [
+          1001,
+          183
+        ],
+        [
+          1001,
+          208
+        ],
+        [
+          893,
+          208
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1명",
+      "confidence": 0.9754627645015717,
+      "bbox": [
+        [
+          269,
+          238
+        ],
+        [
+          314,
+          238
+        ],
+        [
+          314,
+          262
+        ],
+        [
+          269,
+          262
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4배수",
+      "confidence": 0.9688367724418641,
+      "bbox": [
+        [
+          585,
+          238
+        ],
+        [
+          662,
+          238
+        ],
+        [
+          662,
+          263
+        ],
+        [
+          585,
+          263
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3배수",
+      "confidence": 0.9805910110473632,
+      "bbox": [
+        [
+          916,
+          238
+        ],
+        [
+          990,
+          238
+        ],
+        [
+          990,
+          263
+        ],
+        [
+          916,
+          263
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "라. 최종합격자 발표 : 2025. 06. 30.(월) 예정 / 재단 채용 사이트 내 공고",
+      "confidence": 0.9951500720702685,
+      "bbox": [
+        [
+          130,
+          306
+        ],
+        [
+          1119,
+          306
+        ],
+        [
+          1119,
+          335
+        ],
+        [
+          130,
+          335
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 상기 일정은 재단 사정에 따라 변경될 수 있음",
+      "confidence": 0.7126262640130931,
+      "bbox": [
+        [
+          175,
+          357
+        ],
+        [
+          848,
+          357
+        ],
+        [
+          848,
+          384
+        ],
+        [
+          175,
+          384
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "마. 예비합격자 제도 운영",
+      "confidence": 0.9993071220815182,
+      "bbox": [
+        [
+          130,
+          423
+        ],
+        [
+          474,
+          423
+        ],
+        [
+          474,
+          451
+        ],
+        [
+          130,
+          451
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1) 운영목적 : 최종 합격자 중 임용미등록 및 임용포기, 임용 후 6개월",
+      "confidence": 0.9975724386614423,
+      "bbox": [
+        [
+          143,
+          474
+        ],
+        [
+          1091,
+          474
+        ],
+        [
+          1091,
+          501
+        ],
+        [
+          143,
+          501
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "이내 퇴직 시, 차순위자 임용 가능",
+      "confidence": 0.9998916898454938,
+      "bbox": [
+        [
+          335,
+          521
+        ],
+        [
+          798,
+          521
+        ],
+        [
+          798,
+          552
+        ],
+        [
+          335,
+          552
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2) 유효기간 : 최종 합격자 발표일로부터 6개월 이내",
+      "confidence": 0.9340717736631632,
+      "bbox": [
+        [
+          142,
+          572
+        ],
+        [
+          849,
+          572
+        ],
+        [
+          849,
+          600
+        ],
+        [
+          142,
+          600
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3) 운영규모 : 선발인원의 2배수",
+      "confidence": 0.9984357158342997,
+      "bbox": [
+        [
+          143,
+          620
+        ],
+        [
+          574,
+          620
+        ],
+        [
+          574,
+          649
+        ],
+        [
+          143,
+          649
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4. 응시원서 접수",
+      "confidence": 0.9957553694645563,
+      "bbox": [
+        [
+          113,
+          691
+        ],
+        [
+          347,
+          691
+        ],
+        [
+          347,
+          718
+        ],
+        [
+          113,
+          718
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 접수방법 : 채용 사이트 온라인 접수(E-mail, 방문 접수 등 일체 불가)",
+      "confidence": 0.9910358287850205,
+      "bbox": [
+        [
+          130,
+          743
+        ],
+        [
+          1122,
+          743
+        ],
+        [
+          1122,
+          772
+        ],
+        [
+          130,
+          772
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 채용 사이트 바로가기 : https://recruit.incruit.com/cfac/",
+      "confidence": 0.9964439204105964,
+      "bbox": [
+        [
+          158,
+          792
+        ],
+        [
+          921,
+          792
+        ],
+        [
+          921,
+          821
+        ],
+        [
+          158,
+          821
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 접수기간 : 2025. 06. 10.(화) 09:00 ~ 2025. 06. 16.(월) 18:00 [7일간]",
+      "confidence": 0.9968696713447571,
+      "bbox": [
+        [
+          130,
+          860
+        ],
+        [
+          1084,
+          860
+        ],
+        [
+          1084,
+          888
+        ],
+        [
+          130,
+          888
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 2025. 06. 16.(월) 18:00 정각까지 원서접수 완료한 서류만 인정함.",
+      "confidence": 0.9780804575706015,
+      "bbox": [
+        [
+          158,
+          909
+        ],
+        [
+          1065,
+          909
+        ],
+        [
+          1065,
+          937
+        ],
+        [
+          158,
+          937
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "그 외 기간 응시원서 제출 불가 접수하지 않음(별도 통지 없음)",
+      "confidence": 0.9990944878475086,
+      "bbox": [
+        [
+          195,
+          959
+        ],
+        [
+          1050,
+          959
+        ],
+        [
+          1050,
+          986
+        ],
+        [
+          195,
+          986
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "5. 제출서류 ※ 블라인드 채용에 따라 학력, 연령 등 인적사항 미기재(직무관련 정보 작성)",
+      "confidence": 0.9941238322347965,
+      "bbox": [
+        [
+          114,
+          1027
+        ],
+        [
+          1104,
+          1027
+        ],
+        [
+          1104,
+          1053
+        ],
+        [
+          114,
+          1053
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "내용",
+      "confidence": 0.6705798506736755,
+      "bbox": [
+        [
+          400,
+          1099
+        ],
+        [
+          475,
+          1099
+        ],
+        [
+          475,
+          1126
+        ],
+        [
+          400,
+          1126
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "부수",
+      "confidence": 0.9525414705276489,
+      "bbox": [
+        [
+          777,
+          1099
+        ],
+        [
+          842,
+          1099
+        ],
+        [
+          842,
+          1125
+        ],
+        [
+          777,
+          1125
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제출방법",
+      "confidence": 0.9988901972770691,
+      "bbox": [
+        [
+          872,
+          1099
+        ],
+        [
+          987,
+          1099
+        ],
+        [
+          987,
+          1125
+        ],
+        [
+          872,
+          1125
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "비고",
+      "confidence": 0.8780094385147095,
+      "bbox": [
+        [
+          1017,
+          1100
+        ],
+        [
+          1092,
+          1100
+        ],
+        [
+          1092,
+          1124
+        ],
+        [
+          1017,
+          1124
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1) 응시원서 및 자기소개서",
+      "confidence": 0.9960924492162817,
+      "bbox": [
+        [
+          131,
+          1163
+        ],
+        [
+          468,
+          1163
+        ],
+        [
+          468,
+          1192
+        ],
+        [
+          131,
+          1192
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "온라인 작성",
+      "confidence": 0.9991116747260094,
+      "bbox": [
+        [
+          861,
+          1165
+        ],
+        [
+          997,
+          1165
+        ],
+        [
+          997,
+          1191
+        ],
+        [
+          861,
+          1191
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1부",
+      "confidence": 0.9858504831790924,
+      "bbox": [
+        [
+          783,
+          1166
+        ],
+        [
+          830,
+          1166
+        ],
+        [
+          830,
+          1191
+        ],
+        [
+          783,
+          1191
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2) 개인정보수집 및 활용동의서",
+      "confidence": 0.999377617710515,
+      "bbox": [
+        [
+          131,
+          1234
+        ],
+        [
+          522,
+          1234
+        ],
+        [
+          522,
+          1263
+        ],
+        [
+          131,
+          1263
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1부",
+      "confidence": 0.9937842637300491,
+      "bbox": [
+        [
+          783,
+          1236
+        ],
+        [
+          837,
+          1236
+        ],
+        [
+          837,
+          1261
+        ],
+        [
+          783,
+          1261
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "파일 첨부",
+      "confidence": 0.99931914465768,
+      "bbox": [
+        [
+          864,
+          1236
+        ],
+        [
+          993,
+          1236
+        ],
+        [
+          993,
+          1261
+        ],
+        [
+          864,
+          1261
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3) 분야별 필수사항 응시자격 증빙서류",
+      "confidence": 0.9998301267623901,
+      "bbox": [
+        [
+          131,
+          1296
+        ],
+        [
+          619,
+          1296
+        ],
+        [
+          619,
+          1325
+        ],
+        [
+          131,
+          1325
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(남산문화창작소기획운영)",
+      "confidence": 0.99818963209788,
+      "bbox": [
+        [
+          131,
+          1336
+        ],
+        [
+          453,
+          1336
+        ],
+        [
+          453,
+          1362
+        ],
+        [
+          131,
+          1362
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "① 취업지원대상자증빙서류(보훈처·보훈지청 발급)",
+      "confidence": 0.9931819993874123,
+      "bbox": [
+        [
+          131,
+          1373
+        ],
+        [
+          750,
+          1373
+        ],
+        [
+          750,
+          1399
+        ],
+        [
+          131,
+          1399
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(문화예술교육사)",
+      "confidence": 0.9985643245957114,
+      "bbox": [
+        [
+          131,
+          1412
+        ],
+        [
+          345,
+          1412
+        ],
+        [
+          345,
+          1438
+        ],
+        [
+          131,
+          1438
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필수",
+      "confidence": 0.9970518151919047,
+      "bbox": [
+        [
+          1024,
+          1428
+        ],
+        [
+          1082,
+          1428
+        ],
+        [
+          1082,
+          1454
+        ],
+        [
+          1024,
+          1454
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "① 취업지원대상자증빙서류(보훈처·보훈지청 발급) 각 1부 | 파일 첨부",
+      "confidence": 0.9893055671737307,
+      "bbox": [
+        [
+          131,
+          1446
+        ],
+        [
+          993,
+          1446
+        ],
+        [
+          993,
+          1478
+        ],
+        [
+          131,
+          1478
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "서류",
+      "confidence": 0.9983007510503134,
+      "bbox": [
+        [
+          1023,
+          1465
+        ],
+        [
+          1081,
+          1465
+        ],
+        [
+          1081,
+          1492
+        ],
+        [
+          1023,
+          1492
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "② 문화예술교육사자격증 사본",
+      "confidence": 0.9966599345207214,
+      "bbox": [
+        [
+          132,
+          1488
+        ],
+        [
+          515,
+          1488
+        ],
+        [
+          515,
+          1514
+        ],
+        [
+          132,
+          1514
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(천안시립미술관전시운영)",
+      "confidence": 0.9994872013727824,
+      "bbox": [
+        [
+          131,
+          1524
+        ],
+        [
+          452,
+          1524
+        ],
+        [
+          452,
+          1552
+        ],
+        [
+          131,
+          1552
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "① 장애인증명서 ② 3급 정학예사 이상 자격증 사본",
+      "confidence": 0.9958103179931641,
+      "bbox": [
+        [
+          131,
+          1562
+        ],
+        [
+          749,
+          1562
+        ],
+        [
+          749,
+          1588
+        ],
+        [
+          131,
+          1588
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 공고시작일 이후 발급분 유효(자격증은 해당없음)",
+      "confidence": 0.990347131093343,
+      "bbox": [
+        [
+          133,
+          1600
+        ],
+        [
+          641,
+          1600
+        ],
+        [
+          641,
+          1622
+        ],
+        [
+          133,
+          1622
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 4 -",
+      "confidence": 0.6993680397669474,
+      "bbox": [
+        [
+          590,
+          1679
+        ],
+        [
+          649,
+          1679
+        ],
+        [
+          649,
+          1695
+        ],
+        [
+          590,
+          1695
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

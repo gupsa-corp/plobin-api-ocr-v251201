@@ -1,0 +1,17 @@
+{
+  "block_id": 12,
+  "text": "테스트 프로젝트 2025-10-13",
+  "confidence": 0.9983678931539709,
+  "bbox": {
+    "x_min": 371,
+    "y_min": 674,
+    "x_max": 780,
+    "y_max": 687,
+    "width": 409,
+    "height": 13
+  },
+  "block_type": "text",
+  "text_length": 19,
+  "created_at": "2025-11-25T06:27:59.247842",
+  "version": "1.0"
+}

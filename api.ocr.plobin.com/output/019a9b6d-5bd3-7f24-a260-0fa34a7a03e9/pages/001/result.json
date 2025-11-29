@@ -1,0 +1,1493 @@
+{
+  "page_number": 1,
+  "total_blocks": 55,
+  "average_confidence": 0.9261815393572014,
+  "processing_time": 3.570040225982666,
+  "blocks": [
+    {
+      "text": "< 장바구니(4)",
+      "confidence": 0.7344524806196039,
+      "bbox": [
+        [
+          26,
+          5
+        ],
+        [
+          153,
+          5
+        ],
+        [
+          153,
+          30
+        ],
+        [
+          26,
+          30
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "01 옵션선택 > 02 장바구니 > 03 주문/결제 > 04 주문완료",
+      "confidence": 0.9860113352537155,
+      "bbox": [
+        [
+          395,
+          11
+        ],
+        [
+          650,
+          11
+        ],
+        [
+          650,
+          22
+        ],
+        [
+          395,
+          22
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주문 예상 금액",
+      "confidence": 0.9996659517288208,
+      "bbox": [
+        [
+          462,
+          67
+        ],
+        [
+          528,
+          67
+        ],
+        [
+          528,
+          78
+        ],
+        [
+          462,
+          78
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "맛꾼 [파손보상] 촉촉쫄깃 맥반석 구운계란 찜질방 구운란",
+      "confidence": 0.9993681401917429,
+      "bbox": [
+        [
+          156,
+          67
+        ],
+        [
+          377,
+          67
+        ],
+        [
+          377,
+          79
+        ],
+        [
+          156,
+          79
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "삭제",
+      "confidence": 0.9984506766001383,
+      "bbox": [
+        [
+          412,
+          67
+        ],
+        [
+          433,
+          67
+        ],
+        [
+          433,
+          79
+        ],
+        [
+          412,
+          79
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "옵션: 60구, 1개",
+      "confidence": 0.9859742430540231,
+      "bbox": [
+        [
+          156,
+          82
+        ],
+        [
+          218,
+          82
+        ],
+        [
+          218,
+          94
+        ],
+        [
+          156,
+          94
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "총 상품 가격",
+      "confidence": 0.6897490951750014,
+      "bbox": [
+        [
+          462,
+          89
+        ],
+        [
+          513,
+          89
+        ],
+        [
+          513,
+          101
+        ],
+        [
+          462,
+          101
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "91,980원",
+      "confidence": 0.9865179128117032,
+      "bbox": [
+        [
+          594,
+          90
+        ],
+        [
+          636,
+          90
+        ],
+        [
+          636,
+          101
+        ],
+        [
+          594,
+          101
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "한달구매 8천+",
+      "confidence": 0.9842149674892425,
+      "bbox": [
+        [
+          156,
+          101
+        ],
+        [
+          211,
+          101
+        ],
+        [
+          211,
+          112
+        ],
+        [
+          156,
+          112
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "총 즉시할인",
+      "confidence": 0.9458472281694412,
+      "bbox": [
+        [
+          462,
+          109
+        ],
+        [
+          511,
+          109
+        ],
+        [
+          511,
+          119
+        ],
+        [
+          462,
+          119
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "-1,900원",
+      "confidence": 0.9735687971115112,
+      "bbox": [
+        [
+          595,
+          109
+        ],
+        [
+          636,
+          109
+        ],
+        [
+          636,
+          120
+        ],
+        [
+          595,
+          120
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "토요일11/22 도착 보장",
+      "confidence": 0.9902365356683731,
+      "bbox": [
+        [
+          156,
+          120
+        ],
+        [
+          248,
+          120
+        ],
+        [
+          248,
+          132
+        ],
+        [
+          156,
+          132
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "총 배송비",
+      "confidence": 0.7974899411201477,
+      "bbox": [
+        [
+          462,
+          128
+        ],
+        [
+          501,
+          128
+        ],
+        [
+          501,
+          138
+        ],
+        [
+          462,
+          138
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "+0위",
+      "confidence": 0.8380586683750153,
+      "bbox": [
+        [
+          612,
+          128
+        ],
+        [
+          636,
+          128
+        ],
+        [
+          636,
+          138
+        ],
+        [
+          612,
+          138
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "62% 할인 45,000",
+      "confidence": 0.8249761939048768,
+      "bbox": [
+        [
+          157,
+          133
+        ],
+        [
+          222,
+          133
+        ],
+        [
+          222,
+          147
+        ],
+        [
+          157,
+          147
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "17,090원",
+      "confidence": 0.9945342077149285,
+      "bbox": [
+        [
+          157,
+          149
+        ],
+        [
+          213,
+          149
+        ],
+        [
+          213,
+          162
+        ],
+        [
+          157,
+          162
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "90.080원",
+      "confidence": 0.9854466517766317,
+      "bbox": [
+        [
+          579,
+          164
+        ],
+        [
+          635,
+          164
+        ],
+        [
+          635,
+          176
+        ],
+        [
+          579,
+          176
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "+",
+      "confidence": 0.7516296207904816,
+      "bbox": [
+        [
+          216,
+          182
+        ],
+        [
+          228,
+          182
+        ],
+        [
+          228,
+          193
+        ],
+        [
+          216,
+          193
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1",
+      "confidence": 0.9638301730155945,
+      "bbox": [
+        [
+          189,
+          182
+        ],
+        [
+          202,
+          182
+        ],
+        [
+          202,
+          192
+        ],
+        [
+          189,
+          192
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "총 4개 상품 구매하기",
+      "confidence": 0.9994583768504006,
+      "bbox": [
+        [
+          501,
+          195
+        ],
+        [
+          598,
+          195
+        ],
+        [
+          598,
+          207
+        ],
+        [
+          501,
+          207
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "상품가격 17,090원 + 배송비 무료 = 주문금액 17,090원",
+      "confidence": 0.9952930086537412,
+      "bbox": [
+        [
+          124,
+          226
+        ],
+        [
+          341,
+          226
+        ],
+        [
+          341,
+          238
+        ],
+        [
+          124,
+          238
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "같은 판매자 상품 추가하기 >",
+      "confidence": 0.9988036553064982,
+      "bbox": [
+        [
+          176,
+          244
+        ],
+        [
+          288,
+          244
+        ],
+        [
+          288,
+          254
+        ],
+        [
+          176,
+          254
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "삭제",
+      "confidence": 0.9952392975489298,
+      "bbox": [
+        [
+          412,
+          283
+        ],
+        [
+          433,
+          283
+        ],
+        [
+          433,
+          293
+        ],
+        [
+          412,
+          293
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "스파클 생수 무라벨",
+      "confidence": 0.9989401400089264,
+      "bbox": [
+        [
+          156,
+          284
+        ],
+        [
+          231,
+          284
+        ],
+        [
+          231,
+          295
+        ],
+        [
+          156,
+          295
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "옵션: 2L. 60개",
+      "confidence": 0.9806392320564815,
+      "bbox": [
+        [
+          156,
+          298
+        ],
+        [
+          215,
+          298
+        ],
+        [
+          215,
+          308
+        ],
+        [
+          156,
+          308
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "한달구매 2천+",
+      "confidence": 0.9955555379390717,
+      "bbox": [
+        [
+          156,
+          318
+        ],
+        [
+          210,
+          318
+        ],
+        [
+          210,
+          328
+        ],
+        [
+          156,
+          328
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "<math>\\checkmark</math>",
+      "confidence": 0.5785322785377502,
+      "bbox": [
+        [
+          34,
+          320
+        ],
+        [
+          49,
+          320
+        ],
+        [
+          49,
+          333
+        ],
+        [
+          34,
+          333
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "내일(목) 11/20 도착 보장",
+      "confidence": 0.9974700181107772,
+      "bbox": [
+        [
+          156,
+          336
+        ],
+        [
+          257,
+          336
+        ],
+        [
+          257,
+          346
+        ],
+        [
+          156,
+          346
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "18% 할인 35,080",
+      "confidence": 0.8796259760856628,
+      "bbox": [
+        [
+          156,
+          348
+        ],
+        [
+          222,
+          348
+        ],
+        [
+          222,
+          360
+        ],
+        [
+          156,
+          360
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "60×",
+      "confidence": 0.8659197092056274,
+      "bbox": [
+        [
+          61,
+          359
+        ],
+        [
+          80,
+          359
+        ],
+        [
+          80,
+          369
+        ],
+        [
+          61,
+          369
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "29,380원",
+      "confidence": 0.9953716066148546,
+      "bbox": [
+        [
+          155,
+          362
+        ],
+        [
+          213,
+          362
+        ],
+        [
+          213,
+          377
+        ],
+        [
+          155,
+          377
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "+",
+      "confidence": 0.7821162045001984,
+      "bbox": [
+        [
+          216,
+          397
+        ],
+        [
+          227,
+          397
+        ],
+        [
+          227,
+          408
+        ],
+        [
+          216,
+          408
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1",
+      "confidence": 0.8283892869949341,
+      "bbox": [
+        [
+          179,
+          398
+        ],
+        [
+          203,
+          398
+        ],
+        [
+          203,
+          407
+        ],
+        [
+          179,
+          407
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "상품가격 29.380원 + 배송비 무료 = 주문금액 29.380원",
+      "confidence": 0.980558947512978,
+      "bbox": [
+        [
+          125,
+          442
+        ],
+        [
+          341,
+          442
+        ],
+        [
+          341,
+          452
+        ],
+        [
+          125,
+          452
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "같은 판매자 상품 추가하기 >",
+      "confidence": 0.9983443816502889,
+      "bbox": [
+        [
+          177,
+          459
+        ],
+        [
+          288,
+          459
+        ],
+        [
+          288,
+          469
+        ],
+        [
+          177,
+          469
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "삭제",
+      "confidence": 0.9983763098716736,
+      "bbox": [
+        [
+          412,
+          498
+        ],
+        [
+          433,
+          498
+        ],
+        [
+          433,
+          509
+        ],
+        [
+          412,
+          509
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "라인바싸 레몬 무라벨",
+      "confidence": 0.9971814935023968,
+      "bbox": [
+        [
+          156,
+          499
+        ],
+        [
+          240,
+          499
+        ],
+        [
+          240,
+          509
+        ],
+        [
+          156,
+          509
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "옵션: 500ml, 40개",
+      "confidence": 0.9797460927682764,
+      "bbox": [
+        [
+          156,
+          513
+        ],
+        [
+          231,
+          513
+        ],
+        [
+          231,
+          524
+        ],
+        [
+          156,
+          524
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "한달구매 4천+",
+      "confidence": 0.9986003756523132,
+      "bbox": [
+        [
+          156,
+          533
+        ],
+        [
+          210,
+          533
+        ],
+        [
+          210,
+          544
+        ],
+        [
+          156,
+          544
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "내일(목) 11/20 도착 보장",
+      "confidence": 0.9976877068218432,
+      "bbox": [
+        [
+          156,
+          550
+        ],
+        [
+          257,
+          550
+        ],
+        [
+          257,
+          562
+        ],
+        [
+          156,
+          562
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "43% 할인 24.000",
+      "confidence": 0.8894420107205708,
+      "bbox": [
+        [
+          157,
+          564
+        ],
+        [
+          222,
+          564
+        ],
+        [
+          222,
+          575
+        ],
+        [
+          157,
+          575
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "40:",
+      "confidence": 0.881293997168541,
+      "bbox": [
+        [
+          64,
+          574
+        ],
+        [
+          79,
+          574
+        ],
+        [
+          79,
+          583
+        ],
+        [
+          64,
+          583
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "13,590원 🖋 로켓 🐠",
+      "confidence": 0.9704837128520012,
+      "bbox": [
+        [
+          156,
+          577
+        ],
+        [
+          257,
+          577
+        ],
+        [
+          257,
+          592
+        ],
+        [
+          156,
+          592
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1",
+      "confidence": 0.8935190737247467,
+      "bbox": [
+        [
+          178,
+          613
+        ],
+        [
+          204,
+          613
+        ],
+        [
+          204,
+          622
+        ],
+        [
+          178,
+          622
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "<math>+</math>",
+      "confidence": 0.8408009807268778,
+      "bbox": [
+        [
+          216,
+          613
+        ],
+        [
+          227,
+          613
+        ],
+        [
+          227,
+          622
+        ],
+        [
+          216,
+          622
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "_",
+      "confidence": 0.7829383909702301,
+      "bbox": [
+        [
+          163,
+          614
+        ],
+        [
+          173,
+          614
+        ],
+        [
+          173,
+          621
+        ],
+        [
+          163,
+          621
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "삭제",
+      "confidence": 0.998376468817393,
+      "bbox": [
+        [
+          412,
+          665
+        ],
+        [
+          433,
+          665
+        ],
+        [
+          433,
+          676
+        ],
+        [
+          412,
+          676
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "익선블렌드 에스프레소",
+      "confidence": 0.6720602879157433,
+      "bbox": [
+        [
+          156,
+          666
+        ],
+        [
+          247,
+          666
+        ],
+        [
+          247,
+          677
+        ],
+        [
+          156,
+          677
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "옵션: 홀빈(분쇄안함), 1kg, 1개",
+      "confidence": 0.993128813803196,
+      "bbox": [
+        [
+          156,
+          680
+        ],
+        [
+          277,
+          680
+        ],
+        [
+          277,
+          691
+        ],
+        [
+          156,
+          691
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "모레(금) 11/21 도착 보장",
+      "confidence": 0.9737286253979331,
+      "bbox": [
+        [
+          155,
+          700
+        ],
+        [
+          257,
+          700
+        ],
+        [
+          257,
+          711
+        ],
+        [
+          155,
+          711
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "30,020원",
+      "confidence": 0.9940684570206536,
+      "bbox": [
+        [
+          155,
+          717
+        ],
+        [
+          213,
+          717
+        ],
+        [
+          213,
+          731
+        ],
+        [
+          155,
+          731
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1",
+      "confidence": 0.970889151096344,
+      "bbox": [
+        [
+          189,
+          750
+        ],
+        [
+          201,
+          750
+        ],
+        [
+          201,
+          760
+        ],
+        [
+          189,
+          760
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "+",
+      "confidence": 0.8162121474742889,
+      "bbox": [
+        [
+          216,
+          751
+        ],
+        [
+          226,
+          751
+        ],
+        [
+          226,
+          761
+        ],
+        [
+          216,
+          761
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "상품가격 30,020원 + 배송비 무료 = 주문금액 30,020원",
+      "confidence": 0.9915199860146171,
+      "bbox": [
+        [
+          124,
+          796
+        ],
+        [
+          341,
+          796
+        ],
+        [
+          341,
+          807
+        ],
+        [
+          124,
+          807
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "같은 판매자 상품 추가하기 >",
+      "confidence": 0.9996501041783227,
+      "bbox": [
+        [
+          176,
+          812
+        ],
+        [
+          288,
+          812
+        ],
+        [
+          288,
+          823
+        ],
+        [
+          176,
+          823
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

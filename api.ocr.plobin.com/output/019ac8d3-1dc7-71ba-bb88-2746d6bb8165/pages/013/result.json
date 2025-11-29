@@ -1,0 +1,872 @@
+{
+  "page_number": 13,
+  "total_blocks": 32,
+  "average_confidence": 0.979534259995899,
+  "processing_time": 1.6831042766571045,
+  "blocks": [
+    {
+      "text": "개인정보 제공 동의서(약식)",
+      "confidence": 0.9996022196377025,
+      "bbox": [
+        [
+          436,
+          148
+        ],
+        [
+          803,
+          148
+        ],
+        [
+          803,
+          181
+        ],
+        [
+          436,
+          181
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 본인은 신원조사기관이 본인에 대한 신원조사를 실시할 필요가 있다는 것과 개인정보(범죄",
+      "confidence": 0.9976205585094599,
+      "bbox": [
+        [
+          116,
+          235
+        ],
+        [
+          1122,
+          235
+        ],
+        [
+          1122,
+          265
+        ],
+        [
+          116,
+          265
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경력 등 민감정보 포함. 이하 동일) 수집 목적 등 아래 유의사항을 이해하였으며, 이를 위해",
+      "confidence": 0.9990622986037776,
+      "bbox": [
+        [
+          150,
+          276
+        ],
+        [
+          1124,
+          276
+        ],
+        [
+          1124,
+          302
+        ],
+        [
+          150,
+          302
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "「개인정보보호법」 등에 의해 보호되고 있는 본인의 개인정보를 동법 제15조(개인정보의",
+      "confidence": 0.9955497882804092,
+      "bbox": [
+        [
+          150,
+          318
+        ],
+        [
+          1123,
+          318
+        ],
+        [
+          1123,
+          344
+        ],
+        [
+          150,
+          344
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "수집 • 이용)의 규정 등에 따라 신원조사기관에 제공하는데 동의합니다.",
+      "confidence": 0.9779310291860162,
+      "bbox": [
+        [
+          150,
+          358
+        ],
+        [
+          903,
+          358
+        ],
+        [
+          903,
+          383
+        ],
+        [
+          150,
+          383
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 이에 따라, 개인정보 보유기관장(천안시민프로축구단 이사장)은 원활한 신원조사를 위해 본인에",
+      "confidence": 0.9987978902730075,
+      "bbox": [
+        [
+          114,
+          439
+        ],
+        [
+          1124,
+          439
+        ],
+        [
+          1124,
+          465
+        ],
+        [
+          114,
+          465
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "관한 개인정보를 해당 신원조사기관에게 제공하여 줄 것을 요청합니다.",
+      "confidence": 0.9997983146936466,
+      "bbox": [
+        [
+          145,
+          479
+        ],
+        [
+          914,
+          479
+        ],
+        [
+          914,
+          503
+        ],
+        [
+          145,
+          503
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 본인이 서명한 동의서 복사본은 원본과 동일하게 유효하다는 것을 인정합니다.",
+      "confidence": 0.9981982720934827,
+      "bbox": [
+        [
+          114,
+          560
+        ],
+        [
+          1002,
+          560
+        ],
+        [
+          1002,
+          586
+        ],
+        [
+          114,
+          586
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "유의사항 (개인정보 수집 목적 · 관리방법, 정보제공 동의 거부 가능 고지)",
+      "confidence": 0.9901389709927819,
+      "bbox": [
+        [
+          236,
+          625
+        ],
+        [
+          1002,
+          625
+        ],
+        [
+          1002,
+          650
+        ],
+        [
+          236,
+          650
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 수집된 개인정보자료·개인정보 제공 동의서는 신원조사 목적으로만 사용되고,「공공기록물관리에관한법률」에",
+      "confidence": 0.9861034467572072,
+      "bbox": [
+        [
+          127,
+          691
+        ],
+        [
+          1122,
+          691
+        ],
+        [
+          1122,
+          715
+        ],
+        [
+          127,
+          715
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "따라 관리·폐기되며 수집하려는 개인정보의 항목은 아래와 같습니다.",
+      "confidence": 0.980477722791525,
+      "bbox": [
+        [
+          149,
+          724
+        ],
+        [
+          768,
+          724
+        ],
+        [
+          768,
+          748
+        ],
+        [
+          149,
+          748
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 개인의 자유로운 의사에 따라 정보 제공동의를 거부할 수 있습니다. 다만, 이 경우 신원조사를 원활히 진행할 수",
+      "confidence": 0.998547790628491,
+      "bbox": [
+        [
+          127,
+          769
+        ],
+        [
+          1121,
+          769
+        ],
+        [
+          1121,
+          793
+        ],
+        [
+          127,
+          793
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "없음을 알려드립니다.",
+      "confidence": 0.999675975396083,
+      "bbox": [
+        [
+          150,
+          800
+        ],
+        [
+          338,
+          800
+        ],
+        [
+          338,
+          825
+        ],
+        [
+          150,
+          825
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "월",
+      "confidence": 0.9921744465827942,
+      "bbox": [
+        [
+          1019,
+          891
+        ],
+        [
+          1051,
+          891
+        ],
+        [
+          1051,
+          911
+        ],
+        [
+          1019,
+          911
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "일",
+      "confidence": 0.997329980134964,
+      "bbox": [
+        [
+          1095,
+          891
+        ],
+        [
+          1122,
+          891
+        ],
+        [
+          1122,
+          913
+        ],
+        [
+          1095,
+          913
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "년",
+      "confidence": 0.5879229307174683,
+      "bbox": [
+        [
+          946,
+          893
+        ],
+        [
+          977,
+          893
+        ],
+        [
+          977,
+          911
+        ],
+        [
+          946,
+          911
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(서명)",
+      "confidence": 0.9896056453386942,
+      "bbox": [
+        [
+          1047,
+          944
+        ],
+        [
+          1125,
+          944
+        ],
+        [
+          1125,
+          969
+        ],
+        [
+          1047,
+          969
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성명",
+      "confidence": 0.9970242977142334,
+      "bbox": [
+        [
+          839,
+          947
+        ],
+        [
+          896,
+          947
+        ],
+        [
+          896,
+          969
+        ],
+        [
+          839,
+          969
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 본인 동의",
+      "confidence": 0.9803487896919251,
+      "bbox": [
+        [
+          115,
+          998
+        ],
+        [
+          249,
+          998
+        ],
+        [
+          249,
+          1023
+        ],
+        [
+          115,
+          1023
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "명",
+      "confidence": 0.9972816109657288,
+      "bbox": [
+        [
+          865,
+          1053
+        ],
+        [
+          893,
+          1053
+        ],
+        [
+          893,
+          1075
+        ],
+        [
+          865,
+          1075
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "서",
+      "confidence": 0.9847707450389862,
+      "bbox": [
+        [
+          821,
+          1054
+        ],
+        [
+          864,
+          1054
+        ],
+        [
+          864,
+          1074
+        ],
+        [
+          821,
+          1074
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성 명",
+      "confidence": 0.9830498456954956,
+      "bbox": [
+        [
+          193,
+          1074
+        ],
+        [
+          264,
+          1074
+        ],
+        [
+          264,
+          1096
+        ],
+        [
+          193,
+          1096
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "생년월일",
+      "confidence": 0.9994784235954285,
+      "bbox": [
+        [
+          418,
+          1075
+        ],
+        [
+          513,
+          1075
+        ],
+        [
+          513,
+          1097
+        ],
+        [
+          418,
+          1097
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "개인정보 제공 동의",
+      "confidence": 0.9994244625171026,
+      "bbox": [
+        [
+          623,
+          1095
+        ],
+        [
+          830,
+          1095
+        ],
+        [
+          830,
+          1117
+        ],
+        [
+          623,
+          1117
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "민감정보 제공 동의",
+      "confidence": 0.9997518658638,
+      "bbox": [
+        [
+          889,
+          1095
+        ],
+        [
+          1093,
+          1095
+        ],
+        [
+          1093,
+          1117
+        ],
+        [
+          889,
+          1117
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 신원조사를 위해 수집되는 정보자료 항목",
+      "confidence": 0.9941684126853942,
+      "bbox": [
+        [
+          117,
+          1292
+        ],
+        [
+          581,
+          1292
+        ],
+        [
+          581,
+          1318
+        ],
+        [
+          117,
+          1318
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "개인정보",
+      "confidence": 0.9997177839279174,
+      "bbox": [
+        [
+          320,
+          1348
+        ],
+        [
+          405,
+          1348
+        ],
+        [
+          405,
+          1373
+        ],
+        [
+          320,
+          1373
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "민감정보",
+      "confidence": 0.9991016030311585,
+      "bbox": [
+        [
+          824,
+          1348
+        ],
+        [
+          906,
+          1348
+        ],
+        [
+          906,
+          1373
+        ],
+        [
+          824,
+          1373
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 주민 조회자료(경찰청)",
+      "confidence": 0.9817573217784658,
+      "bbox": [
+        [
+          127,
+          1417
+        ],
+        [
+          354,
+          1417
+        ],
+        [
+          354,
+          1439
+        ],
+        [
+          127,
+          1439
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 범죄경력・수사・수배 조회자료(경찰청)",
+      "confidence": 0.9487825108296943,
+      "bbox": [
+        [
+          615,
+          1417
+        ],
+        [
+          1003,
+          1417
+        ],
+        [
+          1003,
+          1439
+        ],
+        [
+          615,
+          1439
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "개인정보 보유기관장 귀하",
+      "confidence": 0.9994075973828633,
+      "bbox": [
+        [
+          609,
+          1576
+        ],
+        [
+          907,
+          1576
+        ],
+        [
+          907,
+          1600
+        ],
+        [
+          609,
+          1600
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(서명)",
+      "confidence": 0.9924937685330709,
+      "bbox": [
+        [
+          1049,
+          1577
+        ],
+        [
+          1124,
+          1577
+        ],
+        [
+          1124,
+          1601
+        ],
+        [
+          1049,
+          1601
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

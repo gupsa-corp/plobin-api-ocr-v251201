@@ -1,0 +1,17 @@
+{
+  "block_id": 25,
+  "text": "다중 파일 업로드 i",
+  "confidence": 0.7799305103041909,
+  "bbox": {
+    "x_min": 176,
+    "y_min": 994,
+    "x_max": 305,
+    "y_max": 1009,
+    "width": 129,
+    "height": 15
+  },
+  "block_type": "text",
+  "text_length": 11,
+  "created_at": "2025-11-21T08:21:41.765995",
+  "version": "1.0"
+}

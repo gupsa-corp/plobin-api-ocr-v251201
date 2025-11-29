@@ -1,0 +1,17 @@
+{
+  "block_id": 21,
+  "text": "1주 전 열기",
+  "confidence": 0.8595775034692552,
+  "bbox": {
+    "x_min": 961,
+    "y_min": 1001,
+    "x_max": 1023,
+    "y_max": 1014,
+    "width": 62,
+    "height": 13
+  },
+  "block_type": "text",
+  "text_length": 7,
+  "created_at": "2025-11-21T07:48:29.506820",
+  "version": "1.0"
+}

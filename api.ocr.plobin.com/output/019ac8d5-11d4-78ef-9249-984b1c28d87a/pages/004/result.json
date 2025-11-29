@@ -1,0 +1,278 @@
+{
+  "page_number": 4,
+  "total_blocks": 10,
+  "average_confidence": 0.9749902909997552,
+  "processing_time": 1.1491820812225342,
+  "blocks": [
+    {
+      "text": "는 법령에 따라 파기됩니다.",
+      "confidence": 0.9996752809075748,
+      "bbox": [
+        [
+          182,
+          110
+        ],
+        [
+          512,
+          110
+        ],
+        [
+          512,
+          135
+        ],
+        [
+          182,
+          135
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 지원서 또는 각종 제출 서류의 기재내용이 사실과 다르거나, 기재착오, 누락, 연락불",
+      "confidence": 0.9882357704873178,
+      "bbox": [
+        [
+          127,
+          153
+        ],
+        [
+          1122,
+          153
+        ],
+        [
+          1122,
+          179
+        ],
+        [
+          127,
+          179
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "능, 자격미비자의 지원 등으로 인한 불이익이나 손해에 대한 책임은 일체 지원자",
+      "confidence": 0.9999190251032511,
+      "bbox": [
+        [
+          183,
+          198
+        ],
+        [
+          1122,
+          198
+        ],
+        [
+          1122,
+          227
+        ],
+        [
+          183,
+          227
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "본인의 책임으로 합니다.",
+      "confidence": 0.99988165696462,
+      "bbox": [
+        [
+          182,
+          246
+        ],
+        [
+          474,
+          246
+        ],
+        [
+          474,
+          274
+        ],
+        [
+          182,
+          274
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 제출된 서류에 추후 허위사실이 발견된 때에는 합격을 취소합니다.",
+      "confidence": 0.983637822419405,
+      "bbox": [
+        [
+          127,
+          295
+        ],
+        [
+          943,
+          295
+        ],
+        [
+          943,
+          321
+        ],
+        [
+          127,
+          321
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 적임자가 없는 경우에는 최종 합격자가 없을 수도 있습니다.",
+      "confidence": 0.9875473573401168,
+      "bbox": [
+        [
+          127,
+          342
+        ],
+        [
+          865,
+          342
+        ],
+        [
+          865,
+          368
+        ],
+        [
+          127,
+          368
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 지원서 접수 후 추가서류 제출을 요청할 수 있으며, 확인이 불분명한 증빙서류",
+      "confidence": 0.9903945821396848,
+      "bbox": [
+        [
+          127,
+          390
+        ],
+        [
+          1104,
+          390
+        ],
+        [
+          1104,
+          416
+        ],
+        [
+          127,
+          416
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "에 대하여는 인정하지 않습니다.",
+      "confidence": 0.9998935774752968,
+      "bbox": [
+        [
+          152,
+          436
+        ],
+        [
+          532,
+          436
+        ],
+        [
+          532,
+          460
+        ],
+        [
+          152,
+          460
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 기타 모집관련 문의사항은 천안문화재단 경영지원팀(041-900-0350)으로 문의바랍니다.",
+      "confidence": 0.9845118885690516,
+      "bbox": [
+        [
+          127,
+          485
+        ],
+        [
+          1118,
+          485
+        ],
+        [
+          1118,
+          511
+        ],
+        [
+          127,
+          511
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 4 -",
+      "confidence": 0.8162059485912323,
+      "bbox": [
+        [
+          586,
+          1677
+        ],
+        [
+          653,
+          1677
+        ],
+        [
+          653,
+          1699
+        ],
+        [
+          586,
+          1699
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

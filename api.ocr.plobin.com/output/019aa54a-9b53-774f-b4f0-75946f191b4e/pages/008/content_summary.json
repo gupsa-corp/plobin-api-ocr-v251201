@@ -1,0 +1,769 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "(재)천안시민프로축구단 공개채용 응시원서. 1. 인적사항",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 1,
+      "header": 0,
+      "body": 0,
+      "table": 0,
+      "footer": 0,
+      "other": 39
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.979,
+      "readability": "low",
+      "completeness": "complete",
+      "high_confidence_blocks": 38,
+      "low_confidence_blocks": 1
+    },
+    "language_distribution": {
+      "korean": 0.742,
+      "english": 0.006,
+      "other": 0.252
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 40,
+    "total_characters": 368,
+    "analyzed_at": "2025-11-21T07:22:14.811402"
+  },
+  "block_summaries": [
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "(재)천안시민프로축구단 공개채용 응시원서",
+      "keywords": [
+        "천안시민프로축구단",
+        "공개채용",
+        "응시원서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:22:14.810788"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1. 인적사항",
+      "keywords": [
+        "인적사항"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:14.810809"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "지원구분",
+      "keywords": [
+        "지원구분"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.810819"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "사무국장",
+      "keywords": [
+        "사무국장"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.810830"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "지원직무",
+      "keywords": [
+        "지원직무"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.810839"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "천안시민프로축구단 사무국",
+      "keywords": [
+        "천안시민프로축구단",
+        "사무국"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:14.810852"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "접수번호",
+      "keywords": [
+        "접수번호"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.810862"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "성명",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.810871"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(한글)",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.810881"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "현주소",
+      "keywords": [
+        "현주소"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.810890"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(본인휴대폰)",
+      "keywords": [
+        "본인휴대폰"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.810902"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "전자우편",
+      "keywords": [
+        "전자우편"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.810911"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "연락처",
+      "keywords": [
+        "연락처"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.810920"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(비상연락처)",
+      "keywords": [
+        "비상연락처"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.810931"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "가점항목",
+      "keywords": [
+        "가점항목"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.810940"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "□ 장애대상",
+      "keywords": [
+        "장애대상"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:14.810951"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "□ 보훈대상",
+      "keywords": [
+        "보훈대상"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:14.810961"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "2. 교육사항",
+      "keywords": [
+        "교육사항"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:14.810973"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "* 지원직무 관련 과목 및 교육과정을 이수한 경우 그 ...",
+      "keywords": [
+        "지원직무",
+        "교육과정을",
+        "이수한",
+        "내용을",
+        "기입해"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 43,
+      "word_count": 12,
+      "analyzed_at": "2025-11-21T07:22:14.810995"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "교육시간",
+      "keywords": [
+        "교육시간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.811005"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "교육구분",
+      "keywords": [
+        "교육구분"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.811013"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "과목명 및 교육과정",
+      "keywords": [
+        "과목명",
+        "교육과정"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:22:14.811025"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "□ 학교교육 □ 직업훈련",
+      "keywords": [
+        "학교교육",
+        "직업훈련"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T07:22:14.811039"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "ㄱ 기타",
+      "keywords": [],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:14.811049"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "□ 학교교육 □ 직업훈련",
+      "keywords": [
+        "학교교육",
+        "직업훈련"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T07:22:14.811061"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기타",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.811071"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "학교교육 □ 직업훈련",
+      "keywords": [
+        "학교교육",
+        "직업훈련"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:22:14.811082"
+    },
+    {
+      "content_type": "title",
+      "language": "other",
+      "text_preview": "П",
+      "keywords": [],
+      "confidence_level": "low",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.811089"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기타",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.811097"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "□ 학교교육 □ 직업훈련",
+      "keywords": [
+        "학교교육",
+        "직업훈련"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T07:22:14.811110"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기타",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.811118"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "직무관련 교육 주요내용",
+      "keywords": [
+        "직무관련",
+        "주요내용"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:22:14.811131"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "3. 자격사항",
+      "keywords": [
+        "자격사항"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:14.811143"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "* <b>지원직무 관련</b> 국가기술/전문자격, 국가...",
+      "keywords": [
+        "지원직무",
+        "국가기술",
+        "전문자격",
+        "국가공인민간자격을",
+        "기입해"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 47,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T07:22:14.811165"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "자격증명",
+      "keywords": [
+        "자격증명"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.811174"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "취득일자",
+      "keywords": [
+        "취득일자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.811183"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "취득일자",
+      "keywords": [
+        "취득일자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.811191"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "발 급 기 관",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T07:22:14.811202"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "자격증명",
+      "keywords": [
+        "자격증명"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:14.811211"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "발 급 기 관",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T07:22:14.811222"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다.",
+    "주로 한국어 문서입니다."
+  ],
+  "recommendations": []
+}

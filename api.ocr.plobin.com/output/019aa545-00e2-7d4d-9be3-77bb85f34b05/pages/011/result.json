@@ -1,0 +1,710 @@
+{
+  "page_number": 11,
+  "total_blocks": 26,
+  "average_confidence": 0.993722814928899,
+  "processing_time": 1.6932330131530762,
+  "blocks": [
+    {
+      "text": "■ 아동·청소년의 성보호에 관한 법률 시행규칙 [별지 제10호의2서식] <신설 2018. 3. 21.>",
+      "confidence": 0.9865387453407538,
+      "bbox": [
+        [
+          122,
+          154
+        ],
+        [
+          872,
+          154
+        ],
+        [
+          872,
+          170
+        ],
+        [
+          122,
+          170
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(앞쪽)",
+      "confidence": 0.9476545949776968,
+      "bbox": [
+        [
+          1075,
+          173
+        ],
+        [
+          1126,
+          173
+        ],
+        [
+          1126,
+          190
+        ],
+        [
+          1075,
+          190
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성범죄 경력 및 아동학대관련범죄 전력 조회 동의서",
+      "confidence": 0.9996252964282858,
+      "bbox": [
+        [
+          221,
+          236
+        ],
+        [
+          1024,
+          236
+        ],
+        [
+          1024,
+          266
+        ],
+        [
+          221,
+          266
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성 명(외국인의 경우 영문으로 작성)",
+      "confidence": 0.9990505847063932,
+      "bbox": [
+        [
+          217,
+          334
+        ],
+        [
+          586,
+          334
+        ],
+        [
+          586,
+          354
+        ],
+        [
+          217,
+          354
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주민등록번호(외국인의 경우 외국인등록번호/국적)",
+      "confidence": 0.9993279107979366,
+      "bbox": [
+        [
+          218,
+          440
+        ],
+        [
+          713,
+          440
+        ],
+        [
+          713,
+          458
+        ],
+        [
+          218,
+          458
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "대상자",
+      "confidence": 0.9995804578065872,
+      "bbox": [
+        [
+          134,
+          467
+        ],
+        [
+          203,
+          467
+        ],
+        [
+          203,
+          485
+        ],
+        [
+          134,
+          485
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "연락처(휴대전화 등)",
+      "confidence": 0.9983143714758066,
+      "bbox": [
+        [
+          217,
+          533
+        ],
+        [
+          420,
+          533
+        ],
+        [
+          420,
+          553
+        ],
+        [
+          217,
+          553
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "본인은 ○○기관(시설)(예: 유치원, 어린이집, 아동복지시설, 청소년쉼터, 청소년활동시설, 의료기관",
+      "confidence": 0.9981211752727114,
+      "bbox": [
+        [
+          145,
+          695
+        ],
+        [
+          1118,
+          695
+        ],
+        [
+          1118,
+          717
+        ],
+        [
+          145,
+          717
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "등)의 취업자등으로서「아동·청소년의 성보호에 관한 법률」 제56조 및 같은 법 시행령 제25조에 따른",
+      "confidence": 0.9908451427847652,
+      "bbox": [
+        [
+          129,
+          729
+        ],
+        [
+          1117,
+          729
+        ],
+        [
+          1117,
+          751
+        ],
+        [
+          129,
+          751
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성범죄경력 조회와 ○○기관(시설)(예 : 유치원, 어린이집, 아동복지시설, 청소년쉼터, 청소년활동시설,",
+      "confidence": 0.9985678642988205,
+      "bbox": [
+        [
+          127,
+          764
+        ],
+        [
+          1116,
+          764
+        ],
+        [
+          1116,
+          784
+        ],
+        [
+          127,
+          784
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "의료기관 등)의 취업(예정)자 또는 노무 제공(예정)자로서 「아동복지법」 제29조의3 및 같은 법 시행령",
+      "confidence": 0.9990109135707219,
+      "bbox": [
+        [
+          127,
+          796
+        ],
+        [
+          1114,
+          796
+        ],
+        [
+          1114,
+          818
+        ],
+        [
+          127,
+          818
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제26조의4에 따른 아동학대관련범죄 전력 조회에 동의합니다.",
+      "confidence": 0.9997391751834325,
+      "bbox": [
+        [
+          128,
+          831
+        ],
+        [
+          714,
+          831
+        ],
+        [
+          714,
+          849
+        ],
+        [
+          128,
+          849
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "일",
+      "confidence": 0.9986442625522614,
+      "bbox": [
+        [
+          1098,
+          929
+        ],
+        [
+          1125,
+          929
+        ],
+        [
+          1125,
+          951
+        ],
+        [
+          1098,
+          951
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "년",
+      "confidence": 0.9962422549724579,
+      "bbox": [
+        [
+          849,
+          932
+        ],
+        [
+          877,
+          932
+        ],
+        [
+          877,
+          949
+        ],
+        [
+          849,
+          949
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "월",
+      "confidence": 0.995528906583786,
+      "bbox": [
+        [
+          973,
+          932
+        ],
+        [
+          1004,
+          932
+        ],
+        [
+          1004,
+          949
+        ],
+        [
+          973,
+          949
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "동의자",
+      "confidence": 0.9994139671325684,
+      "bbox": [
+        [
+          640,
+          1012
+        ],
+        [
+          711,
+          1012
+        ],
+        [
+          711,
+          1032
+        ],
+        [
+          640,
+          1032
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(서명 또는 인)",
+      "confidence": 0.9814695011485707,
+      "bbox": [
+        [
+          968,
+          1012
+        ],
+        [
+          1125,
+          1012
+        ],
+        [
+          1125,
+          1032
+        ],
+        [
+          968,
+          1032
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경찰서장 귀하",
+      "confidence": 0.9993508325682746,
+      "bbox": [
+        [
+          344,
+          1093
+        ],
+        [
+          489,
+          1093
+        ],
+        [
+          489,
+          1113
+        ],
+        [
+          344,
+          1113
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "유의사항",
+      "confidence": 0.9939058780670166,
+      "bbox": [
+        [
+          553,
+          1318
+        ],
+        [
+          691,
+          1318
+        ],
+        [
+          691,
+          1347
+        ],
+        [
+          553,
+          1347
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 개인정보 수집항목: 성명, 주민등록번호(외국인의 경우 외국인등록번호 및 국적)",
+      "confidence": 0.9964071450134119,
+      "bbox": [
+        [
+          128,
+          1368
+        ],
+        [
+          782,
+          1368
+        ],
+        [
+          782,
+          1384
+        ],
+        [
+          128,
+          1384
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 개인정보 제공 거부에 따른 제한사항: 귀하는 개인정보 제공 동의를 거부할 권리가 있으나, 동의 거부 시에는 취업에 제한",
+      "confidence": 0.9998350546393596,
+      "bbox": [
+        [
+          129,
+          1401
+        ],
+        [
+          1125,
+          1401
+        ],
+        [
+          1125,
+          1418
+        ],
+        [
+          129,
+          1418
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "을 받을 수 있습니다.",
+      "confidence": 0.9968715608119965,
+      "bbox": [
+        [
+          146,
+          1427
+        ],
+        [
+          318,
+          1427
+        ],
+        [
+          318,
+          1443
+        ],
+        [
+          146,
+          1443
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 개인정보의 수집·이용 목적: 수집된 개인정보는 성범죄 경력 조회 신청, 아동학대관련범죄 전력 조회 신청 등을 위하여",
+      "confidence": 0.9822313385350364,
+      "bbox": [
+        [
+          128,
+          1461
+        ],
+        [
+          1125,
+          1461
+        ],
+        [
+          1125,
+          1478
+        ],
+        [
+          128,
+          1478
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사용됩니다.",
+      "confidence": 0.9997402727603912,
+      "bbox": [
+        [
+          145,
+          1487
+        ],
+        [
+          245,
+          1487
+        ],
+        [
+          245,
+          1503
+        ],
+        [
+          145,
+          1503
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4. 동의자가 2인 이상일 경우에는 뒤쪽에 일괄하여 작성할 수 있습니다.",
+      "confidence": 0.9970864767119998,
+      "bbox": [
+        [
+          120,
+          1521
+        ],
+        [
+          691,
+          1521
+        ],
+        [
+          691,
+          1537
+        ],
+        [
+          120,
+          1537
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "210mm×297mm[백상지(80g/m²) 또는 중질지(80g/m²)]",
+      "confidence": 0.9836895040103367,
+      "bbox": [
+        [
+          720,
+          1575
+        ],
+        [
+          1122,
+          1575
+        ],
+        [
+          1122,
+          1592
+        ],
+        [
+          720,
+          1592
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

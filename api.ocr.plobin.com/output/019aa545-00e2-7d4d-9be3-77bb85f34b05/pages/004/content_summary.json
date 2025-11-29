@@ -1,0 +1,526 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "※ 경력증명서는 당해분야의 근무부서, 직책, 담당업무 등을 구체적으로 확인·. 증명할 수 있는 서류이어야 하고 발생기관의 담당자 및 연락처가. 기재되어 있어야 함. 또한 모든 서류는 공고일 이후 발행본 제출을 원칙으로",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [
+        "ccfc2002@naver.com"
+      ],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 4,
+      "header": 0,
+      "body": 0,
+      "table": 10,
+      "footer": 0,
+      "other": 9
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.979,
+      "readability": "high",
+      "completeness": "complete",
+      "high_confidence_blocks": 23,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.522,
+      "english": 0.019,
+      "other": 0.459
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 23,
+    "total_characters": 857,
+    "analyzed_at": "2025-11-21T07:16:01.812385"
+  },
+  "block_summaries": [
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "※ 경력증명서는 당해분야의 근무부서, 직책, 담당업무 ...",
+      "keywords": [
+        "경력증명서는",
+        "당해분야의",
+        "근무부서",
+        "담당업무",
+        "구체적으로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 42,
+      "word_count": 9,
+      "analyzed_at": "2025-11-21T07:16:01.811648"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "증명할 수 있는 서류이어야 하고 발생기관의 담당자 및 ...",
+      "keywords": [
+        "증명할",
+        "서류이어야",
+        "발생기관의",
+        "담당자",
+        "연락처가"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 9,
+      "analyzed_at": "2025-11-21T07:16:01.811679"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "기재되어 있어야 함. 또한 모든 서류는 공고일 이후 발...",
+      "keywords": [
+        "기재되어",
+        "있어야",
+        "서류는",
+        "공고일",
+        "발행본"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 41,
+      "word_count": 11,
+      "analyzed_at": "2025-11-21T07:16:01.811702"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "하며, 공고일 이전의 서류인 경우 법에서 정한 유효기간...",
+      "keywords": [
+        "공고일",
+        "이전의",
+        "서류인",
+        "법에서",
+        "유효기간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 9,
+      "analyzed_at": "2025-11-21T07:16:01.811725"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기간이 기재된 것만 인정) 내의 서류이어야 함",
+      "keywords": [
+        "기간이",
+        "기재된",
+        "서류이어야"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T07:16:01.811743"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "O 성범죄(아동폭력) 조회 동의서 각 1부",
+      "keywords": [
+        "성범죄",
+        "아동폭력",
+        "동의서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 6,
+      "analyzed_at": "2025-11-21T07:16:01.811757"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "○ 개인정보보호를 위한 개인정보 수집·이용·제3자 제공...",
+      "keywords": [
+        "개인정보보호를",
+        "개인정보",
+        "제3자",
+        "동의서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T07:16:01.811776"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "O 개인정보 제공 동의서(약식) 1부",
+      "keywords": [
+        "개인정보",
+        "동의서"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 20,
+      "word_count": 5,
+      "analyzed_at": "2025-11-21T07:16:01.811788"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "○ 기타 재단에서 필요하다고 요구하는 자료 추후 제출",
+      "keywords": [
+        "재단에서",
+        "필요하다고",
+        "요구하는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 29,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T07:16:01.811804"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "※ 경력증명서를 제외한 모든 증명서(서류는) 최근 6개...",
+      "keywords": [
+        "경력증명서를",
+        "제외한",
+        "증명서",
+        "서류는",
+        "6개월"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 42,
+      "word_count": 10,
+      "analyzed_at": "2025-11-21T07:16:01.811823"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "6. 모집일정",
+      "keywords": [
+        "모집일정"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:16:01.811836"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "O 공고기간 : 2025. 09. 05(금) ~ 09....",
+      "keywords": [
+        "공고기간",
+        "2025",
+        "11일간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 49,
+      "word_count": 11,
+      "analyzed_at": "2025-11-21T07:16:01.811859"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "○ 접수기간 : 2025. 09. 09(화) ~ 09....",
+      "keywords": [
+        "접수기간",
+        "2025",
+        "5일간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 47,
+      "word_count": 10,
+      "analyzed_at": "2025-11-21T07:16:01.811881"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 원서접수 : 방문(토·일·공휴일 불가), 우편(등기...",
+      "keywords": [
+        "원서접수",
+        "공휴일",
+        "이메일"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 41,
+      "word_count": 9,
+      "analyzed_at": "2025-11-21T07:16:01.811905"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "우 편 - 31136 충청남도 천안시 서북구 축구센터로...",
+      "keywords": [
+        "31136",
+        "충청남도",
+        "천안시",
+        "서북구",
+        "축구센터로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 9,
+      "analyzed_at": "2025-11-21T07:16:01.811926"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "천안축구센터 1층 (재)천안시민프로축구단 사무국",
+      "keywords": [
+        "천안축구센터",
+        "천안시민프로축구단",
+        "사무국"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T07:16:01.811942"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "※ 접수 마감일 17:00 도착분에 한함(방문/우편(등...",
+      "keywords": [
+        "마감일",
+        "도착분에",
+        "이메일"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 40,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T07:16:01.811960"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "○ 접수장소 : (재)천안시민프로축구단 사무국(천안축구...",
+      "keywords": [
+        "접수장소",
+        "천안시민프로축구단",
+        "사무국",
+        "천안축구센터"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 6,
+      "analyzed_at": "2025-11-21T07:16:01.811976"
+    },
+    {
+      "content_type": "table",
+      "language": "english",
+      "text_preview": "☎ 070-8801-1688 / 이메일 : ccfc20...",
+      "keywords": [
+        "070",
+        "8801",
+        "1688",
+        "이메일",
+        "ccfc2002"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": true,
+      "contains_phone": false,
+      "text_length": 42,
+      "word_count": 6,
+      "analyzed_at": "2025-11-21T07:16:01.812000"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "○ 1차 합격자 발표(생략가능) : 2025. 09. ...",
+      "keywords": [
+        "합격자",
+        "생략가능",
+        "2025"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 46,
+      "word_count": 11,
+      "analyzed_at": "2025-11-21T07:16:01.812022"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "O 2차 면접 심사 : 2025. 09. 23(화) 1...",
+      "keywords": [
+        "2025"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 45,
+      "word_count": 12,
+      "analyzed_at": "2025-11-21T07:16:01.812042"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "○ 최종합격자 발표(생략가능) : 2025. 09. 2...",
+      "keywords": [
+        "최종합격자",
+        "생략가능",
+        "2025"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 48,
+      "word_count": 11,
+      "analyzed_at": "2025-11-21T07:16:01.812063"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "※ 채용 일정에 따라 변동가능 (변동시 개인별 사전 공...",
+      "keywords": [
+        "일정에",
+        "변동가능",
+        "변동시",
+        "개인별"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 9,
+      "analyzed_at": "2025-11-21T07:16:01.812080"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다.",
+    "4개의 중요한 정보 블록이 식별되었습니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

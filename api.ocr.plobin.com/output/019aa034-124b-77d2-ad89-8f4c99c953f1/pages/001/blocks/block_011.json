@@ -1,0 +1,27 @@
+{
+  "block_id": 11,
+  "text": "<b>Professional</b>",
+  "confidence": 0.9656225778162479,
+  "bbox": [
+    [
+      564,
+      315
+    ],
+    [
+      716,
+      315
+    ],
+    [
+      716,
+      339
+    ],
+    [
+      564,
+      339
+    ]
+  ],
+  "block_type": "text",
+  "text_length": 19,
+  "created_at": "2025-11-20T07:39:22.219137",
+  "version": "1.0"
+}

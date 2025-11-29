@@ -1,0 +1,17 @@
+{
+  "block_id": 42,
+  "text": "• 보기 권한",
+  "confidence": 0.976052721341451,
+  "bbox": {
+    "x_min": 172,
+    "y_min": 1512,
+    "x_max": 291,
+    "y_max": 1537,
+    "width": 119,
+    "height": 25
+  },
+  "block_type": "text",
+  "text_length": 7,
+  "created_at": "2025-11-21T08:21:38.559873",
+  "version": "1.0"
+}

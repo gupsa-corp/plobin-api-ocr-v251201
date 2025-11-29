@@ -1,0 +1,1169 @@
+{
+  "page_number": 11,
+  "total_blocks": 43,
+  "average_confidence": 0.9883172171697363,
+  "processing_time": 1.8074829578399658,
+  "blocks": [
+    {
+      "text": "근무예정부서",
+      "confidence": 0.9611289245741708,
+      "bbox": [
+        [
+          161,
+          111
+        ],
+        [
+          315,
+          111
+        ],
+        [
+          315,
+          135
+        ],
+        [
+          161,
+          135
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용 분야",
+      "confidence": 0.998795781816755,
+      "bbox": [
+        [
+          451,
+          111
+        ],
+        [
+          573,
+          111
+        ],
+        [
+          573,
+          135
+        ],
+        [
+          451,
+          135
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "임용예정직급",
+      "confidence": 0.9989817568234035,
+      "bbox": [
+        [
+          728,
+          111
+        ],
+        [
+          884,
+          111
+        ],
+        [
+          884,
+          135
+        ],
+        [
+          728,
+          135
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "선발예정인원",
+      "confidence": 0.9981779285839626,
+      "bbox": [
+        [
+          952,
+          111
+        ],
+        [
+          1107,
+          111
+        ],
+        [
+          1107,
+          135
+        ],
+        [
+          952,
+          135
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건축안전관리",
+      "confidence": 0.9979545814650399,
+      "bbox": [
+        [
+          434,
+          180
+        ],
+        [
+          589,
+          180
+        ],
+        [
+          589,
+          204
+        ],
+        [
+          434,
+          204
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시간선택제임기제",
+      "confidence": 0.99843211306466,
+      "bbox": [
+        [
+          703,
+          182
+        ],
+        [
+          908,
+          182
+        ],
+        [
+          908,
+          204
+        ],
+        [
+          703,
+          204
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "도시주택국",
+      "confidence": 0.99534739057223,
+      "bbox": [
+        [
+          172,
+          182
+        ],
+        [
+          303,
+          182
+        ],
+        [
+          303,
+          206
+        ],
+        [
+          172,
+          206
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1명",
+      "confidence": 0.9920229762792587,
+      "bbox": [
+        [
+          1009,
+          197
+        ],
+        [
+          1051,
+          197
+        ],
+        [
+          1051,
+          222
+        ],
+        [
+          1009,
+          222
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건축과",
+      "confidence": 0.9988670349121094,
+      "bbox": [
+        [
+          196,
+          212
+        ],
+        [
+          281,
+          212
+        ],
+        [
+          281,
+          234
+        ],
+        [
+          196,
+          234
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[건축구조]",
+      "confidence": 0.9774434939026833,
+      "bbox": [
+        [
+          449,
+          213
+        ],
+        [
+          576,
+          213
+        ],
+        [
+          576,
+          238
+        ],
+        [
+          449,
+          238
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나급(6급상당)",
+      "confidence": 0.9849343121051788,
+      "bbox": [
+        [
+          722,
+          213
+        ],
+        [
+          887,
+          213
+        ],
+        [
+          887,
+          237
+        ],
+        [
+          722,
+          237
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 건축 인허가에 따른 기술적인 사항에 대한 보고·확인·검토·심사·점검",
+      "confidence": 0.9913670808769935,
+      "bbox": [
+        [
+          362,
+          294
+        ],
+        [
+          1096,
+          294
+        ],
+        [
+          1096,
+          319
+        ],
+        [
+          362,
+          319
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 건축물 및 건축공사장의 안전관리 및 안전점검",
+      "confidence": 0.9849143809285658,
+      "bbox": [
+        [
+          362,
+          331
+        ],
+        [
+          939,
+          331
+        ],
+        [
+          939,
+          353
+        ],
+        [
+          362,
+          353
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 건축물의 점검 및 개량·보수에 대한 기술지원 및 정보제공 업무",
+      "confidence": 0.9908967062830925,
+      "bbox": [
+        [
+          361,
+          364
+        ],
+        [
+          1095,
+          364
+        ],
+        [
+          1095,
+          391
+        ],
+        [
+          361,
+          391
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주요 업무",
+      "confidence": 0.9996348108564105,
+      "bbox": [
+        [
+          179,
+          402
+        ],
+        [
+          295,
+          402
+        ],
+        [
+          295,
+          424
+        ],
+        [
+          179,
+          424
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○「건축법」제25조에 따른 공사감리에 대한 관리·감독",
+      "confidence": 0.9804717067516211,
+      "bbox": [
+        [
+          361,
+          401
+        ],
+        [
+          1005,
+          401
+        ],
+        [
+          1005,
+          425
+        ],
+        [
+          361,
+          425
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 건축물 부문 안전관리 대책에 대한 세부 실행",
+      "confidence": 0.9919514368320334,
+      "bbox": [
+        [
+          362,
+          437
+        ],
+        [
+          926,
+          437
+        ],
+        [
+          926,
+          459
+        ],
+        [
+          362,
+          459
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 건축물 안전 관련 매뉴얼 관리",
+      "confidence": 0.9912079601060777,
+      "bbox": [
+        [
+          361,
+          470
+        ],
+        [
+          754,
+          470
+        ],
+        [
+          754,
+          495
+        ],
+        [
+          361,
+          495
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 기타 부서장이 지정하는 업무 등",
+      "confidence": 0.9921169877052307,
+      "bbox": [
+        [
+          362,
+          504
+        ],
+        [
+          778,
+          504
+        ],
+        [
+          778,
+          530
+        ],
+        [
+          362,
+          530
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ (<b>공통 역량</b>) 윤리의식, 공직의식, 고객지향 마인드",
+      "confidence": 0.932740847269694,
+      "bbox": [
+        [
+          362,
+          602
+        ],
+        [
+          979,
+          602
+        ],
+        [
+          979,
+          627
+        ],
+        [
+          362,
+          627
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필요 역량",
+      "confidence": 0.998993626662663,
+      "bbox": [
+        [
+          178,
+          642
+        ],
+        [
+          298,
+          642
+        ],
+        [
+          298,
+          666
+        ],
+        [
+          178,
+          666
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ (직급별 역량) 상황인식·판단력, 기획력, 팀워크지향, 의사소통 및 조정능력",
+      "confidence": 0.9790794812142849,
+      "bbox": [
+        [
+          361,
+          642
+        ],
+        [
+          1103,
+          642
+        ],
+        [
+          1103,
+          667
+        ],
+        [
+          361,
+          667
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ <b>(직렬별 역량)</b> 건축안전관리, 건축구조 등 이해력",
+      "confidence": 0.945668693951198,
+      "bbox": [
+        [
+          362,
+          683
+        ],
+        [
+          942,
+          683
+        ],
+        [
+          942,
+          707
+        ],
+        [
+          362,
+          707
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 건축법, 건축물관리법, 건술기술진흥법, 건축안전관리, 건축구조",
+      "confidence": 0.9926629112317011,
+      "bbox": [
+        [
+          363,
+          787
+        ],
+        [
+          1112,
+          787
+        ],
+        [
+          1112,
+          815
+        ],
+        [
+          363,
+          815
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필요 지식",
+      "confidence": 0.9994975754192897,
+      "bbox": [
+        [
+          178,
+          806
+        ],
+        [
+          294,
+          806
+        ],
+        [
+          294,
+          830
+        ],
+        [
+          178,
+          830
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "등 관련 전문지식",
+      "confidence": 0.9995390772819519,
+      "bbox": [
+        [
+          397,
+          822
+        ],
+        [
+          599,
+          822
+        ],
+        [
+          599,
+          846
+        ],
+        [
+          397,
+          846
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "아래의 필수자격을 충족하고, 경력요건 중 한가지 이상을 충족하는 자",
+      "confidence": 0.999444822470347,
+      "bbox": [
+        [
+          362,
+          915
+        ],
+        [
+          1013,
+          915
+        ],
+        [
+          1013,
+          939
+        ],
+        [
+          362,
+          939
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[필수자격]",
+      "confidence": 0.995317205786705,
+      "bbox": [
+        [
+          373,
+          955
+        ],
+        [
+          496,
+          955
+        ],
+        [
+          496,
+          979
+        ],
+        [
+          373,
+          979
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 「국가기술자격법」에 따른 건축구조기술사 또는 「건설기술진흥법 시",
+      "confidence": 0.9914162456989288,
+      "bbox": [
+        [
+          374,
+          985
+        ],
+        [
+          1114,
+          985
+        ],
+        [
+          1114,
+          1009
+        ],
+        [
+          374,
+          1009
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "행령」 별표1에 따른 건설기술인 중 건축구조분야 고급기술인 이상의",
+      "confidence": 0.9857922964974454,
+      "bbox": [
+        [
+          408,
+          1015
+        ],
+        [
+          1112,
+          1015
+        ],
+        [
+          1112,
+          1040
+        ],
+        [
+          408,
+          1040
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자격기준을 갖춘 사람 또는 「국가기술자격법」에 따른 건축시공기술사",
+      "confidence": 0.9818880589384782,
+      "bbox": [
+        [
+          407,
+          1043
+        ],
+        [
+          1113,
+          1043
+        ],
+        [
+          1113,
+          1071
+        ],
+        [
+          407,
+          1071
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 운전면허(2종보통 이상)를 소지하고 실제운전이 가능한 자",
+      "confidence": 0.9994030909405814,
+      "bbox": [
+        [
+          374,
+          1083
+        ],
+        [
+          1020,
+          1083
+        ],
+        [
+          1020,
+          1107
+        ],
+        [
+          374,
+          1107
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[경력요건]",
+      "confidence": 0.9855938777327538,
+      "bbox": [
+        [
+          374,
+          1125
+        ],
+        [
+          497,
+          1125
+        ],
+        [
+          497,
+          1147
+        ],
+        [
+          374,
+          1147
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시자격요건",
+      "confidence": 0.9969932351793561,
+      "bbox": [
+        [
+          160,
+          1131
+        ],
+        [
+          312,
+          1131
+        ],
+        [
+          312,
+          1155
+        ],
+        [
+          160,
+          1155
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 학사학위 취득 후 3년 이상 임용예정 직무분야의 실무경력자",
+      "confidence": 0.9996388264604517,
+      "bbox": [
+        [
+          374,
+          1153
+        ],
+        [
+          1022,
+          1153
+        ],
+        [
+          1022,
+          1179
+        ],
+        [
+          374,
+          1179
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 5년 이상 임용예정 직무분야의 실무경력자",
+      "confidence": 0.9968219068315294,
+      "bbox": [
+        [
+          374,
+          1183
+        ],
+        [
+          884,
+          1183
+        ],
+        [
+          884,
+          1211
+        ],
+        [
+          374,
+          1211
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 7급(7급상당) 이상의 공무원으로서 2년이상 임용예정 직무분야의",
+      "confidence": 0.9978177428245545,
+      "bbox": [
+        [
+          374,
+          1213
+        ],
+        [
+          1110,
+          1213
+        ],
+        [
+          1110,
+          1239
+        ],
+        [
+          374,
+          1239
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "실무경력자",
+      "confidence": 0.9992350041866302,
+      "bbox": [
+        [
+          407,
+          1244
+        ],
+        [
+          530,
+          1244
+        ],
+        [
+          530,
+          1268
+        ],
+        [
+          407,
+          1268
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[실무경력]",
+      "confidence": 0.989996500313282,
+      "bbox": [
+        [
+          374,
+          1286
+        ],
+        [
+          495,
+          1286
+        ],
+        [
+          495,
+          1311
+        ],
+        [
+          374,
+          1311
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "국가, 지자체, 공공기관, 민간기업 등에서 건축시공, 건축감리,",
+      "confidence": 0.9994840734713787,
+      "bbox": [
+        [
+          374,
+          1317
+        ],
+        [
+          1112,
+          1317
+        ],
+        [
+          1112,
+          1342
+        ],
+        [
+          374,
+          1342
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건축설계, 구조설계, 안전진단 등 건축안전 관련분야 업무 경력자",
+      "confidence": 0.9992013992489995,
+      "bbox": [
+        [
+          372,
+          1348
+        ],
+        [
+          1077,
+          1348
+        ],
+        [
+          1077,
+          1372
+        ],
+        [
+          372,
+          1372
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "해당없음",
+      "confidence": 0.998540711402893,
+      "bbox": [
+        [
+          360,
+          1427
+        ],
+        [
+          465,
+          1427
+        ],
+        [
+          465,
+          1457
+        ],
+        [
+          360,
+          1457
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "우대요건",
+      "confidence": 0.9082257628440857,
+      "bbox": [
+        [
+          186,
+          1431
+        ],
+        [
+          289,
+          1431
+        ],
+        [
+          289,
+          1455
+        ],
+        [
+          186,
+          1455
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

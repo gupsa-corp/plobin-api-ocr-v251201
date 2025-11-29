@@ -1,0 +1,332 @@
+{
+  "page_number": 19,
+  "total_blocks": 12,
+  "average_confidence": 0.9858689230307168,
+  "processing_time": 1.2000021934509277,
+  "blocks": [
+    {
+      "text": "[서식4 직무수행계획서]",
+      "confidence": 0.997659969329834,
+      "bbox": [
+        [
+          116,
+          86
+        ],
+        [
+          392,
+          86
+        ],
+        [
+          392,
+          112
+        ],
+        [
+          116,
+          112
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직 무 수 행 계 획 서",
+      "confidence": 0.9624575614929199,
+      "bbox": [
+        [
+          391,
+          181
+        ],
+        [
+          851,
+          181
+        ],
+        [
+          851,
+          234
+        ],
+        [
+          391,
+          234
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 채용예정분야 :",
+      "confidence": 0.9637327698560861,
+      "bbox": [
+        [
+          115,
+          342
+        ],
+        [
+          397,
+          342
+        ],
+        [
+          397,
+          372
+        ],
+        [
+          115,
+          372
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 작성요령",
+      "confidence": 0.92944292889701,
+      "bbox": [
+        [
+          114,
+          462
+        ],
+        [
+          298,
+          462
+        ],
+        [
+          298,
+          492
+        ],
+        [
+          114,
+          492
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 특별한 양식없이 응시자가 자유롭게 기술하되, 응시하는 분야 (담당업무)를",
+      "confidence": 0.9892961315133355,
+      "bbox": [
+        [
+          157,
+          541
+        ],
+        [
+          1124,
+          541
+        ],
+        [
+          1124,
+          570
+        ],
+        [
+          157,
+          570
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "참고하여 어떻게 업무를 수행할 것인지",
+      "confidence": 0.9999615306204016,
+      "bbox": [
+        [
+          190,
+          595
+        ],
+        [
+          717,
+          595
+        ],
+        [
+          717,
+          624
+        ],
+        [
+          190,
+          624
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "서론(정책·사업의 동향 및 전망 포함), 정책(사업)의 목표, 추진전략,",
+      "confidence": 0.9976962804794312,
+      "bbox": [
+        [
+          187,
+          678
+        ],
+        [
+          1125,
+          678
+        ],
+        [
+          1125,
+          707
+        ],
+        [
+          187,
+          707
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "수단, 방법, 추진일정 등이 포함되도록 작성함.",
+      "confidence": 0.9998701917273658,
+      "bbox": [
+        [
+          187,
+          728
+        ],
+        [
+          814,
+          728
+        ],
+        [
+          814,
+          761
+        ],
+        [
+          187,
+          761
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 작성순서는 겉표지(작성자 성명기재), 목차, 요약서 본문 순으로 함.",
+      "confidence": 0.9987957307270595,
+      "bbox": [
+        [
+          158,
+          814
+        ],
+        [
+          1074,
+          814
+        ],
+        [
+          1074,
+          843
+        ],
+        [
+          158,
+          843
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 분량은 A4용지 5매 내외(요약서 A4 1매 별도 첨부)로 하고 아래한글(워",
+      "confidence": 0.9953243681725036,
+      "bbox": [
+        [
+          158,
+          897
+        ],
+        [
+          1122,
+          897
+        ],
+        [
+          1122,
+          926
+        ],
+        [
+          158,
+          926
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "드프로세서)를 사용하여 작성",
+      "confidence": 0.9980273737626917,
+      "bbox": [
+        [
+          197,
+          952
+        ],
+        [
+          585,
+          952
+        ],
+        [
+          585,
+          980
+        ],
+        [
+          197,
+          980
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 보고서 매장마다 쪽 번호 부여",
+      "confidence": 0.9981622397899628,
+      "bbox": [
+        [
+          158,
+          1037
+        ],
+        [
+          478,
+          1037
+        ],
+        [
+          478,
+          1057
+        ],
+        [
+          158,
+          1057
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

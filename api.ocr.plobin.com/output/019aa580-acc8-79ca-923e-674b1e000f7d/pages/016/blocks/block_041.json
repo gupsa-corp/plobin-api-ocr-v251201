@@ -1,0 +1,17 @@
+{
+  "block_id": 41,
+  "text": "• 템플릿 미리보기 버튼: 템플릿 확인",
+  "confidence": 0.975769087024357,
+  "bbox": {
+    "x_min": 171,
+    "y_min": 1456,
+    "x_max": 513,
+    "y_max": 1481,
+    "width": 342,
+    "height": 25
+  },
+  "block_type": "text",
+  "text_length": 21,
+  "created_at": "2025-11-21T08:21:33.290887",
+  "version": "1.0"
+}

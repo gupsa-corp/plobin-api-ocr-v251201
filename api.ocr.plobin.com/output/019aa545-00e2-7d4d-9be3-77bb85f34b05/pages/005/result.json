@@ -1,0 +1,629 @@
+{
+  "page_number": 5,
+  "total_blocks": 23,
+  "average_confidence": 0.9915967838390011,
+  "processing_time": 1.5179784297943115,
+  "blocks": [
+    {
+      "text": "7. 기타사항",
+      "confidence": 0.9607218437724643,
+      "bbox": [
+        [
+          113,
+          148
+        ],
+        [
+          285,
+          148
+        ],
+        [
+          285,
+          175
+        ],
+        [
+          113,
+          175
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 제출된 서류는 채용절차의 공정화에 관한 법률 제11조(채용서류의",
+      "confidence": 0.9883915618062019,
+      "bbox": [
+        [
+          132,
+          201
+        ],
+        [
+          1123,
+          201
+        ],
+        [
+          1123,
+          229
+        ],
+        [
+          132,
+          229
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "반환)에 근거하여 반환 청구시 반환하며, 제출 서류의 기재내용 등이",
+      "confidence": 0.9987907104003124,
+      "bbox": [
+        [
+          175,
+          251
+        ],
+        [
+          1123,
+          251
+        ],
+        [
+          1123,
+          279
+        ],
+        [
+          175,
+          279
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사실과 다를 경우 합격을 취소하거나 임용을 무효로 합니다.",
+      "confidence": 0.9998445020002478,
+      "bbox": [
+        [
+          175,
+          300
+        ],
+        [
+          1012,
+          300
+        ],
+        [
+          1012,
+          328
+        ],
+        [
+          175,
+          328
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "단, 본 기관은 공공기록물 관리에 관한 법률 시행령 제3조(공공기관의",
+      "confidence": 0.9983061581850052,
+      "bbox": [
+        [
+          175,
+          351
+        ],
+        [
+          1122,
+          351
+        ],
+        [
+          1122,
+          378
+        ],
+        [
+          175,
+          378
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "범위)제3호에 해당되는 공공기관으로, 감사 및 채용비리 피해자",
+      "confidence": 0.9993564734856287,
+      "bbox": [
+        [
+          175,
+          401
+        ],
+        [
+          1125,
+          401
+        ],
+        [
+          1125,
+          429
+        ],
+        [
+          175,
+          429
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "구제를 위해 반환청구시 반환되는 서류와 별개로 <b>탈락자 서류를</b>",
+      "confidence": 0.9937232764991554,
+      "bbox": [
+        [
+          175,
+          451
+        ],
+        [
+          1124,
+          451
+        ],
+        [
+          1124,
+          478
+        ],
+        [
+          175,
+          478
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "포함한 채용관련 서류 사본 일체를 영구보존합니다.",
+      "confidence": 0.9997872997974527,
+      "bbox": [
+        [
+          175,
+          500
+        ],
+        [
+          885,
+          500
+        ],
+        [
+          885,
+          528
+        ],
+        [
+          175,
+          528
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 응시원서나 각종 증명서의 기재사항 착오·누락, 허위기재 및 연락불능",
+      "confidence": 0.9877012386208489,
+      "bbox": [
+        [
+          132,
+          600
+        ],
+        [
+          1124,
+          600
+        ],
+        [
+          1124,
+          628
+        ],
+        [
+          132,
+          628
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "등으로 발생한 불이익은 일체 응시자의 책임으로 합니다.",
+      "confidence": 0.9998953267931938,
+      "bbox": [
+        [
+          175,
+          650
+        ],
+        [
+          968,
+          650
+        ],
+        [
+          968,
+          677
+        ],
+        [
+          175,
+          677
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 서류전형 및 면접시험 결과 적임자가 없는 경우에는 최종합격자를",
+      "confidence": 0.973131218017676,
+      "bbox": [
+        [
+          132,
+          749
+        ],
+        [
+          1105,
+          749
+        ],
+        [
+          1105,
+          777
+        ],
+        [
+          132,
+          777
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "선발하지 않을 수 있습니다.",
+      "confidence": 0.9997208258684944,
+      "bbox": [
+        [
+          174,
+          801
+        ],
+        [
+          563,
+          801
+        ],
+        [
+          563,
+          828
+        ],
+        [
+          174,
+          828
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 합격자 통지 후라도 신원조사, 기타 부적합한 결격 사유가 있을 경우",
+      "confidence": 0.9920737005415416,
+      "bbox": [
+        [
+          133,
+          901
+        ],
+        [
+          1124,
+          901
+        ],
+        [
+          1124,
+          929
+        ],
+        [
+          133,
+          929
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "합격이 취소될 수 있으며, 향후 5년간 재단의 모든 임용전형에 응시",
+      "confidence": 0.999944670078082,
+      "bbox": [
+        [
+          176,
+          951
+        ],
+        [
+          1122,
+          951
+        ],
+        [
+          1122,
+          978
+        ],
+        [
+          176,
+          978
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "할 수 없습니다.",
+      "confidence": 0.9994910034266385,
+      "bbox": [
+        [
+          176,
+          1001
+        ],
+        [
+          399,
+          1001
+        ],
+        [
+          399,
+          1028
+        ],
+        [
+          176,
+          1028
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 응시원서 접수결과 응시자 선발예정 인원이 없을 경우(서류 전형결과",
+      "confidence": 0.9907187892169487,
+      "bbox": [
+        [
+          132,
+          1100
+        ],
+        [
+          1125,
+          1100
+        ],
+        [
+          1125,
+          1129
+        ],
+        [
+          132,
+          1129
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "부적격도 포함)에는 재공고를 실시합니다.",
+      "confidence": 0.9993603676557541,
+      "bbox": [
+        [
+          178,
+          1150
+        ],
+        [
+          749,
+          1150
+        ],
+        [
+          749,
+          1177
+        ],
+        [
+          178,
+          1177
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 외국어로 기재된 증빙자료(학력, 경력증명서 등)의 경우, 반드시",
+      "confidence": 0.9729285523295402,
+      "bbox": [
+        [
+          132,
+          1250
+        ],
+        [
+          1055,
+          1250
+        ],
+        [
+          1055,
+          1278
+        ],
+        [
+          132,
+          1278
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "한글번역본(공증 필)을 첨부하여 제출하여야 합니다.",
+      "confidence": 0.9996196130911509,
+      "bbox": [
+        [
+          175,
+          1299
+        ],
+        [
+          896,
+          1299
+        ],
+        [
+          896,
+          1327
+        ],
+        [
+          175,
+          1327
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 본 재단은 임용비리가 발생한 경우 임용비리로 인한 피해자를 파악하여",
+      "confidence": 0.9879716166428157,
+      "bbox": [
+        [
+          132,
+          1399
+        ],
+        [
+          1122,
+          1399
+        ],
+        [
+          1122,
+          1427
+        ],
+        [
+          132,
+          1427
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "적극적으로 구제하는 방안을 마련하고, 최종 합격자의 임용포기・",
+      "confidence": 0.9919484025902219,
+      "bbox": [
+        [
+          180,
+          1449
+        ],
+        [
+          1112,
+          1449
+        ],
+        [
+          1112,
+          1478
+        ],
+        [
+          180,
+          1478
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "합격취소 · 임용결격사유 · 임용 후 즉시퇴직 등으로 결원 발생시",
+      "confidence": 0.9733681459175912,
+      "bbox": [
+        [
+          180,
+          1499
+        ],
+        [
+          1121,
+          1499
+        ],
+        [
+          1121,
+          1527
+        ],
+        [
+          180,
+          1527
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "합격자 발표일로부터 6개월 이내에 면접시험 불합격 기준에 해당하지",
+      "confidence": 0.9999307315600546,
+      "bbox": [
+        [
+          180,
+          1550
+        ],
+        [
+          1121,
+          1550
+        ],
+        [
+          1121,
+          1578
+        ],
+        [
+          180,
+          1578
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "block_id": 15,
+  "text": "gupsa gupsa 3 100 Domain Pms  101-screen-dashboard  ◎ 템플릿 미리보기 🗗 🌣 페이지 설정 🗸",
+  "confidence": 0.8464922834971013,
+  "bbox": {
+    "x_min": 381,
+    "y_min": 754,
+    "x_max": 989,
+    "y_max": 770,
+    "width": 608,
+    "height": 16
+  },
+  "block_type": "text",
+  "text_length": 75,
+  "created_at": "2025-11-21T08:21:36.120893",
+  "version": "1.0"
+}

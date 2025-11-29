@@ -1,0 +1,17 @@
+{
+  "block_id": 3,
+  "text": "권한 개요 페이지에서는 다양한 권한 역할과 사용자 수를 확인할 수 있습니다:",
+  "confidence": 0.9993698705326427,
+  "bbox": {
+    "x_min": 143,
+    "y_min": 222,
+    "x_max": 831,
+    "y_max": 247,
+    "width": 688,
+    "height": 25
+  },
+  "block_type": "text",
+  "text_length": 42,
+  "created_at": "2025-11-21T07:48:38.273583",
+  "version": "1.0"
+}

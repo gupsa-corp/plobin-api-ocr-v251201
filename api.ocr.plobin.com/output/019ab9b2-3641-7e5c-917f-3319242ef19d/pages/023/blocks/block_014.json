@@ -1,0 +1,17 @@
+{
+  "block_id": 14,
+  "text": "3. 원하는 화면 템플릿 선택",
+  "confidence": 0.9994876848326789,
+  "bbox": {
+    "x_min": 166,
+    "y_min": 694,
+    "x_max": 419,
+    "y_max": 719,
+    "width": 253,
+    "height": 25
+  },
+  "block_type": "text",
+  "text_length": 16,
+  "created_at": "2025-11-25T06:28:16.577801",
+  "version": "1.0"
+}

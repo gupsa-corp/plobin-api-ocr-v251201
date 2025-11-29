@@ -1,0 +1,17 @@
+{
+  "block_id": 13,
+  "text": "프로젝트의 최근 활동 로그를 확인할 수 있습니다:",
+  "confidence": 0.9998021331326715,
+  "bbox": {
+    "x_min": 144,
+    "y_min": 629,
+    "x_max": 589,
+    "y_max": 651,
+    "width": 445,
+    "height": 22
+  },
+  "block_type": "text",
+  "text_length": 27,
+  "created_at": "2025-11-25T06:28:01.221181",
+  "version": "1.0"
+}

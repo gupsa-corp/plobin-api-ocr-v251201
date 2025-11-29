@@ -1,0 +1,1223 @@
+{
+  "page_number": 9,
+  "total_blocks": 45,
+  "average_confidence": 0.9763961040407474,
+  "processing_time": 1.7328779697418213,
+  "blocks": [
+    {
+      "text": "직 무 기 술 서",
+      "confidence": 0.9891418543728915,
+      "bbox": [
+        [
+          176,
+          191
+        ],
+        [
+          420,
+          191
+        ],
+        [
+          420,
+          224
+        ],
+        [
+          176,
+          224
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "근무예정부서",
+      "confidence": 0.9980453848838806,
+      "bbox": [
+        [
+          130,
+          276
+        ],
+        [
+          284,
+          276
+        ],
+        [
+          284,
+          300
+        ],
+        [
+          130,
+          300
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용 분야",
+      "confidence": 0.9987330436706543,
+      "bbox": [
+        [
+          422,
+          276
+        ],
+        [
+          543,
+          276
+        ],
+        [
+          543,
+          300
+        ],
+        [
+          422,
+          300
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "임용예정직급",
+      "confidence": 0.9995993971824646,
+      "bbox": [
+        [
+          698,
+          276
+        ],
+        [
+          853,
+          276
+        ],
+        [
+          853,
+          300
+        ],
+        [
+          698,
+          300
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "선발예정인원",
+      "confidence": 0.997914697442736,
+      "bbox": [
+        [
+          923,
+          276
+        ],
+        [
+          1077,
+          276
+        ],
+        [
+          1077,
+          300
+        ],
+        [
+          923,
+          300
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "담헌달빛관 운영",
+      "confidence": 0.7117032945156098,
+      "bbox": [
+        [
+          386,
+          345
+        ],
+        [
+          577,
+          345
+        ],
+        [
+          577,
+          370
+        ],
+        [
+          386,
+          370
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안박물관",
+      "confidence": 0.9992297887802124,
+      "bbox": [
+        [
+          141,
+          346
+        ],
+        [
+          275,
+          346
+        ],
+        [
+          275,
+          370
+        ],
+        [
+          141,
+          370
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시간선택제임기제",
+      "confidence": 0.9987388186984592,
+      "bbox": [
+        [
+          673,
+          347
+        ],
+        [
+          877,
+          347
+        ],
+        [
+          877,
+          369
+        ],
+        [
+          673,
+          369
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1명",
+      "confidence": 0.9908428341150284,
+      "bbox": [
+        [
+          979,
+          361
+        ],
+        [
+          1021,
+          361
+        ],
+        [
+          1021,
+          386
+        ],
+        [
+          979,
+          386
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(학예연구사)",
+      "confidence": 0.976799037721422,
+      "bbox": [
+        [
+          407,
+          377
+        ],
+        [
+          555,
+          377
+        ],
+        [
+          555,
+          401
+        ],
+        [
+          407,
+          401
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "과학관운영팀",
+      "confidence": 0.9994318229811532,
+      "bbox": [
+        [
+          130,
+          379
+        ],
+        [
+          283,
+          379
+        ],
+        [
+          283,
+          401
+        ],
+        [
+          130,
+          401
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다급(7급상당)",
+      "confidence": 0.9936210334300994,
+      "bbox": [
+        [
+          691,
+          378
+        ],
+        [
+          857,
+          378
+        ],
+        [
+          857,
+          400
+        ],
+        [
+          691,
+          400
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 담헌달빛관 관리 운영",
+      "confidence": 0.9753738567233086,
+      "bbox": [
+        [
+          332,
+          454
+        ],
+        [
+          622,
+          454
+        ],
+        [
+          622,
+          478
+        ],
+        [
+          332,
+          478
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 담헌달빛관 체험 및 강연 프로그램 등 기획 및 운영",
+      "confidence": 0.9904229532588612,
+      "bbox": [
+        [
+          332,
+          494
+        ],
+        [
+          972,
+          494
+        ],
+        [
+          972,
+          518
+        ],
+        [
+          332,
+          518
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주요 업무",
+      "confidence": 0.9996942962918963,
+      "bbox": [
+        [
+          149,
+          514
+        ],
+        [
+          265,
+          514
+        ],
+        [
+          265,
+          538
+        ],
+        [
+          149,
+          538
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 담헌달빛관 홍보 마케팅 및 시설관리 등",
+      "confidence": 0.9876656669836777,
+      "bbox": [
+        [
+          332,
+          534
+        ],
+        [
+          837,
+          534
+        ],
+        [
+          837,
+          558
+        ],
+        [
+          332,
+          558
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 기타 부서장이 지정하는 업무 등",
+      "confidence": 0.983758888461373,
+      "bbox": [
+        [
+          332,
+          572
+        ],
+        [
+          749,
+          572
+        ],
+        [
+          749,
+          596
+        ],
+        [
+          332,
+          596
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ (공통 역량) 윤리의식, 공직의식, 고객지향마인드",
+      "confidence": 0.9815301299095154,
+      "bbox": [
+        [
+          332,
+          647
+        ],
+        [
+          936,
+          647
+        ],
+        [
+          936,
+          672
+        ],
+        [
+          332,
+          672
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필요 역량",
+      "confidence": 0.9994002836091178,
+      "bbox": [
+        [
+          149,
+          682
+        ],
+        [
+          267,
+          682
+        ],
+        [
+          267,
+          706
+        ],
+        [
+          149,
+          706
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ (직급별 역량) 긍정적, 문제 해결력, 관계 구축력, 의사소통 능력, 조정능력",
+      "confidence": 0.9880973150332769,
+      "bbox": [
+        [
+          332,
+          682
+        ],
+        [
+          1075,
+          682
+        ],
+        [
+          1075,
+          707
+        ],
+        [
+          332,
+          707
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ (직렬별 역량) 고고학 및 역사학, 미술사학, 박물관학 등 이해력",
+      "confidence": 0.989645325556034,
+      "bbox": [
+        [
+          332,
+          716
+        ],
+        [
+          1042,
+          716
+        ],
+        [
+          1042,
+          741
+        ],
+        [
+          332,
+          741
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필요 지식",
+      "confidence": 0.9996033736637661,
+      "bbox": [
+        [
+          149,
+          801
+        ],
+        [
+          266,
+          801
+        ],
+        [
+          266,
+          826
+        ],
+        [
+          149,
+          826
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 박물관·미술관 관련 지식",
+      "confidence": 0.9577984151087309,
+      "bbox": [
+        [
+          332,
+          802
+        ],
+        [
+          673,
+          802
+        ],
+        [
+          673,
+          826
+        ],
+        [
+          332,
+          826
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "아래의 필수자격을 충족하고 경력요건 중 한 가지 이상을",
+      "confidence": 0.9998334646224976,
+      "bbox": [
+        [
+          332,
+          882
+        ],
+        [
+          954,
+          882
+        ],
+        [
+          954,
+          906
+        ],
+        [
+          332,
+          906
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "충족하는 자",
+      "confidence": 0.9991396740078926,
+      "bbox": [
+        [
+          332,
+          914
+        ],
+        [
+          468,
+          914
+        ],
+        [
+          468,
+          936
+        ],
+        [
+          332,
+          936
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[필<b>수자격</b>] 박물관·미술관 정학예사 자격증 소지자",
+      "confidence": 0.9573071897029877,
+      "bbox": [
+        [
+          332,
+          951
+        ],
+        [
+          882,
+          951
+        ],
+        [
+          882,
+          973
+        ],
+        [
+          332,
+          973
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[경력요건]",
+      "confidence": 0.988250344991684,
+      "bbox": [
+        [
+          332,
+          992
+        ],
+        [
+          454,
+          992
+        ],
+        [
+          454,
+          1014
+        ],
+        [
+          332,
+          1014
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 학사학위를 취득한 후 1년 이상 관련분야의 실무경력이 있는 자",
+      "confidence": 0.9997908090933775,
+      "bbox": [
+        [
+          340,
+          1026
+        ],
+        [
+          1082,
+          1026
+        ],
+        [
+          1082,
+          1054
+        ],
+        [
+          340,
+          1054
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 3년 이상 관련분야의 실무경력이 있는 자",
+      "confidence": 0.9950316040604202,
+      "bbox": [
+        [
+          343,
+          1055
+        ],
+        [
+          835,
+          1055
+        ],
+        [
+          835,
+          1079
+        ],
+        [
+          343,
+          1079
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 8급 또는 8급 상당 이상의 공무원으로서 2년 이상 관련분야의",
+      "confidence": 0.9984765098645136,
+      "bbox": [
+        [
+          344,
+          1081
+        ],
+        [
+          1080,
+          1081
+        ],
+        [
+          1080,
+          1108
+        ],
+        [
+          344,
+          1108
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "실무경력이 있는 자",
+      "confidence": 0.9998359531164169,
+      "bbox": [
+        [
+          379,
+          1120
+        ],
+        [
+          597,
+          1120
+        ],
+        [
+          597,
+          1144
+        ],
+        [
+          379,
+          1144
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[관련학과 및 관련분야 실무경력]",
+      "confidence": 0.9954172521829605,
+      "bbox": [
+        [
+          332,
+          1166
+        ],
+        [
+          704,
+          1166
+        ],
+        [
+          704,
+          1191
+        ],
+        [
+          332,
+          1191
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시자격요건",
+      "confidence": 0.9984874980790275,
+      "bbox": [
+        [
+          133,
+          1182
+        ],
+        [
+          284,
+          1182
+        ],
+        [
+          284,
+          1209
+        ],
+        [
+          133,
+          1209
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 관련학과",
+      "confidence": 0.9900134404500326,
+      "bbox": [
+        [
+          342,
+          1200
+        ],
+        [
+          478,
+          1200
+        ],
+        [
+          478,
+          1225
+        ],
+        [
+          342,
+          1225
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "-고고학, 민속학, 미술사학, 역사학, 박물관학,",
+      "confidence": 0.982513179039133,
+      "bbox": [
+        [
+          353,
+          1231
+        ],
+        [
+          902,
+          1231
+        ],
+        [
+          902,
+          1255
+        ],
+        [
+          353,
+          1255
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문화재보존학 등",
+      "confidence": 0.999734389781952,
+      "bbox": [
+        [
+          377,
+          1262
+        ],
+        [
+          569,
+          1262
+        ],
+        [
+          569,
+          1286
+        ],
+        [
+          377,
+          1286
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 관련분야 실무경력",
+      "confidence": 0.9974116640431541,
+      "bbox": [
+        [
+          342,
+          1301
+        ],
+        [
+          581,
+          1301
+        ],
+        [
+          581,
+          1325
+        ],
+        [
+          342,
+          1325
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 국립·공립·사립·대학(박물관 및 미술관 진흥법에 따라 등록된",
+      "confidence": 0.9983115243284326,
+      "bbox": [
+        [
+          353,
+          1335
+        ],
+        [
+          1081,
+          1335
+        ],
+        [
+          1081,
+          1360
+        ],
+        [
+          353,
+          1360
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "박물관에 한함) 박물관 학예업무(전시·교육·유물관리 등) 근무",
+      "confidence": 0.9988323031245051,
+      "bbox": [
+        [
+          382,
+          1363
+        ],
+        [
+          1081,
+          1363
+        ],
+        [
+          1081,
+          1387
+        ],
+        [
+          382,
+          1387
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경력",
+      "confidence": 0.9984820485115051,
+      "bbox": [
+        [
+          382,
+          1392
+        ],
+        [
+          434,
+          1392
+        ],
+        [
+          434,
+          1414
+        ],
+        [
+          382,
+          1414
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[기타요건]",
+      "confidence": 0.9829225614666939,
+      "bbox": [
+        [
+          332,
+          1426
+        ],
+        [
+          453,
+          1426
+        ],
+        [
+          453,
+          1448
+        ],
+        [
+          332,
+          1448
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "휴관일(월요일)에 따른 주말 및 공휴일 근무가 가능한 자",
+      "confidence": 0.9990096417340365,
+      "bbox": [
+        [
+          344,
+          1453
+        ],
+        [
+          969,
+          1453
+        ],
+        [
+          969,
+          1477
+        ],
+        [
+          344,
+          1477
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※근무일: 화요일 ~ 금요일 및 주말(토, 일) 중 1일, 공휴일",
+      "confidence": 0.5978773780491041,
+      "bbox": [
+        [
+          346,
+          1483
+        ],
+        [
+          989,
+          1483
+        ],
+        [
+          989,
+          1507
+        ],
+        [
+          346,
+          1507
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "우대요건",
+      "confidence": 0.9629783272743225,
+      "bbox": [
+        [
+          154,
+          1548
+        ],
+        [
+          259,
+          1548
+        ],
+        [
+          259,
+          1574
+        ],
+        [
+          154,
+          1574
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "해당없음",
+      "confidence": 0.9913764119148254,
+      "bbox": [
+        [
+          331,
+          1549
+        ],
+        [
+          436,
+          1549
+        ],
+        [
+          436,
+          1573
+        ],
+        [
+          331,
+          1573
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

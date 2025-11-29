@@ -1,0 +1,17 @@
+{
+  "block_id": 34,
+  "text": "• 로그아웃: 시스템에서 로그아웃",
+  "confidence": 0.9819277882575989,
+  "bbox": {
+    "x_min": 172,
+    "y_min": 1317,
+    "x_max": 481,
+    "y_max": 1343,
+    "width": 309,
+    "height": 26
+  },
+  "block_type": "text",
+  "text_length": 18,
+  "created_at": "2025-11-21T08:21:41.766228",
+  "version": "1.0"
+}

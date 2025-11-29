@@ -1,0 +1,17 @@
+{
+  "block_id": 32,
+  "text": "공유형 컨텐츠 상품 500GB/월 50GB/월 70원/GB 40원/100M",
+  "confidence": 0.9967586812708114,
+  "bbox": {
+    "x_min": 387,
+    "y_min": 889,
+    "x_max": 971,
+    "y_max": 904,
+    "width": 584,
+    "height": 15
+  },
+  "block_type": "text",
+  "text_length": 41,
+  "created_at": "2025-11-28T08:52:58.351537",
+  "version": "1.0"
+}

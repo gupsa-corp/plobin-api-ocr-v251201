@@ -1,0 +1,710 @@
+{
+  "page_number": 6,
+  "total_blocks": 26,
+  "average_confidence": 0.9837536040941439,
+  "processing_time": 1.4941890239715576,
+  "blocks": [
+    {
+      "text": "7. 유의 사항",
+      "confidence": 0.9464888989925384,
+      "bbox": [
+        [
+          113,
+          112
+        ],
+        [
+          289,
+          112
+        ],
+        [
+          289,
+          139
+        ],
+        [
+          113,
+          139
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 지원희망자는 지원자격 등을 우선 확인하고 응시원서를 작성하기 바",
+      "confidence": 0.9999574601650238,
+      "bbox": [
+        [
+          130,
+          164
+        ],
+        [
+          1126,
+          164
+        ],
+        [
+          1126,
+          191
+        ],
+        [
+          130,
+          191
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "라며, 채용분야간 중복지원은 불가(중복시 전분야 접수 제외)합니다.",
+      "confidence": 0.996858129134545,
+      "bbox": [
+        [
+          182,
+          223
+        ],
+        [
+          1094,
+          223
+        ],
+        [
+          1094,
+          250
+        ],
+        [
+          182,
+          250
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 제출서류에 대한 판단은 채용 공고일자를 기준으로 합니다.",
+      "confidence": 0.9908584091398451,
+      "bbox": [
+        [
+          130,
+          280
+        ],
+        [
+          979,
+          280
+        ],
+        [
+          979,
+          306
+        ],
+        [
+          130,
+          306
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다. 개명 등의 사유로 입사지원서와 자격증 및 학위 등과의 성명이 상이한 경우",
+      "confidence": 0.999182771311866,
+      "bbox": [
+        [
+          130,
+          338
+        ],
+        [
+          1123,
+          338
+        ],
+        [
+          1123,
+          365
+        ],
+        [
+          130,
+          365
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시원서에 개명 전 후 성명을 모두 기재합니다.",
+      "confidence": 0.9998969435691833,
+      "bbox": [
+        [
+          182,
+          397
+        ],
+        [
+          834,
+          397
+        ],
+        [
+          834,
+          424
+        ],
+        [
+          182,
+          424
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "라. 경력의 인정은 아래와 같이 처리합니다.",
+      "confidence": 0.999757354076092,
+      "bbox": [
+        [
+          130,
+          454
+        ],
+        [
+          717,
+          454
+        ],
+        [
+          717,
+          483
+        ],
+        [
+          130,
+          483
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1) 경력산정시 상근 여부, 근무기간, 직급, 직위, 세부 담당업무 등이 정확하게",
+      "confidence": 0.9997275395596281,
+      "bbox": [
+        [
+          144,
+          512
+        ],
+        [
+          1122,
+          512
+        ],
+        [
+          1122,
+          541
+        ],
+        [
+          144,
+          541
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기재된 경력증명서와 건강보험자격득실확인서(공문서 포함) 모두 제출한",
+      "confidence": 0.9997265017949618,
+      "bbox": [
+        [
+          183,
+          572
+        ],
+        [
+          1124,
+          572
+        ],
+        [
+          1124,
+          599
+        ],
+        [
+          183,
+          599
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경우에 한해 인정",
+      "confidence": 0.9997276176105846,
+      "bbox": [
+        [
+          183,
+          630
+        ],
+        [
+          410,
+          630
+        ],
+        [
+          410,
+          656
+        ],
+        [
+          183,
+          656
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 불명확하거나 증빙 미흡의 경우 인정되지 않으며, 대학의 시간강사",
+      "confidence": 0.9924644124813569,
+      "bbox": [
+        [
+          191,
+          689
+        ],
+        [
+          1125,
+          689
+        ],
+        [
+          1125,
+          716
+        ],
+        [
+          191,
+          716
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경력은 인정되지 않음",
+      "confidence": 0.9993603733869699,
+      "bbox": [
+        [
+          233,
+          747
+        ],
+        [
+          530,
+          747
+        ],
+        [
+          530,
+          773
+        ],
+        [
+          233,
+          773
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2) 상근(주 40시간) 근무경력 기준으로 환산",
+      "confidence": 0.9969366150242942,
+      "bbox": [
+        [
+          143,
+          804
+        ],
+        [
+          704,
+          804
+        ],
+        [
+          704,
+          831
+        ],
+        [
+          143,
+          831
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 시간제 근무는 근무시간에 비례하여 인정",
+      "confidence": 0.9964275789260865,
+      "bbox": [
+        [
+          188,
+          864
+        ],
+        [
+          753,
+          864
+        ],
+        [
+          753,
+          890
+        ],
+        [
+          188,
+          890
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "마. 제출한 서류는 「채용절차의 공정화에 관한 법률」 제11조 및 동법",
+      "confidence": 0.9994690839837237,
+      "bbox": [
+        [
+          130,
+          922
+        ],
+        [
+          1120,
+          922
+        ],
+        [
+          1120,
+          948
+        ],
+        [
+          130,
+          948
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시행령과 시행규칙에 따라 반환청구기간 내 청구가 있는 경우 반환하며,",
+      "confidence": 0.9998852670192718,
+      "bbox": [
+        [
+          183,
+          980
+        ],
+        [
+          1122,
+          980
+        ],
+        [
+          1122,
+          1007
+        ],
+        [
+          183,
+          1007
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "청구기간이 경과 후에는 법령에 따라 파기됩니다.",
+      "confidence": 0.9997751670224326,
+      "bbox": [
+        [
+          184,
+          1038
+        ],
+        [
+          851,
+          1038
+        ],
+        [
+          851,
+          1065
+        ],
+        [
+          184,
+          1065
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "바. 응시원서 또는 각종 제출 서류의 기재내용이 사실과 다르거나, 기재",
+      "confidence": 0.9996109241392555,
+      "bbox": [
+        [
+          130,
+          1097
+        ],
+        [
+          1122,
+          1097
+        ],
+        [
+          1122,
+          1123
+        ],
+        [
+          130,
+          1123
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "착오, 누락, 연락불능, 자격미비자의 응시 등으로 인한 불이익이나",
+      "confidence": 0.9991744427304519,
+      "bbox": [
+        [
+          184,
+          1155
+        ],
+        [
+          1073,
+          1155
+        ],
+        [
+          1073,
+          1182
+        ],
+        [
+          184,
+          1182
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "손해에 대한 책임은 일체 응시자 본인의 책임으로 합니다.",
+      "confidence": 0.9999126972574176,
+      "bbox": [
+        [
+          183,
+          1213
+        ],
+        [
+          969,
+          1213
+        ],
+        [
+          969,
+          1241
+        ],
+        [
+          183,
+          1241
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사. 제출된 서류에 추후 허위사실이 발견된 때에는 합격 또는 임용을",
+      "confidence": 0.9997101961038052,
+      "bbox": [
+        [
+          130,
+          1271
+        ],
+        [
+          1061,
+          1271
+        ],
+        [
+          1061,
+          1299
+        ],
+        [
+          130,
+          1299
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "취소합니다.",
+      "confidence": 0.998951867222786,
+      "bbox": [
+        [
+          181,
+          1329
+        ],
+        [
+          338,
+          1329
+        ],
+        [
+          338,
+          1355
+        ],
+        [
+          181,
+          1355
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "아. 적임자가 없는 경우에는 최종 합격자가 없을 수도 있습니다.",
+      "confidence": 0.9997484571224934,
+      "bbox": [
+        [
+          131,
+          1388
+        ],
+        [
+          995,
+          1388
+        ],
+        [
+          995,
+          1416
+        ],
+        [
+          131,
+          1416
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자. 기타 채용관련 문의사항은 천안문화재단 경영지원팀(041-900-0212)으로",
+      "confidence": 0.9987730992601273,
+      "bbox": [
+        [
+          130,
+          1445
+        ],
+        [
+          1123,
+          1445
+        ],
+        [
+          1123,
+          1473
+        ],
+        [
+          130,
+          1473
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문의바랍니다.",
+      "confidence": 0.9994984202914767,
+      "bbox": [
+        [
+          182,
+          1504
+        ],
+        [
+          368,
+          1504
+        ],
+        [
+          368,
+          1530
+        ],
+        [
+          182,
+          1530
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 6 -",
+      "confidence": 0.6657134791215261,
+      "bbox": [
+        [
+          589,
+          1679
+        ],
+        [
+          651,
+          1679
+        ],
+        [
+          651,
+          1697
+        ],
+        [
+          589,
+          1697
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

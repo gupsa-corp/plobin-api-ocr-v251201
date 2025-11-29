@@ -1,0 +1,67 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "No clear content summary available",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 1,
+      "header": 0,
+      "body": 0,
+      "table": 0,
+      "footer": 0,
+      "other": 0
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.733,
+      "readability": "low",
+      "completeness": "incomplete",
+      "high_confidence_blocks": 0,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.0,
+      "english": 0.6,
+      "other": 0.4
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 1,
+    "total_characters": 5,
+    "analyzed_at": "2025-11-17T05:42:08.073972"
+  },
+  "block_summaries": [
+    {
+      "content_type": "title",
+      "language": "english",
+      "text_preview": "GUP5/",
+      "keywords": [
+        "gup5"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-17T05:42:08.073932"
+    }
+  ],
+  "insights": [],
+  "recommendations": [
+    "이미지 해상도를 높이거나 더 선명한 스캔을 사용하면 OCR 정확도가 향상될 수 있습니다."
+  ]
+}

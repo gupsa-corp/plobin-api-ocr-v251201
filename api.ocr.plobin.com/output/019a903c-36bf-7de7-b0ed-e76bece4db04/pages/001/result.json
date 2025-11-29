@@ -1,0 +1,683 @@
+{
+  "page_number": 1,
+  "total_blocks": 25,
+  "average_confidence": 0.9484785412087662,
+  "processing_time": 2.0696260929107666,
+  "blocks": [
+    {
+      "text": "문서 블록 감지 (5개 블록)",
+      "confidence": 0.9982941216892667,
+      "bbox": [
+        [
+          802,
+          25
+        ],
+        [
+          1267,
+          25
+        ],
+        [
+          1267,
+          73
+        ],
+        [
+          802,
+          73
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제목",
+      "confidence": 0.9992924928665161,
+      "bbox": [
+        [
+          1922,
+          118
+        ],
+        [
+          2014,
+          118
+        ],
+        [
+          2014,
+          166
+        ],
+        [
+          1922,
+          166
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문단",
+      "confidence": 0.9991229971249899,
+      "bbox": [
+        [
+          1922,
+          181
+        ],
+        [
+          2014,
+          181
+        ],
+        [
+          2014,
+          227
+        ],
+        [
+          1922,
+          227
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "丑",
+      "confidence": 0.8589334785938263,
+      "bbox": [
+        [
+          1926,
+          244
+        ],
+        [
+          1972,
+          244
+        ],
+        [
+          1972,
+          280
+        ],
+        [
+          1926,
+          280
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "목록",
+      "confidence": 0.9986716906229655,
+      "bbox": [
+        [
+          1922,
+          302
+        ],
+        [
+          2012,
+          302
+        ],
+        [
+          2012,
+          350
+        ],
+        [
+          1922,
+          350
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기타",
+      "confidence": 0.9991653164227804,
+      "bbox": [
+        [
+          1924,
+          361
+        ],
+        [
+          2014,
+          361
+        ],
+        [
+          2014,
+          411
+        ],
+        [
+          1924,
+          411
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "text",
+      "confidence": 0.979244613647461,
+      "bbox": [
+        [
+          555,
+          631
+        ],
+        [
+          624,
+          631
+        ],
+        [
+          624,
+          663
+        ],
+        [
+          555,
+          663
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": ".00",
+      "confidence": 0.8934392780065536,
+      "bbox": [
+        [
+          577,
+          666
+        ],
+        [
+          634,
+          666
+        ],
+        [
+          634,
+          698
+        ],
+        [
+          577,
+          698
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "요청",
+      "confidence": 0.8656145731608073,
+      "bbox": [
+        [
+          937,
+          703
+        ],
+        [
+          1308,
+          703
+        ],
+        [
+          1308,
+          824
+        ],
+        [
+          937,
+          824
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "text",
+      "confidence": 0.9645238280296325,
+      "bbox": [
+        [
+          278,
+          1381
+        ],
+        [
+          347,
+          1381
+        ],
+        [
+          347,
+          1414
+        ],
+        [
+          278,
+          1414
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "0.98",
+      "confidence": 0.980572509765625,
+      "bbox": [
+        [
+          280,
+          1414
+        ],
+        [
+          361,
+          1414
+        ],
+        [
+          361,
+          1449
+        ],
+        [
+          280,
+          1449
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "태안군 강소형 스마트시티 모험 데이터허브 연계 및 하드웨어 구축",
+      "confidence": 0.998529361711966,
+      "bbox": [
+        [
+          560,
+          1453
+        ],
+        [
+          1841,
+          1453
+        ],
+        [
+          1841,
+          1508
+        ],
+        [
+          560,
+          1508
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "व",
+      "confidence": 0.6197922825813293,
+      "bbox": [
+        [
+          343,
+          1448
+        ],
+        [
+          433,
+          1448
+        ],
+        [
+          433,
+          1507
+        ],
+        [
+          343,
+          1507
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "명",
+      "confidence": 0.9951549470424652,
+      "bbox": [
+        [
+          423,
+          1456
+        ],
+        [
+          478,
+          1456
+        ],
+        [
+          478,
+          1507
+        ],
+        [
+          423,
+          1507
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "text",
+      "confidence": 0.9927969813346863,
+      "bbox": [
+        [
+          278,
+          1491
+        ],
+        [
+          345,
+          1491
+        ],
+        [
+          345,
+          1531
+        ],
+        [
+          278,
+          1531
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "0.96",
+      "confidence": 0.9872958540916443,
+      "bbox": [
+        [
+          278,
+          1531
+        ],
+        [
+          357,
+          1531
+        ],
+        [
+          357,
+          1567
+        ],
+        [
+          278,
+          1567
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(재)충남콘텐츠진흥원",
+      "confidence": 0.9993603825569153,
+      "bbox": [
+        [
+          964,
+          1566
+        ],
+        [
+          1433,
+          1566
+        ],
+        [
+          1433,
+          1622
+        ],
+        [
+          964,
+          1622
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주환기관",
+      "confidence": 0.7533371567726135,
+      "bbox": [
+        [
+          281,
+          1565
+        ],
+        [
+          486,
+          1565
+        ],
+        [
+          486,
+          1619
+        ],
+        [
+          281,
+          1619
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "text",
+      "confidence": 0.9954996943473816,
+      "bbox": [
+        [
+          885,
+          1924
+        ],
+        [
+          966,
+          1924
+        ],
+        [
+          966,
+          1960
+        ],
+        [
+          885,
+          1960
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "0.96",
+      "confidence": 0.9931911706924439,
+      "bbox": [
+        [
+          888,
+          1956
+        ],
+        [
+          976,
+          1956
+        ],
+        [
+          976,
+          1996
+        ],
+        [
+          888,
+          1996
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025. 08.",
+      "confidence": 0.8907623648643493,
+      "bbox": [
+        [
+          888,
+          1992
+        ],
+        [
+          1182,
+          1992
+        ],
+        [
+          1182,
+          2061
+        ],
+        [
+          888,
+          2061
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "text",
+      "confidence": 0.9914108991622925,
+      "bbox": [
+        [
+          463,
+          2310
+        ],
+        [
+          541,
+          2310
+        ],
+        [
+          541,
+          2347
+        ],
+        [
+          463,
+          2347
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "0.94",
+      "confidence": 0.9849591612815857,
+      "bbox": [
+        [
+          465,
+          2346
+        ],
+        [
+          549,
+          2346
+        ],
+        [
+          549,
+          2385
+        ],
+        [
+          465,
+          2385
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "",
+      "confidence": 1.0,
+      "bbox": [
+        [
+          596,
+          2380
+        ],
+        [
+          656,
+          2380
+        ],
+        [
+          656,
+          2404
+        ],
+        [
+          596,
+          2404
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "충남콘텐츠진흥원<br>CHUNGNAM CONTENT AGENCY",
+      "confidence": 0.9729983738490513,
+      "bbox": [
+        [
+          498,
+          2385
+        ],
+        [
+          1511,
+          2385
+        ],
+        [
+          1511,
+          2563
+        ],
+        [
+          498,
+          2563
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "block_id": 13,
+  "text": "• 관리 버튼을 클릭하여 조직 관리 페이지로 이동할 수 있습니다",
+  "confidence": 0.9959041556796512,
+  "bbox": {
+    "x_min": 171,
+    "y_min": 620,
+    "x_max": 749,
+    "y_max": 647,
+    "width": 578,
+    "height": 27
+  },
+  "block_type": "text",
+  "text_length": 35,
+  "created_at": "2025-11-21T08:21:15.860473",
+  "version": "1.0"
+}

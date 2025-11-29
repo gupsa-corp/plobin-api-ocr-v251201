@@ -1,0 +1,17 @@
+{
+  "block_id": 2,
+  "text": "○ 서울 마포구 마... → ○ 경기 안양시 동... ×",
+  "confidence": 0.9515924340202695,
+  "bbox": {
+    "x_min": 95,
+    "y_min": 158,
+    "x_max": 878,
+    "y_max": 198,
+    "width": 783,
+    "height": 40
+  },
+  "block_type": "text",
+  "text_length": 31,
+  "created_at": "2025-11-20T11:45:51.690533",
+  "version": "1.0"
+}

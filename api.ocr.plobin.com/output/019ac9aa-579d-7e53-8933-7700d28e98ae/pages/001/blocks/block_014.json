@@ -1,0 +1,17 @@
+{
+  "block_id": 14,
+  "text": "서버 - RAM : 8GB 80,300원 1 80,300원",
+  "confidence": 0.9722645633750492,
+  "bbox": {
+    "x_min": 238,
+    "y_min": 511,
+    "x_max": 895,
+    "y_max": 528,
+    "width": 657,
+    "height": 17
+  },
+  "block_type": "text",
+  "text_length": 32,
+  "created_at": "2025-11-28T08:52:58.351010",
+  "version": "1.0"
+}

@@ -1,0 +1,872 @@
+{
+  "page_number": 13,
+  "total_blocks": 32,
+  "average_confidence": 0.9608622668818125,
+  "processing_time": 1.5315048694610596,
+  "blocks": [
+    {
+      "text": "다. 기타 경력 (※ 해당하는 사람만 작성)",
+      "confidence": 0.9446389652215518,
+      "bbox": [
+        [
+          126,
+          190
+        ],
+        [
+          713,
+          190
+        ],
+        [
+          713,
+          217
+        ],
+        [
+          126,
+          217
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "수상내용",
+      "confidence": 0.9492259740829467,
+      "bbox": [
+        [
+          551,
+          262
+        ],
+        [
+          651,
+          262
+        ],
+        [
+          651,
+          288
+        ],
+        [
+          551,
+          288
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "대회(명)",
+      "confidence": 0.9642450639179775,
+      "bbox": [
+        [
+          229,
+          263
+        ],
+        [
+          322,
+          263
+        ],
+        [
+          322,
+          288
+        ],
+        [
+          229,
+          288
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "수상년월일",
+      "confidence": 0.9978444874286652,
+      "bbox": [
+        [
+          857,
+          262
+        ],
+        [
+          971,
+          262
+        ],
+        [
+          971,
+          286
+        ],
+        [
+          857,
+          286
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "수여기관",
+      "confidence": 0.9940925598144531,
+      "bbox": [
+        [
+          1010,
+          262
+        ],
+        [
+          1106,
+          262
+        ],
+        [
+          1106,
+          289
+        ],
+        [
+          1010,
+          289
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "발표기관",
+      "confidence": 0.9049003601074219,
+      "bbox": [
+        [
+          685,
+          523
+        ],
+        [
+          783,
+          523
+        ],
+        [
+          783,
+          548
+        ],
+        [
+          685,
+          548
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(논문)제목",
+      "confidence": 0.9567480757832527,
+      "bbox": [
+        [
+          212,
+          534
+        ],
+        [
+          336,
+          534
+        ],
+        [
+          336,
+          558
+        ],
+        [
+          212,
+          558
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주요내용",
+      "confidence": 0.9398915052413941,
+      "bbox": [
+        [
+          927,
+          534
+        ],
+        [
+          1028,
+          534
+        ],
+        [
+          1028,
+          558
+        ],
+        [
+          927,
+          558
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "발표 연월일",
+      "confidence": 0.9990442395210266,
+      "bbox": [
+        [
+          431,
+          536
+        ],
+        [
+          565,
+          536
+        ],
+        [
+          565,
+          558
+        ],
+        [
+          431,
+          558
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "__<br>(출판사)",
+      "confidence": 0.8929878039793535,
+      "bbox": [
+        [
+          686,
+          544
+        ],
+        [
+          780,
+          544
+        ],
+        [
+          780,
+          570
+        ],
+        [
+          686,
+          570
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "연구 🤈 용역",
+      "confidence": 0.7378601051039166,
+      "bbox": [
+        [
+          137,
+          582
+        ],
+        [
+          162,
+          582
+        ],
+        [
+          162,
+          694
+        ],
+        [
+          137,
+          694
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "실<br>적",
+      "confidence": 0.9807348946730295,
+      "bbox": [
+        [
+          137,
+          713
+        ],
+        [
+          161,
+          713
+        ],
+        [
+          161,
+          763
+        ],
+        [
+          137,
+          763
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시험명",
+      "confidence": 0.9987912178039551,
+      "bbox": [
+        [
+          237,
+          867
+        ],
+        [
+          312,
+          867
+        ],
+        [
+          312,
+          891
+        ],
+        [
+          237,
+          891
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "등록번호",
+      "confidence": 0.9924639225006103,
+      "bbox": [
+        [
+          401,
+          867
+        ],
+        [
+          502,
+          867
+        ],
+        [
+          502,
+          891
+        ],
+        [
+          401,
+          891
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시일자",
+      "confidence": 0.9338058114051819,
+      "bbox": [
+        [
+          558,
+          867
+        ],
+        [
+          658,
+          867
+        ],
+        [
+          658,
+          891
+        ],
+        [
+          558,
+          891
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "점수",
+      "confidence": 0.989164928595225,
+      "bbox": [
+        [
+          731,
+          867
+        ],
+        [
+          783,
+          867
+        ],
+        [
+          783,
+          891
+        ],
+        [
+          731,
+          891
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "영문성명",
+      "confidence": 0.928757393360138,
+      "bbox": [
+        [
+          928,
+          867
+        ],
+        [
+          1026,
+          867
+        ],
+        [
+          1026,
+          891
+        ],
+        [
+          928,
+          891
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "어",
+      "confidence": 0.9952726364135742,
+      "bbox": [
+        [
+          137,
+          953
+        ],
+        [
+          162,
+          953
+        ],
+        [
+          162,
+          975
+        ],
+        [
+          137,
+          975
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "학",
+      "confidence": 0.8098280131816864,
+      "bbox": [
+        [
+          137,
+          971
+        ],
+        [
+          164,
+          971
+        ],
+        [
+          164,
+          995
+        ],
+        [
+          137,
+          995
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기",
+      "confidence": 0.9956761300563812,
+      "bbox": [
+        [
+          137,
+          1148
+        ],
+        [
+          160,
+          1148
+        ],
+        [
+          160,
+          1168
+        ],
+        [
+          137,
+          1168
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "위 가~다 항목에 해당하지 않는 실적 및 능력 및 우대사항 등이 있을 경우 기재",
+      "confidence": 0.9988996930744337,
+      "bbox": [
+        [
+          193,
+          1156
+        ],
+        [
+          1097,
+          1156
+        ],
+        [
+          1097,
+          1184
+        ],
+        [
+          193,
+          1184
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "타",
+      "confidence": 0.9803173542022705,
+      "bbox": [
+        [
+          137,
+          1168
+        ],
+        [
+          165,
+          1168
+        ],
+        [
+          165,
+          1190
+        ],
+        [
+          137,
+          1190
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 작성 시 학교명, 출생지, 부모직업 등 개인 신상을 직·간접적으로",
+      "confidence": 0.9531657026738537,
+      "bbox": [
+        [
+          194,
+          1188
+        ],
+        [
+          984,
+          1188
+        ],
+        [
+          984,
+          1217
+        ],
+        [
+          194,
+          1217
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "실<br>적",
+      "confidence": 0.9689862529436747,
+      "bbox": [
+        [
+          137,
+          1196
+        ],
+        [
+          163,
+          1196
+        ],
+        [
+          163,
+          1236
+        ],
+        [
+          137,
+          1236
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "파악할 수 있도록 작성할 경우 불이익(감점)을 받을 수 있음",
+      "confidence": 0.9982010160173689,
+      "bbox": [
+        [
+          230,
+          1223
+        ],
+        [
+          918,
+          1223
+        ],
+        [
+          918,
+          1249
+        ],
+        [
+          230,
+          1249
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 작성사항(항목) 중 해당사항이 없으면 “해당없음”기재",
+      "confidence": 0.9907631332224066,
+      "bbox": [
+        [
+          126,
+          1302
+        ],
+        [
+          969,
+          1302
+        ],
+        [
+          969,
+          1332
+        ],
+        [
+          126,
+          1332
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "위에 기재한 사항은 사실과 다름이 없음을 확인합니다.",
+      "confidence": 0.9999674616321441,
+      "bbox": [
+        [
+          262,
+          1376
+        ],
+        [
+          978,
+          1376
+        ],
+        [
+          978,
+          1409
+        ],
+        [
+          262,
+          1409
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025 년 월",
+      "confidence": 0.9849210679531097,
+      "bbox": [
+        [
+          482,
+          1445
+        ],
+        [
+          674,
+          1445
+        ],
+        [
+          674,
+          1475
+        ],
+        [
+          482,
+          1475
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "일",
+      "confidence": 0.9978773295879364,
+      "bbox": [
+        [
+          722,
+          1445
+        ],
+        [
+          755,
+          1445
+        ],
+        [
+          755,
+          1475
+        ],
+        [
+          722,
+          1475
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시자 :",
+      "confidence": 0.9986348067011152,
+      "bbox": [
+        [
+          685,
+          1507
+        ],
+        [
+          806,
+          1507
+        ],
+        [
+          806,
+          1539
+        ],
+        [
+          685,
+          1539
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(서명 / 인)",
+      "confidence": 0.9812760353088379,
+      "bbox": [
+        [
+          822,
+          1511
+        ],
+        [
+          1063,
+          1511
+        ],
+        [
+          1063,
+          1538
+        ],
+        [
+          822,
+          1538
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시인사위원회위원장 귀하",
+      "confidence": 0.9886085987091064,
+      "bbox": [
+        [
+          125,
+          1586
+        ],
+        [
+          619,
+          1586
+        ],
+        [
+          619,
+          1634
+        ],
+        [
+          125,
+          1634
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

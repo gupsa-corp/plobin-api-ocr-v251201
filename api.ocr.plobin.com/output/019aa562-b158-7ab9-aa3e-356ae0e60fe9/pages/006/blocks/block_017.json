@@ -1,0 +1,17 @@
+{
+  "block_id": 17,
+  "text": "RFX 문서 분석",
+  "confidence": 0.9983960539102554,
+  "bbox": {
+    "x_min": 424,
+    "y_min": 921,
+    "x_max": 498,
+    "y_max": 935,
+    "width": 74,
+    "height": 14
+  },
+  "block_type": "text",
+  "text_length": 9,
+  "created_at": "2025-11-21T07:48:29.506714",
+  "version": "1.0"
+}

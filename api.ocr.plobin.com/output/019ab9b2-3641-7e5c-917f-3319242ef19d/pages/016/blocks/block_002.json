@@ -1,0 +1,17 @@
+{
+  "block_id": 2,
+  "text": "5 페이지 관리",
+  "confidence": 0.9968667447566986,
+  "bbox": {
+    "x_min": 143,
+    "y_min": 203,
+    "x_max": 350,
+    "y_max": 239,
+    "width": 207,
+    "height": 36
+  },
+  "block_type": "text",
+  "text_length": 8,
+  "created_at": "2025-11-25T06:28:04.088867",
+  "version": "1.0"
+}

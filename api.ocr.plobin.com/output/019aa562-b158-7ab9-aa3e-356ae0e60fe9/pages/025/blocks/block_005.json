@@ -1,0 +1,17 @@
+{
+  "block_id": 5,
+  "text": "• 고객 지원 페이지: 상단 메뉴 > 지원 > 고객 지원",
+  "confidence": 0.9934347181609182,
+  "bbox": {
+    "x_min": 171,
+    "y_min": 418,
+    "x_max": 630,
+    "y_max": 446,
+    "width": 459,
+    "height": 28
+  },
+  "block_type": "text",
+  "text_length": 31,
+  "created_at": "2025-11-21T07:49:03.229797",
+  "version": "1.0"
+}

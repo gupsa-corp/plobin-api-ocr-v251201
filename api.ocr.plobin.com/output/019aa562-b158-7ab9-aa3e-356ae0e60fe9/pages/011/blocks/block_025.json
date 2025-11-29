@@ -1,0 +1,17 @@
+{
+  "block_id": 25,
+  "text": "• project-viewer: Project Viewer",
+  "confidence": 0.5943029838449815,
+  "bbox": {
+    "x_min": 172,
+    "y_min": 1439,
+    "x_max": 513,
+    "y_max": 1464,
+    "width": 341,
+    "height": 25
+  },
+  "block_type": "text",
+  "text_length": 32,
+  "created_at": "2025-11-21T07:48:38.274227",
+  "version": "1.0"
+}

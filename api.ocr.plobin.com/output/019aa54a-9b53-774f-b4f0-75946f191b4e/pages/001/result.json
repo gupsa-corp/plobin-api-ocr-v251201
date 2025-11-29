@@ -1,0 +1,791 @@
+{
+  "page_number": 1,
+  "total_blocks": 29,
+  "average_confidence": 0.9794323633401533,
+  "processing_time": 1.6622846126556396,
+  "blocks": [
+    {
+      "text": "천안시 공고 제2025 - 2167호",
+      "confidence": 0.9879450093616139,
+      "bbox": [
+        [
+          116,
+          146
+        ],
+        [
+          560,
+          146
+        ],
+        [
+          560,
+          176
+        ],
+        [
+          116,
+          176
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(재)천안시민프로축구단 채용 공고",
+      "confidence": 0.998718011379242,
+      "bbox": [
+        [
+          290,
+          230
+        ],
+        [
+          948,
+          230
+        ],
+        [
+          948,
+          272
+        ],
+        [
+          290,
+          272
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(재)천안시민프로축구단 기간제근로자(경력) 채용을 다음과 같이 공고 합니다.",
+      "confidence": 0.9978901906446977,
+      "bbox": [
+        [
+          116,
+          321
+        ],
+        [
+          1055,
+          321
+        ],
+        [
+          1055,
+          353
+        ],
+        [
+          116,
+          353
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025년 9월 5일",
+      "confidence": 0.9971994482553922,
+      "bbox": [
+        [
+          738,
+          451
+        ],
+        [
+          989,
+          451
+        ],
+        [
+          989,
+          481
+        ],
+        [
+          738,
+          481
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(재)천안시민프로축구단 인사위원회 위원장",
+      "confidence": 0.9982720911502838,
+      "bbox": [
+        [
+          432,
+          527
+        ],
+        [
+          1104,
+          527
+        ],
+        [
+          1104,
+          560
+        ],
+        [
+          432,
+          560
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 채용예정 직급 및 인원",
+      "confidence": 0.9965675122597638,
+      "bbox": [
+        [
+          114,
+          607
+        ],
+        [
+          486,
+          607
+        ],
+        [
+          486,
+          637
+        ],
+        [
+          114,
+          637
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용분야",
+      "confidence": 0.986281955242157,
+      "bbox": [
+        [
+          183,
+          672
+        ],
+        [
+          279,
+          672
+        ],
+        [
+          279,
+          700
+        ],
+        [
+          183,
+          700
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인원",
+      "confidence": 0.9974384705225626,
+      "bbox": [
+        [
+          389,
+          672
+        ],
+        [
+          438,
+          672
+        ],
+        [
+          438,
+          699
+        ],
+        [
+          389,
+          699
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주요직무",
+      "confidence": 0.7965736389160156,
+      "bbox": [
+        [
+          663,
+          672
+        ],
+        [
+          756,
+          672
+        ],
+        [
+          756,
+          698
+        ],
+        [
+          663,
+          698
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "근무부서",
+      "confidence": 0.9932316780090332,
+      "bbox": [
+        [
+          978,
+          673
+        ],
+        [
+          1070,
+          673
+        ],
+        [
+          1070,
+          700
+        ],
+        [
+          978,
+          700
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "축구단 사무국장",
+      "confidence": 0.998726898431778,
+      "bbox": [
+        [
+          138,
+          783
+        ],
+        [
+          324,
+          783
+        ],
+        [
+          324,
+          811
+        ],
+        [
+          138,
+          811
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1명",
+      "confidence": 0.9945582300424576,
+      "bbox": [
+        [
+          393,
+          783
+        ],
+        [
+          432,
+          783
+        ],
+        [
+          432,
+          811
+        ],
+        [
+          393,
+          811
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "축구단 사무국 업무 총괄",
+      "confidence": 0.9995118856430054,
+      "bbox": [
+        [
+          571,
+          783
+        ],
+        [
+          845,
+          783
+        ],
+        [
+          845,
+          811
+        ],
+        [
+          571,
+          811
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사무국",
+      "confidence": 0.9957280158996582,
+      "bbox": [
+        [
+          984,
+          784
+        ],
+        [
+          1064,
+          784
+        ],
+        [
+          1064,
+          811
+        ],
+        [
+          984,
+          811
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 보수 및 근무조건",
+      "confidence": 0.9973569810390472,
+      "bbox": [
+        [
+          113,
+          940
+        ],
+        [
+          408,
+          940
+        ],
+        [
+          408,
+          973
+        ],
+        [
+          113,
+          973
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직급 및 처우",
+      "confidence": 0.999610013431973,
+      "bbox": [
+        [
+          535,
+          1024
+        ],
+        [
+          686,
+          1024
+        ],
+        [
+          686,
+          1051
+        ],
+        [
+          535,
+          1051
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직위",
+      "confidence": 0.9993590513865153,
+      "bbox": [
+        [
+          180,
+          1026
+        ],
+        [
+          233,
+          1026
+        ],
+        [
+          233,
+          1054
+        ],
+        [
+          180,
+          1054
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "신분",
+      "confidence": 0.9987204869588217,
+      "bbox": [
+        [
+          368,
+          1026
+        ],
+        [
+          423,
+          1026
+        ],
+        [
+          423,
+          1052
+        ],
+        [
+          368,
+          1052
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "비고",
+      "confidence": 0.9976832866668701,
+      "bbox": [
+        [
+          894,
+          1026
+        ],
+        [
+          948,
+          1026
+        ],
+        [
+          948,
+          1052
+        ],
+        [
+          894,
+          1052
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기간제",
+      "confidence": 0.9976710975170135,
+      "bbox": [
+        [
+          357,
+          1092
+        ],
+        [
+          432,
+          1092
+        ],
+        [
+          432,
+          1119
+        ],
+        [
+          357,
+          1119
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "공무원 5급 상당",
+      "confidence": 0.9976016608151522,
+      "bbox": [
+        [
+          518,
+          1112
+        ],
+        [
+          705,
+          1112
+        ],
+        [
+          705,
+          1140
+        ],
+        [
+          518,
+          1140
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지방공무원 보수규정에 따름",
+      "confidence": 0.9985622838139534,
+      "bbox": [
+        [
+          765,
+          1113
+        ],
+        [
+          1078,
+          1113
+        ],
+        [
+          1078,
+          1140
+        ],
+        [
+          765,
+          1140
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "부장(경력)",
+      "confidence": 0.9970046132802963,
+      "bbox": [
+        [
+          150,
+          1114
+        ],
+        [
+          265,
+          1114
+        ],
+        [
+          265,
+          1140
+        ],
+        [
+          150,
+          1140
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(2년)",
+      "confidence": 0.9820603628953298,
+      "bbox": [
+        [
+          366,
+          1136
+        ],
+        [
+          426,
+          1136
+        ],
+        [
+          426,
+          1162
+        ],
+        [
+          366,
+          1162
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "* 연장근로시 휴일대체 및 보상휴가 또는 수당 지급, 4대 보험 가입",
+      "confidence": 0.9996976375579834,
+      "bbox": [
+        [
+          146,
+          1208
+        ],
+        [
+          1098,
+          1208
+        ],
+        [
+          1098,
+          1243
+        ],
+        [
+          146,
+          1243
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ (근무조건)",
+      "confidence": 0.7493837426106135,
+      "bbox": [
+        [
+          145,
+          1320
+        ],
+        [
+          332,
+          1320
+        ],
+        [
+          332,
+          1350
+        ],
+        [
+          145,
+          1350
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 근무장소 : 구단 사무국",
+      "confidence": 0.9933293847476735,
+      "bbox": [
+        [
+          192,
+          1381
+        ],
+        [
+          565,
+          1381
+        ],
+        [
+          565,
+          1411
+        ],
+        [
+          192,
+          1411
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "근무시간 : 주 5일(월~금) 09:00~18:00 (중식시간 제외)",
+      "confidence": 0.9663516192112939,
+      "bbox": [
+        [
+          192,
+          1444
+        ],
+        [
+          998,
+          1444
+        ],
+        [
+          998,
+          1473
+        ],
+        [
+          192,
+          1473
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "* 구단 특성상 상황에 따라 변경될 수 있음(주말근무, 대체휴무 운영)",
+      "confidence": 0.9905032791742464,
+      "bbox": [
+        [
+          208,
+          1500
+        ],
+        [
+          1063,
+          1500
+        ],
+        [
+          1063,
+          1529
+        ],
+        [
+          208,
+          1529
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

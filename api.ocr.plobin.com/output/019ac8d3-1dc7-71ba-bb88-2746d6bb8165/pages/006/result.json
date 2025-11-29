@@ -1,0 +1,251 @@
+{
+  "page_number": 6,
+  "total_blocks": 9,
+  "average_confidence": 0.995277558547011,
+  "processing_time": 1.086942195892334,
+  "blocks": [
+    {
+      "text": "않은 자 중에서 차순위자로 추가합격자를 결정할 수 있습니다.",
+      "confidence": 0.9994238632065909,
+      "bbox": [
+        [
+          180,
+          147
+        ],
+        [
+          995,
+          147
+        ],
+        [
+          995,
+          176
+        ],
+        [
+          180,
+          176
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 예비합격자는 최종합격자 공고 시 순번을 부여하여 공고하며, 예비",
+      "confidence": 0.9805351004004479,
+      "bbox": [
+        [
+          131,
+          246
+        ],
+        [
+          1123,
+          246
+        ],
+        [
+          1123,
+          276
+        ],
+        [
+          131,
+          276
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "합격자 명단의 유효기간은 최종합격자 공고일로부터 6개월로 합니다.",
+      "confidence": 0.9999435434215947,
+      "bbox": [
+        [
+          180,
+          296
+        ],
+        [
+          1119,
+          296
+        ],
+        [
+          1119,
+          326
+        ],
+        [
+          180,
+          326
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 본 계획은 사정에 의하여 변경될 수 있으며, 변경된 사항은 서류심사",
+      "confidence": 0.9943614133766719,
+      "bbox": [
+        [
+          131,
+          394
+        ],
+        [
+          1127,
+          394
+        ],
+        [
+          1127,
+          428
+        ],
+        [
+          131,
+          428
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "7일전까지 천안시 및 (재)천안시민프로축구단 홈페이지, 통합공개",
+      "confidence": 0.999244515960281,
+      "bbox": [
+        [
+          179,
+          447
+        ],
+        [
+          1123,
+          447
+        ],
+        [
+          1123,
+          476
+        ],
+        [
+          179,
+          476
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시스템에 변경 공고합니다.",
+      "confidence": 0.9997788183391094,
+      "bbox": [
+        [
+          178,
+          497
+        ],
+        [
+          554,
+          497
+        ],
+        [
+          554,
+          526
+        ],
+        [
+          178,
+          526
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 본 공고의 내용 및 명시되지 않은 사항은 본회 규정의 해석에 따릅니다.",
+      "confidence": 0.9934266819195314,
+      "bbox": [
+        [
+          131,
+          596
+        ],
+        [
+          1116,
+          596
+        ],
+        [
+          1116,
+          626
+        ],
+        [
+          131,
+          626
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기타 문의사항은 (재)천안시민프로축구단 (070-8801-1688)으로",
+      "confidence": 0.9909278750419617,
+      "bbox": [
+        [
+          178,
+          647
+        ],
+        [
+          1125,
+          647
+        ],
+        [
+          1125,
+          676
+        ],
+        [
+          178,
+          676
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문의하시기 바랍니다.",
+      "confidence": 0.999856215256911,
+      "bbox": [
+        [
+          177,
+          695
+        ],
+        [
+          489,
+          695
+        ],
+        [
+          489,
+          726
+        ],
+        [
+          177,
+          726
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

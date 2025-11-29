@@ -1,0 +1,899 @@
+{
+  "page_number": 6,
+  "total_blocks": 33,
+  "average_confidence": 0.9890086713346025,
+  "processing_time": 1.9111964702606201,
+  "blocks": [
+    {
+      "text": "○ 제2차 시험 : 면접시험(서류전형 합격자에 한하여 면접시험 실시)",
+      "confidence": 0.9835214614868164,
+      "bbox": [
+        [
+          136,
+          88
+        ],
+        [
+          1059,
+          88
+        ],
+        [
+          1059,
+          115
+        ],
+        [
+          136,
+          115
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 당해 직무수행에 필요한 능력 및 적격성 검정",
+      "confidence": 0.9976916249309268,
+      "bbox": [
+        [
+          143,
+          134
+        ],
+        [
+          787,
+          134
+        ],
+        [
+          787,
+          161
+        ],
+        [
+          143,
+          161
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 자질 및 발전가능성, 전문성, 조직원으로서의 적합성 등 업무추진 역량을",
+      "confidence": 0.9983968457510305,
+      "bbox": [
+        [
+          142,
+          182
+        ],
+        [
+          1124,
+          182
+        ],
+        [
+          1124,
+          210
+        ],
+        [
+          142,
+          210
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "종합적으로 평가",
+      "confidence": 0.9996029913425446,
+      "bbox": [
+        [
+          174,
+          229
+        ],
+        [
+          399,
+          229
+        ],
+        [
+          399,
+          255
+        ],
+        [
+          174,
+          255
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 평정요소 : 공무원으로서의 정신자세, 전문지식과 그 응용능력, 의사표현의",
+      "confidence": 0.9983168650757183,
+      "bbox": [
+        [
+          144,
+          275
+        ],
+        [
+          1122,
+          275
+        ],
+        [
+          1122,
+          302
+        ],
+        [
+          144,
+          302
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "정확성과 논리성, 예의 · 품행 및 성실성, 창의력 · 의지력 및 발전가능성",
+      "confidence": 0.9893157373775135,
+      "bbox": [
+        [
+          175,
+          321
+        ],
+        [
+          1121,
+          321
+        ],
+        [
+          1121,
+          348
+        ],
+        [
+          175,
+          348
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다. 최종합격자 발표 : 추후 별도 공고",
+      "confidence": 0.9933515985806783,
+      "bbox": [
+        [
+          130,
+          397
+        ],
+        [
+          645,
+          397
+        ],
+        [
+          645,
+          425
+        ],
+        [
+          130,
+          425
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 개별통보 및 시 홈페이지(www.cheonan.go.kr)/시험공고란에 공고",
+      "confidence": 0.9888062216341496,
+      "bbox": [
+        [
+          135,
+          444
+        ],
+        [
+          1056,
+          444
+        ],
+        [
+          1056,
+          473
+        ],
+        [
+          135,
+          473
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "라. 추가합격자 결정방법",
+      "confidence": 0.9987892587979634,
+      "bbox": [
+        [
+          130,
+          520
+        ],
+        [
+          459,
+          520
+        ],
+        [
+          459,
+          548
+        ],
+        [
+          130,
+          548
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "\n    최종합격자의 임용포기, 임용된 후 퇴직하는 등의 사정으로 결원을 보충할\n",
+      "confidence": 0.9696410018386263,
+      "bbox": [
+        [
+          136,
+          567
+        ],
+        [
+          1124,
+          567
+        ],
+        [
+          1124,
+          594
+        ],
+        [
+          136,
+          594
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필요가 있을 때에는 합격자 발표일로부터 6개월 이내에 면접시험 불",
+      "confidence": 0.9999621259538751,
+      "bbox": [
+        [
+          175,
+          613
+        ],
+        [
+          1124,
+          613
+        ],
+        [
+          1124,
+          641
+        ],
+        [
+          175,
+          641
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "합격 기준에 해당하지 아니하는 사람 중에서 면접시험 성적이 높은",
+      "confidence": 0.9999749386632765,
+      "bbox": [
+        [
+          175,
+          659
+        ],
+        [
+          1124,
+          659
+        ],
+        [
+          1124,
+          686
+        ],
+        [
+          175,
+          686
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "순서대로 추가합격자를 결정",
+      "confidence": 0.999721571803093,
+      "bbox": [
+        [
+          175,
+          707
+        ],
+        [
+          554,
+          707
+        ],
+        [
+          554,
+          734
+        ],
+        [
+          175,
+          734
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "원 서 접 수",
+      "confidence": 0.9875264300240411,
+      "bbox": [
+        [
+          206,
+          766
+        ],
+        [
+          450,
+          766
+        ],
+        [
+          450,
+          801
+        ],
+        [
+          206,
+          801
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6",
+      "confidence": 0.939753532409668,
+      "bbox": [
+        [
+          134,
+          771
+        ],
+        [
+          163,
+          771
+        ],
+        [
+          163,
+          797
+        ],
+        [
+          134,
+          797
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 접수기간 : 2025년 12월 1일 ~ 12월 3일(3일간)",
+      "confidence": 0.9967595150596217,
+      "bbox": [
+        [
+          130,
+          844
+        ],
+        [
+          812,
+          844
+        ],
+        [
+          812,
+          872
+        ],
+        [
+          130,
+          872
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "<b>※</b> 근무시간(09:00~18:00)만 접수 가능 <b>※</b> 중식시간 제외(12:00~13:00)",
+      "confidence": 0.9822293647697994,
+      "bbox": [
+        [
+          192,
+          890
+        ],
+        [
+          979,
+          890
+        ],
+        [
+          979,
+          915
+        ],
+        [
+          192,
+          915
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 접수장소 : 천안시 행정지원과(6층) 인사팀 (☎041-521-5212)",
+      "confidence": 0.9925132303134255,
+      "bbox": [
+        [
+          130,
+          934
+        ],
+        [
+          981,
+          934
+        ],
+        [
+          981,
+          961
+        ],
+        [
+          130,
+          961
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다. 접수방법 : 방문 또는 우편접수(우편소인일 기준 인정)",
+      "confidence": 0.9867408599172319,
+      "bbox": [
+        [
+          130,
+          980
+        ],
+        [
+          894,
+          980
+        ],
+        [
+          894,
+          1006
+        ],
+        [
+          130,
+          1006
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 보내실 곳 : 천안시 서북구 번영로 156, 천안시청 행정지원과 인사팀",
+      "confidence": 0.9901408012523207,
+      "bbox": [
+        [
+          179,
+          1025
+        ],
+        [
+          1006,
+          1025
+        ],
+        [
+          1006,
+          1050
+        ],
+        [
+          179,
+          1050
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 우편접수 시 응시수수료는 우체국의 ‘통상환증서’를 동봉",
+      "confidence": 0.9864207734079922,
+      "bbox": [
+        [
+          179,
+          1066
+        ],
+        [
+          895,
+          1066
+        ],
+        [
+          895,
+          1091
+        ],
+        [
+          179,
+          1091
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 정부수입인지 동봉시 접수 불가",
+      "confidence": 0.9952396959066391,
+      "bbox": [
+        [
+          213,
+          1106
+        ],
+        [
+          608,
+          1106
+        ],
+        [
+          608,
+          1130
+        ],
+        [
+          213,
+          1130
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 응시원서 양식(이력서, 자기소개서 등 포함)은 첨부된 양식을 출력·사용",
+      "confidence": 0.9897557131268762,
+      "bbox": [
+        [
+          179,
+          1144
+        ],
+        [
+          1055,
+          1144
+        ],
+        [
+          1055,
+          1172
+        ],
+        [
+          179,
+          1172
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 대리접수 등으로 미비한 서류의 책임은 응시자에게 있음",
+      "confidence": 0.9917576782631151,
+      "bbox": [
+        [
+          179,
+          1186
+        ],
+        [
+          882,
+          1186
+        ],
+        [
+          882,
+          1213
+        ],
+        [
+          179,
+          1213
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "라. 제출서류반환",
+      "confidence": 0.998004284772006,
+      "bbox": [
+        [
+          131,
+          1228
+        ],
+        [
+          361,
+          1228
+        ],
+        [
+          361,
+          1253
+        ],
+        [
+          131,
+          1253
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ (근거법령)「채용절차의 공정화에 관한 법률」",
+      "confidence": 0.9780132791825703,
+      "bbox": [
+        [
+          179,
+          1272
+        ],
+        [
+          733,
+          1272
+        ],
+        [
+          733,
+          1298
+        ],
+        [
+          179,
+          1298
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 청구기간 : 합격자 발표일로부터 15일간",
+      "confidence": 0.9822986942750437,
+      "bbox": [
+        [
+          136,
+          1315
+        ],
+        [
+          711,
+          1315
+        ],
+        [
+          711,
+          1342
+        ],
+        [
+          136,
+          1342
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 청구방법 : 직접 방문 또는 우편 발송 청구[별지 제6호] 서식 제출",
+      "confidence": 0.9875443175781605,
+      "bbox": [
+        [
+          136,
+          1361
+        ],
+        [
+          1073,
+          1361
+        ],
+        [
+          1073,
+          1388
+        ],
+        [
+          136,
+          1388
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 반환방법 : 직접 방문 또는 우편 발송(지원자 부담)",
+      "confidence": 0.9774961313780617,
+      "bbox": [
+        [
+          136,
+          1407
+        ],
+        [
+          861,
+          1407
+        ],
+        [
+          861,
+          1434
+        ],
+        [
+          136,
+          1434
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 반환기간 : 지원자의 채용 여부가 확정된 날 이후 14일부터 180일까지",
+      "confidence": 0.9800919757948982,
+      "bbox": [
+        [
+          136,
+          1453
+        ],
+        [
+          1122,
+          1453
+        ],
+        [
+          1122,
+          1480
+        ],
+        [
+          136,
+          1480
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "유효하며, 이후 채용부서에서 임의로 폐기 처분함",
+      "confidence": 0.999763195003782,
+      "bbox": [
+        [
+          328,
+          1500
+        ],
+        [
+          998,
+          1500
+        ],
+        [
+          998,
+          1527
+        ],
+        [
+          328,
+          1527
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 제외대상 : 전자우편으로 제출 된 경우 또는 지원자가 채용부서의 요구 없이",
+      "confidence": 0.9800963563763577,
+      "bbox": [
+        [
+          135,
+          1547
+        ],
+        [
+          1111,
+          1547
+        ],
+        [
+          1111,
+          1574
+        ],
+        [
+          135,
+          1574
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자발적으로 제출한 서류일체",
+      "confidence": 0.9980480819940567,
+      "bbox": [
+        [
+          329,
+          1594
+        ],
+        [
+          714,
+          1594
+        ],
+        [
+          714,
+          1620
+        ],
+        [
+          329,
+          1620
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

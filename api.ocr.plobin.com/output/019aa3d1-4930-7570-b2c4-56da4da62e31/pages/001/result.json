@@ -1,0 +1,1449 @@
+{
+  "page_number": 1,
+  "total_blocks": 43,
+  "average_confidence": 0.6326274536888418,
+  "processing_time": 5.108842372894287,
+  "blocks": [
+    {
+      "id": 0,
+      "text": "1861",
+      "confidence": 0.8685142159461975,
+      "bbox": {
+        "x_min": 270,
+        "y_min": 3,
+        "x_max": 281,
+        "y_max": 8,
+        "width": 11,
+        "height": 5
+      },
+      "bbox_points": [
+        [
+          270,
+          3
+        ],
+        [
+          281,
+          3
+        ],
+        [
+          281,
+          8
+        ],
+        [
+          270,
+          8
+        ]
+      ],
+      "type": "text",
+      "area": 55
+    },
+    {
+      "id": 3,
+      "text": ".",
+      "confidence": 0.605967789888382,
+      "bbox": {
+        "x_min": 254,
+        "y_min": 11,
+        "x_max": 264,
+        "y_max": 17,
+        "width": 10,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          254,
+          11
+        ],
+        [
+          264,
+          11
+        ],
+        [
+          264,
+          17
+        ],
+        [
+          254,
+          17
+        ]
+      ],
+      "type": "text",
+      "area": 60
+    },
+    {
+      "id": 5,
+      "text": "reductor, independ",
+      "confidence": 0.5325693875551224,
+      "bbox": {
+        "x_min": 286,
+        "y_min": 19,
+        "x_max": 312,
+        "y_max": 24,
+        "width": 26,
+        "height": 5
+      },
+      "bbox_points": [
+        [
+          286,
+          19
+        ],
+        [
+          312,
+          19
+        ],
+        [
+          312,
+          24
+        ],
+        [
+          286,
+          24
+        ]
+      ],
+      "type": "text",
+      "area": 130
+    },
+    {
+      "id": 10,
+      "text": "- ****",
+      "confidence": 0.5518076971173287,
+      "bbox": {
+        "x_min": 239,
+        "y_min": 35,
+        "x_max": 272,
+        "y_max": 42,
+        "width": 33,
+        "height": 7
+      },
+      "bbox_points": [
+        [
+          239,
+          35
+        ],
+        [
+          272,
+          35
+        ],
+        [
+          272,
+          42
+        ],
+        [
+          239,
+          42
+        ]
+      ],
+      "type": "text",
+      "area": 231,
+      "merged_from": 2
+    },
+    {
+      "id": 18,
+      "text": "48.00",
+      "confidence": 0.6551775832970937,
+      "bbox": {
+        "x_min": 100,
+        "y_min": 74,
+        "x_max": 114,
+        "y_max": 80,
+        "width": 14,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          100,
+          74
+        ],
+        [
+          114,
+          74
+        ],
+        [
+          114,
+          80
+        ],
+        [
+          100,
+          80
+        ]
+      ],
+      "type": "text",
+      "area": 84
+    },
+    {
+      "id": 21,
+      "text": "permitted, ball",
+      "confidence": 0.9292334423345678,
+      "bbox": {
+        "x_min": 208,
+        "y_min": 88,
+        "x_max": 232,
+        "y_max": 95,
+        "width": 24,
+        "height": 7
+      },
+      "bbox_points": [
+        [
+          208,
+          88
+        ],
+        [
+          232,
+          88
+        ],
+        [
+          232,
+          95
+        ],
+        [
+          208,
+          95
+        ]
+      ],
+      "type": "text",
+      "area": 168
+    },
+    {
+      "id": 25,
+      "text": ".",
+      "confidence": 0.525895893573761,
+      "bbox": {
+        "x_min": 181,
+        "y_min": 97,
+        "x_max": 191,
+        "y_max": 101,
+        "width": 10,
+        "height": 4
+      },
+      "bbox_points": [
+        [
+          181,
+          97
+        ],
+        [
+          191,
+          97
+        ],
+        [
+          191,
+          101
+        ],
+        [
+          181,
+          101
+        ]
+      ],
+      "type": "text",
+      "area": 40
+    },
+    {
+      "id": 26,
+      "text": "1000000",
+      "confidence": 0.6195034049451351,
+      "bbox": {
+        "x_min": 589,
+        "y_min": 100,
+        "x_max": 612,
+        "y_max": 107,
+        "width": 23,
+        "height": 7
+      },
+      "bbox_points": [
+        [
+          589,
+          100
+        ],
+        [
+          612,
+          100
+        ],
+        [
+          612,
+          107
+        ],
+        [
+          589,
+          107
+        ]
+      ],
+      "type": "text",
+      "area": 161
+    },
+    {
+      "id": 30,
+      "text": "-",
+      "confidence": 0.7562154531478882,
+      "bbox": {
+        "x_min": 199,
+        "y_min": 105,
+        "x_max": 212,
+        "y_max": 110,
+        "width": 13,
+        "height": 5
+      },
+      "bbox_points": [
+        [
+          199,
+          105
+        ],
+        [
+          212,
+          105
+        ],
+        [
+          212,
+          110
+        ],
+        [
+          199,
+          110
+        ]
+      ],
+      "type": "text",
+      "area": 65
+    },
+    {
+      "id": 34,
+      "text": "м PK.",
+      "confidence": 0.5713859081268311,
+      "bbox": {
+        "x_min": 578,
+        "y_min": 109,
+        "x_max": 614,
+        "y_max": 115,
+        "width": 36,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          578,
+          109
+        ],
+        [
+          614,
+          109
+        ],
+        [
+          614,
+          115
+        ],
+        [
+          578,
+          115
+        ]
+      ],
+      "type": "text",
+      "area": 216,
+      "merged_from": 2
+    },
+    {
+      "id": 40,
+      "text": "-",
+      "confidence": 0.6206159740686417,
+      "bbox": {
+        "x_min": 181,
+        "y_min": 113,
+        "x_max": 190,
+        "y_max": 118,
+        "width": 9,
+        "height": 5
+      },
+      "bbox_points": [
+        [
+          181,
+          113
+        ],
+        [
+          190,
+          113
+        ],
+        [
+          190,
+          118
+        ],
+        [
+          181,
+          118
+        ]
+      ],
+      "type": "text",
+      "area": 45
+    },
+    {
+      "id": 48,
+      "text": "- _ -",
+      "confidence": 0.6551833190023899,
+      "bbox": {
+        "x_min": 63,
+        "y_min": 121,
+        "x_max": 192,
+        "y_max": 127,
+        "width": 129,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          63,
+          121
+        ],
+        [
+          192,
+          121
+        ],
+        [
+          192,
+          127
+        ],
+        [
+          63,
+          127
+        ]
+      ],
+      "type": "text",
+      "area": 774,
+      "merged_from": 2
+    },
+    {
+      "id": 53,
+      "text": "- м",
+      "confidence": 0.5497097223997116,
+      "bbox": {
+        "x_min": 560,
+        "y_min": 125,
+        "x_max": 586,
+        "y_max": 130,
+        "width": 26,
+        "height": 5
+      },
+      "bbox_points": [
+        [
+          560,
+          125
+        ],
+        [
+          586,
+          125
+        ],
+        [
+          586,
+          130
+        ],
+        [
+          560,
+          130
+        ]
+      ],
+      "type": "text",
+      "area": 130,
+      "merged_from": 2
+    },
+    {
+      "id": 55,
+      "text": "DOCUME NUCY",
+      "confidence": 0.612838556936809,
+      "bbox": {
+        "x_min": 82,
+        "y_min": 130,
+        "x_max": 251,
+        "y_max": 136,
+        "width": 169,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          82,
+          130
+        ],
+        [
+          251,
+          130
+        ],
+        [
+          251,
+          136
+        ],
+        [
+          82,
+          136
+        ]
+      ],
+      "type": "text",
+      "area": 1014,
+      "merged_from": 2
+    },
+    {
+      "id": 67,
+      "text": "- ADDRESS TO LO - 201 53 - descriptor",
+      "confidence": 0.6241326048163882,
+      "bbox": {
+        "x_min": 82,
+        "y_min": 134,
+        "x_max": 595,
+        "y_max": 143,
+        "width": 513,
+        "height": 9
+      },
+      "bbox_points": [
+        [
+          82,
+          134
+        ],
+        [
+          595,
+          134
+        ],
+        [
+          595,
+          143
+        ],
+        [
+          82,
+          143
+        ]
+      ],
+      "type": "text",
+      "area": 4617,
+      "merged_from": 4
+    },
+    {
+      "id": 77,
+      "text": "No acressor 419 - Mint of a",
+      "confidence": 0.5977440073843047,
+      "bbox": {
+        "x_min": 199,
+        "y_min": 142,
+        "x_max": 636,
+        "y_max": 152,
+        "width": 437,
+        "height": 10
+      },
+      "bbox_points": [
+        [
+          199,
+          142
+        ],
+        [
+          636,
+          142
+        ],
+        [
+          636,
+          152
+        ],
+        [
+          199,
+          152
+        ]
+      ],
+      "type": "text",
+      "area": 4370,
+      "merged_from": 3
+    },
+    {
+      "id": 81,
+      "text": "-",
+      "confidence": 0.5907958894968033,
+      "bbox": {
+        "x_min": 560,
+        "y_min": 151,
+        "x_max": 566,
+        "y_max": 156,
+        "width": 6,
+        "height": 5
+      },
+      "bbox_points": [
+        [
+          560,
+          151
+        ],
+        [
+          566,
+          151
+        ],
+        [
+          566,
+          156
+        ],
+        [
+          560,
+          156
+        ]
+      ],
+      "type": "text",
+      "area": 30
+    },
+    {
+      "id": 86,
+      "text": "mercad by",
+      "confidence": 0.7399500229141929,
+      "bbox": {
+        "x_min": 82,
+        "y_min": 155,
+        "x_max": 101,
+        "y_max": 159,
+        "width": 19,
+        "height": 4
+      },
+      "bbox_points": [
+        [
+          82,
+          155
+        ],
+        [
+          101,
+          155
+        ],
+        [
+          101,
+          159
+        ],
+        [
+          82,
+          159
+        ]
+      ],
+      "type": "text",
+      "area": 76
+    },
+    {
+      "id": 89,
+      "text": "200",
+      "confidence": 0.5612780004739761,
+      "bbox": {
+        "x_min": 561,
+        "y_min": 159,
+        "x_max": 571,
+        "y_max": 163,
+        "width": 10,
+        "height": 4
+      },
+      "bbox_points": [
+        [
+          561,
+          159
+        ],
+        [
+          571,
+          159
+        ],
+        [
+          571,
+          163
+        ],
+        [
+          561,
+          163
+        ]
+      ],
+      "type": "text",
+      "area": 40
+    },
+    {
+      "id": 96,
+      "text": "--- - -",
+      "confidence": 0.6365312971174717,
+      "bbox": {
+        "x_min": 82,
+        "y_min": 163,
+        "x_max": 188,
+        "y_max": 168,
+        "width": 106,
+        "height": 5
+      },
+      "bbox_points": [
+        [
+          82,
+          163
+        ],
+        [
+          188,
+          163
+        ],
+        [
+          188,
+          168
+        ],
+        [
+          82,
+          168
+        ]
+      ],
+      "type": "text",
+      "area": 530,
+      "merged_from": 2
+    },
+    {
+      "id": 100,
+      "text": "count, a -",
+      "confidence": 0.5440719798207283,
+      "bbox": {
+        "x_min": 81,
+        "y_min": 171,
+        "x_max": 189,
+        "y_max": 177,
+        "width": 108,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          81,
+          171
+        ],
+        [
+          189,
+          171
+        ],
+        [
+          189,
+          177
+        ],
+        [
+          81,
+          177
+        ]
+      ],
+      "type": "text",
+      "area": 648,
+      "merged_from": 2
+    },
+    {
+      "id": 115,
+      "text": ". PE -",
+      "confidence": 0.6370807339747747,
+      "bbox": {
+        "x_min": 20,
+        "y_min": 223,
+        "x_max": 405,
+        "y_max": 229,
+        "width": 385,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          20,
+          223
+        ],
+        [
+          405,
+          223
+        ],
+        [
+          405,
+          229
+        ],
+        [
+          20,
+          229
+        ]
+      ],
+      "type": "text",
+      "area": 2310,
+      "merged_from": 2
+    },
+    {
+      "id": 119,
+      "text": "1.0 -",
+      "confidence": 0.6365162879228592,
+      "bbox": {
+        "x_min": 376,
+        "y_min": 231,
+        "x_max": 412,
+        "y_max": 237,
+        "width": 36,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          376,
+          231
+        ],
+        [
+          412,
+          231
+        ],
+        [
+          412,
+          237
+        ],
+        [
+          376,
+          237
+        ]
+      ],
+      "type": "text",
+      "area": 216,
+      "merged_from": 2
+    },
+    {
+      "id": 124,
+      "text": "185 8 PC.",
+      "confidence": 0.5590210338433583,
+      "bbox": {
+        "x_min": 21,
+        "y_min": 239,
+        "x_max": 57,
+        "y_max": 245,
+        "width": 36,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          21,
+          239
+        ],
+        [
+          57,
+          239
+        ],
+        [
+          57,
+          245
+        ],
+        [
+          21,
+          245
+        ]
+      ],
+      "type": "text",
+      "area": 216,
+      "merged_from": 2
+    },
+    {
+      "id": 136,
+      "text": "Mark",
+      "confidence": 0.5558888435363769,
+      "bbox": {
+        "x_min": 360,
+        "y_min": 256,
+        "x_max": 370,
+        "y_max": 262,
+        "width": 10,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          360,
+          256
+        ],
+        [
+          370,
+          256
+        ],
+        [
+          370,
+          262
+        ],
+        [
+          360,
+          262
+        ]
+      ],
+      "type": "text",
+      "area": 60
+    },
+    {
+      "id": 138,
+      "text": "NAME 1000,88 PE OWN",
+      "confidence": 0.5808614311739803,
+      "bbox": {
+        "x_min": 58,
+        "y_min": 264,
+        "x_max": 425,
+        "y_max": 271,
+        "width": 367,
+        "height": 7
+      },
+      "bbox_points": [
+        [
+          58,
+          264
+        ],
+        [
+          425,
+          264
+        ],
+        [
+          425,
+          271
+        ],
+        [
+          58,
+          271
+        ]
+      ],
+      "type": "text",
+      "area": 2569,
+      "merged_from": 2
+    },
+    {
+      "id": 151,
+      "text": "1000",
+      "confidence": 0.5321274757385254,
+      "bbox": {
+        "x_min": 328,
+        "y_min": 303,
+        "x_max": 346,
+        "y_max": 309,
+        "width": 18,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          328,
+          303
+        ],
+        [
+          346,
+          303
+        ],
+        [
+          346,
+          309
+        ],
+        [
+          328,
+          309
+        ]
+      ],
+      "type": "text",
+      "area": 108
+    },
+    {
+      "id": 159,
+      "text": "products, sales м PC:",
+      "confidence": 0.5642542435842401,
+      "bbox": {
+        "x_min": 395,
+        "y_min": 330,
+        "x_max": 531,
+        "y_max": 336,
+        "width": 136,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          395,
+          330
+        ],
+        [
+          531,
+          330
+        ],
+        [
+          531,
+          336
+        ],
+        [
+          395,
+          336
+        ]
+      ],
+      "type": "text",
+      "area": 816,
+      "merged_from": 2
+    },
+    {
+      "id": 168,
+      "text": "29KLPMRK - 1000 perform organization property page.",
+      "confidence": 0.6497247509591214,
+      "bbox": {
+        "x_min": 263,
+        "y_min": 337,
+        "x_max": 583,
+        "y_max": 343,
+        "width": 320,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          263,
+          337
+        ],
+        [
+          583,
+          337
+        ],
+        [
+          583,
+          343
+        ],
+        [
+          263,
+          343
+        ]
+      ],
+      "type": "text",
+      "area": 1920,
+      "merged_from": 3
+    },
+    {
+      "id": 173,
+      "text": ". PK. wite -",
+      "confidence": 0.6216902628540992,
+      "bbox": {
+        "x_min": 231,
+        "y_min": 342,
+        "x_max": 623,
+        "y_max": 352,
+        "width": 392,
+        "height": 10
+      },
+      "bbox_points": [
+        [
+          231,
+          342
+        ],
+        [
+          623,
+          342
+        ],
+        [
+          623,
+          352
+        ],
+        [
+          231,
+          352
+        ]
+      ],
+      "type": "text",
+      "area": 3920,
+      "merged_from": 4
+    },
+    {
+      "id": 181,
+      "text": "Nepre",
+      "confidence": 0.5667239129543304,
+      "bbox": {
+        "x_min": 612,
+        "y_min": 351,
+        "x_max": 623,
+        "y_max": 356,
+        "width": 11,
+        "height": 5
+      },
+      "bbox_points": [
+        [
+          612,
+          351
+        ],
+        [
+          623,
+          351
+        ],
+        [
+          623,
+          356
+        ],
+        [
+          612,
+          356
+        ]
+      ],
+      "type": "text",
+      "area": 55
+    },
+    {
+      "id": 185,
+      "text": "990.0 4024",
+      "confidence": 0.6449134717384974,
+      "bbox": {
+        "x_min": 232,
+        "y_min": 354,
+        "x_max": 442,
+        "y_max": 360,
+        "width": 210,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          232,
+          354
+        ],
+        [
+          442,
+          354
+        ],
+        [
+          442,
+          360
+        ],
+        [
+          232,
+          360
+        ]
+      ],
+      "type": "text",
+      "area": 1260,
+      "merged_from": 2
+    },
+    {
+      "id": 195,
+      "text": "property. It's",
+      "confidence": 0.5428734831511974,
+      "bbox": {
+        "x_min": 631,
+        "y_min": 359,
+        "x_max": 647,
+        "y_max": 364,
+        "width": 16,
+        "height": 5
+      },
+      "bbox_points": [
+        [
+          631,
+          359
+        ],
+        [
+          647,
+          359
+        ],
+        [
+          647,
+          364
+        ],
+        [
+          631,
+          364
+        ]
+      ],
+      "type": "text",
+      "area": 80
+    },
+    {
+      "id": 200,
+      "text": "- - Meg",
+      "confidence": 0.5588298887014389,
+      "bbox": {
+        "x_min": 369,
+        "y_min": 363,
+        "x_max": 505,
+        "y_max": 369,
+        "width": 136,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          369,
+          363
+        ],
+        [
+          505,
+          363
+        ],
+        [
+          505,
+          369
+        ],
+        [
+          369,
+          369
+        ]
+      ],
+      "type": "text",
+      "area": 816,
+      "merged_from": 2
+    },
+    {
+      "id": 207,
+      "text": "101",
+      "confidence": 0.7659614309668541,
+      "bbox": {
+        "x_min": 612,
+        "y_min": 367,
+        "x_max": 623,
+        "y_max": 372,
+        "width": 11,
+        "height": 5
+      },
+      "bbox_points": [
+        [
+          612,
+          367
+        ],
+        [
+          623,
+          367
+        ],
+        [
+          623,
+          372
+        ],
+        [
+          612,
+          372
+        ]
+      ],
+      "type": "text",
+      "area": 55
+    },
+    {
+      "id": 211,
+      "text": "prost, sa project, mercurance, patential contract, mark from - 482.489",
+      "confidence": 0.6510157347038075,
+      "bbox": {
+        "x_min": 232,
+        "y_min": 371,
+        "x_max": 448,
+        "y_max": 377,
+        "width": 216,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          232,
+          371
+        ],
+        [
+          448,
+          371
+        ],
+        [
+          448,
+          377
+        ],
+        [
+          232,
+          377
+        ]
+      ],
+      "type": "text",
+      "area": 1296,
+      "merged_from": 2
+    },
+    {
+      "id": 221,
+      "text": "pending amount, declined - 202759 . Annielle 1000 Miles",
+      "confidence": 0.6878053104802876,
+      "bbox": {
+        "x_min": 269,
+        "y_min": 375,
+        "x_max": 623,
+        "y_max": 385,
+        "width": 354,
+        "height": 10
+      },
+      "bbox_points": [
+        [
+          269,
+          375
+        ],
+        [
+          623,
+          375
+        ],
+        [
+          623,
+          385
+        ],
+        [
+          269,
+          385
+        ]
+      ],
+      "type": "text",
+      "area": 3540,
+      "merged_from": 4
+    },
+    {
+      "id": 233,
+      "text": "- in, system, sole",
+      "confidence": 0.6114836070272658,
+      "bbox": {
+        "x_min": 369,
+        "y_min": 388,
+        "x_max": 519,
+        "y_max": 393,
+        "width": 150,
+        "height": 5
+      },
+      "bbox_points": [
+        [
+          369,
+          388
+        ],
+        [
+          519,
+          388
+        ],
+        [
+          519,
+          393
+        ],
+        [
+          369,
+          393
+        ]
+      ],
+      "type": "text",
+      "area": 750,
+      "merged_from": 2
+    },
+    {
+      "id": 242,
+      "text": "191 NATION PE",
+      "confidence": 0.8094584840265187,
+      "bbox": {
+        "x_min": 477,
+        "y_min": 395,
+        "x_max": 548,
+        "y_max": 401,
+        "width": 71,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          477,
+          395
+        ],
+        [
+          548,
+          395
+        ],
+        [
+          548,
+          401
+        ],
+        [
+          477,
+          401
+        ]
+      ],
+      "type": "text",
+      "area": 426,
+      "merged_from": 2
+    },
+    {
+      "id": 254,
+      "text": "promit, minted, bells",
+      "confidence": 0.6195691875789476,
+      "bbox": {
+        "x_min": 363,
+        "y_min": 444,
+        "x_max": 396,
+        "y_max": 450,
+        "width": 33,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          363,
+          444
+        ],
+        [
+          396,
+          444
+        ],
+        [
+          396,
+          450
+        ],
+        [
+          363,
+          450
+        ]
+      ],
+      "type": "text",
+      "area": 198
+    },
+    {
+      "id": 258,
+      "text": "proper mention of PT.",
+      "confidence": 0.9402690711228744,
+      "bbox": {
+        "x_min": 354,
+        "y_min": 460,
+        "x_max": 392,
+        "y_max": 466,
+        "width": 38,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          354,
+          460
+        ],
+        [
+          392,
+          460
+        ],
+        [
+          392,
+          466
+        ],
+        [
+          354,
+          466
+        ]
+      ],
+      "type": "text",
+      "area": 228
+    },
+    {
+      "id": 262,
+      "text": "**",
+      "confidence": 0.5264527797698975,
+      "bbox": {
+        "x_min": 385,
+        "y_min": 469,
+        "x_max": 392,
+        "y_max": 475,
+        "width": 7,
+        "height": 6
+      },
+      "bbox_points": [
+        [
+          385,
+          469
+        ],
+        [
+          392,
+          469
+        ],
+        [
+          392,
+          475
+        ],
+        [
+          385,
+          475
+        ]
+      ],
+      "type": "text",
+      "area": 42
+    },
+    {
+      "id": 268,
+      "text": "MISSISSI",
+      "confidence": 0.5913369324472215,
+      "bbox": {
+        "x_min": 354,
+        "y_min": 486,
+        "x_max": 373,
+        "y_max": 491,
+        "width": 19,
+        "height": 5
+      },
+      "bbox_points": [
+        [
+          354,
+          486
+        ],
+        [
+          373,
+          486
+        ],
+        [
+          373,
+          491
+        ],
+        [
+          354,
+          491
+        ]
+      ],
+      "type": "text",
+      "area": 95
+    }
+  ]
+}

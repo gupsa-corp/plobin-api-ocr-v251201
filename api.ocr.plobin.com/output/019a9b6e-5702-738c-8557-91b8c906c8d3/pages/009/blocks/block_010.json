@@ -1,0 +1,27 @@
+{
+  "block_id": 10,
+  "text": "<math>\\Rightarrow</math>",
+  "confidence": 0.9443556815385818,
+  "bbox": [
+    [
+      466,
+      375
+    ],
+    [
+      516,
+      375
+    ],
+    [
+      516,
+      392
+    ],
+    [
+      466,
+      392
+    ]
+  ],
+  "block_type": "text",
+  "text_length": 24,
+  "created_at": "2025-11-19T09:25:12.903407",
+  "version": "1.0"
+}

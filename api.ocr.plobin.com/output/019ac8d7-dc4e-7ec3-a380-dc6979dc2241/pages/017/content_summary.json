@@ -1,0 +1,564 @@
+{
+  "page_summary": {
+    "document_type": "invoice",
+    "main_content": "Invoice document - [서식6 채용서류 반환청구서]...",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 6,
+      "footer": 0,
+      "other": 21
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.992,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 26,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.694,
+      "english": 0.016,
+      "other": 0.291
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 27,
+    "total_characters": 532,
+    "analyzed_at": "2025-11-28T05:03:31.643575"
+  },
+  "block_summaries": [
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "[서식6 채용서류 반환청구서]",
+      "keywords": [
+        "서식6",
+        "채용서류",
+        "반환청구서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 16,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:03:31.642988"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "■ 채용절차의 공정화에 관한 법률 시행규칙[별지 제3호...",
+      "keywords": [
+        "채용절차의",
+        "공정화에",
+        "시행규칙",
+        "제3호서식"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 33,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T05:03:31.643014"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "채용서류 반환청구서",
+      "keywords": [
+        "채용서류",
+        "반환청구서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:03:31.643029"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "접수번호",
+      "keywords": [
+        "접수번호"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:03:31.643041"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "접수일자",
+      "keywords": [
+        "접수일자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:03:31.643050"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "청구인",
+      "keywords": [
+        "청구인"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:03:31.643060"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "수험번호",
+      "keywords": [
+        "수험번호"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:03:31.643069"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "성명",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:03:31.643078"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "주 소",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:03:31.643089"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "반환장소",
+      "keywords": [
+        "반환장소"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:03:31.643098"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(주소와 다른 경<br>우 기재)",
+      "keywords": [
+        "주소와"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:03:31.643116"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "반환청구서류",
+      "keywords": [
+        "반환청구서류"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:03:31.643125"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "「채용절차의 공정화에 관한 법률」제11조 및 같은 법 ...",
+      "keywords": [
+        "채용절차의",
+        "공정화에",
+        "제11조",
+        "시행령",
+        "제2조"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 55,
+      "word_count": 15,
+      "analyzed_at": "2025-11-28T05:03:31.643149"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "용서류의 반환을 청구합니다.",
+      "keywords": [
+        "용서류의",
+        "반환을",
+        "청구합니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:03:31.643162"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "년 월",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:03:31.643172"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "일",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:03:31.643181"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "청구인",
+      "keywords": [
+        "청구인"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:03:31.643189"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(서명 또는 인)",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:03:31.643201"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "천안시인사위원회 위원장 귀하",
+      "keywords": [
+        "천안시인사위원회",
+        "위원장"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:03:31.643214"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "공지사항",
+      "keywords": [
+        "공지사항"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:03:31.643223"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1.「채용절차의 공정화에 관한 법률 시행령」 제2조제1...",
+      "keywords": [
+        "채용절차의",
+        "공정화에",
+        "시행령",
+        "제2조제1항에",
+        "신청인이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 67,
+      "word_count": 14,
+      "analyzed_at": "2025-11-28T05:03:31.643247"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "이내에 반환요구서류를 발송하도록 하고 있습니다.",
+      "keywords": [
+        "이내에",
+        "반환요구서류를",
+        "발송하도록",
+        "있습니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T05:03:31.643263"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2.「채용절차의 공정화에 관한 법률 시행령」 제2조제2...",
+      "keywords": [
+        "채용절차의",
+        "공정화에",
+        "시행령",
+        "제2조제2항에",
+        "반환요구서류는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 67,
+      "word_count": 12,
+      "analyzed_at": "2025-11-28T05:03:31.643284"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "으로부터 직접 전달받을 수 있습니다.",
+      "keywords": [
+        "으로부터",
+        "전달받을",
+        "있습니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 20,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T05:03:31.643298"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3.「채용절차의 공정화에 관한 법률」 제11조제5항 및...",
+      "keywords": [
+        "채용절차의",
+        "공정화에",
+        "제11조제5항",
+        "시행령",
+        "제5조제2항에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 69,
+      "word_count": 16,
+      "analyzed_at": "2025-11-28T05:03:31.643321"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "구인이 부담할 수 있습니다.",
+      "keywords": [
+        "구인이",
+        "부담할",
+        "있습니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:03:31.643334"
+    },
+    {
+      "content_type": "other",
+      "language": "mixed",
+      "text_preview": "210mm×297mm[일반용지 60g/m²(재활용품)]",
+      "keywords": [
+        "210mm",
+        "297mm",
+        "일반용지",
+        "60g",
+        "재활용품"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 30,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:03:31.643360"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": [
+    "인보이스 데이터를 회계 시스템으로 자동 가져오기가 가능합니다.",
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

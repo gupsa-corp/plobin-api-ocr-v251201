@@ -1,0 +1,74 @@
+{
+  "page_number": 1,
+  "total_blocks": 2,
+  "average_confidence": 0.7100989179951804,
+  "processing_time": 0.26071858406066895,
+  "blocks": [
+    {
+      "id": 0,
+      "text": "十个m³",
+      "confidence": 0.5941173774855477,
+      "bbox": {
+        "x_min": 219,
+        "y_min": 36,
+        "x_max": 317,
+        "y_max": 66,
+        "width": 98,
+        "height": 30
+      },
+      "bbox_points": [
+        [
+          219,
+          36
+        ],
+        [
+          317,
+          36
+        ],
+        [
+          317,
+          66
+        ],
+        [
+          219,
+          66
+        ]
+      ],
+      "type": "text",
+      "area": 2940
+    },
+    {
+      "id": 1,
+      "text": "KTC I 10 00-",
+      "confidence": 0.826080458504813,
+      "bbox": {
+        "x_min": 21,
+        "y_min": 198,
+        "x_max": 160,
+        "y_max": 208,
+        "width": 139,
+        "height": 10
+      },
+      "bbox_points": [
+        [
+          21,
+          198
+        ],
+        [
+          160,
+          198
+        ],
+        [
+          160,
+          208
+        ],
+        [
+          21,
+          208
+        ]
+      ],
+      "type": "text",
+      "area": 1390
+    }
+  ]
+}

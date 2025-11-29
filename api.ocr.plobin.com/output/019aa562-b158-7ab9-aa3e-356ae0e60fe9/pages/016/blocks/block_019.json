@@ -1,0 +1,17 @@
+{
+  "block_id": 19,
+  "text": "간트 차트 실시간 프로젝트 현황을 한눈에 확인하세요 2025. 10. 27. 오전 11:05",
+  "confidence": 0.9956559613347054,
+  "bbox": {
+    "x_min": 179,
+    "y_min": 821,
+    "x_max": 1007,
+    "y_max": 841,
+    "width": 828,
+    "height": 20
+  },
+  "block_type": "text",
+  "text_length": 51,
+  "created_at": "2025-11-21T07:48:48.422170",
+  "version": "1.0"
+}

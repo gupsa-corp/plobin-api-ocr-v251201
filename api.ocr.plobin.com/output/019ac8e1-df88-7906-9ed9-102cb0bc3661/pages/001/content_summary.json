@@ -1,0 +1,660 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "충청남도인사위원회 공고 제2025-67호. - 2025년도 제10회 충청남도 임기제공무원 -. 최종합격자 결정 및 임용후보자 등록요령",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 13,
+      "footer": 0,
+      "other": 20
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.986,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 32,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.595,
+      "english": 0.004,
+      "other": 0.4
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 33,
+    "total_characters": 504,
+    "analyzed_at": "2025-11-28T05:13:58.994222"
+  },
+  "block_summaries": [
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "충청남도인사위원회 공고 제2025-67호",
+      "keywords": [
+        "충청남도인사위원회",
+        "제2025",
+        "67호"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:13:58.993573"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 2025년도 제10회 충청남도 임기제공무원 -",
+      "keywords": [
+        "2025년도",
+        "제10회",
+        "충청남도",
+        "임기제공무원"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 27,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T05:13:58.993600"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "최종합격자 결정 및 임용후보자 등록요령",
+      "keywords": [
+        "최종합격자",
+        "임용후보자",
+        "등록요령"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 21,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T05:13:58.993619"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2025년도 제10회 충청남도 임기제공무원 임용시험 최...",
+      "keywords": [
+        "2025년도",
+        "제10회",
+        "충청남도",
+        "임기제공무원",
+        "임용시험"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 45,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T05:13:58.993642"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "등록요령을 다음과 같이 공고합니다.",
+      "keywords": [
+        "등록요령을",
+        "다음과",
+        "공고합니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:13:58.993659"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2025년 11월 28일",
+      "keywords": [
+        "2025년",
+        "11월",
+        "28일"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:13:58.993673"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "충청남도인사위원회위원장",
+      "keywords": [
+        "충청남도인사위원회위원장"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:13:58.993686"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1. 최종합격자",
+      "keywords": [
+        "최종합격자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:13:58.993700"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "임용 분야",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:13:58.993711"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "임용 직급",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:13:58.993721"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "선발인원",
+      "keywords": [
+        "선발인원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:13:58.993731"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "응시번호",
+      "keywords": [
+        "응시번호"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:13:58.993741"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "비고",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:13:58.993750"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "지방시간선택제",
+      "keywords": [
+        "지방시간선택제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:13:58.993760"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "지역 문화예술 경영",
+      "keywords": [
+        "문화예술"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:13:58.993773"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "적격자 없음",
+      "keywords": [
+        "적격자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:13:58.993783"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "1",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:13:58.993794"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "임기제 나급",
+      "keywords": [
+        "임기제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:13:58.993804"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "지방시간선택제",
+      "keywords": [
+        "지방시간선택제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:13:58.993813"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "환경교육",
+      "keywords": [
+        "환경교육"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:13:58.993822"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "10102",
+      "keywords": [
+        "10102"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:13:58.993834"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "1",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:13:58.993843"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "임기제 나급",
+      "keywords": [
+        "임기제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:13:58.993854"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 임용후보자 등록",
+      "keywords": [
+        "임용후보자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:13:58.993865"
+    },
+    {
+      "content_type": "table",
+      "language": "mixed",
+      "text_preview": "○ 등록기간 : <b>2025. 12. 5.(금) 09...",
+      "keywords": [
+        "등록기간",
+        "2025"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 43,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T05:13:58.993890"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "※ 중식시간(12:00~13:00)에는 등록 불가",
+      "keywords": [
+        "중식시간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 27,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:13:58.993906"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "○ 등록장소 : 충남도청 인사담당관실 인사팀(본관 5층...",
+      "keywords": [
+        "등록장소",
+        "충남도청",
+        "인사담당관실",
+        "인사팀"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 31,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T05:13:58.993922"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 제출서류",
+      "keywords": [
+        "제출서류"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:13:58.993933"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 임용후보자 등록원서(사진부착): 2부",
+      "keywords": [
+        "임용후보자",
+        "등록원서",
+        "사진부착"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:13:58.993947"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 가족관계증명서 및 기본증명서(상세, 주민번호 표시)...",
+      "keywords": [
+        "가족관계증명서",
+        "기본증명서",
+        "주민번호"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T05:13:58.993964"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 주민등록초본(병적사항 포함) : 1부",
+      "keywords": [
+        "주민등록초본",
+        "병적사항"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T05:13:58.993976"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 최종학교 졸업증명서 : 1부",
+      "keywords": [
+        "최종학교",
+        "졸업증명서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T05:13:58.993988"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "경력증명서 : 1부",
+      "keywords": [
+        "경력증명서"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:13:58.993998"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

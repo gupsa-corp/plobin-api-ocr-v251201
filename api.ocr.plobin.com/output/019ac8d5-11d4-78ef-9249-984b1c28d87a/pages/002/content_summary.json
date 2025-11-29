@@ -1,0 +1,662 @@
+{
+  "page_summary": {
+    "document_type": "contract",
+    "main_content": "Contract document - - 등단 10년 이상 문인으로 문단에서 활발한 활동을 하고 있는 사람...",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 8,
+      "header": 0,
+      "body": 0,
+      "table": 11,
+      "footer": 0,
+      "other": 12
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.959,
+      "readability": "high",
+      "completeness": "complete",
+      "high_confidence_blocks": 28,
+      "low_confidence_blocks": 2
+    },
+    "language_distribution": {
+      "korean": 0.647,
+      "english": 0.011,
+      "other": 0.343
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 31,
+    "total_characters": 777,
+    "analyzed_at": "2025-11-28T05:00:02.035412"
+  },
+  "block_summaries": [
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "O 자격요건: 다음의 자격요건(기준일: 공고마감일) 중...",
+      "keywords": [
+        "자격요건",
+        "다음의",
+        "기준일",
+        "공고마감일",
+        "이상의"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 49,
+      "word_count": 12,
+      "analyzed_at": "2025-11-28T05:00:02.034683"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "직위",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:00:02.034703"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "자격기준",
+      "keywords": [
+        "자격기준"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:00:02.034715"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 등단 10년 이상 문인으로 문단에서 활발한 활동을 ...",
+      "keywords": [
+        "10년",
+        "문인으로",
+        "문단에서",
+        "활발한",
+        "활동을"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 11,
+      "analyzed_at": "2025-11-28T05:00:02.034736"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "- 문학분야 학과의 대학 부교수 이상 재직 경력이 있는...",
+      "keywords": [
+        "문학분야",
+        "학과의",
+        "부교수",
+        "경력이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 33,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T05:00:02.034757"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 문학관련 시설 및 기관에서 7년이상 근무경력이 있는...",
+      "keywords": [
+        "문학관련",
+        "기관에서",
+        "7년이상",
+        "근무경력이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 33,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T05:00:02.034774"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "천안시립문학관",
+      "keywords": [
+        "천안시립문학관"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:00:02.034785"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "명예관장",
+      "keywords": [
+        "명예관장"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:00:02.034795"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 문학관련 단체에서 7년이상 활동경력이 있는 사람",
+      "keywords": [
+        "문학관련",
+        "단체에서",
+        "7년이상",
+        "활동경력이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 28,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T05:00:02.034809"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 문학분야 박사학위 취득 후 관련분야에 10년 이상 ...",
+      "keywords": [
+        "문학분야",
+        "박사학위",
+        "관련분야에",
+        "10년",
+        "재직경력이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 41,
+      "word_count": 11,
+      "analyzed_at": "2025-11-28T05:00:02.034828"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "있는 사람 등 기타 이에 상응하는 조건을 충족한 사람",
+      "keywords": [
+        "상응하는",
+        "조건을",
+        "충족한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 29,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T05:00:02.034848"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "4. 보수수준",
+      "keywords": [
+        "보수수준"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:00:02.034860"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "O 활동비(월 1,000,000원) 원천징수 후 지급",
+      "keywords": [
+        "활동비",
+        "000",
+        "000원",
+        "원천징수"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "critical",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 29,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T05:00:02.034879"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "5. 관장후보 추천절차",
+      "keywords": [
+        "관장후보",
+        "추천절차"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:00:02.034890"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "O 천안시립문학관 명예관장 공개모집 공고",
+      "keywords": [
+        "천안시립문학관",
+        "명예관장",
+        "공개모집"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T05:00:02.034901"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "※ 공개모집 원서 접수 결과 신청자 수가 2배수 미달 ...",
+      "keywords": [
+        "공개모집",
+        "신청자",
+        "2배수",
+        "재공고"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 12,
+      "analyzed_at": "2025-11-28T05:00:02.034920"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "O 1차 적격심사 : 응시자격 적격여부 심사",
+      "keywords": [
+        "적격심사",
+        "응시자격",
+        "적격여부"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 24,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T05:00:02.034932"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "O 2차 서류심사 : 서류심사",
+      "keywords": [
+        "서류심사"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 16,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T05:00:02.034943"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ (재)천안문화재단 이사장 최종 결정 및 위촉",
+      "keywords": [
+        "천안문화재단",
+        "이사장"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T05:00:02.034961"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "6. 심사방법 및 일정",
+      "keywords": [
+        "심사방법"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:00:02.034972"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "O 1차: 자격요건 심사",
+      "keywords": [
+        "자격요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:00:02.034981"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "- 경력 및 자격 등 해당분야의 자격요건에 부합한지 적...",
+      "keywords": [
+        "해당분야의",
+        "자격요건에",
+        "부합한지",
+        "적격여부"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T05:00:02.035001"
+    },
+    {
+      "content_type": "title",
+      "language": "mixed",
+      "text_preview": "O 2차: 서류심사",
+      "keywords": [
+        "서류심사"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:00:02.035010"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "- 대상: 적격자 전원",
+      "keywords": [
+        "적격자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:00:02.035023"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 시행방법 : 심사위원 3명으로 평가",
+      "keywords": [
+        "시행방법",
+        "심사위원",
+        "3명으로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 21,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T05:00:02.035035"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "- 심사방법 : 경력기술서 및 직무수행계획서를 바탕으로...",
+      "keywords": [
+        "심사방법",
+        "경력기술서",
+        "직무수행계획서를",
+        "바탕으로",
+        "전문성"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 48,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T05:00:02.035057"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "혁신·소통 등을 종합적으로 평가하며. 위원 평균 60점...",
+      "keywords": [
+        "종합적으로",
+        "평가하며",
+        "60점",
+        "이상자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 42,
+      "word_count": 11,
+      "analyzed_at": "2025-11-28T05:00:02.035075"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "산술평균 고득점자 순위로 선발 (소수점 이하 둘째자리 ...",
+      "keywords": [
+        "산술평균",
+        "고득점자",
+        "순위로",
+        "소수점",
+        "둘째자리"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 33,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T05:00:02.035093"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 인사위원회에서 2배수 추천 후 이사장 결정·위촉",
+      "keywords": [
+        "인사위원회에서",
+        "2배수",
+        "이사장"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 28,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T05:00:02.035107"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "O 합격자 발표 예정 : 2025. 12. 09. / ...",
+      "keywords": [
+        "합격자",
+        "2025",
+        "홈페이지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 45,
+      "word_count": 14,
+      "analyzed_at": "2025-11-28T05:00:02.035127"
+    },
+    {
+      "content_type": "table",
+      "language": "other",
+      "text_preview": "- 2 -",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:00:02.035139"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다.",
+    "8개의 중요한 정보 블록이 식별되었습니다."
+  ],
+  "recommendations": [
+    "계약서의 주요 조항들을 별도로 추출하여 관리하는 것을 권장합니다.",
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "page_summary": {
+    "document_type": "contract",
+    "main_content": "Contract document - 천안시 공고 제2025 - 2167호...",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 7,
+      "footer": 0,
+      "other": 22
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.979,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 27,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.651,
+      "english": 0.0,
+      "other": 0.349
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 29,
+    "total_characters": 395,
+    "analyzed_at": "2025-11-21T07:22:03.469392"
+  },
+  "block_summaries": [
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "천안시 공고 제2025 - 2167호",
+      "keywords": [
+        "천안시",
+        "제2025",
+        "2167호"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 20,
+      "word_count": 5,
+      "analyzed_at": "2025-11-21T07:22:03.468846"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "(재)천안시민프로축구단 채용 공고",
+      "keywords": [
+        "천안시민프로축구단"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:22:03.468869"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "(재)천안시민프로축구단 기간제근로자(경력) 채용을 다음...",
+      "keywords": [
+        "천안시민프로축구단",
+        "기간제근로자",
+        "채용을",
+        "다음과",
+        "합니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 42,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T07:22:03.468892"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2025년 9월 5일",
+      "keywords": [
+        "2025년"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:22:03.468907"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "(재)천안시민프로축구단 인사위원회 위원장",
+      "keywords": [
+        "천안시민프로축구단",
+        "인사위원회",
+        "위원장"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:22:03.468922"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 채용예정 직급 및 인원",
+      "keywords": [
+        "채용예정"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 5,
+      "analyzed_at": "2025-11-21T07:22:03.468936"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "채용분야",
+      "keywords": [
+        "채용분야"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:03.468947"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "인원",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:03.468958"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "주요직무",
+      "keywords": [
+        "주요직무"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:03.468967"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "근무부서",
+      "keywords": [
+        "근무부서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:03.468976"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "축구단 사무국장",
+      "keywords": [
+        "축구단",
+        "사무국장"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:03.468988"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1명",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:03.468997"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "축구단 사무국 업무 총괄",
+      "keywords": [
+        "축구단",
+        "사무국"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T07:22:03.469010"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "사무국",
+      "keywords": [
+        "사무국"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:03.469019"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 보수 및 근무조건",
+      "keywords": [
+        "근무조건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T07:22:03.469031"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "직급 및 처우",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:22:03.469042"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "직위",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:03.469051"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "신분",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:03.469059"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "비고",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:03.469068"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기간제",
+      "keywords": [
+        "기간제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:03.469077"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "공무원 5급 상당",
+      "keywords": [
+        "공무원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:22:03.469087"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "지방공무원 보수규정에 따름",
+      "keywords": [
+        "지방공무원",
+        "보수규정에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 14,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:22:03.469101"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "부장(경력)",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:03.469111"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(2년)",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-21T07:22:03.469121"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "* 연장근로시 휴일대체 및 보상휴가 또는 수당 지급, ...",
+      "keywords": [
+        "연장근로시",
+        "휴일대체",
+        "보상휴가"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 11,
+      "analyzed_at": "2025-11-21T07:22:03.469139"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ (근무조건)",
+      "keywords": [
+        "근무조건"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:22:03.469151"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "- 근무장소 : 구단 사무국",
+      "keywords": [
+        "근무장소",
+        "사무국"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 5,
+      "analyzed_at": "2025-11-21T07:22:03.469164"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "근무시간 : 주 5일(월~금) 09:00~18:00 (...",
+      "keywords": [
+        "근무시간",
+        "중식시간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T07:22:03.469183"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "* 구단 특성상 상황에 따라 변경될 수 있음(주말근무,...",
+      "keywords": [
+        "특성상",
+        "상황에",
+        "변경될",
+        "주말근무",
+        "대체휴무"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 10,
+      "analyzed_at": "2025-11-21T07:22:03.469203"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": [
+    "계약서의 주요 조항들을 별도로 추출하여 관리하는 것을 권장합니다.",
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

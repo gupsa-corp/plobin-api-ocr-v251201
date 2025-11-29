@@ -1,0 +1,17 @@
+{
+  "block_id": 18,
+  "text": "• 전체 보기 링크로 모든 변경 이력을 볼 수 있습니다",
+  "confidence": 0.9925298672169447,
+  "bbox": {
+    "x_min": 172,
+    "y_min": 799,
+    "x_max": 650,
+    "y_max": 824,
+    "width": 478,
+    "height": 25
+  },
+  "block_type": "text",
+  "text_length": 30,
+  "created_at": "2025-11-25T06:28:01.221312",
+  "version": "1.0"
+}

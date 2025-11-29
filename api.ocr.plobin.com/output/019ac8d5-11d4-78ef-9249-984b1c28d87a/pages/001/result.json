@@ -1,0 +1,1115 @@
+{
+  "page_number": 1,
+  "total_blocks": 41,
+  "average_confidence": 0.9787870694021854,
+  "processing_time": 1.8358371257781982,
+  "blocks": [
+    {
+      "text": "(재)천안문화재단 공고 제2025-145호",
+      "confidence": 0.9827282047271728,
+      "bbox": [
+        [
+          116,
+          118
+        ],
+        [
+          552,
+          118
+        ],
+        [
+          552,
+          142
+        ],
+        [
+          116,
+          142
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시립문학관 명예관장 공개모집 공고",
+      "confidence": 0.9986344386230815,
+      "bbox": [
+        [
+          303,
+          165
+        ],
+        [
+          962,
+          165
+        ],
+        [
+          962,
+          202
+        ],
+        [
+          303,
+          202
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(재)천안문화재단에서는 천안문학의 역사와 위상을 널리 펼치고, 천안문학정신을 이어갈",
+      "confidence": 0.9999206960201263,
+      "bbox": [
+        [
+          127,
+          252
+        ],
+        [
+          1121,
+          252
+        ],
+        [
+          1121,
+          276
+        ],
+        [
+          127,
+          276
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "‘천안시립문학관’의 명예관장을 다음과 같이 공개모집하오니 문학 저변 확대를 위해",
+      "confidence": 0.9997825972411943,
+      "bbox": [
+        [
+          118,
+          293
+        ],
+        [
+          1121,
+          293
+        ],
+        [
+          1121,
+          315
+        ],
+        [
+          118,
+          315
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문학인들의 많은 지원신청을 바랍니다.",
+      "confidence": 0.9999166483228857,
+      "bbox": [
+        [
+          115,
+          333
+        ],
+        [
+          566,
+          333
+        ],
+        [
+          566,
+          355
+        ],
+        [
+          115,
+          355
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025년 10월 31일",
+      "confidence": 0.9943326552708943,
+      "bbox": [
+        [
+          517,
+          383
+        ],
+        [
+          719,
+          383
+        ],
+        [
+          719,
+          405
+        ],
+        [
+          517,
+          405
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(재)천안문화재단 이사장",
+      "confidence": 0.9987386584281921,
+      "bbox": [
+        [
+          837,
+          422
+        ],
+        [
+          1123,
+          422
+        ],
+        [
+          1123,
+          446
+        ],
+        [
+          837,
+          446
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 모집분야 및 인원",
+      "confidence": 0.994871620621,
+      "bbox": [
+        [
+          117,
+          511
+        ],
+        [
+          406,
+          511
+        ],
+        [
+          406,
+          541
+        ],
+        [
+          117,
+          541
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직 급",
+      "confidence": 0.9929339408874511,
+      "bbox": [
+        [
+          498,
+          574
+        ],
+        [
+          580,
+          574
+        ],
+        [
+          580,
+          601
+        ],
+        [
+          498,
+          601
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "위",
+      "confidence": 0.9977936744689941,
+      "bbox": [
+        [
+          265,
+          575
+        ],
+        [
+          296,
+          575
+        ],
+        [
+          296,
+          602
+        ],
+        [
+          265,
+          602
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "위촉기간",
+      "confidence": 0.9995048999786377,
+      "bbox": [
+        [
+          812,
+          574
+        ],
+        [
+          924,
+          574
+        ],
+        [
+          924,
+          603
+        ],
+        [
+          812,
+          603
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "비고",
+      "confidence": 0.9954296151796976,
+      "bbox": [
+        [
+          1011,
+          575
+        ],
+        [
+          1067,
+          575
+        ],
+        [
+          1067,
+          602
+        ],
+        [
+          1011,
+          602
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직",
+      "confidence": 0.9963928461074829,
+      "bbox": [
+        [
+          217,
+          576
+        ],
+        [
+          252,
+          576
+        ],
+        [
+          252,
+          601
+        ],
+        [
+          217,
+          601
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인원",
+      "confidence": 0.9939629038174947,
+      "bbox": [
+        [
+          715,
+          576
+        ],
+        [
+          769,
+          576
+        ],
+        [
+          769,
+          601
+        ],
+        [
+          715,
+          601
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주 2일",
+      "confidence": 0.958512932062149,
+      "bbox": [
+        [
+          997,
+          625
+        ],
+        [
+          1081,
+          625
+        ],
+        [
+          1081,
+          651
+        ],
+        [
+          997,
+          651
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시립문학관",
+      "confidence": 0.9988608211278915,
+      "bbox": [
+        [
+          153,
+          626
+        ],
+        [
+          364,
+          626
+        ],
+        [
+          364,
+          651
+        ],
+        [
+          153,
+          651
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2년",
+      "confidence": 0.9910445064306259,
+      "bbox": [
+        [
+          845,
+          643
+        ],
+        [
+          890,
+          643
+        ],
+        [
+          890,
+          668
+        ],
+        [
+          845,
+          668
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "위촉직",
+      "confidence": 0.9972853660583496,
+      "bbox": [
+        [
+          493,
+          645
+        ],
+        [
+          583,
+          645
+        ],
+        [
+          583,
+          667
+        ],
+        [
+          493,
+          667
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1명",
+      "confidence": 0.9914480596780777,
+      "bbox": [
+        [
+          720,
+          644
+        ],
+        [
+          763,
+          644
+        ],
+        [
+          763,
+          668
+        ],
+        [
+          720,
+          668
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "상근 필수 조건",
+      "confidence": 0.9989528477191925,
+      "bbox": [
+        [
+          945,
+          658
+        ],
+        [
+          1132,
+          658
+        ],
+        [
+          1132,
+          686
+        ],
+        [
+          945,
+          686
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "명예관장",
+      "confidence": 0.6653778791427613,
+      "bbox": [
+        [
+          198,
+          660
+        ],
+        [
+          319,
+          660
+        ],
+        [
+          319,
+          684
+        ],
+        [
+          198,
+          684
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 본 직위는 직원신분이 아닌 위촉직(명예직)으로 정규직으로 전환 대상이 아님",
+      "confidence": 0.995689664946662,
+      "bbox": [
+        [
+          130,
+          714
+        ],
+        [
+          1060,
+          714
+        ],
+        [
+          1060,
+          738
+        ],
+        [
+          130,
+          738
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 주요 직무내용",
+      "confidence": 0.9860793550809225,
+      "bbox": [
+        [
+          126,
+          800
+        ],
+        [
+          373,
+          800
+        ],
+        [
+          373,
+          828
+        ],
+        [
+          126,
+          828
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 천안시립문학관의 주요사업에 대한 자문 제공",
+      "confidence": 0.9715476238301822,
+      "bbox": [
+        [
+          128,
+          850
+        ],
+        [
+          692,
+          850
+        ],
+        [
+          692,
+          874
+        ],
+        [
+          128,
+          874
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 주요 전시, 교육 프로그램 개발 및 홍보, 네트워크 연계 자문",
+      "confidence": 0.9923303295404483,
+      "bbox": [
+        [
+          128,
+          890
+        ],
+        [
+          873,
+          890
+        ],
+        [
+          873,
+          914
+        ],
+        [
+          128,
+          914
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 문학 진흥을 위한 기획 회의 참석 및 전문가 의견 자문",
+      "confidence": 0.9890066112790789,
+      "bbox": [
+        [
+          127,
+          929
+        ],
+        [
+          803,
+          929
+        ],
+        [
+          803,
+          953
+        ],
+        [
+          127,
+          953
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 응시자격 요건",
+      "confidence": 0.9937372704346975,
+      "bbox": [
+        [
+          130,
+          1010
+        ],
+        [
+          367,
+          1010
+        ],
+        [
+          367,
+          1039
+        ],
+        [
+          130,
+          1039
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 공통요건",
+      "confidence": 0.9605722626050314,
+      "bbox": [
+        [
+          129,
+          1072
+        ],
+        [
+          270,
+          1072
+        ],
+        [
+          270,
+          1097
+        ],
+        [
+          129,
+          1097
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "「지방자치단체 출자・출연기관의 운영에 관한 법률」제10조 제1항의 각 호에 해당",
+      "confidence": 0.9827770552736648,
+      "bbox": [
+        [
+          152,
+          1111
+        ],
+        [
+          1111,
+          1111
+        ],
+        [
+          1111,
+          1135
+        ],
+        [
+          152,
+          1135
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "하지 아니한 자(단, 남자의 경우 병역 필 또는 면제된 자)",
+      "confidence": 0.9996821284294128,
+      "bbox": [
+        [
+          165,
+          1151
+        ],
+        [
+          834,
+          1151
+        ],
+        [
+          834,
+          1176
+        ],
+        [
+          165,
+          1176
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "결 격 사 유",
+      "confidence": 0.9898262222607931,
+      "bbox": [
+        [
+          564,
+          1212
+        ],
+        [
+          695,
+          1212
+        ],
+        [
+          695,
+          1232
+        ],
+        [
+          564,
+          1232
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "① 미성년자",
+      "confidence": 0.9589374512434006,
+      "bbox": [
+        [
+          138,
+          1274
+        ],
+        [
+          249,
+          1274
+        ],
+        [
+          249,
+          1296
+        ],
+        [
+          138,
+          1296
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "② 피성년후견인",
+      "confidence": 0.9610721349716187,
+      "bbox": [
+        [
+          137,
+          1312
+        ],
+        [
+          287,
+          1312
+        ],
+        [
+          287,
+          1332
+        ],
+        [
+          137,
+          1332
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "③ 파산선고를 받고 복권되지 아니한 사람",
+      "confidence": 0.9986079633235931,
+      "bbox": [
+        [
+          137,
+          1348
+        ],
+        [
+          521,
+          1348
+        ],
+        [
+          521,
+          1368
+        ],
+        [
+          137,
+          1368
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "④ 금고 이상의 형을 선고 받고 그 집행유예기간이 끝난 날부터 5년이 지나지 아니한 사람",
+      "confidence": 0.9993676788666669,
+      "bbox": [
+        [
+          137,
+          1385
+        ],
+        [
+          843,
+          1385
+        ],
+        [
+          843,
+          1405
+        ],
+        [
+          137,
+          1405
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑤ 금고 이상 형의 선고를 유예 받고 그 선고유예기간 중에 있는 사람",
+      "confidence": 0.9998120352625847,
+      "bbox": [
+        [
+          137,
+          1421
+        ],
+        [
+          737,
+          1421
+        ],
+        [
+          737,
+          1443
+        ],
+        [
+          137,
+          1443
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑥ 법원의 판결 또는 다른 법률에 따라 자격이 상실되거나 정지된 사람",
+      "confidence": 0.9996589586138726,
+      "bbox": [
+        [
+          137,
+          1458
+        ],
+        [
+          735,
+          1458
+        ],
+        [
+          735,
+          1478
+        ],
+        [
+          137,
+          1478
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑦「형법∟제355조 및 제356조에 규정된 횡령과 배임의 죄를 범한 사람으로서 300만원 이상의 벌금형을",
+      "confidence": 0.977717788493047,
+      "bbox": [
+        [
+          138,
+          1495
+        ],
+        [
+          1087,
+          1495
+        ],
+        [
+          1087,
+          1515
+        ],
+        [
+          138,
+          1515
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "선고받고 그 형이 확정된 후 2년이 지나지 아니한 사람",
+      "confidence": 0.999121131375432,
+      "bbox": [
+        [
+          158,
+          1532
+        ],
+        [
+          658,
+          1532
+        ],
+        [
+          658,
+          1552
+        ],
+        [
+          158,
+          1552
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑧ 「지방자치단체 출자·출연기관의 운영에 관한 법률」제9조제4항에 따라 해임된 후 3년이 지나지 아니한 사람",
+      "confidence": 0.9872505475604345,
+      "bbox": [
+        [
+          137,
+          1568
+        ],
+        [
+          1106,
+          1568
+        ],
+        [
+          1106,
+          1590
+        ],
+        [
+          137,
+          1590
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 1 -",
+      "confidence": 0.8410498201847076,
+      "bbox": [
+        [
+          589,
+          1681
+        ],
+        [
+          649,
+          1681
+        ],
+        [
+          649,
+          1696
+        ],
+        [
+          589,
+          1696
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "block_id": 40,
+  "text": "단가 : 홈페이지에 명시된 서비스 정가 요금",
+  "confidence": 0.9918935298919678,
+  "bbox": {
+    "x_min": 297,
+    "y_min": 1129,
+    "x_max": 506,
+    "y_max": 1144,
+    "width": 209,
+    "height": 15
+  },
+  "block_type": "text",
+  "text_length": 24,
+  "created_at": "2025-11-28T08:52:58.351747",
+  "version": "1.0"
+}

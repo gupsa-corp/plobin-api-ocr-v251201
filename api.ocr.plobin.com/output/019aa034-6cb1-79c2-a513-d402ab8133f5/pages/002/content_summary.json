@@ -1,0 +1,913 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "〈 응시결격 사유(「인사규정」제20조) 〉. ① 피성년후견인 또는 피한정후견인. ② 파산선고를 받고 복권되지 아니한 사람",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 17,
+      "footer": 0,
+      "other": 27
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.97,
+      "readability": "high",
+      "completeness": "complete",
+      "high_confidence_blocks": 39,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.683,
+      "english": 0.0,
+      "other": 0.317
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 44,
+    "total_characters": 1057,
+    "analyzed_at": "2025-11-20T07:39:45.838193"
+  },
+  "block_summaries": [
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "〈 응시결격 사유(「인사규정」제20조) 〉",
+      "keywords": [
+        "응시결격",
+        "인사규정",
+        "제20조"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:45.837176"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "① 피성년후견인 또는 피한정후견인",
+      "keywords": [
+        "피성년후견인",
+        "피한정후견인"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:45.837202"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "② 파산선고를 받고 복권되지 아니한 사람",
+      "keywords": [
+        "파산선고를",
+        "복권되지",
+        "아니한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:45.837220"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "③ 금고 이상의 형을 선고 받고 그 집행이 끝나거나 집...",
+      "keywords": [
+        "이상의",
+        "집행이",
+        "끝나거나",
+        "집행을",
+        "아니하기로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 51,
+      "word_count": 15,
+      "analyzed_at": "2025-11-20T07:39:45.837244"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "지나지 아니한 사람",
+      "keywords": [
+        "지나지",
+        "아니한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:45.837258"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "④ 금고 이상의 형을 선고 받고 그 집행유예기간이 끝난...",
+      "keywords": [
+        "이상의",
+        "집행유예기간이",
+        "날부터",
+        "2년이",
+        "지나지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 49,
+      "word_count": 14,
+      "analyzed_at": "2025-11-20T07:39:45.837281"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "⑤ 금고 이상 형의 선고를 유예 받고 그 선고유예기간 ...",
+      "keywords": [
+        "선고를",
+        "선고유예기간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 12,
+      "analyzed_at": "2025-11-20T07:39:45.837304"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "⑥ 법원의 판결 또는 다른 법률에 따라 자격이 상실되거...",
+      "keywords": [
+        "법원의",
+        "법률에",
+        "자격이",
+        "상실되거나",
+        "정지된"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 11,
+      "analyzed_at": "2025-11-20T07:39:45.837326"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "⑦ 징계로 파면처분을 받은 날부터 5년, 해임 처분을 ...",
+      "keywords": [
+        "날부터",
+        "징계로",
+        "파면처분을",
+        "처분을",
+        "3년이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 51,
+      "word_count": 14,
+      "analyzed_at": "2025-11-20T07:39:45.837347"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "⑧ 「성폭력범죄의 처벌 등에 관한 특례법」 제2조에 규...",
+      "keywords": [
+        "성폭력범죄의",
+        "특례법",
+        "제2조에",
+        "규정된",
+        "사람으로서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 54,
+      "word_count": 13,
+      "analyzed_at": "2025-11-20T07:39:45.837370"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "벌금형을 선고받고 그 형이 확정된 후 3년이 지나지 아...",
+      "keywords": [
+        "벌금형을",
+        "선고받고",
+        "확정된",
+        "3년이",
+        "지나지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 10,
+      "analyzed_at": "2025-11-20T07:39:45.837388"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "⑨ 미성년자에 대한 다음 각 목의 어느 하나에 해당하는...",
+      "keywords": [
+        "미성년자에",
+        "하나에",
+        "해당하는",
+        "저질러",
+        "해임되거나"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 51,
+      "word_count": 14,
+      "analyzed_at": "2025-11-20T07:39:45.837413"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "치료감호를 선고받아 그 형 또는 치료감호가 확정된 사람...",
+      "keywords": [
+        "치료감호를",
+        "선고받아",
+        "치료감호가",
+        "확정된",
+        "집행유예를"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 50,
+      "word_count": 12,
+      "analyzed_at": "2025-11-20T07:39:45.837438"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기간이 경과한 사람을 포함한다)",
+      "keywords": [
+        "기간이",
+        "경과한",
+        "사람을",
+        "포함한다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:45.837458"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "가. 「성폭력범죄의 처벌 등에 관한 특례법」 제2조에 ...",
+      "keywords": [
+        "성폭력범죄의",
+        "특례법",
+        "제2조에",
+        "성폭력범죄"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 9,
+      "analyzed_at": "2025-11-20T07:39:45.837475"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "나. 「아동·청소년의 성보호에 관한 법률」 제2조제2호...",
+      "keywords": [
+        "청소년의",
+        "성보호에",
+        "제2조제2호에",
+        "청소년대상",
+        "성범죄"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 47,
+      "word_count": 9,
+      "analyzed_at": "2025-11-20T07:39:45.837493"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "⑩ 기타 건강상의 이유 등으로 업무를 수행하는데 지장이...",
+      "keywords": [
+        "건강상의",
+        "등으로",
+        "업무를",
+        "수행하는데",
+        "지장이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 41,
+      "word_count": 11,
+      "analyzed_at": "2025-11-20T07:39:45.837513"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2) 남자의 경우 병역의무를 필하였거나 면제된 자",
+      "keywords": [
+        "남자의",
+        "병역의무를",
+        "필하였거나",
+        "면제된"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 27,
+      "word_count": 7,
+      "analyzed_at": "2025-11-20T07:39:45.837528"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3) 만 20세 이상인 자로, 분야별 아래 자격 요건을...",
+      "keywords": [
+        "20세",
+        "이상인",
+        "분야별",
+        "요건을"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 11,
+      "analyzed_at": "2025-11-20T07:39:45.837548"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "필수서류",
+      "keywords": [
+        "필수서류"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837564"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "자격요건",
+      "keywords": [
+        "자격요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837574"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기 준",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:45.837584"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "• 「독립유공자 예우에 관한 법률」제16조",
+      "keywords": [
+        "독립유공자",
+        "예우에",
+        "제16조"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:45.837598"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "• 「국가유공자 등 예우 및 지원에 관한 법률」제29조",
+      "keywords": [
+        "국가유공자",
+        "지원에",
+        "제29조"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 30,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:45.837613"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "보훈처·",
+      "keywords": [
+        "보훈처"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837623"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "• 「5.18 민주유공자 예우에 관한 법률」제20조 취...",
+      "keywords": [
+        "민주유공자",
+        "예우에",
+        "제20조",
+        "취업지원",
+        "대상자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:45.837641"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "보훈",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837651"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "보훈지청",
+      "keywords": [
+        "보훈지청"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837660"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "• ｢특수임무유공자 예우 및 단체설립에 관한 법률｣ 제...",
+      "keywords": [
+        "특수임무유공자",
+        "단체설립에",
+        "제24조"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 33,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:45.837676"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(취업지원",
+      "keywords": [
+        "취업지원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837687"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "발급",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837696"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "• ｢보훈보상대상자 지원에 관한 법률｣",
+      "keywords": [
+        "보훈보상대상자",
+        "지원에"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 21,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:45.837712"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "제33조",
+      "keywords": [
+        "제33조"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837722"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "증명서",
+      "keywords": [
+        "증명서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837731"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "대상자)",
+      "keywords": [
+        "대상자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837740"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "• 「고엽제후유의증 등 환자지원 및 단체설립에 관한 법...",
+      "keywords": [
+        "고엽제후유의증",
+        "환자지원",
+        "단체설립에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:45.837759"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "제출",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837767"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "제7조의9 비고 보훈처 · 보훈지청에서 발급한 증명서 ...",
+      "keywords": [
+        "제7조의9",
+        "보훈처",
+        "보훈지청에서",
+        "발급한",
+        "증명서"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:45.837783"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "▶ 「제대군인지원에 관한 법률」 제14조제1항",
+      "keywords": [
+        "제대군인지원에",
+        "제14조제1항"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:45.837797"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "장애인",
+      "keywords": [
+        "장애인"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837807"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "• 「장애인고용촉진 및 직업재활법 및 동법 시행령」해당...",
+      "keywords": [
+        "장애인고용촉진",
+        "직업재활법",
+        "시행령",
+        "해당자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 31,
+      "word_count": 7,
+      "analyzed_at": "2025-11-20T07:39:45.837823"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "장애인",
+      "keywords": [
+        "장애인"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837833"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "증명서",
+      "keywords": [
+        "증명서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:45.837841"
+    },
+    {
+      "content_type": "table",
+      "language": "other",
+      "text_preview": "- 2 -",
+      "keywords": [],
+      "confidence_level": "low",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:45.837853"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

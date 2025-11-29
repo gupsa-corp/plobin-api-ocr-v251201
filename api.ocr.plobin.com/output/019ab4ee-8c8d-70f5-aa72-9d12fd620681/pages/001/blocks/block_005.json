@@ -1,0 +1,17 @@
+{
+  "block_id": 5,
+  "text": "AWS(부 - 국외)",
+  "confidence": 0.9353058551039014,
+  "bbox": {
+    "x_min": 446,
+    "y_min": 71,
+    "x_max": 558,
+    "y_max": 93,
+    "width": 112,
+    "height": 22
+  },
+  "block_type": "text",
+  "text_length": 11,
+  "created_at": "2025-11-24T08:15:23.790527",
+  "version": "1.0"
+}

@@ -1,0 +1,17 @@
+{
+  "block_id": 27,
+  "text": "가입일 조직 가입 날짜",
+  "confidence": 0.9991118371486664,
+  "bbox": {
+    "x_min": 270,
+    "y_min": 1386,
+    "x_max": 610,
+    "y_max": 1411,
+    "width": 340,
+    "height": 25
+  },
+  "block_type": "text",
+  "text_length": 12,
+  "created_at": "2025-11-21T07:48:36.000236",
+  "version": "1.0"
+}

@@ -1,0 +1,1223 @@
+{
+  "page_number": 1,
+  "total_blocks": 45,
+  "average_confidence": 0.9690074186716299,
+  "processing_time": 1.8491220474243164,
+  "blocks": [
+    {
+      "text": "천안시인사위원회 공고 제2025 - 2239호",
+      "confidence": 0.9856714760815656,
+      "bbox": [
+        [
+          85,
+          176
+        ],
+        [
+          492,
+          176
+        ],
+        [
+          492,
+          196
+        ],
+        [
+          85,
+          196
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025년 제6회 천안시 지방임기제공무원 채용시험 계획 재공고",
+      "confidence": 0.9915450265010198,
+      "bbox": [
+        [
+          138,
+          223
+        ],
+        [
+          1042,
+          223
+        ],
+        [
+          1042,
+          270
+        ],
+        [
+          138,
+          270
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025년 제6회 천안시 지방임기제공무원 채용시험 계획을 다음과 재공고",
+      "confidence": 0.9995766253006168,
+      "bbox": [
+        [
+          122,
+          324
+        ],
+        [
+          1109,
+          324
+        ],
+        [
+          1109,
+          351
+        ],
+        [
+          122,
+          351
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "하오니 많은 응모를 바랍니다.",
+      "confidence": 0.9997549818621742,
+      "bbox": [
+        [
+          125,
+          365
+        ],
+        [
+          505,
+          365
+        ],
+        [
+          505,
+          392
+        ],
+        [
+          125,
+          392
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 본 재공고는 응시인원 또는 서류전형 합격인원이 선발 예정인원과 같거나 적은",
+      "confidence": 0.9966109620200263,
+      "bbox": [
+        [
+          152,
+          421
+        ],
+        [
+          1091,
+          421
+        ],
+        [
+          1091,
+          446
+        ],
+        [
+          152,
+          446
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경우에 해당되는 분야에 대해 재공고를 시행하는 것임.",
+      "confidence": 0.9999756832276622,
+      "bbox": [
+        [
+          191,
+          458
+        ],
+        [
+          815,
+          458
+        ],
+        [
+          815,
+          483
+        ],
+        [
+          191,
+          483
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(응시원서를 기 접수한 응시자는 별도 절차 없이 재공고에 따른 응시원서를",
+      "confidence": 0.9998062224615187,
+      "bbox": [
+        [
+          191,
+          494
+        ],
+        [
+          1089,
+          494
+        ],
+        [
+          1089,
+          519
+        ],
+        [
+          191,
+          519
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제출한 것으로 간주하여 시험절차를 진행)",
+      "confidence": 0.9996629779537519,
+      "bbox": [
+        [
+          200,
+          530
+        ],
+        [
+          688,
+          530
+        ],
+        [
+          688,
+          556
+        ],
+        [
+          200,
+          556
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025년 9월 15일",
+      "confidence": 0.9898130297660828,
+      "bbox": [
+        [
+          493,
+          598
+        ],
+        [
+          744,
+          598
+        ],
+        [
+          744,
+          625
+        ],
+        [
+          493,
+          625
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "MOINDI",
+      "confidence": 0.5584486041750226,
+      "bbox": [
+        [
+          1012,
+          618
+        ],
+        [
+          1090,
+          618
+        ],
+        [
+          1090,
+          635
+        ],
+        [
+          1012,
+          635
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시인사위원회약원",
+      "confidence": 0.903215487798055,
+      "bbox": [
+        [
+          770,
+          643
+        ],
+        [
+          1071,
+          643
+        ],
+        [
+          1071,
+          672
+        ],
+        [
+          770,
+          672
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용예정 분야 및 인원",
+      "confidence": 0.9974584707192012,
+      "bbox": [
+        [
+          179,
+          765
+        ],
+        [
+          559,
+          765
+        ],
+        [
+          559,
+          802
+        ],
+        [
+          179,
+          802
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용",
+      "confidence": 0.9989067117373148,
+      "bbox": [
+        [
+          440,
+          857
+        ],
+        [
+          498,
+          857
+        ],
+        [
+          498,
+          882
+        ],
+        [
+          440,
+          882
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용",
+      "confidence": 0.9989087184270223,
+      "bbox": [
+        [
+          374,
+          858
+        ],
+        [
+          429,
+          858
+        ],
+        [
+          429,
+          882
+        ],
+        [
+          374,
+          882
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "근",
+      "confidence": 0.9879780113697052,
+      "bbox": [
+        [
+          518,
+          858
+        ],
+        [
+          586,
+          858
+        ],
+        [
+          586,
+          882
+        ],
+        [
+          518,
+          882
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "무",
+      "confidence": 0.9864858388900757,
+      "bbox": [
+        [
+          592,
+          858
+        ],
+        [
+          622,
+          858
+        ],
+        [
+          622,
+          882
+        ],
+        [
+          592,
+          882
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용",
+      "confidence": 0.9992885788281759,
+      "bbox": [
+        [
+          119,
+          859
+        ],
+        [
+          174,
+          859
+        ],
+        [
+          174,
+          883
+        ],
+        [
+          119,
+          883
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용등급",
+      "confidence": 0.9992538094520569,
+      "bbox": [
+        [
+          233,
+          871
+        ],
+        [
+          334,
+          871
+        ],
+        [
+          334,
+          898
+        ],
+        [
+          233,
+          898
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직무내용",
+      "confidence": 0.9977352738380432,
+      "bbox": [
+        [
+          815,
+          872
+        ],
+        [
+          916,
+          872
+        ],
+        [
+          916,
+          897
+        ],
+        [
+          815,
+          897
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "분야",
+      "confidence": 0.9986759622891744,
+      "bbox": [
+        [
+          120,
+          886
+        ],
+        [
+          174,
+          886
+        ],
+        [
+          174,
+          911
+        ],
+        [
+          120,
+          911
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "예정부서",
+      "confidence": 0.9992018342018127,
+      "bbox": [
+        [
+          518,
+          885
+        ],
+        [
+          622,
+          885
+        ],
+        [
+          622,
+          912
+        ],
+        [
+          518,
+          912
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인원",
+      "confidence": 0.9988222519556681,
+      "bbox": [
+        [
+          375,
+          888
+        ],
+        [
+          427,
+          888
+        ],
+        [
+          427,
+          910
+        ],
+        [
+          375,
+          910
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기간",
+      "confidence": 0.998803973197937,
+      "bbox": [
+        [
+          439,
+          887
+        ],
+        [
+          498,
+          887
+        ],
+        [
+          498,
+          911
+        ],
+        [
+          439,
+          911
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 담헌달빛관 관리 운영",
+      "confidence": 0.9599133928616842,
+      "bbox": [
+        [
+          641,
+          950
+        ],
+        [
+          914,
+          950
+        ],
+        [
+          914,
+          975
+        ],
+        [
+          641,
+          975
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 담헌달빛관 체험 및 강연 프로그램",
+      "confidence": 0.9737547216090289,
+      "bbox": [
+        [
+          640,
+          989
+        ],
+        [
+          1065,
+          989
+        ],
+        [
+          1065,
+          1013
+        ],
+        [
+          640,
+          1013
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "담헌달빛관 지방시간선택제",
+      "confidence": 0.9864312330881755,
+      "bbox": [
+        [
+          93,
+          1013
+        ],
+        [
+          347,
+          1013
+        ],
+        [
+          347,
+          1040
+        ],
+        [
+          93,
+          1040
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "등 기획 및 운영",
+      "confidence": 0.9989907362244346,
+      "bbox": [
+        [
+          663,
+          1024
+        ],
+        [
+          853,
+          1024
+        ],
+        [
+          853,
+          1049
+        ],
+        [
+          663,
+          1049
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안박물관",
+      "confidence": 0.9736368159453074,
+      "bbox": [
+        [
+          502,
+          1027
+        ],
+        [
+          636,
+          1027
+        ],
+        [
+          636,
+          1054
+        ],
+        [
+          502,
+          1054
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2년",
+      "confidence": 0.9969916343688965,
+      "bbox": [
+        [
+          447,
+          1040
+        ],
+        [
+          491,
+          1040
+        ],
+        [
+          491,
+          1067
+        ],
+        [
+          447,
+          1067
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "운",
+      "confidence": 0.9941889345645905,
+      "bbox": [
+        [
+          93,
+          1042
+        ],
+        [
+          117,
+          1042
+        ],
+        [
+          117,
+          1066
+        ],
+        [
+          93,
+          1066
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1명",
+      "confidence": 0.9945614635944366,
+      "bbox": [
+        [
+          378,
+          1042
+        ],
+        [
+          419,
+          1042
+        ],
+        [
+          419,
+          1067
+        ],
+        [
+          378,
+          1067
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "영",
+      "confidence": 0.9988212287425995,
+      "bbox": [
+        [
+          176,
+          1043
+        ],
+        [
+          200,
+          1043
+        ],
+        [
+          200,
+          1067
+        ],
+        [
+          176,
+          1067
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "임기제",
+      "confidence": 0.9992209374904633,
+      "bbox": [
+        [
+          254,
+          1043
+        ],
+        [
+          312,
+          1043
+        ],
+        [
+          312,
+          1067
+        ],
+        [
+          254,
+          1067
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "과학관운영팀。 담헌달빛관 홍보 마케팅 및",
+      "confidence": 0.8601339906454086,
+      "bbox": [
+        [
+          502,
+          1052
+        ],
+        [
+          979,
+          1052
+        ],
+        [
+          979,
+          1093
+        ],
+        [
+          502,
+          1093
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(학예연구사) 다급(7급상당)",
+      "confidence": 0.9433455930815803,
+      "bbox": [
+        [
+          93,
+          1070
+        ],
+        [
+          352,
+          1070
+        ],
+        [
+          352,
+          1096
+        ],
+        [
+          93,
+          1096
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시설관리 등",
+      "confidence": 0.9995895102620125,
+      "bbox": [
+        [
+          663,
+          1098
+        ],
+        [
+          806,
+          1098
+        ],
+        [
+          806,
+          1122
+        ],
+        [
+          663,
+          1122
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 기타 부서장이 지정하는 업무 등",
+      "confidence": 0.9664762431666964,
+      "bbox": [
+        [
+          641,
+          1132
+        ],
+        [
+          1041,
+          1132
+        ],
+        [
+          1041,
+          1159
+        ],
+        [
+          641,
+          1159
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 근무기간",
+      "confidence": 0.9881950542330742,
+      "bbox": [
+        [
+          101,
+          1207
+        ],
+        [
+          236,
+          1207
+        ],
+        [
+          236,
+          1231
+        ],
+        [
+          101,
+          1231
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 시간선택제임기제 : 업무실적 및 사업의 필요성에 따라 총 5년의 범위 내 연장가능",
+      "confidence": 0.8290432849708869,
+      "bbox": [
+        [
+          109,
+          1251
+        ],
+        [
+          975,
+          1251
+        ],
+        [
+          975,
+          1276
+        ],
+        [
+          109,
+          1276
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "관련법령",
+      "confidence": 0.9978404760360717,
+      "bbox": [
+        [
+          174,
+          1333
+        ],
+        [
+          336,
+          1333
+        ],
+        [
+          336,
+          1369
+        ],
+        [
+          174,
+          1369
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2",
+      "confidence": 0.7792984942595164,
+      "bbox": [
+        [
+          109,
+          1339
+        ],
+        [
+          132,
+          1339
+        ],
+        [
+          132,
+          1365
+        ],
+        [
+          109,
+          1365
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 지방공무원법 및 지방공무원임용령",
+      "confidence": 0.9976559552279386,
+      "bbox": [
+        [
+          113,
+          1406
+        ],
+        [
+          634,
+          1406
+        ],
+        [
+          634,
+          1434
+        ],
+        [
+          113,
+          1434
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 지방공무원보수규정",
+      "confidence": 0.9921776311738151,
+      "bbox": [
+        [
+          114,
+          1460
+        ],
+        [
+          429,
+          1460
+        ],
+        [
+          429,
+          1487
+        ],
+        [
+          114,
+          1487
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다. 지방공무원인사제도 운영 지침",
+      "confidence": 0.9915208011865616,
+      "bbox": [
+        [
+          114,
+          1512
+        ],
+        [
+          575,
+          1512
+        ],
+        [
+          575,
+          1539
+        ],
+        [
+          114,
+          1539
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "라. 천안시 지방공무원 인사 규칙",
+      "confidence": 0.9979451954364776,
+      "bbox": [
+        [
+          115,
+          1564
+        ],
+        [
+          563,
+          1564
+        ],
+        [
+          563,
+          1592
+        ],
+        [
+          115,
+          1592
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

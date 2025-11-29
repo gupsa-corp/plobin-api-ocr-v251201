@@ -1,0 +1,17 @@
+{
+  "block_id": 4,
+  "text": "▶ 프로젝트 진행률 차트",
+  "confidence": 0.9909668527543545,
+  "bbox": {
+    "x_min": 221,
+    "y_min": 240,
+    "x_max": 436,
+    "y_max": 264,
+    "width": 215,
+    "height": 24
+  },
+  "block_type": "text",
+  "text_length": 13,
+  "created_at": "2025-11-21T07:48:51.349079",
+  "version": "1.0"
+}

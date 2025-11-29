@@ -1,0 +1,35 @@
+{
+  "page_number": 1,
+  "total_blocks": 1,
+  "average_confidence": 0.7333308969225202,
+  "processing_time": 1.5109944343566895,
+  "blocks": [
+    {
+      "text": "GUP5/",
+      "confidence": 0.7333308969225202,
+      "bbox": [
+        [
+          174,
+          244
+        ],
+        [
+          873,
+          244
+        ],
+        [
+          873,
+          428
+        ],
+        [
+          174,
+          428
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

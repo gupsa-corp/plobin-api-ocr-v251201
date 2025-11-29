@@ -1,0 +1,17 @@
+{
+  "block_id": 2,
+  "text": "Monitoring",
+  "confidence": 0.8585916649211537,
+  "bbox": {
+    "x_min": 617,
+    "y_min": 17,
+    "x_max": 673,
+    "y_max": 31,
+    "width": 56,
+    "height": 14
+  },
+  "block_type": "text",
+  "text_length": 10,
+  "created_at": "2025-11-24T08:15:23.790442",
+  "version": "1.0"
+}

@@ -1,0 +1,20 @@
+{
+  "request_id": "019ab9b2-3052-72f5-8a6e-4ec68b21e9ed",
+  "summary_type": "comprehensive",
+  "model_used": "boto",
+  "generation_timestamp": "2025-11-25T06:31:25.838083",
+  "document_overview": {
+    "total_pages": 1,
+    "total_blocks": 18,
+    "total_characters": 412
+  },
+  "main_summary": {
+    "title": "강원특별자치도 동해시",
+    "document_type": "general",
+    "key_information": {},
+    "full_summary": "LLM 분석 실패로 인한 기본 요약 제공",
+    "structured_data": {}
+  },
+  "error": "LLM 요약 생성 실패: Client error '404 Not Found' for url 'https://llm.gupsa.net/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+  "source_reference": "summary/sources/document_source_data.json"
+}

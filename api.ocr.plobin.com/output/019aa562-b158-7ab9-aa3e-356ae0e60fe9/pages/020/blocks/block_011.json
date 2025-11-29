@@ -1,0 +1,17 @@
+{
+  "block_id": 11,
+  "text": "프로젝트 페이지 +",
+  "confidence": 0.9243087440729141,
+  "bbox": {
+    "x_min": 160,
+    "y_min": 648,
+    "x_max": 307,
+    "y_max": 662,
+    "width": 147,
+    "height": 14
+  },
+  "block_type": "text",
+  "text_length": 10,
+  "created_at": "2025-11-21T07:48:56.995903",
+  "version": "1.0"
+}

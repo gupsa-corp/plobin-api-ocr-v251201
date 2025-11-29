@@ -1,0 +1,1223 @@
+{
+  "page_number": 14,
+  "total_blocks": 45,
+  "average_confidence": 0.9853640442946995,
+  "processing_time": 1.8431422710418701,
+  "blocks": [
+    {
+      "text": "[서식1 응시원서]",
+      "confidence": 0.9980672697226206,
+      "bbox": [
+        [
+          116,
+          86
+        ],
+        [
+          316,
+          86
+        ],
+        [
+          316,
+          111
+        ],
+        [
+          116,
+          111
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응 시 원 서",
+      "confidence": 0.9865373969078064,
+      "bbox": [
+        [
+          486,
+          184
+        ],
+        [
+          751,
+          184
+        ],
+        [
+          751,
+          216
+        ],
+        [
+          486,
+          216
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "본인은 (2025년 제8회 천안시 임기제공무원) 임용시험에 응시하고자",
+      "confidence": 0.9991794869303703,
+      "bbox": [
+        [
+          146,
+          254
+        ],
+        [
+          1126,
+          254
+        ],
+        [
+          1126,
+          286
+        ],
+        [
+          146,
+          286
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "원서를 제출하며 다음 사항을 서약합니다.",
+      "confidence": 0.9998951951662699,
+      "bbox": [
+        [
+          116,
+          294
+        ],
+        [
+          722,
+          294
+        ],
+        [
+          722,
+          326
+        ],
+        [
+          116,
+          326
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "아래 기재사항은 사실과 다름없으며 만일 시험결과에 부당한 영향을",
+      "confidence": 0.9998156073931102,
+      "bbox": [
+        [
+          147,
+          346
+        ],
+        [
+          1120,
+          346
+        ],
+        [
+          1120,
+          375
+        ],
+        [
+          147,
+          375
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "끼칠 목적으로 허위사실을 기재하였을 때에는 관계법령에 따라 해당",
+      "confidence": 0.9999421834945679,
+      "bbox": [
+        [
+          116,
+          377
+        ],
+        [
+          1122,
+          377
+        ],
+        [
+          1122,
+          407
+        ],
+        [
+          116,
+          407
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시험이 정지 또는 무효가 되고 향후 5년간 응시자격이 정지되어도 이의를",
+      "confidence": 0.9999523686199654,
+      "bbox": [
+        [
+          115,
+          410
+        ],
+        [
+          1121,
+          410
+        ],
+        [
+          1121,
+          439
+        ],
+        [
+          115,
+          439
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제기하지 않겠습니다.",
+      "confidence": 0.9998244734910818,
+      "bbox": [
+        [
+          116,
+          442
+        ],
+        [
+          424,
+          442
+        ],
+        [
+          424,
+          469
+        ],
+        [
+          116,
+          469
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025년 월",
+      "confidence": 0.9850203659799364,
+      "bbox": [
+        [
+          786,
+          482
+        ],
+        [
+          1034,
+          482
+        ],
+        [
+          1034,
+          511
+        ],
+        [
+          786,
+          511
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "일",
+      "confidence": 0.9879891276359558,
+      "bbox": [
+        [
+          1078,
+          483
+        ],
+        [
+          1111,
+          483
+        ],
+        [
+          1111,
+          511
+        ],
+        [
+          1078,
+          511
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시인사위원회위원장 귀하",
+      "confidence": 0.9996351636946201,
+      "bbox": [
+        [
+          622,
+          525
+        ],
+        [
+          1125,
+          525
+        ],
+        [
+          1125,
+          560
+        ],
+        [
+          622,
+          560
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※응시번호",
+      "confidence": 0.965668431350163,
+      "bbox": [
+        [
+          146,
+          612
+        ],
+        [
+          263,
+          612
+        ],
+        [
+          263,
+          634
+        ],
+        [
+          146,
+          634
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(한글)",
+      "confidence": 0.9909341037273407,
+      "bbox": [
+        [
+          764,
+          614
+        ],
+        [
+          831,
+          614
+        ],
+        [
+          831,
+          636
+        ],
+        [
+          764,
+          636
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성명",
+      "confidence": 0.9989895025889078,
+      "bbox": [
+        [
+          667,
+          647
+        ],
+        [
+          716,
+          647
+        ],
+        [
+          716,
+          669
+        ],
+        [
+          667,
+          669
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시직급<br>(응시분야)",
+      "confidence": 0.9866019742829459,
+      "bbox": [
+        [
+          146,
+          664
+        ],
+        [
+          261,
+          664
+        ],
+        [
+          261,
+          713
+        ],
+        [
+          146,
+          713
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(한자)",
+      "confidence": 0.9893812040487925,
+      "bbox": [
+        [
+          764,
+          677
+        ],
+        [
+          832,
+          677
+        ],
+        [
+          832,
+          699
+        ],
+        [
+          764,
+          699
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "복수국적<br>해당여부",
+      "confidence": 0.9600609789292017,
+      "bbox": [
+        [
+          644,
+          730
+        ],
+        [
+          741,
+          730
+        ],
+        [
+          741,
+          778
+        ],
+        [
+          644,
+          778
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "생년월일",
+      "confidence": 0.999463427066803,
+      "bbox": [
+        [
+          155,
+          743
+        ],
+        [
+          250,
+          743
+        ],
+        [
+          250,
+          765
+        ],
+        [
+          155,
+          765
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(字)",
+      "confidence": 0.8409648954868316,
+      "bbox": [
+        [
+          286,
+          800
+        ],
+        [
+          321,
+          800
+        ],
+        [
+          321,
+          824
+        ],
+        [
+          286,
+          824
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": ")",
+      "confidence": 0.8487479388713837,
+      "bbox": [
+        [
+          429,
+          802
+        ],
+        [
+          444,
+          802
+        ],
+        [
+          444,
+          824
+        ],
+        [
+          429,
+          824
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주",
+      "confidence": 0.9829719066619873,
+      "bbox": [
+        [
+          155,
+          813
+        ],
+        [
+          213,
+          813
+        ],
+        [
+          213,
+          833
+        ],
+        [
+          155,
+          833
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "소",
+      "confidence": 0.9934184551239014,
+      "bbox": [
+        [
+          224,
+          814
+        ],
+        [
+          253,
+          814
+        ],
+        [
+          253,
+          832
+        ],
+        [
+          224,
+          832
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "수입증지<br>붙이는 곳",
+      "confidence": 0.9963312928493206,
+      "bbox": [
+        [
+          961,
+          872
+        ],
+        [
+          1039,
+          872
+        ],
+        [
+          1039,
+          906
+        ],
+        [
+          961,
+          906
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전자우편",
+      "confidence": 0.9982800722122193,
+      "bbox": [
+        [
+          154,
+          879
+        ],
+        [
+          251,
+          879
+        ],
+        [
+          251,
+          904
+        ],
+        [
+          154,
+          904
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전 화<br>(휴대전화)",
+      "confidence": 0.9614247450461755,
+      "bbox": [
+        [
+          144,
+          931
+        ],
+        [
+          263,
+          931
+        ],
+        [
+          263,
+          982
+        ],
+        [
+          144,
+          982
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응 시 표",
+      "confidence": 0.978709876537323,
+      "bbox": [
+        [
+          542,
+          1047
+        ],
+        [
+          696,
+          1047
+        ],
+        [
+          696,
+          1079
+        ],
+        [
+          542,
+          1079
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025년 제8회 천안시 임기제공무원임용시험",
+      "confidence": 0.998705139526954,
+      "bbox": [
+        [
+          341,
+          1101
+        ],
+        [
+          896,
+          1101
+        ],
+        [
+          896,
+          1129
+        ],
+        [
+          341,
+          1129
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시직급",
+      "confidence": 0.9787255764007569,
+      "bbox": [
+        [
+          669,
+          1149
+        ],
+        [
+          765,
+          1149
+        ],
+        [
+          765,
+          1171
+        ],
+        [
+          669,
+          1171
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※응시번호",
+      "confidence": 0.9862191421645028,
+      "bbox": [
+        [
+          149,
+          1161
+        ],
+        [
+          265,
+          1161
+        ],
+        [
+          265,
+          1185
+        ],
+        [
+          149,
+          1185
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(응시분야)",
+      "confidence": 0.9992021471261978,
+      "bbox": [
+        [
+          660,
+          1175
+        ],
+        [
+          775,
+          1175
+        ],
+        [
+          775,
+          1202
+        ],
+        [
+          660,
+          1202
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성명",
+      "confidence": 0.998911182085673,
+      "bbox": [
+        [
+          182,
+          1225
+        ],
+        [
+          229,
+          1225
+        ],
+        [
+          229,
+          1247
+        ],
+        [
+          182,
+          1247
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "20 년",
+      "confidence": 0.9907208383083344,
+      "bbox": [
+        [
+          524,
+          1271
+        ],
+        [
+          605,
+          1271
+        ],
+        [
+          605,
+          1293
+        ],
+        [
+          524,
+          1293
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "월",
+      "confidence": 0.9907742440700531,
+      "bbox": [
+        [
+          630,
+          1271
+        ],
+        [
+          663,
+          1271
+        ],
+        [
+          663,
+          1293
+        ],
+        [
+          630,
+          1293
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "일",
+      "confidence": 0.993224024772644,
+      "bbox": [
+        [
+          690,
+          1272
+        ],
+        [
+          715,
+          1272
+        ],
+        [
+          715,
+          1292
+        ],
+        [
+          690,
+          1292
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시인사위원회위원장",
+      "confidence": 0.9991342425346375,
+      "bbox": [
+        [
+          493,
+          1301
+        ],
+        [
+          748,
+          1301
+        ],
+        [
+          748,
+          1326
+        ],
+        [
+          493,
+          1326
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주",
+      "confidence": 0.996073991060257,
+      "bbox": [
+        [
+          503,
+          1357
+        ],
+        [
+          535,
+          1357
+        ],
+        [
+          535,
+          1377
+        ],
+        [
+          503,
+          1377
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "의",
+      "confidence": 0.9969886839389801,
+      "bbox": [
+        [
+          573,
+          1358
+        ],
+        [
+          599,
+          1358
+        ],
+        [
+          599,
+          1376
+        ],
+        [
+          573,
+          1376
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사",
+      "confidence": 0.9919180870056152,
+      "bbox": [
+        [
+          640,
+          1357
+        ],
+        [
+          670,
+          1357
+        ],
+        [
+          670,
+          1377
+        ],
+        [
+          640,
+          1377
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "항",
+      "confidence": 0.9983812570571899,
+      "bbox": [
+        [
+          709,
+          1357
+        ],
+        [
+          736,
+          1357
+        ],
+        [
+          736,
+          1377
+        ],
+        [
+          709,
+          1377
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 응시표를 받는 즉시 응시번호 기재여부와 날인여부를 확인하여야 합니다.",
+      "confidence": 0.9997113873792249,
+      "bbox": [
+        [
+          124,
+          1395
+        ],
+        [
+          715,
+          1395
+        ],
+        [
+          715,
+          1412
+        ],
+        [
+          124,
+          1412
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 시험당일은 응시표, 신분증를 지참하고 시험시작 30분전까지 지정된 좌석에 착석하여야 합니다.",
+      "confidence": 0.9983275436929294,
+      "bbox": [
+        [
+          124,
+          1425
+        ],
+        [
+          883,
+          1425
+        ],
+        [
+          883,
+          1441
+        ],
+        [
+          124,
+          1441
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "보완사항",
+      "confidence": 0.998731255531311,
+      "bbox": [
+        [
+          159,
+          1479
+        ],
+        [
+          254,
+          1479
+        ],
+        [
+          254,
+          1499
+        ],
+        [
+          159,
+          1499
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "를(을)",
+      "confidence": 0.9863087137540182,
+      "bbox": [
+        [
+          569,
+          1479
+        ],
+        [
+          638,
+          1479
+        ],
+        [
+          638,
+          1501
+        ],
+        [
+          569,
+          1501
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "월",
+      "confidence": 0.9917153418064117,
+      "bbox": [
+        [
+          667,
+          1479
+        ],
+        [
+          695,
+          1479
+        ],
+        [
+          695,
+          1499
+        ],
+        [
+          667,
+          1499
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "일까지 보완하여야 합니다.",
+      "confidence": 0.9998017512261868,
+      "bbox": [
+        [
+          724,
+          1479
+        ],
+        [
+          1009,
+          1479
+        ],
+        [
+          1009,
+          1499
+        ],
+        [
+          724,
+          1499
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

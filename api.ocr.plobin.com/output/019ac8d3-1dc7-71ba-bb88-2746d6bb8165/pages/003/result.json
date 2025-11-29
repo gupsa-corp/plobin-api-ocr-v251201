@@ -1,0 +1,629 @@
+{
+  "page_number": 3,
+  "total_blocks": 23,
+  "average_confidence": 0.9806688202386828,
+  "processing_time": 1.3901419639587402,
+  "blocks": [
+    {
+      "text": "※ 평균 80점 이상의 점수 충족 인원이 없을 경우 채용일정을 다시",
+      "confidence": 0.9871451976971749,
+      "bbox": [
+        [
+          164,
+          147
+        ],
+        [
+          1122,
+          147
+        ],
+        [
+          1122,
+          176
+        ],
+        [
+          164,
+          176
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "정하여 재공고",
+      "confidence": 0.9996888438860575,
+      "bbox": [
+        [
+          211,
+          204
+        ],
+        [
+          419,
+          204
+        ],
+        [
+          419,
+          231
+        ],
+        [
+          211,
+          231
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4) 서류전형 합격자 발표 : 대상자에게 별도 통보",
+      "confidence": 0.9997499962647756,
+      "bbox": [
+        [
+          172,
+          259
+        ],
+        [
+          885,
+          259
+        ],
+        [
+          885,
+          290
+        ],
+        [
+          172,
+          290
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 2차 : 면접시험",
+      "confidence": 0.9104273595980236,
+      "bbox": [
+        [
+          131,
+          372
+        ],
+        [
+          378,
+          372
+        ],
+        [
+          378,
+          400
+        ],
+        [
+          131,
+          400
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1) 1차 서류전형 합격자에 한하여 면접평가",
+      "confidence": 0.9973533291083115,
+      "bbox": [
+        [
+          173,
+          429
+        ],
+        [
+          797,
+          429
+        ],
+        [
+          797,
+          456
+        ],
+        [
+          173,
+          456
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 접수번호 순으로 최대 다대일(3명 1개조) 면접하며, 면접",
+      "confidence": 0.9838065761658881,
+      "bbox": [
+        [
+          212,
+          485
+        ],
+        [
+          1121,
+          485
+        ],
+        [
+          1121,
+          514
+        ],
+        [
+          212,
+          514
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시험일은 대상자에게 별도 통보",
+      "confidence": 0.999746173620224,
+      "bbox": [
+        [
+          257,
+          541
+        ],
+        [
+          714,
+          541
+        ],
+        [
+          714,
+          568
+        ],
+        [
+          257,
+          568
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2) 재단 직원으로서의 정신 자세 30점, 의사발표의 정확성 및 주제에",
+      "confidence": 0.9989742680293757,
+      "bbox": [
+        [
+          174,
+          597
+        ],
+        [
+          1121,
+          597
+        ],
+        [
+          1121,
+          626
+        ],
+        [
+          174,
+          626
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "맞는 논리성 30점, 재단 발전을 위한 사명감 및 성실성 20점, 예의",
+      "confidence": 0.9991085834619475,
+      "bbox": [
+        [
+          199,
+          653
+        ],
+        [
+          1121,
+          653
+        ],
+        [
+          1121,
+          682
+        ],
+        [
+          199,
+          682
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "및 품행 등 10점, 기타 심사위원 종합평가 10점",
+      "confidence": 0.9978069106737772,
+      "bbox": [
+        [
+          200,
+          710
+        ],
+        [
+          880,
+          710
+        ],
+        [
+          880,
+          738
+        ],
+        [
+          200,
+          738
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3) 최고 및 최저 점수를 제외한 면접위원 점수를 산술평균하여 80점",
+      "confidence": 0.999639718234539,
+      "bbox": [
+        [
+          173,
+          765
+        ],
+        [
+          1121,
+          765
+        ],
+        [
+          1121,
+          793
+        ],
+        [
+          173,
+          793
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "이상의 고득점 순으로 임용 후보자 선정 (평균 80점 이상의 점수",
+      "confidence": 0.9997516635217165,
+      "bbox": [
+        [
+          200,
+          822
+        ],
+        [
+          1124,
+          822
+        ],
+        [
+          1124,
+          850
+        ],
+        [
+          200,
+          850
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "충족 인원이 없을 경우 채용일정을 다시 정하여 재공고)",
+      "confidence": 0.9997170679271221,
+      "bbox": [
+        [
+          198,
+          878
+        ],
+        [
+          994,
+          878
+        ],
+        [
+          994,
+          906
+        ],
+        [
+          198,
+          906
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4) 최종합격자는 임용 후보자 중 인사위원회 심의를 거쳐 결정",
+      "confidence": 0.999702114197943,
+      "bbox": [
+        [
+          172,
+          935
+        ],
+        [
+          1030,
+          935
+        ],
+        [
+          1030,
+          963
+        ],
+        [
+          172,
+          963
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 합격자 발표",
+      "confidence": 0.8706357099793174,
+      "bbox": [
+        [
+          131,
+          1048
+        ],
+        [
+          332,
+          1048
+        ],
+        [
+          332,
+          1075
+        ],
+        [
+          131,
+          1075
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1) 최종합격자 임용포기 또는 부정합격을 비롯한 결격사유 발생시",
+      "confidence": 0.9987605665181134,
+      "bbox": [
+        [
+          173,
+          1104
+        ],
+        [
+          1122,
+          1104
+        ],
+        [
+          1122,
+          1131
+        ],
+        [
+          173,
+          1131
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "예비합격자순으로 임용",
+      "confidence": 0.9994088548880357,
+      "bbox": [
+        [
+          200,
+          1160
+        ],
+        [
+          523,
+          1160
+        ],
+        [
+          523,
+          1187
+        ],
+        [
+          200,
+          1187
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 상기 일정은 재단 사정에 따라 변경될 수 있습니다.",
+      "confidence": 0.98038100451231,
+      "bbox": [
+        [
+          163,
+          1216
+        ],
+        [
+          952,
+          1216
+        ],
+        [
+          952,
+          1245
+        ],
+        [
+          163,
+          1245
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "5. 제출서류 (원본 제출) ※ 양식 다운로드 후 자필 서명",
+      "confidence": 0.985977612222944,
+      "bbox": [
+        [
+          114,
+          1325
+        ],
+        [
+          897,
+          1325
+        ],
+        [
+          897,
+          1357
+        ],
+        [
+          114,
+          1357
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 응시원서 1부",
+      "confidence": 0.9125486960013708,
+      "bbox": [
+        [
+          131,
+          1379
+        ],
+        [
+          366,
+          1379
+        ],
+        [
+          366,
+          1407
+        ],
+        [
+          131,
+          1407
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 기재된 사항은 증빙자료 필요 (증빙자료가 없는 경력은 불인정 함)",
+      "confidence": 0.9872934773564339,
+      "bbox": [
+        [
+          162,
+          1432
+        ],
+        [
+          1007,
+          1432
+        ],
+        [
+          1007,
+          1461
+        ],
+        [
+          162,
+          1461
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 자기소개서 및 직무수행계획서 1부",
+      "confidence": 0.9791176526442819,
+      "bbox": [
+        [
+          131,
+          1487
+        ],
+        [
+          654,
+          1487
+        ],
+        [
+          654,
+          1516
+        ],
+        [
+          131,
+          1516
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 자격증 및 경력(경험)증명서 1통 (증빙이 필요할 경우 제출)",
+      "confidence": 0.9686414889800243,
+      "bbox": [
+        [
+          131,
+          1541
+        ],
+        [
+          988,
+          1541
+        ],
+        [
+          988,
+          1570
+        ],
+        [
+          131,
+          1570
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

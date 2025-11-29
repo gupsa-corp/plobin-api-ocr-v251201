@@ -1,0 +1,581 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "가 산 적 용. 가. 취업지원대상자(면접시험 시행 전일까지 지정된 경우에 한함). ○ ｢독립유공자예우에 관한 법률｣제16조, ｢국가유공자 등 예우 및 지원",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 2,
+      "header": 0,
+      "body": 0,
+      "table": 14,
+      "footer": 0,
+      "other": 11
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.968,
+      "readability": "high",
+      "completeness": "complete",
+      "high_confidence_blocks": 25,
+      "low_confidence_blocks": 1
+    },
+    "language_distribution": {
+      "korean": 0.649,
+      "english": 0.003,
+      "other": 0.348
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 27,
+    "total_characters": 710,
+    "analyzed_at": "2025-11-28T05:03:13.873572"
+  },
+  "block_summaries": [
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "가 산 적 용",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:03:13.872909"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "가. 취업지원대상자(면접시험 시행 전일까지 지정된 경우...",
+      "keywords": [
+        "취업지원대상자",
+        "면접시험",
+        "전일까지",
+        "지정된",
+        "경우에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T05:03:13.872939"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "○ ｢독립유공자예우에 관한 법률｣제16조, ｢국가유공자...",
+      "keywords": [
+        "독립유공자예우에",
+        "제16조",
+        "국가유공자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 40,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T05:03:13.872962"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "에 관한 법률」제29조, 「보훈보상대상자 지원에 관한 ...",
+      "keywords": [
+        "제29조",
+        "보훈보상대상자",
+        "지원에",
+        "제33조"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T05:03:13.872982"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "「5·18민주유공자예우 및 단체설립에 관한 법률」제20...",
+      "keywords": [
+        "18민주유공자예우",
+        "단체설립에",
+        "제20조",
+        "특수임무유공"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 40,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T05:03:13.873000"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "자 예우 및 단체설립에 관한 법률」제19조에 의한 취업...",
+      "keywords": [
+        "단체설립에",
+        "제19조에",
+        "취업지원대상자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T05:03:13.873018"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "「고엽제후유의증 등 환자지원 및 단체설립에 관한 법률」...",
+      "keywords": [
+        "고엽제후유의증",
+        "환자지원",
+        "단체설립에",
+        "제7조의9에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T05:03:13.873036"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "한 취업지원대상자는 면접점수의 4할 이상 득점자에 한하...",
+      "keywords": [
+        "취업지원대상자는",
+        "면접점수의",
+        "득점자에",
+        "한하여"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 42,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T05:03:13.873056"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "가산함.",
+      "keywords": [
+        "가산함"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:03:13.873067"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "※ 취업지원대상자 등록 여부, 가산비율은 응시자 본인이...",
+      "keywords": [
+        "취업지원대상자",
+        "가산비율은",
+        "응시자",
+        "본인이",
+        "사전에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 43,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T05:03:13.873088"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "지방보훈청 등에서 확인",
+      "keywords": [
+        "지방보훈청",
+        "등에서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:03:13.873102"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "제",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:03:13.873111"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "출 서 류",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:03:13.873122"
+    },
+    {
+      "content_type": "number",
+      "language": "other",
+      "text_preview": "8",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-28T05:03:13.873132"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "① 응시원서(별지 서식1) 1부",
+      "keywords": [
+        "응시원서",
+        "서식1"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:03:13.873146"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "- 응시 수수료(※ 정부수입인지는 불가)",
+      "keywords": [
+        "수수료",
+        "정부수입인지는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T05:03:13.873160"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "▶ 다급(7급 상당)이상 : 천안시 수입증지 7천원",
+      "keywords": [
+        "천안시",
+        "수입증지",
+        "7천원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 28,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T05:03:13.873175"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "▶ 라급(8급 상당)이하 : 천안시 수입증지 5천원",
+      "keywords": [
+        "천안시",
+        "수입증지",
+        "5천원"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 28,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T05:03:13.873189"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "※ 응시원서에 천안시 수입증지 부착(천안시청 1층 민원...",
+      "keywords": [
+        "응시원서에",
+        "천안시",
+        "수입증지",
+        "천안시청",
+        "민원실"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 45,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T05:03:13.873208"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "② 이력서(별지 서식2) 1부",
+      "keywords": [
+        "이력서",
+        "서식2"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 16,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:03:13.873220"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "- 이력서에 기재된 사항은 증빙자료 필요",
+      "keywords": [
+        "이력서에",
+        "기재된",
+        "사항은",
+        "증빙자료"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T05:03:13.873236"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(증빙자료가 없는 경우 경력은 인정하지 않음)",
+      "keywords": [
+        "증빙자료가",
+        "경력은",
+        "인정하지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T05:03:13.873252"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "③ 자기소개서(별지 서식3) 1부",
+      "keywords": [
+        "자기소개서",
+        "서식3"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:03:13.873264"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "- A4용지 2~3매 이내 경력중심으로 작성",
+      "keywords": [
+        "a4용지",
+        "경력중심으로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 24,
+      "word_count": 6,
+      "analyzed_at": "2025-11-28T05:03:13.873276"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "④ 직무수행계획서(별지 서식4) 1부",
+      "keywords": [
+        "직무수행계획서",
+        "서식4"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 20,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:03:13.873288"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "- 응시자의 임용예정 직무수행계획을 A4용지 5매 이내...",
+      "keywords": [
+        "응시자의",
+        "임용예정",
+        "직무수행계획을",
+        "a4용지",
+        "이내로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T05:03:13.873304"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "⑤ 학사학위 이상의 졸업증명서 및 학위증서 사본 각 1...",
+      "keywords": [
+        "학사학위",
+        "이상의",
+        "졸업증명서",
+        "학위증서",
+        "해당자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T05:03:13.873320"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

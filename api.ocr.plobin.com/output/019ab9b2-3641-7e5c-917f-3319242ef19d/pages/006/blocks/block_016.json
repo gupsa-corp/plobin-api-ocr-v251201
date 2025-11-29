@@ -1,0 +1,17 @@
+{
+  "block_id": 16,
+  "text": "최근 페이지 전체 보기",
+  "confidence": 0.9997346172375339,
+  "bbox": {
+    "x_min": 371,
+    "y_min": 863,
+    "x_max": 1046,
+    "y_max": 879,
+    "width": 675,
+    "height": 16
+  },
+  "block_type": "text",
+  "text_length": 12,
+  "created_at": "2025-11-25T06:27:45.071762",
+  "version": "1.0"
+}

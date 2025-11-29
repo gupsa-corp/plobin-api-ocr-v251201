@@ -1,0 +1,879 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "근무예정부서. 임용예정직급. 선발예정인원",
+    "key_entities": {
+      "companies": [
+        "민간기업"
+      ],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 7,
+      "footer": 0,
+      "other": 36
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.988,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 43,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.709,
+      "english": 0.005,
+      "other": 0.286
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 43,
+    "total_characters": 859,
+    "analyzed_at": "2025-11-19T09:25:16.712178"
+  },
+  "block_summaries": [
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "근무예정부서",
+      "keywords": [
+        "근무예정부서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711241"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "채용 분야",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:16.711260"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "임용예정직급",
+      "keywords": [
+        "임용예정직급"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711273"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "선발예정인원",
+      "keywords": [
+        "선발예정인원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711283"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "건축안전관리",
+      "keywords": [
+        "건축안전관리"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711293"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "시간선택제임기제",
+      "keywords": [
+        "시간선택제임기제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711306"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "도시주택국",
+      "keywords": [
+        "도시주택국"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711316"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1명",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711327"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "건축과",
+      "keywords": [
+        "건축과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711337"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "[건축구조]",
+      "keywords": [
+        "건축구조"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711348"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "나급(6급상당)",
+      "keywords": [
+        "6급상당"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711361"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 건축 인허가에 따른 기술적인 사항에 대한 보고·확인...",
+      "keywords": [
+        "인허가에",
+        "기술적인",
+        "사항에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 8,
+      "analyzed_at": "2025-11-19T09:25:16.711386"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 건축물 및 건축공사장의 안전관리 및 안전점검",
+      "keywords": [
+        "건축물",
+        "건축공사장의",
+        "안전관리",
+        "안전점검"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:16.711405"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 건축물의 점검 및 개량·보수에 대한 기술지원 및 정...",
+      "keywords": [
+        "건축물의",
+        "보수에",
+        "기술지원",
+        "정보제공"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 10,
+      "analyzed_at": "2025-11-19T09:25:16.711427"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "주요 업무",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:16.711438"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "○「건축법」제25조에 따른 공사감리에 대한 관리·감독",
+      "keywords": [
+        "건축법",
+        "제25조에",
+        "공사감리에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 29,
+      "word_count": 5,
+      "analyzed_at": "2025-11-19T09:25:16.711460"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 건축물 부문 안전관리 대책에 대한 세부 실행",
+      "keywords": [
+        "건축물",
+        "안전관리",
+        "대책에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 8,
+      "analyzed_at": "2025-11-19T09:25:16.711478"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 건축물 안전 관련 매뉴얼 관리",
+      "keywords": [
+        "건축물",
+        "매뉴얼"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:16.711494"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 기타 부서장이 지정하는 업무 등",
+      "keywords": [
+        "부서장이",
+        "지정하는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:16.711509"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ (<b>공통 역량</b>) 윤리의식, 공직의식, 고...",
+      "keywords": [
+        "윤리의식",
+        "공직의식",
+        "고객지향",
+        "마인드"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:16.711532"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "필요 역량",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:16.711542"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ (직급별 역량) 상황인식·판단력, 기획력, 팀워크지...",
+      "keywords": [
+        "직급별",
+        "상황인식",
+        "판단력",
+        "기획력",
+        "팀워크지향"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 44,
+      "word_count": 9,
+      "analyzed_at": "2025-11-19T09:25:16.711567"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "○ <b>(직렬별 역량)</b> 건축안전관리, 건축구조...",
+      "keywords": [
+        "직렬별",
+        "건축안전관리",
+        "건축구조",
+        "이해력"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:16.711585"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "○ 건축법, 건축물관리법, 건술기술진흥법, 건축안전관리...",
+      "keywords": [
+        "건축법",
+        "건축물관리법",
+        "건술기술진흥법",
+        "건축안전관리",
+        "건축구조"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:16.711603"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "필요 지식",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:16.711614"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "등 관련 전문지식",
+      "keywords": [
+        "전문지식"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 3,
+      "analyzed_at": "2025-11-19T09:25:16.711626"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "아래의 필수자격을 충족하고, 경력요건 중 한가지 이상을...",
+      "keywords": [
+        "아래의",
+        "필수자격을",
+        "충족하고",
+        "경력요건",
+        "한가지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 9,
+      "analyzed_at": "2025-11-19T09:25:16.711648"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[필수자격]",
+      "keywords": [
+        "필수자격"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711659"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 「국가기술자격법」에 따른 건축구조기술사 또는 「건...",
+      "keywords": [
+        "국가기술자격법",
+        "건축구조기술사",
+        "건설기술진흥법"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:16.711676"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "행령」 별표1에 따른 건설기술인 중 건축구조분야 고급기...",
+      "keywords": [
+        "별표1에",
+        "건설기술인",
+        "건축구조분야",
+        "고급기술인",
+        "이상의"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 8,
+      "analyzed_at": "2025-11-19T09:25:16.711693"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "자격기준을 갖춘 사람 또는 「국가기술자격법」에 따른 건...",
+      "keywords": [
+        "자격기준을",
+        "국가기술자격법",
+        "건축시공기술사"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:16.711710"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 운전면허(2종보통 이상)를 소지하고 실제운전이 가...",
+      "keywords": [
+        "운전면허",
+        "2종보통",
+        "소지하고",
+        "실제운전이",
+        "가능한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:16.711727"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[경력요건]",
+      "keywords": [
+        "경력요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711739"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "응시자격요건",
+      "keywords": [
+        "응시자격요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711749"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 학사학위 취득 후 3년 이상 임용예정 직무분야의 ...",
+      "keywords": [
+        "학사학위",
+        "임용예정",
+        "직무분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 9,
+      "analyzed_at": "2025-11-19T09:25:16.711765"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 5년 이상 임용예정 직무분야의 실무경력자",
+      "keywords": [
+        "임용예정",
+        "직무분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:16.711779"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3. 7급(7급상당) 이상의 공무원으로서 2년이상 임용...",
+      "keywords": [
+        "7급상당",
+        "이상의",
+        "공무원으로서",
+        "2년이상",
+        "임용예정"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:16.711796"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "실무경력자",
+      "keywords": [
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711806"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[실무경력]",
+      "keywords": [
+        "실무경력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711817"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "국가, 지자체, 공공기관, 민간기업 등에서 건축시공, ...",
+      "keywords": [
+        "지자체",
+        "공공기관",
+        "민간기업",
+        "등에서",
+        "건축시공"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:16.711835"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "건축설계, 구조설계, 안전진단 등 건축안전 관련분야 업...",
+      "keywords": [
+        "건축설계",
+        "구조설계",
+        "안전진단",
+        "건축안전",
+        "관련분야"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 8,
+      "analyzed_at": "2025-11-19T09:25:16.711852"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "해당없음",
+      "keywords": [
+        "해당없음"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711862"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "우대요건",
+      "keywords": [
+        "우대요건"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:16.711871"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다.",
+    "주로 한국어 문서입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

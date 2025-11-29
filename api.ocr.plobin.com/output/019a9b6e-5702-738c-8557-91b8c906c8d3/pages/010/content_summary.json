@@ -1,0 +1,769 @@
+{
+  "page_summary": {
+    "document_type": "report",
+    "main_content": "직 무 기 술 서. 근무예정부서. 임용예정직급",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 4,
+      "header": 0,
+      "body": 0,
+      "table": 5,
+      "footer": 0,
+      "other": 29
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.989,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 38,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.676,
+      "english": 0.025,
+      "other": 0.299
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 38,
+    "total_characters": 710,
+    "analyzed_at": "2025-11-19T09:25:14.711093"
+  },
+  "block_summaries": [
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "직 무 기 술 서",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 5,
+      "analyzed_at": "2025-11-19T09:25:14.710318"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "채용 분야",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:14.710336"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "근무예정부서",
+      "keywords": [
+        "근무예정부서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:14.710349"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "임용예정직급",
+      "keywords": [
+        "임용예정직급"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:14.710360"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "선발예정인원",
+      "keywords": [
+        "선발예정인원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:14.710371"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "건설안전교통국",
+      "keywords": [
+        "건설안전교통국"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 7,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:14.710382"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "시간선택제임기제",
+      "keywords": [
+        "시간선택제임기제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:14.710393"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "교통(지능형 교통체계)",
+      "keywords": [
+        "지능형",
+        "교통체계"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 12,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:14.710409"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1명",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:14.710421"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "교통정책과",
+      "keywords": [
+        "교통정책과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:14.710431"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "나급(6급상당)",
+      "keywords": [
+        "6급상당"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:14.710449"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "○ 지능형교통체계(ITS) 기본계획 수립 및 구축",
+      "keywords": [
+        "지능형교통체계",
+        "its",
+        "기본계획"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 27,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:14.710464"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "○ 자율주행 시범운행지구 구축 및 확대 운영",
+      "keywords": [
+        "자율주행",
+        "시범운행지구"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 24,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:14.710479"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 국가 · 도 지능형교통 관련 공모사업 추진",
+      "keywords": [
+        "지능형교통",
+        "공모사업"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 8,
+      "analyzed_at": "2025-11-19T09:25:14.710497"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "주요 업무",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:14.710508"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "○ 광역형 긴급차량 우선신호 구축",
+      "keywords": [
+        "광역형",
+        "긴급차량",
+        "우선신호"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 5,
+      "analyzed_at": "2025-11-19T09:25:14.710521"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "○ 실시간 교통신호 잔여시간 정보제공 서비스 확대구축",
+      "keywords": [
+        "실시간",
+        "교통신호",
+        "잔여시간",
+        "정보제공",
+        "서비스"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 29,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:14.710538"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 기타 부서장이 지정하는 업무 등",
+      "keywords": [
+        "부서장이",
+        "지정하는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:14.710553"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ (<b>공통 역량</b>) 공직윤리, 공직의식, 문...",
+      "keywords": [
+        "공직윤리",
+        "공직의식",
+        "문제해결능력",
+        "의사소통능력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 43,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:14.710578"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ (직급별 역량) 업무 수행 및 관리, 판단 및 기획...",
+      "keywords": [
+        "직급별",
+        "전문지식"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 44,
+      "word_count": 14,
+      "analyzed_at": "2025-11-19T09:25:14.710602"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "필요 역량",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:14.710612"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "○ (직렬별 역량) ITS 관련 전문 지식, ITS 관...",
+      "keywords": [
+        "its",
+        "직렬별",
+        "관련시업",
+        "기획능력"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 44,
+      "word_count": 12,
+      "analyzed_at": "2025-11-19T09:25:14.710630"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기술이해 및 적용능력",
+      "keywords": [
+        "기술이해",
+        "적용능력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 3,
+      "analyzed_at": "2025-11-19T09:25:14.710642"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "필요 지식",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:14.710652"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "○ ITS 관련법규 및 정책, 교통시스템 및 기술, 데...",
+      "keywords": [
+        "its",
+        "관련법규",
+        "교통시스템",
+        "데이터"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 40,
+      "word_count": 12,
+      "analyzed_at": "2025-11-19T09:25:14.710668"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "아래의 경력요건 중 한가지 이상을 충족하는 자",
+      "keywords": [
+        "아래의",
+        "경력요건",
+        "한가지",
+        "이상을",
+        "충족하는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:14.710686"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[경력요건]",
+      "keywords": [
+        "경력요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:14.710696"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 학사학위 취득 후 3년 이상 임용예정 직무분야의 ...",
+      "keywords": [
+        "학사학위",
+        "임용예정",
+        "직무분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 9,
+      "analyzed_at": "2025-11-19T09:25:14.710714"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 5년 이상 임용예정 직무분야의 실무경력자",
+      "keywords": [
+        "임용예정",
+        "직무분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:14.710728"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3. 7급(7급상당) 이상의 공무원으로서 2년이상 임용...",
+      "keywords": [
+        "7급상당",
+        "이상의",
+        "공무원으로서",
+        "2년이상",
+        "임용예정"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 38,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:14.710745"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "응시자격요건",
+      "keywords": [
+        "응시자격요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:14.710755"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "실무경력자",
+      "keywords": [
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:14.710765"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[실무경력]",
+      "keywords": [
+        "실무경력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:14.710775"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "국가 및 지자체, 공공기관, 연구소 등에서 지능형교통체...",
+      "keywords": [
+        "지자체",
+        "공공기관",
+        "연구소",
+        "등에서",
+        "지능형교통체계"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:14.710790"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "교통계획, 교통분석 분야 관련 근무 경력",
+      "keywords": [
+        "교통계획",
+        "교통분석"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:14.710806"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 교통공학, 교통(도시)계획, 도시공학 관련학과 전...",
+      "keywords": [
+        "교통공학",
+        "도시공학",
+        "관련학과",
+        "전공자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:14.710821"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "우대요건",
+      "keywords": [
+        "우대요건"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:14.710831"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 교통(산업)기사 자격증 취득자",
+      "keywords": [
+        "자격증",
+        "취득자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 4,
+      "analyzed_at": "2025-11-19T09:25:14.710843"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다.",
+    "4개의 중요한 정보 블록이 식별되었습니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "block_id": 29,
+  "text": "1. 대시보드에서 조직 목록 선택",
+  "confidence": 0.9863567233085633,
+  "bbox": {
+    "x_min": 169,
+    "y_min": 1485,
+    "x_max": 459,
+    "y_max": 1510,
+    "width": 290,
+    "height": 25
+  },
+  "block_type": "text",
+  "text_length": 18,
+  "created_at": "2025-11-25T06:28:15.272809",
+  "version": "1.0"
+}

@@ -1,0 +1,1142 @@
+{
+  "page_number": 1,
+  "total_blocks": 42,
+  "average_confidence": 0.984907599264825,
+  "processing_time": 1.824524164199829,
+  "blocks": [
+    {
+      "text": "(재)천안문화재단 공고 2025 - 86호",
+      "confidence": 0.9918688941001892,
+      "bbox": [
+        [
+          113,
+          134
+        ],
+        [
+          554,
+          134
+        ],
+        [
+          554,
+          160
+        ],
+        [
+          113,
+          160
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안문화재단 2025년 제3차 기간제 근로자",
+      "confidence": 0.9995152652263641,
+      "bbox": [
+        [
+          252,
+          208
+        ],
+        [
+          988,
+          208
+        ],
+        [
+          988,
+          243
+        ],
+        [
+          252,
+          243
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(장애인·보훈전형) 채용 재공고",
+      "confidence": 0.9973535746335983,
+      "bbox": [
+        [
+          357,
+          264
+        ],
+        [
+          881,
+          264
+        ],
+        [
+          881,
+          298
+        ],
+        [
+          357,
+          298
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(재)천안문화재단에서 공고 2025 -71호(2025년 제3차 직원 공개채용 공고)",
+      "confidence": 0.984359297901392,
+      "bbox": [
+        [
+          126,
+          351
+        ],
+        [
+          1098,
+          351
+        ],
+        [
+          1098,
+          379
+        ],
+        [
+          126,
+          379
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "관련하여 경쟁미달 및 적격자가 없음에 따라, 재공고 모집을 하오니 많은",
+      "confidence": 0.9999373497032538,
+      "bbox": [
+        [
+          116,
+          395
+        ],
+        [
+          1085,
+          395
+        ],
+        [
+          1085,
+          423
+        ],
+        [
+          116,
+          423
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지원 바랍니다.",
+      "confidence": 0.9992404222488404,
+      "bbox": [
+        [
+          114,
+          439
+        ],
+        [
+          314,
+          439
+        ],
+        [
+          314,
+          465
+        ],
+        [
+          114,
+          465
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025. 06. 05.",
+      "confidence": 0.9195295316832406,
+      "bbox": [
+        [
+          937,
+          499
+        ],
+        [
+          1121,
+          499
+        ],
+        [
+          1121,
+          524
+        ],
+        [
+          937,
+          524
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(재)천안문화재단 이사장",
+      "confidence": 0.9978601654370626,
+      "bbox": [
+        [
+          769,
+          545
+        ],
+        [
+          1123,
+          545
+        ],
+        [
+          1123,
+          573
+        ],
+        [
+          769,
+          573
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 채용분야 및 인원",
+      "confidence": 0.9850937000342778,
+      "bbox": [
+        [
+          114,
+          654
+        ],
+        [
+          389,
+          654
+        ],
+        [
+          389,
+          682
+        ],
+        [
+          114,
+          682
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직급",
+      "confidence": 0.9974885980288187,
+      "bbox": [
+        [
+          144,
+          723
+        ],
+        [
+          206,
+          723
+        ],
+        [
+          206,
+          751
+        ],
+        [
+          144,
+          751
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인원",
+      "confidence": 0.9948216875394186,
+      "bbox": [
+        [
+          447,
+          723
+        ],
+        [
+          505,
+          723
+        ],
+        [
+          505,
+          749
+        ],
+        [
+          447,
+          749
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용분야",
+      "confidence": 0.9995411038398743,
+      "bbox": [
+        [
+          274,
+          724
+        ],
+        [
+          392,
+          724
+        ],
+        [
+          392,
+          750
+        ],
+        [
+          274,
+          750
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "담당업무",
+      "confidence": 0.9993652820587158,
+      "bbox": [
+        [
+          706,
+          725
+        ],
+        [
+          820,
+          725
+        ],
+        [
+          820,
+          750
+        ],
+        [
+          706,
+          750
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "비고",
+      "confidence": 0.9846525390942892,
+      "bbox": [
+        [
+          1041,
+          725
+        ],
+        [
+          1101,
+          725
+        ],
+        [
+          1101,
+          749
+        ],
+        [
+          1041,
+          749
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "계",
+      "confidence": 0.986045628786087,
+      "bbox": [
+        [
+          266,
+          796
+        ],
+        [
+          299,
+          796
+        ],
+        [
+          299,
+          821
+        ],
+        [
+          266,
+          821
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3",
+      "confidence": 0.9709526598453522,
+      "bbox": [
+        [
+          465,
+          797
+        ],
+        [
+          487,
+          797
+        ],
+        [
+          487,
+          819
+        ],
+        [
+          465,
+          819
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "남산문화창작소",
+      "confidence": 0.9974567070603371,
+      "bbox": [
+        [
+          237,
+          879
+        ],
+        [
+          431,
+          879
+        ],
+        [
+          431,
+          905
+        ],
+        [
+          237,
+          905
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 남산문화창작소 프로그램 등 기획·운영",
+      "confidence": 0.9856332863370577,
+      "bbox": [
+        [
+          509,
+          894
+        ],
+        [
+          1015,
+          894
+        ],
+        [
+          1015,
+          921
+        ],
+        [
+          509,
+          921
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기획운영",
+      "confidence": 0.9986551165580749,
+      "bbox": [
+        [
+          274,
+          916
+        ],
+        [
+          389,
+          916
+        ],
+        [
+          389,
+          942
+        ],
+        [
+          274,
+          942
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1",
+      "confidence": 0.9572005867958069,
+      "bbox": [
+        [
+          463,
+          919
+        ],
+        [
+          487,
+          919
+        ],
+        [
+          487,
+          939
+        ],
+        [
+          463,
+          939
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 부서 사업운영 지원 및 서무업무",
+      "confidence": 0.998499660264878,
+      "bbox": [
+        [
+          507,
+          936
+        ],
+        [
+          946,
+          936
+        ],
+        [
+          946,
+          964
+        ],
+        [
+          507,
+          964
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(육아휴직대체)",
+      "confidence": 0.9985662519931793,
+      "bbox": [
+        [
+          239,
+          954
+        ],
+        [
+          427,
+          954
+        ],
+        [
+          427,
+          979
+        ],
+        [
+          239,
+          979
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "보훈",
+      "confidence": 0.9993632634480795,
+      "bbox": [
+        [
+          1039,
+          999
+        ],
+        [
+          1100,
+          999
+        ],
+        [
+          1100,
+          1023
+        ],
+        [
+          1039,
+          1023
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 2025 문화예술교육사 현장 역량강화",
+      "confidence": 0.9962153087059656,
+      "bbox": [
+        [
+          510,
+          1037
+        ],
+        [
+          987,
+          1037
+        ],
+        [
+          987,
+          1063
+        ],
+        [
+          510,
+          1063
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기간제",
+      "confidence": 0.9989947825670242,
+      "bbox": [
+        [
+          132,
+          1062
+        ],
+        [
+          217,
+          1062
+        ],
+        [
+          217,
+          1088
+        ],
+        [
+          132,
+          1088
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문화예술교육사",
+      "confidence": 0.9996578469872475,
+      "bbox": [
+        [
+          236,
+          1078
+        ],
+        [
+          436,
+          1078
+        ],
+        [
+          436,
+          1107
+        ],
+        [
+          236,
+          1107
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사업 교육프로그램 기획 및 운영",
+      "confidence": 0.999831315718199,
+      "bbox": [
+        [
+          511,
+          1080
+        ],
+        [
+          942,
+          1080
+        ],
+        [
+          942,
+          1106
+        ],
+        [
+          511,
+          1106
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1",
+      "confidence": 0.9497597217559814,
+      "bbox": [
+        [
+          461,
+          1082
+        ],
+        [
+          490,
+          1082
+        ],
+        [
+          490,
+          1104
+        ],
+        [
+          461,
+          1104
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "근로자",
+      "confidence": 0.9997488409280777,
+      "bbox": [
+        [
+          134,
+          1105
+        ],
+        [
+          218,
+          1105
+        ],
+        [
+          218,
+          1130
+        ],
+        [
+          134,
+          1130
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 천안시립미술관 학예업무 운영지원",
+      "confidence": 0.997405177070981,
+      "bbox": [
+        [
+          510,
+          1123
+        ],
+        [
+          971,
+          1123
+        ],
+        [
+          971,
+          1148
+        ],
+        [
+          510,
+          1148
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 교육프로그램 기획 및 운영(지역특성화)",
+      "confidence": 0.99635915517807,
+      "bbox": [
+        [
+          510,
+          1203
+        ],
+        [
+          1021,
+          1203
+        ],
+        [
+          1021,
+          1230
+        ],
+        [
+          510,
+          1230
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시립미술관",
+      "confidence": 0.9987556338310242,
+      "bbox": [
+        [
+          237,
+          1208
+        ],
+        [
+          432,
+          1208
+        ],
+        [
+          432,
+          1234
+        ],
+        [
+          237,
+          1234
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전시운영",
+      "confidence": 0.9987398266792298,
+      "bbox": [
+        [
+          277,
+          1246
+        ],
+        [
+          390,
+          1246
+        ],
+        [
+          390,
+          1272
+        ],
+        [
+          277,
+          1272
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1 • 문화행사 기획 및 운영",
+      "confidence": 0.9680444134606255,
+      "bbox": [
+        [
+          462,
+          1245
+        ],
+        [
+          822,
+          1245
+        ],
+        [
+          822,
+          1271
+        ],
+        [
+          462,
+          1271
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "장애인",
+      "confidence": 0.9988131076097488,
+      "bbox": [
+        [
+          1027,
+          1246
+        ],
+        [
+          1109,
+          1246
+        ],
+        [
+          1109,
+          1271
+        ],
+        [
+          1027,
+          1271
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(육아휴직대체)",
+      "confidence": 0.9991895139217377,
+      "bbox": [
+        [
+          239,
+          1283
+        ],
+        [
+          427,
+          1283
+        ],
+        [
+          427,
+          1310
+        ],
+        [
+          239,
+          1310
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 학예업무 및 미술관 업무 등",
+      "confidence": 0.9980231429401197,
+      "bbox": [
+        [
+          510,
+          1289
+        ],
+        [
+          890,
+          1289
+        ],
+        [
+          890,
+          1315
+        ],
+        [
+          510,
+          1315
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 응시 자격",
+      "confidence": 0.9687847852706909,
+      "bbox": [
+        [
+          113,
+          1374
+        ],
+        [
+          287,
+          1374
+        ],
+        [
+          287,
+          1402
+        ],
+        [
+          113,
+          1402
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 공통사항",
+      "confidence": 0.9988831745253669,
+      "bbox": [
+        [
+          128,
+          1426
+        ],
+        [
+          294,
+          1426
+        ],
+        [
+          294,
+          1454
+        ],
+        [
+          128,
+          1454
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1) 지방공무원법 제31조 및 천안문화재단 인사규정 제20조의 결격사유가",
+      "confidence": 0.9990862565381187,
+      "bbox": [
+        [
+          143,
+          1478
+        ],
+        [
+          1122,
+          1478
+        ],
+        [
+          1122,
+          1506
+        ],
+        [
+          143,
+          1506
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "없는 자 및 기타 법령에 의하여 응시자격이 정지되지 아니한 자",
+      "confidence": 0.9990375571780734,
+      "bbox": [
+        [
+          189,
+          1531
+        ],
+        [
+          1055,
+          1531
+        ],
+        [
+          1055,
+          1559
+        ],
+        [
+          189,
+          1559
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 1 -",
+      "confidence": 0.7577890356381735,
+      "bbox": [
+        [
+          588,
+          1680
+        ],
+        [
+          650,
+          1680
+        ],
+        [
+          650,
+          1697
+        ],
+        [
+          588,
+          1697
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

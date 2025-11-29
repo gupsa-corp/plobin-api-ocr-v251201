@@ -1,0 +1,1007 @@
+{
+  "page_number": 7,
+  "total_blocks": 37,
+  "average_confidence": 0.9812184462299492,
+  "processing_time": 1.9138360023498535,
+  "blocks": [
+    {
+      "text": "가 산 적 용",
+      "confidence": 0.9869755506515503,
+      "bbox": [
+        [
+          206,
+          102
+        ],
+        [
+          453,
+          102
+        ],
+        [
+          453,
+          135
+        ],
+        [
+          206,
+          135
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 취업지원대상자(면접시험 시행 전일까지 지정된 경우에 한함)",
+      "confidence": 0.997419619882429,
+      "bbox": [
+        [
+          130,
+          168
+        ],
+        [
+          1008,
+          168
+        ],
+        [
+          1008,
+          194
+        ],
+        [
+          130,
+          194
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 「독립유공자예우에 관한 법률」제16조, 「국가유공자 등 예우 및",
+      "confidence": 0.9759857177734375,
+      "bbox": [
+        [
+          164,
+          207
+        ],
+        [
+          1078,
+          207
+        ],
+        [
+          1078,
+          235
+        ],
+        [
+          164,
+          235
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지원에 관한 법률」제29조, 「보훈보상대상자 지원에 관한 법률」",
+      "confidence": 0.998880792308498,
+      "bbox": [
+        [
+          196,
+          250
+        ],
+        [
+          1069,
+          250
+        ],
+        [
+          1069,
+          275
+        ],
+        [
+          196,
+          275
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제33조, 「5·18민주유공자예우 및 단체설립에 관한 법률」제20조,",
+      "confidence": 0.8375457510352134,
+      "bbox": [
+        [
+          196,
+          290
+        ],
+        [
+          1080,
+          290
+        ],
+        [
+          1080,
+          316
+        ],
+        [
+          196,
+          316
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "「특수임무유공자 예우 및 단체설립에 관한 법률」제19조에 의한 취업",
+      "confidence": 0.9963123813653604,
+      "bbox": [
+        [
+          204,
+          331
+        ],
+        [
+          1118,
+          331
+        ],
+        [
+          1118,
+          357
+        ],
+        [
+          204,
+          357
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지원대상자 및 「고엽제후유의증 등 환자지원 및 단체설립에 관한",
+      "confidence": 0.9993679573138555,
+      "bbox": [
+        [
+          196,
+          371
+        ],
+        [
+          1091,
+          371
+        ],
+        [
+          1091,
+          398
+        ],
+        [
+          196,
+          398
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "법률」제7조의9에 의한 취업지원대상자는 면접점수의 4할 이상 득점자에",
+      "confidence": 0.9969133123755455,
+      "bbox": [
+        [
+          197,
+          413
+        ],
+        [
+          1119,
+          413
+        ],
+        [
+          1119,
+          439
+        ],
+        [
+          197,
+          439
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "한하여 10% 또는 5%를 가산함.",
+      "confidence": 0.9756138324737549,
+      "bbox": [
+        [
+          197,
+          454
+        ],
+        [
+          615,
+          454
+        ],
+        [
+          615,
+          479
+        ],
+        [
+          197,
+          479
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 취업지원대상자 등록 여부, 가산비율은 응시자 본인이 사전에 국가보훈부 또는",
+      "confidence": 0.9980194449424744,
+      "bbox": [
+        [
+          171,
+          494
+        ],
+        [
+          1117,
+          494
+        ],
+        [
+          1117,
+          519
+        ],
+        [
+          171,
+          519
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지방보훈청 등에서 확인",
+      "confidence": 0.9996980386120933,
+      "bbox": [
+        [
+          210,
+          530
+        ],
+        [
+          499,
+          530
+        ],
+        [
+          499,
+          555
+        ],
+        [
+          210,
+          555
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제 출 서 류",
+      "confidence": 0.997231576177809,
+      "bbox": [
+        [
+          207,
+          596
+        ],
+        [
+          450,
+          596
+        ],
+        [
+          450,
+          629
+        ],
+        [
+          207,
+          629
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "8",
+      "confidence": 0.9724627435207367,
+      "bbox": [
+        [
+          133,
+          599
+        ],
+        [
+          163,
+          599
+        ],
+        [
+          163,
+          627
+        ],
+        [
+          133,
+          627
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "① 응시원서(별지 서식1) 1부",
+      "confidence": 0.9594284829340483,
+      "bbox": [
+        [
+          130,
+          666
+        ],
+        [
+          524,
+          666
+        ],
+        [
+          524,
+          692
+        ],
+        [
+          130,
+          692
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 응시 수수료(※ 정부수입인지는 불가)",
+      "confidence": 0.9900551810860634,
+      "bbox": [
+        [
+          172,
+          706
+        ],
+        [
+          707,
+          706
+        ],
+        [
+          707,
+          732
+        ],
+        [
+          172,
+          732
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "▶ 다급(7급 상당)이상 : 천안시 수입증지 7천원",
+      "confidence": 0.9723803747084833,
+      "bbox": [
+        [
+          212,
+          745
+        ],
+        [
+          828,
+          745
+        ],
+        [
+          828,
+          775
+        ],
+        [
+          212,
+          775
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "▶ 라급(8급 상당)이하 : 천안시 수입증지 5천원",
+      "confidence": 0.9641556364874686,
+      "bbox": [
+        [
+          212,
+          788
+        ],
+        [
+          828,
+          788
+        ],
+        [
+          828,
+          814
+        ],
+        [
+          212,
+          814
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "▶지방한시임기제 9호 : 천안시 수입증지 5천원",
+      "confidence": 0.9674549513849718,
+      "bbox": [
+        [
+          212,
+          829
+        ],
+        [
+          770,
+          829
+        ],
+        [
+          770,
+          855
+        ],
+        [
+          212,
+          855
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 응시원서에 천안시 수입증지 부착(천안시청 1층 민원실 1~3번 창구 구입가능)",
+      "confidence": 0.9899391531944275,
+      "bbox": [
+        [
+          209,
+          870
+        ],
+        [
+          1124,
+          870
+        ],
+        [
+          1124,
+          895
+        ],
+        [
+          209,
+          895
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "② 이력서(별지 서식2) 1부",
+      "confidence": 0.9902743763393826,
+      "bbox": [
+        [
+          130,
+          908
+        ],
+        [
+          489,
+          908
+        ],
+        [
+          489,
+          934
+        ],
+        [
+          130,
+          934
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 이력서에 기재된 사항은 증빙자료 필요",
+      "confidence": 0.9988803093632063,
+      "bbox": [
+        [
+          172,
+          946
+        ],
+        [
+          732,
+          946
+        ],
+        [
+          732,
+          976
+        ],
+        [
+          172,
+          976
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(증빙자료가 없는 경우 경력은 인정하지 않음)",
+      "confidence": 0.9975129454224198,
+      "bbox": [
+        [
+          215,
+          989
+        ],
+        [
+          839,
+          989
+        ],
+        [
+          839,
+          1015
+        ],
+        [
+          215,
+          1015
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "③ 자기소개서(별지 서식3) 1부",
+      "confidence": 0.9509325504302979,
+      "bbox": [
+        [
+          130,
+          1030
+        ],
+        [
+          546,
+          1030
+        ],
+        [
+          546,
+          1057
+        ],
+        [
+          130,
+          1057
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- A4용지 2~3매 이내 경력중심으로 작성",
+      "confidence": 0.9961981287708989,
+      "bbox": [
+        [
+          172,
+          1070
+        ],
+        [
+          712,
+          1070
+        ],
+        [
+          712,
+          1099
+        ],
+        [
+          172,
+          1099
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "④ 직무수행계획서(별지 서식4) 1부",
+      "confidence": 0.961794590804635,
+      "bbox": [
+        [
+          130,
+          1111
+        ],
+        [
+          612,
+          1111
+        ],
+        [
+          612,
+          1137
+        ],
+        [
+          130,
+          1137
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 응시자의 임용예정 직무수행계획을 A4용지 5매 이내로 자유롭게 작성",
+      "confidence": 0.9986101843061901,
+      "bbox": [
+        [
+          173,
+          1155
+        ],
+        [
+          1112,
+          1155
+        ],
+        [
+          1112,
+          1182
+        ],
+        [
+          173,
+          1182
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑤ 학사학위 이상의 졸업증명서 및 학위증서 사본 각 1부(해당자)",
+      "confidence": 0.999160929730064,
+      "bbox": [
+        [
+          130,
+          1200
+        ],
+        [
+          1015,
+          1200
+        ],
+        [
+          1015,
+          1229
+        ],
+        [
+          130,
+          1229
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑥ 채용예정분야의 경력증명서 1부",
+      "confidence": 0.9970852494239807,
+      "bbox": [
+        [
+          130,
+          1245
+        ],
+        [
+          605,
+          1245
+        ],
+        [
+          605,
+          1272
+        ],
+        [
+          130,
+          1272
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 경력증명서는 근무기간·직책(급)·담당업무·상근직 또는 비상근직 등을",
+      "confidence": 0.99025236141114,
+      "bbox": [
+        [
+          173,
+          1291
+        ],
+        [
+          1125,
+          1291
+        ],
+        [
+          1125,
+          1318
+        ],
+        [
+          173,
+          1318
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "명시하고, 발행기관의 발급자 · 연락처 · 관인날인 등이 명확해야 하며,",
+      "confidence": 0.8671540050279527,
+      "bbox": [
+        [
+          204,
+          1333
+        ],
+        [
+          1125,
+          1333
+        ],
+        [
+          1125,
+          1362
+        ],
+        [
+          204,
+          1362
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "담당업무는 구체적으로 작성하여 관련분야 근무경력을 확인할 수",
+      "confidence": 0.9947431087493896,
+      "bbox": [
+        [
+          203,
+          1376
+        ],
+        [
+          1126,
+          1376
+        ],
+        [
+          1126,
+          1403
+        ],
+        [
+          203,
+          1403
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "있어야 합니다. (근무경력 기준 : 1일 8시간, 주 40시간)",
+      "confidence": 0.9934125429875141,
+      "bbox": [
+        [
+          205,
+          1420
+        ],
+        [
+          953,
+          1420
+        ],
+        [
+          953,
+          1447
+        ],
+        [
+          205,
+          1447
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 서류작성 미비로 경력판정이 불분명할 경우 불인정될 수 있습니다.",
+      "confidence": 0.9959452366217588,
+      "bbox": [
+        [
+          204,
+          1463
+        ],
+        [
+          1015,
+          1463
+        ],
+        [
+          1015,
+          1488
+        ],
+        [
+          204,
+          1488
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 근무행태가 불규칙적(시간단위 근무 등)인 근무경력자는 근무일 또는",
+      "confidence": 0.9982279390096664,
+      "bbox": [
+        [
+          173,
+          1503
+        ],
+        [
+          1124,
+          1503
+        ],
+        [
+          1124,
+          1530
+        ],
+        [
+          173,
+          1530
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기간동안 1일 근무시간과 기간을 경력증명서에 명시하여 근무시간",
+      "confidence": 0.9993467165364159,
+      "bbox": [
+        [
+          204,
+          1547
+        ],
+        [
+          1125,
+          1547
+        ],
+        [
+          1125,
+          1573
+        ],
+        [
+          204,
+          1573
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "산출이 가능하도록 제출하여야 하며 불분명한 경우에는 경력을 인정하지",
+      "confidence": 0.9999419756424732,
+      "bbox": [
+        [
+          204,
+          1589
+        ],
+        [
+          1122,
+          1589
+        ],
+        [
+          1122,
+          1617
+        ],
+        [
+          204,
+          1617
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "않습니다.",
+      "confidence": 0.9997688617025103,
+      "bbox": [
+        [
+          205,
+          1634
+        ],
+        [
+          335,
+          1634
+        ],
+        [
+          335,
+          1660
+        ],
+        [
+          205,
+          1660
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

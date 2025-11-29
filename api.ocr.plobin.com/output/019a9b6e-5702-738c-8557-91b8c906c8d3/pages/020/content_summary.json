@@ -1,0 +1,242 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "[서식5 동의서]. 자격요건 검증을 위한 동의서. 본인은 2025년도 제8회 천안시 지방임기제공무원 채용시험의 자격",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 2,
+      "footer": 0,
+      "other": 8
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.991,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 10,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.713,
+      "english": 0.0,
+      "other": 0.287
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 10,
+    "total_characters": 176,
+    "analyzed_at": "2025-11-19T09:25:31.485350"
+  },
+  "block_summaries": [
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "[서식5 동의서]",
+      "keywords": [
+        "서식5",
+        "동의서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:31.485091"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "자격요건 검증을 위한 동의서",
+      "keywords": [
+        "자격요건",
+        "검증을",
+        "동의서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 4,
+      "analyzed_at": "2025-11-19T09:25:31.485115"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "본인은 2025년도 제8회 천안시 지방임기제공무원 채용...",
+      "keywords": [
+        "본인은",
+        "2025년도",
+        "제8회",
+        "천안시",
+        "지방임기제공무원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:31.485140"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기준과 관련하여 제출서류(거주지 확인, 경력증명서, 자...",
+      "keywords": [
+        "기준과",
+        "관련하여",
+        "제출서류",
+        "거주지",
+        "경력증명서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 8,
+      "analyzed_at": "2025-11-19T09:25:31.485164"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "제출서류 등)의 진위 여부 검증을 위한 본인의 개인정보...",
+      "keywords": [
+        "제출서류",
+        "검증을",
+        "본인의",
+        "개인정보",
+        "활용에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 9,
+      "analyzed_at": "2025-11-19T09:25:31.485187"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "동의합니다.",
+      "keywords": [
+        "동의합니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:31.485199"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2025년 월 일",
+      "keywords": [
+        "2025년"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 3,
+      "analyzed_at": "2025-11-19T09:25:31.485212"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "성명",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:31.485223"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(세명)",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:31.485234"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "천안시인사위원회 위원장 귀하",
+      "keywords": [
+        "천안시인사위원회",
+        "위원장"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 3,
+      "analyzed_at": "2025-11-19T09:25:31.485248"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다.",
+    "주로 한국어 문서입니다."
+  ],
+  "recommendations": []
+}

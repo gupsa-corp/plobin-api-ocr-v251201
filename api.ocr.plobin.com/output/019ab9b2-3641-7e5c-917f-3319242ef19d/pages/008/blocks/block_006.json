@@ -1,0 +1,17 @@
+{
+  "block_id": 6,
+  "text": "홍 > 조직 목록 4 admin@example.com",
+  "confidence": 0.7195890753677017,
+  "bbox": {
+    "x_min": 351,
+    "y_min": 485,
+    "x_max": 1043,
+    "y_max": 506,
+    "width": 692,
+    "height": 21
+  },
+  "block_type": "text",
+  "text_length": 29,
+  "created_at": "2025-11-25T06:27:48.141209",
+  "version": "1.0"
+}

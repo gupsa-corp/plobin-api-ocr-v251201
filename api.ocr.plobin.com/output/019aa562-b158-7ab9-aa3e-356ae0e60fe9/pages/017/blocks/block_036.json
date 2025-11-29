@@ -1,0 +1,17 @@
+{
+  "block_id": 36,
+  "text": "방금 전",
+  "confidence": 0.9984657367070516,
+  "bbox": {
+    "x_min": 441,
+    "y_min": 1249,
+    "x_max": 477,
+    "y_max": 1261,
+    "width": 36,
+    "height": 12
+  },
+  "block_type": "text",
+  "text_length": 4,
+  "created_at": "2025-11-21T07:48:51.350007",
+  "version": "1.0"
+}

@@ -1,0 +1,1304 @@
+{
+  "page_number": 16,
+  "total_blocks": 48,
+  "average_confidence": 0.9708236885625475,
+  "processing_time": 1.8188953399658203,
+  "blocks": [
+    {
+      "text": "[서식2 이 력 서]",
+      "confidence": 0.9593896361497732,
+      "bbox": [
+        [
+          116,
+          85
+        ],
+        [
+          317,
+          85
+        ],
+        [
+          317,
+          111
+        ],
+        [
+          116,
+          111
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "이 력 서",
+      "confidence": 0.993390509060451,
+      "bbox": [
+        [
+          491,
+          119
+        ],
+        [
+          747,
+          119
+        ],
+        [
+          747,
+          155
+        ],
+        [
+          491,
+          155
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 공통사항",
+      "confidence": 0.9728553162680732,
+      "bbox": [
+        [
+          129,
+          208
+        ],
+        [
+          308,
+          208
+        ],
+        [
+          308,
+          233
+        ],
+        [
+          129,
+          233
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 담당자 기재",
+      "confidence": 0.9957136392593384,
+      "bbox": [
+        [
+          265,
+          257
+        ],
+        [
+          397,
+          257
+        ],
+        [
+          397,
+          279
+        ],
+        [
+          265,
+          279
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시번호",
+      "confidence": 0.9872164845466613,
+      "bbox": [
+        [
+          132,
+          276
+        ],
+        [
+          240,
+          276
+        ],
+        [
+          240,
+          300
+        ],
+        [
+          132,
+          300
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "진",
+      "confidence": 0.9976465702056885,
+      "bbox": [
+        [
+          1024,
+          325
+        ],
+        [
+          1052,
+          325
+        ],
+        [
+          1052,
+          349
+        ],
+        [
+          1024,
+          349
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사",
+      "confidence": 0.9927196502685547,
+      "bbox": [
+        [
+          964,
+          326
+        ],
+        [
+          1018,
+          326
+        ],
+        [
+          1018,
+          350
+        ],
+        [
+          964,
+          350
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시분야",
+      "confidence": 0.9892595887184144,
+      "bbox": [
+        [
+          133,
+          343
+        ],
+        [
+          242,
+          343
+        ],
+        [
+          242,
+          367
+        ],
+        [
+          133,
+          367
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6개월 이내에",
+      "confidence": 0.9975087510214912,
+      "bbox": [
+        [
+          946,
+          360
+        ],
+        [
+          1071,
+          360
+        ],
+        [
+          1071,
+          382
+        ],
+        [
+          946,
+          382
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "촬영한 탈모",
+      "confidence": 0.999781459569931,
+      "bbox": [
+        [
+          952,
+          385
+        ],
+        [
+          1066,
+          385
+        ],
+        [
+          1066,
+          405
+        ],
+        [
+          952,
+          405
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "상반신",
+      "confidence": 0.9992400258779526,
+      "bbox": [
+        [
+          976,
+          410
+        ],
+        [
+          1041,
+          410
+        ],
+        [
+          1041,
+          430
+        ],
+        [
+          976,
+          430
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시분야",
+      "confidence": 0.9918357014656067,
+      "bbox": [
+        [
+          132,
+          411
+        ],
+        [
+          243,
+          411
+        ],
+        [
+          243,
+          435
+        ],
+        [
+          132,
+          435
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사진(3.5Cm×4.5Cm)",
+      "confidence": 0.9900087581740485,
+      "bbox": [
+        [
+          918,
+          434
+        ],
+        [
+          1098,
+          434
+        ],
+        [
+          1098,
+          456
+        ],
+        [
+          918,
+          456
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성 명",
+      "confidence": 0.9925730586051941,
+      "bbox": [
+        [
+          151,
+          479
+        ],
+        [
+          220,
+          479
+        ],
+        [
+          220,
+          504
+        ],
+        [
+          151,
+          504
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "생년월일",
+      "confidence": 0.9945645928382874,
+      "bbox": [
+        [
+          529,
+          479
+        ],
+        [
+          636,
+          479
+        ],
+        [
+          636,
+          504
+        ],
+        [
+          529,
+          504
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 응시자격",
+      "confidence": 0.9925544129477607,
+      "bbox": [
+        [
+          129,
+          547
+        ],
+        [
+          305,
+          547
+        ],
+        [
+          305,
+          572
+        ],
+        [
+          129,
+          572
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자격 증명",
+      "confidence": 0.9935530424118042,
+      "bbox": [
+        [
+          231,
+          616
+        ],
+        [
+          353,
+          616
+        ],
+        [
+          353,
+          640
+        ],
+        [
+          231,
+          640
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "등록번호 / 자격증 취득(예정)일",
+      "confidence": 0.9971742004156112,
+      "bbox": [
+        [
+          431,
+          615
+        ],
+        [
+          812,
+          615
+        ],
+        [
+          812,
+          640
+        ],
+        [
+          431,
+          640
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자격 검정기관",
+      "confidence": 0.9743589493963454,
+      "bbox": [
+        [
+          874,
+          618
+        ],
+        [
+          1077,
+          618
+        ],
+        [
+          1077,
+          640
+        ],
+        [
+          874,
+          640
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자",
+      "confidence": 0.9960790872573853,
+      "bbox": [
+        [
+          130,
+          680
+        ],
+        [
+          162,
+          680
+        ],
+        [
+          162,
+          704
+        ],
+        [
+          130,
+          704
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "격",
+      "confidence": 0.9965764880180359,
+      "bbox": [
+        [
+          131,
+          710
+        ],
+        [
+          159,
+          710
+        ],
+        [
+          159,
+          735
+        ],
+        [
+          131,
+          735
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "증",
+      "confidence": 0.9979555308818817,
+      "bbox": [
+        [
+          131,
+          742
+        ],
+        [
+          159,
+          742
+        ],
+        [
+          159,
+          769
+        ],
+        [
+          131,
+          769
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "근 무 기 관",
+      "confidence": 0.963570601410336,
+      "bbox": [
+        [
+          230,
+          872
+        ],
+        [
+          357,
+          872
+        ],
+        [
+          357,
+          898
+        ],
+        [
+          230,
+          898
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "근 무 기 간",
+      "confidence": 0.9487825963232253,
+      "bbox": [
+        [
+          480,
+          885
+        ],
+        [
+          607,
+          885
+        ],
+        [
+          607,
+          910
+        ],
+        [
+          480,
+          910
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직 위",
+      "confidence": 0.9930976748466491,
+      "bbox": [
+        [
+          679,
+          885
+        ],
+        [
+          759,
+          885
+        ],
+        [
+          759,
+          909
+        ],
+        [
+          679,
+          909
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "담 당 업 무",
+      "confidence": 0.9928664498858981,
+      "bbox": [
+        [
+          826,
+          885
+        ],
+        [
+          950,
+          885
+        ],
+        [
+          950,
+          910
+        ],
+        [
+          826,
+          910
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "비고",
+      "confidence": 0.9893384377161661,
+      "bbox": [
+        [
+          1030,
+          885
+        ],
+        [
+          1093,
+          885
+        ],
+        [
+          1093,
+          909
+        ],
+        [
+          1030,
+          909
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(부서포함)",
+      "confidence": 0.9780238494277,
+      "bbox": [
+        [
+          220,
+          899
+        ],
+        [
+          367,
+          899
+        ],
+        [
+          367,
+          924
+        ],
+        [
+          220,
+          924
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "예)상근",
+      "confidence": 0.9835456510384878,
+      "bbox": [
+        [
+          1029,
+          952
+        ],
+        [
+          1102,
+          952
+        ],
+        [
+          1102,
+          972
+        ],
+        [
+          1029,
+          972
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2024.01.01. ~ 2024.12.31.",
+      "confidence": 0.5047665112293683,
+      "bbox": [
+        [
+          438,
+          954
+        ],
+        [
+          652,
+          954
+        ],
+        [
+          652,
+          972
+        ],
+        [
+          438,
+          972
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사원",
+      "confidence": 0.9796896378199259,
+      "bbox": [
+        [
+          699,
+          954
+        ],
+        [
+          747,
+          954
+        ],
+        [
+          747,
+          972
+        ],
+        [
+          699,
+          972
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경",
+      "confidence": 0.9914647042751312,
+      "bbox": [
+        [
+          130,
+          962
+        ],
+        [
+          157,
+          962
+        ],
+        [
+          157,
+          987
+        ],
+        [
+          130,
+          987
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "예)주30시",
+      "confidence": 0.9360469803214073,
+      "bbox": [
+        [
+          1019,
+          990
+        ],
+        [
+          1110,
+          990
+        ],
+        [
+          1110,
+          1014
+        ],
+        [
+          1019,
+          1014
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※임용분야와 관련된",
+      "confidence": 0.9933977921803793,
+      "bbox": [
+        [
+          448,
+          994
+        ],
+        [
+          644,
+          994
+        ],
+        [
+          644,
+          1018
+        ],
+        [
+          448,
+          1018
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "팀장",
+      "confidence": 0.9922260840733846,
+      "bbox": [
+        [
+          701,
+          1008
+        ],
+        [
+          748,
+          1008
+        ],
+        [
+          748,
+          1026
+        ],
+        [
+          701,
+          1026
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경력만 작성",
+      "confidence": 0.998263955116272,
+      "bbox": [
+        [
+          486,
+          1017
+        ],
+        [
+          604,
+          1017
+        ],
+        [
+          604,
+          1037
+        ],
+        [
+          486,
+          1037
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "21",
+      "confidence": 0.7026820778846741,
+      "bbox": [
+        [
+          1051,
+          1020
+        ],
+        [
+          1080,
+          1020
+        ],
+        [
+          1080,
+          1040
+        ],
+        [
+          1051,
+          1040
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "력",
+      "confidence": 0.9941128194332123,
+      "bbox": [
+        [
+          131,
+          1026
+        ],
+        [
+          158,
+          1026
+        ],
+        [
+          158,
+          1050
+        ],
+        [
+          131,
+          1050
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전 공 분 야",
+      "confidence": 0.9980820549858941,
+      "bbox": [
+        [
+          230,
+          1181
+        ],
+        [
+          359,
+          1181
+        ],
+        [
+          359,
+          1209
+        ],
+        [
+          230,
+          1209
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "학위 취득(예정)일",
+      "confidence": 0.9804619948069254,
+      "bbox": [
+        [
+          497,
+          1180
+        ],
+        [
+          750,
+          1180
+        ],
+        [
+          750,
+          1207
+        ],
+        [
+          497,
+          1207
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "학위 종류",
+      "confidence": 0.931647607258388,
+      "bbox": [
+        [
+          906,
+          1181
+        ],
+        [
+          1046,
+          1181
+        ],
+        [
+          1046,
+          1208
+        ],
+        [
+          906,
+          1208
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "학",
+      "confidence": 0.9904572665691376,
+      "bbox": [
+        [
+          133,
+          1206
+        ],
+        [
+          163,
+          1206
+        ],
+        [
+          163,
+          1230
+        ],
+        [
+          133,
+          1230
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "위",
+      "confidence": 0.9960456490516663,
+      "bbox": [
+        [
+          131,
+          1270
+        ],
+        [
+          161,
+          1270
+        ],
+        [
+          161,
+          1297
+        ],
+        [
+          131,
+          1297
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※서식변경 금지, 필요시 줄 추가 및 삭제 가능",
+      "confidence": 0.9898136939321246,
+      "bbox": [
+        [
+          130,
+          1360
+        ],
+        [
+          701,
+          1360
+        ],
+        [
+          701,
+          1388
+        ],
+        [
+          130,
+          1388
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※학위, 근무경력, 자격증 등 : 증빙자료에 따라 증명이 가능한 것만 인정",
+      "confidence": 0.9917744190193886,
+      "bbox": [
+        [
+          130,
+          1396
+        ],
+        [
+          976,
+          1396
+        ],
+        [
+          976,
+          1423
+        ],
+        [
+          130,
+          1423
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※근무경력은 임용분야와 관련된 경력만 작성",
+      "confidence": 0.9835339283943176,
+      "bbox": [
+        [
+          130,
+          1431
+        ],
+        [
+          658,
+          1431
+        ],
+        [
+          658,
+          1457
+        ],
+        [
+          130,
+          1457
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※비상근직(프리랜서 등)등 근무시간이 불분명한 응시자는 주당 근무시간 또는 1일 근무시",
+      "confidence": 0.9939679837226868,
+      "bbox": [
+        [
+          130,
+          1465
+        ],
+        [
+          1116,
+          1465
+        ],
+        [
+          1116,
+          1492
+        ],
+        [
+          130,
+          1492
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "간과 근무기간을 각 직장별 인사업무 담당자의 확인을 필히 받아 제출하여야 함",
+      "confidence": 0.9999211769212376,
+      "bbox": [
+        [
+          150,
+          1500
+        ],
+        [
+          1048,
+          1500
+        ],
+        [
+          1048,
+          1526
+        ],
+        [
+          150,
+          1526
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "- 신원진술서(사진 부착): 2부. - 공무원 채용 신체검사서 : 1부 ※ 종합병원 등 발급(사진 2매 필요). 명함판사진 : 1매 / 반명함판사진 : 2매 ※ 별도 지참",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [
+        ""
+      ],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 9,
+      "footer": 0,
+      "other": 10
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.987,
+      "readability": "high",
+      "completeness": "complete",
+      "high_confidence_blocks": 19,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.684,
+      "english": 0.0,
+      "other": 0.316
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 19,
+    "total_characters": 579,
+    "analyzed_at": "2025-11-28T05:14:00.597035"
+  },
+  "block_summaries": [
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 신원진술서(사진 부착): 2부",
+      "keywords": [
+        "신원진술서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:14:00.596491"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 공무원 채용 신체검사서 : 1부 ※ 종합병원 등 발...",
+      "keywords": [
+        "공무원",
+        "신체검사서",
+        "종합병원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 41,
+      "word_count": 12,
+      "analyzed_at": "2025-11-28T05:14:00.596521"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "명함판사진 : 1매 / 반명함판사진 : 2매 ※ 별도 ...",
+      "keywords": [
+        "명함판사진",
+        "반명함판사진"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T05:14:00.596540"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 면허증 또는 자격증 소지자는 그 사본 각 1부",
+      "keywords": [
+        "면허증",
+        "자격증",
+        "소지자는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 27,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T05:14:00.596556"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 개인정보 제공동의서 1부",
+      "keywords": [
+        "개인정보",
+        "제공동의서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:14:00.596568"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 등록방법",
+      "keywords": [
+        "등록방법"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T05:14:00.596582"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "- 등록서류는 지정된 날짜에 본인이 직접 제출하여야 하...",
+      "keywords": [
+        "본인이",
+        "등록서류는",
+        "지정된",
+        "날짜에",
+        "제출하여야"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T05:14:00.596606"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "제출하지 못할 경우에는 임용예정기관으로 사전에 통보하시...",
+      "keywords": [
+        "제출하지",
+        "경우에는",
+        "임용예정기관으로",
+        "사전에",
+        "통보하시기"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T05:14:00.596626"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3. 기타 유의사항",
+      "keywords": [
+        "유의사항"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:14:00.596638"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 신규임용 후보자가 등록기간 내에 등록을 하지 않을 ...",
+      "keywords": [
+        "신규임용",
+        "후보자가",
+        "등록기간",
+        "등록을",
+        "임용의사가"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T05:14:00.596661"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "없는 것으로 간주 처리됩니다.",
+      "keywords": [
+        "것으로",
+        "처리됩니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 16,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T05:14:00.596675"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "- 최종합격자의 임용포기 등으로 결원발생 시 최종합격자...",
+      "keywords": [
+        "최종합격자의",
+        "임용포기",
+        "등으로",
+        "결원발생",
+        "최종합격자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T05:14:00.596692"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "6개월 이내에 불합격 기준에 해당하지 않는 사람 중에서...",
+      "keywords": [
+        "6개월",
+        "이내에",
+        "불합격",
+        "기준에",
+        "해당하지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T05:14:00.596709"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "순위에 따라 추가 합격자를 결정할 수 있습니다.",
+      "keywords": [
+        "순위에",
+        "합격자를",
+        "결정할",
+        "있습니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T05:14:00.596727"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "○ 최종합격이 결정된 사람도 지방공무원법 제31조의 결...",
+      "keywords": [
+        "최종합격이",
+        "결정된",
+        "사람도",
+        "지방공무원법",
+        "제31조의"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 40,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T05:14:00.596745"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "법령에 의하여 응시자격이 정지된 사람, 시험시행계획을 ...",
+      "keywords": [
+        "법령에",
+        "의하여",
+        "응시자격이",
+        "정지된",
+        "시험시행계획을"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T05:14:00.596763"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "공무원 채용 신체검사 결과 불합격한 사람은 임용을 취소...",
+      "keywords": [
+        "공무원",
+        "신체검사",
+        "불합격한",
+        "사람은",
+        "임용을"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T05:14:00.596783"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 기타 임용후보자 등록과 관련하여 자세한 사항은 충남...",
+      "keywords": [
+        "임용후보자",
+        "등록과",
+        "관련하여",
+        "자세한",
+        "사항은"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T05:14:00.596804"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "인사팀(041-635-3525)으로 문의하시기 바랍니다...",
+      "keywords": [
+        "인사팀",
+        "041",
+        "635",
+        "3525",
+        "문의하시기"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": true,
+      "text_length": 31,
+      "word_count": 3,
+      "analyzed_at": "2025-11-28T05:14:00.596822"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

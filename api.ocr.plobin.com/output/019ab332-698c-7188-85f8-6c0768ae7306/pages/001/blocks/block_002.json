@@ -1,0 +1,17 @@
+{
+  "block_id": 2,
+  "text": "KTC I 10 00-",
+  "confidence": 0.826080458504813,
+  "bbox": {
+    "x_min": 21,
+    "y_min": 198,
+    "x_max": 160,
+    "y_max": 208,
+    "width": 139,
+    "height": 10
+  },
+  "block_type": "text",
+  "text_length": 12,
+  "created_at": "2025-11-24T00:10:16.844473",
+  "version": "1.0"
+}

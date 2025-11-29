@@ -1,0 +1,1034 @@
+{
+  "page_number": 10,
+  "total_blocks": 38,
+  "average_confidence": 0.9887859325524435,
+  "processing_time": 1.6925740242004395,
+  "blocks": [
+    {
+      "text": "직 무 기 술 서",
+      "confidence": 0.9955939704721625,
+      "bbox": [
+        [
+          206,
+          103
+        ],
+        [
+          452,
+          103
+        ],
+        [
+          452,
+          136
+        ],
+        [
+          206,
+          136
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용 분야",
+      "confidence": 0.9991411226136344,
+      "bbox": [
+        [
+          451,
+          171
+        ],
+        [
+          578,
+          171
+        ],
+        [
+          578,
+          196
+        ],
+        [
+          451,
+          196
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "근무예정부서",
+      "confidence": 0.9863563520567757,
+      "bbox": [
+        [
+          160,
+          172
+        ],
+        [
+          315,
+          172
+        ],
+        [
+          315,
+          196
+        ],
+        [
+          160,
+          196
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "임용예정직급",
+      "confidence": 0.999484087739672,
+      "bbox": [
+        [
+          728,
+          172
+        ],
+        [
+          886,
+          172
+        ],
+        [
+          886,
+          196
+        ],
+        [
+          728,
+          196
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "선발예정인원",
+      "confidence": 0.999311796256474,
+      "bbox": [
+        [
+          952,
+          171
+        ],
+        [
+          1108,
+          171
+        ],
+        [
+          1108,
+          195
+        ],
+        [
+          952,
+          195
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건설안전교통국",
+      "confidence": 0.9992455914616585,
+      "bbox": [
+        [
+          146,
+          209
+        ],
+        [
+          329,
+          209
+        ],
+        [
+          329,
+          234
+        ],
+        [
+          146,
+          234
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시간선택제임기제",
+      "confidence": 0.997901075416141,
+      "bbox": [
+        [
+          703,
+          209
+        ],
+        [
+          908,
+          209
+        ],
+        [
+          908,
+          233
+        ],
+        [
+          703,
+          233
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "교통(지능형 교통체계)",
+      "confidence": 0.9860685339995793,
+      "bbox": [
+        [
+          382,
+          222
+        ],
+        [
+          642,
+          222
+        ],
+        [
+          642,
+          252
+        ],
+        [
+          382,
+          252
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1명",
+      "confidence": 0.9921960383653641,
+      "bbox": [
+        [
+          1009,
+          225
+        ],
+        [
+          1051,
+          225
+        ],
+        [
+          1051,
+          251
+        ],
+        [
+          1009,
+          251
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "교통정책과",
+      "confidence": 0.9993532598018646,
+      "bbox": [
+        [
+          173,
+          242
+        ],
+        [
+          302,
+          242
+        ],
+        [
+          302,
+          267
+        ],
+        [
+          173,
+          267
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나급(6급상당)",
+      "confidence": 0.9890803456306457,
+      "bbox": [
+        [
+          724,
+          242
+        ],
+        [
+          885,
+          242
+        ],
+        [
+          885,
+          268
+        ],
+        [
+          724,
+          268
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 지능형교통체계(ITS) 기본계획 수립 및 구축",
+      "confidence": 0.988771254016507,
+      "bbox": [
+        [
+          362,
+          306
+        ],
+        [
+          913,
+          306
+        ],
+        [
+          913,
+          330
+        ],
+        [
+          362,
+          330
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 자율주행 시범운행지구 구축 및 확대 운영",
+      "confidence": 0.9871589916723745,
+      "bbox": [
+        [
+          361,
+          343
+        ],
+        [
+          890,
+          343
+        ],
+        [
+          890,
+          367
+        ],
+        [
+          361,
+          367
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 국가 · 도 지능형교통 관련 공모사업 추진",
+      "confidence": 0.9717287914506321,
+      "bbox": [
+        [
+          361,
+          381
+        ],
+        [
+          903,
+          381
+        ],
+        [
+          903,
+          405
+        ],
+        [
+          361,
+          405
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주요 업무",
+      "confidence": 0.9997602019991193,
+      "bbox": [
+        [
+          178,
+          399
+        ],
+        [
+          294,
+          399
+        ],
+        [
+          294,
+          423
+        ],
+        [
+          178,
+          423
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 광역형 긴급차량 우선신호 구축",
+      "confidence": 0.9879136795089358,
+      "bbox": [
+        [
+          361,
+          418
+        ],
+        [
+          768,
+          418
+        ],
+        [
+          768,
+          443
+        ],
+        [
+          361,
+          443
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 실시간 교통신호 잔여시간 정보제공 서비스 확대구축",
+      "confidence": 0.9932413678616285,
+      "bbox": [
+        [
+          361,
+          456
+        ],
+        [
+          1016,
+          456
+        ],
+        [
+          1016,
+          481
+        ],
+        [
+          361,
+          481
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 기타 부서장이 지정하는 업무 등",
+      "confidence": 0.9898035634647716,
+      "bbox": [
+        [
+          361,
+          493
+        ],
+        [
+          779,
+          493
+        ],
+        [
+          779,
+          517
+        ],
+        [
+          361,
+          517
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ (<b>공통 역량</b>) 공직윤리, 공직의식, 문제해결능력, 의사소통능력",
+      "confidence": 0.9562311882064456,
+      "bbox": [
+        [
+          362,
+          583
+        ],
+        [
+          1108,
+          583
+        ],
+        [
+          1108,
+          608
+        ],
+        [
+          362,
+          608
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ (직급별 역량) 업무 수행 및 관리, 판단 및 기획 지원, 전문지식 및 경험",
+      "confidence": 0.9520573119322459,
+      "bbox": [
+        [
+          362,
+          625
+        ],
+        [
+          1064,
+          625
+        ],
+        [
+          1064,
+          650
+        ],
+        [
+          362,
+          650
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필요 역량",
+      "confidence": 0.9990024481500898,
+      "bbox": [
+        [
+          178,
+          647
+        ],
+        [
+          298,
+          647
+        ],
+        [
+          298,
+          671
+        ],
+        [
+          178,
+          671
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ (직렬별 역량) ITS 관련 전문 지식, ITS 관련시업 발굴 및 기획능력,",
+      "confidence": 0.9256362232069174,
+      "bbox": [
+        [
+          361,
+          668
+        ],
+        [
+          1071,
+          668
+        ],
+        [
+          1071,
+          693
+        ],
+        [
+          361,
+          693
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기술이해 및 적용능력",
+      "confidence": 0.9962548155051011,
+      "bbox": [
+        [
+          539,
+          710
+        ],
+        [
+          758,
+          710
+        ],
+        [
+          758,
+          734
+        ],
+        [
+          539,
+          734
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필요 지식",
+      "confidence": 0.999640839440482,
+      "bbox": [
+        [
+          177,
+          821
+        ],
+        [
+          301,
+          821
+        ],
+        [
+          301,
+          845
+        ],
+        [
+          177,
+          845
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ ITS 관련법규 및 정책, 교통시스템 및 기술, 데이터 분석 및 관리",
+      "confidence": 0.9930499209599062,
+      "bbox": [
+        [
+          361,
+          821
+        ],
+        [
+          1109,
+          821
+        ],
+        [
+          1109,
+          846
+        ],
+        [
+          361,
+          846
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "아래의 경력요건 중 한가지 이상을 충족하는 자",
+      "confidence": 0.9998549355400933,
+      "bbox": [
+        [
+          361,
+          943
+        ],
+        [
+          881,
+          943
+        ],
+        [
+          881,
+          968
+        ],
+        [
+          361,
+          968
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[경력요건]",
+      "confidence": 0.997494287788868,
+      "bbox": [
+        [
+          373,
+          1019
+        ],
+        [
+          497,
+          1019
+        ],
+        [
+          497,
+          1043
+        ],
+        [
+          373,
+          1043
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 학사학위 취득 후 3년 이상 임용예정 직무분야의 실무경력자",
+      "confidence": 0.9993479332408389,
+      "bbox": [
+        [
+          373,
+          1069
+        ],
+        [
+          1023,
+          1069
+        ],
+        [
+          1023,
+          1093
+        ],
+        [
+          373,
+          1093
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 5년 이상 임용예정 직무분야의 실무경력자",
+      "confidence": 0.9988168787073206,
+      "bbox": [
+        [
+          373,
+          1118
+        ],
+        [
+          877,
+          1118
+        ],
+        [
+          877,
+          1143
+        ],
+        [
+          373,
+          1143
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 7급(7급상당) 이상의 공무원으로서 2년이상 임용예정 직무분야의",
+      "confidence": 0.9939511984586715,
+      "bbox": [
+        [
+          374,
+          1167
+        ],
+        [
+          1111,
+          1167
+        ],
+        [
+          1111,
+          1192
+        ],
+        [
+          374,
+          1192
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시자격요건",
+      "confidence": 0.9962819218635559,
+      "bbox": [
+        [
+          161,
+          1170
+        ],
+        [
+          313,
+          1170
+        ],
+        [
+          313,
+          1194
+        ],
+        [
+          161,
+          1194
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "실무경력자",
+      "confidence": 0.9991251627604166,
+      "bbox": [
+        [
+          407,
+          1219
+        ],
+        [
+          531,
+          1219
+        ],
+        [
+          531,
+          1243
+        ],
+        [
+          407,
+          1243
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[실무경력]",
+      "confidence": 0.9966808184981346,
+      "bbox": [
+        [
+          374,
+          1296
+        ],
+        [
+          498,
+          1296
+        ],
+        [
+          498,
+          1321
+        ],
+        [
+          374,
+          1321
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "국가 및 지자체, 공공기관, 연구소 등에서 지능형교통체계(ITS),",
+      "confidence": 0.9981316730380059,
+      "bbox": [
+        [
+          374,
+          1347
+        ],
+        [
+          1070,
+          1347
+        ],
+        [
+          1070,
+          1372
+        ],
+        [
+          374,
+          1372
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "교통계획, 교통분석 분야 관련 근무 경력",
+      "confidence": 0.9991485004623731,
+      "bbox": [
+        [
+          373,
+          1396
+        ],
+        [
+          823,
+          1396
+        ],
+        [
+          823,
+          1422
+        ],
+        [
+          373,
+          1422
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 교통공학, 교통(도시)계획, 도시공학 관련학과 전공자",
+      "confidence": 0.9989688080899856,
+      "bbox": [
+        [
+          369,
+          1503
+        ],
+        [
+          977,
+          1503
+        ],
+        [
+          977,
+          1528
+        ],
+        [
+          369,
+          1528
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "우대요건",
+      "confidence": 0.9133107304573059,
+      "bbox": [
+        [
+          184,
+          1524
+        ],
+        [
+          289,
+          1524
+        ],
+        [
+          289,
+          1548
+        ],
+        [
+          184,
+          1548
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 교통(산업)기사 자격증 취득자",
+      "confidence": 0.9987698168981642,
+      "bbox": [
+        [
+          368,
+          1544
+        ],
+        [
+          729,
+          1544
+        ],
+        [
+          729,
+          1568
+        ],
+        [
+          368,
+          1568
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

@@ -1,0 +1,872 @@
+{
+  "page_number": 9,
+  "total_blocks": 32,
+  "average_confidence": 0.919777100499294,
+  "processing_time": 1.5777978897094727,
+  "blocks": [
+    {
+      "text": "아. 본 시험계획은 사정에 의하여 변경될 수 있으며, 변경된 사항은 시험시행",
+      "confidence": 0.9996761327440088,
+      "bbox": [
+        [
+          130,
+          98
+        ],
+        [
+          1122,
+          98
+        ],
+        [
+          1122,
+          127
+        ],
+        [
+          130,
+          127
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "7일전에 천안시 홈페이지(www.cheonan.go.kr)/시험공고란에 별도 공고",
+      "confidence": 0.9977793345848719,
+      "bbox": [
+        [
+          182,
+          132
+        ],
+        [
+          1125,
+          132
+        ],
+        [
+          1125,
+          162
+        ],
+        [
+          182,
+          162
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "합니다.",
+      "confidence": 0.995308111111323,
+      "bbox": [
+        [
+          184,
+          168
+        ],
+        [
+          285,
+          168
+        ],
+        [
+          285,
+          196
+        ],
+        [
+          184,
+          196
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자. 기타 상세한 내용은 아래 연락처로 문의하시기 바랍니다.",
+      "confidence": 0.9998344097818647,
+      "bbox": [
+        [
+          130,
+          209
+        ],
+        [
+          952,
+          209
+        ],
+        [
+          952,
+          238
+        ],
+        [
+          130,
+          238
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "· 채용 절차 및 시험에 관한 사항 : 행정지원과 인사팀(☎041-521-5212)",
+      "confidence": 0.9698229205608367,
+      "bbox": [
+        [
+          150,
+          251
+        ],
+        [
+          1031,
+          251
+        ],
+        [
+          1031,
+          278
+        ],
+        [
+          150,
+          278
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "•분야별 직무에 관한 사항 : 해당 부서별 문의",
+      "confidence": 0.9587775106940951,
+      "bbox": [
+        [
+          150,
+          293
+        ],
+        [
+          744,
+          293
+        ],
+        [
+          744,
+          322
+        ],
+        [
+          150,
+          322
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "통",
+      "confidence": 0.9929880797863007,
+      "bbox": [
+        [
+          397,
+          352
+        ],
+        [
+          426,
+          352
+        ],
+        [
+          426,
+          380
+        ],
+        [
+          397,
+          380
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "교",
+      "confidence": 0.6628127843141556,
+      "bbox": [
+        [
+          175,
+          354
+        ],
+        [
+          208,
+          354
+        ],
+        [
+          208,
+          376
+        ],
+        [
+          175,
+          376
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건설안전교통국 교통정책과 지능형교통팀 (041-521-5889)",
+      "confidence": 0.9928579266006882,
+      "bbox": [
+        [
+          517,
+          369
+        ],
+        [
+          1109,
+          369
+        ],
+        [
+          1109,
+          395
+        ],
+        [
+          517,
+          395
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "<math>\\Rightarrow</math>",
+      "confidence": 0.9443556815385818,
+      "bbox": [
+        [
+          466,
+          375
+        ],
+        [
+          516,
+          375
+        ],
+        [
+          516,
+          392
+        ],
+        [
+          466,
+          392
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(지능형 교통체계)",
+      "confidence": 0.9989956021308899,
+      "bbox": [
+        [
+          172,
+          381
+        ],
+        [
+          429,
+          381
+        ],
+        [
+          429,
+          415
+        ],
+        [
+          172,
+          415
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건 축 안 전 관 리",
+      "confidence": 0.9917413913286649,
+      "bbox": [
+        [
+          174,
+          423
+        ],
+        [
+          427,
+          423
+        ],
+        [
+          427,
+          455
+        ],
+        [
+          174,
+          455
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⇒ 도시주택국 건축과 건축안전센터팀 (041-521-2493)",
+      "confidence": 0.9626538780000474,
+      "bbox": [
+        [
+          465,
+          440
+        ],
+        [
+          1042,
+          440
+        ],
+        [
+          1042,
+          466
+        ],
+        [
+          465,
+          466
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "( 건 축 구 조 )",
+      "confidence": 0.5426249546664101,
+      "bbox": [
+        [
+          174,
+          449
+        ],
+        [
+          430,
+          449
+        ],
+        [
+          430,
+          485
+        ],
+        [
+          174,
+          485
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "통",
+      "confidence": 0.9619327783584595,
+      "bbox": [
+        [
+          226,
+          488
+        ],
+        [
+          287,
+          488
+        ],
+        [
+          287,
+          521
+        ],
+        [
+          226,
+          521
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지 도",
+      "confidence": 0.9957305431365967,
+      "bbox": [
+        [
+          299,
+          492
+        ],
+        [
+          429,
+          492
+        ],
+        [
+          429,
+          520
+        ],
+        [
+          299,
+          520
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⇒ 서북구 산업교통과 교통지도팀(041-521-6422)",
+      "confidence": 0.9847353065715116,
+      "bbox": [
+        [
+          465,
+          508
+        ],
+        [
+          1086,
+          508
+        ],
+        [
+          1086,
+          535
+        ],
+        [
+          465,
+          535
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "공 고",
+      "confidence": 0.9864248275756836,
+      "bbox": [
+        [
+          283,
+          526
+        ],
+        [
+          396,
+          526
+        ],
+        [
+          396,
+          553
+        ],
+        [
+          283,
+          553
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": ")",
+      "confidence": 0.7390376925468445,
+      "bbox": [
+        [
+          393,
+          525
+        ],
+        [
+          431,
+          525
+        ],
+        [
+          431,
+          551
+        ],
+        [
+          393,
+          551
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(",
+      "confidence": 0.7460445463657379,
+      "bbox": [
+        [
+          172,
+          527
+        ],
+        [
+          204,
+          527
+        ],
+        [
+          204,
+          553
+        ],
+        [
+          172,
+          553
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "재",
+      "confidence": 0.9967889785766602,
+      "bbox": [
+        [
+          217,
+          527
+        ],
+        [
+          259,
+          527
+        ],
+        [
+          259,
+          552
+        ],
+        [
+          217,
+          552
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "산",
+      "confidence": 0.9974393844604492,
+      "bbox": [
+        [
+          175,
+          563
+        ],
+        [
+          209,
+          563
+        ],
+        [
+          209,
+          592
+        ],
+        [
+          175,
+          592
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "림",
+      "confidence": 0.9970459640026093,
+      "bbox": [
+        [
+          248,
+          563
+        ],
+        [
+          282,
+          563
+        ],
+        [
+          282,
+          590
+        ],
+        [
+          248,
+          590
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "재",
+      "confidence": 0.9969983398914337,
+      "bbox": [
+        [
+          319,
+          564
+        ],
+        [
+          357,
+          564
+        ],
+        [
+          357,
+          590
+        ],
+        [
+          319,
+          590
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "해",
+      "confidence": 0.998229593038559,
+      "bbox": [
+        [
+          397,
+          565
+        ],
+        [
+          426,
+          565
+        ],
+        [
+          426,
+          592
+        ],
+        [
+          397,
+          592
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "공원녹지사업본부 산림휴양과 산림보호팀(041-521-2422)",
+      "confidence": 0.9904511686828401,
+      "bbox": [
+        [
+          516,
+          579
+        ],
+        [
+          1098,
+          579
+        ],
+        [
+          1098,
+          605
+        ],
+        [
+          516,
+          605
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "<math>\\Rightarrow</math>",
+      "confidence": 0.9621830247342587,
+      "bbox": [
+        [
+          464,
+          578
+        ],
+        [
+          519,
+          578
+        ],
+        [
+          519,
+          603
+        ],
+        [
+          464,
+          603
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(",
+      "confidence": 0.7564941048622131,
+      "bbox": [
+        [
+          171,
+          595
+        ],
+        [
+          203,
+          595
+        ],
+        [
+          203,
+          617
+        ],
+        [
+          171,
+          617
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "공",
+      "confidence": 0.9964411854743958,
+      "bbox": [
+        [
+          286,
+          594
+        ],
+        [
+          320,
+          594
+        ],
+        [
+          320,
+          621
+        ],
+        [
+          286,
+          621
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "재",
+      "confidence": 0.997457891702652,
+      "bbox": [
+        [
+          220,
+          595
+        ],
+        [
+          255,
+          595
+        ],
+        [
+          255,
+          620
+        ],
+        [
+          220,
+          620
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": ")",
+      "confidence": 0.5896850824356079,
+      "bbox": [
+        [
+          403,
+          596
+        ],
+        [
+          427,
+          596
+        ],
+        [
+          427,
+          618
+        ],
+        [
+          403,
+          618
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "卫",
+      "confidence": 0.7295180857181549,
+      "bbox": [
+        [
+          346,
+          597
+        ],
+        [
+          384,
+          597
+        ],
+        [
+          384,
+          619
+        ],
+        [
+          346,
+          619
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

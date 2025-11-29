@@ -1,0 +1,17 @@
+{
+  "block_id": 22,
+  "text": "테이블 뷰 2 i",
+  "confidence": 0.8046435929007001,
+  "bbox": {
+    "x_min": 177,
+    "y_min": 874,
+    "x_max": 304,
+    "y_max": 889,
+    "width": 127,
+    "height": 15
+  },
+  "block_type": "text",
+  "text_length": 9,
+  "created_at": "2025-11-25T06:27:59.248100",
+  "version": "1.0"
+}

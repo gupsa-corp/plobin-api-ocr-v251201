@@ -1,0 +1,2276 @@
+{
+  "page_number": 5,
+  "total_blocks": 84,
+  "average_confidence": 0.9684661479597623,
+  "processing_time": 2.4972002506256104,
+  "blocks": [
+    {
+      "text": "내용",
+      "confidence": 0.670187751452128,
+      "bbox": [
+        [
+          399,
+          134
+        ],
+        [
+          475,
+          134
+        ],
+        [
+          475,
+          160
+        ],
+        [
+          399,
+          160
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "부수",
+      "confidence": 0.9550036589304606,
+      "bbox": [
+        [
+          777,
+          135
+        ],
+        [
+          842,
+          135
+        ],
+        [
+          842,
+          161
+        ],
+        [
+          777,
+          161
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제출방법",
+      "confidence": 0.9990131735801697,
+      "bbox": [
+        [
+          873,
+          135
+        ],
+        [
+          983,
+          135
+        ],
+        [
+          983,
+          161
+        ],
+        [
+          873,
+          161
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "비고",
+      "confidence": 0.8525287707646688,
+      "bbox": [
+        [
+          1018,
+          136
+        ],
+        [
+          1089,
+          136
+        ],
+        [
+          1089,
+          160
+        ],
+        [
+          1018,
+          160
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4) 경력 인정 증빙서류(해당자만 제출)",
+      "confidence": 0.9945199315746626,
+      "bbox": [
+        [
+          132,
+          194
+        ],
+        [
+          610,
+          194
+        ],
+        [
+          610,
+          219
+        ],
+        [
+          132,
+          219
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "\n ③ 경력증명서\n",
+      "confidence": 0.7707302205024227,
+      "bbox": [
+        [
+          132,
+          231
+        ],
+        [
+          311,
+          231
+        ],
+        [
+          311,
+          256
+        ],
+        [
+          132,
+          256
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "관련",
+      "confidence": 0.9994359413782755,
+      "bbox": [
+        [
+          1024,
+          236
+        ],
+        [
+          1080,
+          236
+        ],
+        [
+          1080,
+          261
+        ],
+        [
+          1024,
+          261
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "② 건강보험자격득실확인서(또는 국민연금가입확인서)",
+      "confidence": 0.9962833441537002,
+      "bbox": [
+        [
+          133,
+          267
+        ],
+        [
+          698,
+          267
+        ],
+        [
+          698,
+          297
+        ],
+        [
+          133,
+          297
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "업무",
+      "confidence": 0.9993753035863241,
+      "bbox": [
+        [
+          1024,
+          272
+        ],
+        [
+          1080,
+          272
+        ],
+        [
+          1080,
+          300
+        ],
+        [
+          1024,
+          300
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "각 1부 파일 첨부",
+      "confidence": 0.9410309394200643,
+      "bbox": [
+        [
+          761,
+          291
+        ],
+        [
+          993,
+          291
+        ],
+        [
+          993,
+          318
+        ],
+        [
+          761,
+          318
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ ①, ② 모두 제출한 경우에 한해 경력 인정",
+      "confidence": 0.8023024309012625,
+      "bbox": [
+        [
+          134,
+          309
+        ],
+        [
+          576,
+          309
+        ],
+        [
+          576,
+          329
+        ],
+        [
+          134,
+          329
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경력",
+      "confidence": 0.9982600410779318,
+      "bbox": [
+        [
+          1024,
+          311
+        ],
+        [
+          1079,
+          311
+        ],
+        [
+          1079,
+          337
+        ],
+        [
+          1024,
+          337
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 경력증명서 내 근무기간, 직급(직위), 담당업무(관련직무), 상근직(주40시간)",
+      "confidence": 0.989104550331831,
+      "bbox": [
+        [
+          134,
+          338
+        ],
+        [
+          749,
+          338
+        ],
+        [
+          749,
+          358
+        ],
+        [
+          134,
+          358
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사항",
+      "confidence": 0.9993041356404623,
+      "bbox": [
+        [
+          1023,
+          349
+        ],
+        [
+          1082,
+          349
+        ],
+        [
+          1082,
+          375
+        ],
+        [
+          1023,
+          375
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "등 구체적으로 명시된 서류(발급 확인자 연락처 기재),",
+      "confidence": 0.9996247589588165,
+      "bbox": [
+        [
+          152,
+          368
+        ],
+        [
+          680,
+          368
+        ],
+        [
+          680,
+          388
+        ],
+        [
+          152,
+          388
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "공무원 경력의 경우 국가 및 지자체에서 발행한 경력증명서 제출",
+      "confidence": 0.9997304330269495,
+      "bbox": [
+        [
+          157,
+          397
+        ],
+        [
+          750,
+          397
+        ],
+        [
+          750,
+          417
+        ],
+        [
+          157,
+          417
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "5) 주민등록초본(남성의 경우 병역사항 포함)",
+      "confidence": 0.9993733145572521,
+      "bbox": [
+        [
+          131,
+          435
+        ],
+        [
+          692,
+          435
+        ],
+        [
+          692,
+          460
+        ],
+        [
+          131,
+          460
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "파일 첨부",
+      "confidence": 0.9991724235670907,
+      "bbox": [
+        [
+          865,
+          451
+        ],
+        [
+          990,
+          451
+        ],
+        [
+          990,
+          476
+        ],
+        [
+          865,
+          476
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1부",
+      "confidence": 0.9792020618915558,
+      "bbox": [
+        [
+          783,
+          452
+        ],
+        [
+          831,
+          452
+        ],
+        [
+          831,
+          476
+        ],
+        [
+          783,
+          476
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 공고시작일 이후 발급분 유효",
+      "confidence": 0.9933739022204751,
+      "bbox": [
+        [
+          132,
+          473
+        ],
+        [
+          448,
+          473
+        ],
+        [
+          448,
+          495
+        ],
+        [
+          132,
+          495
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "파일 첨부",
+      "confidence": 0.9993340969085693,
+      "bbox": [
+        [
+          864,
+          519
+        ],
+        [
+          992,
+          519
+        ],
+        [
+          992,
+          544
+        ],
+        [
+          864,
+          544
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6) 자격증 사본(해당자만 제출)",
+      "confidence": 0.9905886113643646,
+      "bbox": [
+        [
+          132,
+          520
+        ],
+        [
+          515,
+          520
+        ],
+        [
+          515,
+          544
+        ],
+        [
+          132,
+          544
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "각 1부",
+      "confidence": 0.9001709620157877,
+      "bbox": [
+        [
+          762,
+          520
+        ],
+        [
+          853,
+          520
+        ],
+        [
+          853,
+          544
+        ],
+        [
+          762,
+          544
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "7) 최종 학교 졸업증명서(해당자만 제출)",
+      "confidence": 0.9984565782546997,
+      "bbox": [
+        [
+          131,
+          586
+        ],
+        [
+          638,
+          586
+        ],
+        [
+          638,
+          611
+        ],
+        [
+          131,
+          611
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1부",
+      "confidence": 0.9824758321046829,
+      "bbox": [
+        [
+          783,
+          588
+        ],
+        [
+          832,
+          588
+        ],
+        [
+          832,
+          612
+        ],
+        [
+          783,
+          612
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "파일 첨부",
+      "confidence": 0.9992176464625767,
+      "bbox": [
+        [
+          865,
+          588
+        ],
+        [
+          992,
+          588
+        ],
+        [
+          992,
+          612
+        ],
+        [
+          865,
+          612
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "8) 성적증명서 및 교육이수사항(해당자만 제출)",
+      "confidence": 0.9992698452302388,
+      "bbox": [
+        [
+          131,
+          645
+        ],
+        [
+          720,
+          645
+        ],
+        [
+          720,
+          670
+        ],
+        [
+          131,
+          670
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "각 1부 파일 첨부",
+      "confidence": 0.9915257096290588,
+      "bbox": [
+        [
+          761,
+          660
+        ],
+        [
+          992,
+          660
+        ],
+        [
+          992,
+          686
+        ],
+        [
+          761,
+          686
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 자기소개서 내 표기한 교육사항에 대한 증빙사항 제출",
+      "confidence": 0.9975031819194555,
+      "bbox": [
+        [
+          133,
+          682
+        ],
+        [
+          688,
+          682
+        ],
+        [
+          688,
+          702
+        ],
+        [
+          133,
+          702
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "< 작성·제출 유의사항 >",
+      "confidence": 0.9665096717722276,
+      "bbox": [
+        [
+          131,
+          736
+        ],
+        [
+          426,
+          736
+        ],
+        [
+          426,
+          762
+        ],
+        [
+          131,
+          762
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1) 교육사항 : 성적증명서 및 졸업증명서 등 확인가능 한 사항 기입",
+      "confidence": 0.998272006213665,
+      "bbox": [
+        [
+          158,
+          774
+        ],
+        [
+          1002,
+          774
+        ],
+        [
+          1002,
+          800
+        ],
+        [
+          158,
+          800
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2) 경력사항 : 건강보험자격득실확인서 또는 국민연금가입확인서 등 공문서로",
+      "confidence": 0.9977217053258142,
+      "bbox": [
+        [
+          159,
+          813
+        ],
+        [
+          1105,
+          813
+        ],
+        [
+          1105,
+          838
+        ],
+        [
+          159,
+          838
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "확인 가능한 사항만 기입(미제출시 경력 인정 제외)",
+      "confidence": 0.9970011174678802,
+      "bbox": [
+        [
+          339,
+          850
+        ],
+        [
+          984,
+          850
+        ],
+        [
+          984,
+          876
+        ],
+        [
+          339,
+          876
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3) 첨부파일 : 파일명 “분야_직급_성명”으로 기입하여 제출",
+      "confidence": 0.9954317029979494,
+      "bbox": [
+        [
+          158,
+          887
+        ],
+        [
+          923,
+          887
+        ],
+        [
+          923,
+          913
+        ],
+        [
+          158,
+          913
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6. 근무조건 및 계약기간 : 천안문화재단 기간제근로자 관리 규정에 따름",
+      "confidence": 0.9996496949877057,
+      "bbox": [
+        [
+          113,
+          971
+        ],
+        [
+          1097,
+          971
+        ],
+        [
+          1097,
+          999
+        ],
+        [
+          113,
+          999
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 기본근무 : 주 5일 근무(주 40시간, 월 209시간), 09:00 ~ 18:00",
+      "confidence": 0.9974169497396431,
+      "bbox": [
+        [
+          130,
+          1022
+        ],
+        [
+          1016,
+          1022
+        ],
+        [
+          1016,
+          1049
+        ],
+        [
+          130,
+          1049
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나.근무 및 보수조건(월급제)",
+      "confidence": 0.9851823846499125,
+      "bbox": [
+        [
+          130,
+          1074
+        ],
+        [
+          510,
+          1074
+        ],
+        [
+          510,
+          1100
+        ],
+        [
+          130,
+          1100
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "보수(위)",
+      "confidence": 0.9979598266737801,
+      "bbox": [
+        [
+          874,
+          1128
+        ],
+        [
+          973,
+          1128
+        ],
+        [
+          973,
+          1153
+        ],
+        [
+          874,
+          1153
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용분야",
+      "confidence": 0.9662029147148132,
+      "bbox": [
+        [
+          225,
+          1147
+        ],
+        [
+          349,
+          1147
+        ],
+        [
+          349,
+          1172
+        ],
+        [
+          225,
+          1172
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자 격",
+      "confidence": 0.9635272026062012,
+      "bbox": [
+        [
+          132,
+          1147
+        ],
+        [
+          206,
+          1147
+        ],
+        [
+          206,
+          1172
+        ],
+        [
+          132,
+          1172
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "계약기간",
+      "confidence": 0.9987598180770874,
+      "bbox": [
+        [
+          356,
+          1148
+        ],
+        [
+          482,
+          1148
+        ],
+        [
+          482,
+          1173
+        ],
+        [
+          356,
+          1173
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "근무요일 및 근무장소",
+      "confidence": 0.99941924902109,
+      "bbox": [
+        [
+          530,
+          1148
+        ],
+        [
+          783,
+          1148
+        ],
+        [
+          783,
+          1173
+        ],
+        [
+          530,
+          1173
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "비고",
+      "confidence": 0.8864599665006002,
+      "bbox": [
+        [
+          1038,
+          1150
+        ],
+        [
+          1106,
+          1150
+        ],
+        [
+          1106,
+          1170
+        ],
+        [
+          1038,
+          1170
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시급",
+      "confidence": 0.667868435382843,
+      "bbox": [
+        [
+          830,
+          1164
+        ],
+        [
+          909,
+          1164
+        ],
+        [
+          909,
+          1192
+        ],
+        [
+          830,
+          1192
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "월 급",
+      "confidence": 0.9906325578689575,
+      "bbox": [
+        [
+          931,
+          1164
+        ],
+        [
+          1001,
+          1164
+        ],
+        [
+          1001,
+          1192
+        ],
+        [
+          931,
+          1192
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "남산문화",
+      "confidence": 0.9995576858520507,
+      "bbox": [
+        [
+          229,
+          1205
+        ],
+        [
+          335,
+          1205
+        ],
+        [
+          335,
+          1234
+        ],
+        [
+          229,
+          1234
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "월 ~ 금요일,",
+      "confidence": 0.9867134392261505,
+      "bbox": [
+        [
+          581,
+          1206
+        ],
+        [
+          734,
+          1206
+        ],
+        [
+          734,
+          1233
+        ],
+        [
+          581,
+          1233
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "육아",
+      "confidence": 0.9985032677650452,
+      "bbox": [
+        [
+          1044,
+          1206
+        ],
+        [
+          1101,
+          1206
+        ],
+        [
+          1101,
+          1232
+        ],
+        [
+          1044,
+          1232
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "계약일 ~",
+      "confidence": 0.9992065514836993,
+      "bbox": [
+        [
+          366,
+          1225
+        ],
+        [
+          475,
+          1225
+        ],
+        [
+          475,
+          1251
+        ],
+        [
+          366,
+          1251
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "휴직",
+      "confidence": 0.9987989664077759,
+      "bbox": [
+        [
+          1044,
+          1241
+        ],
+        [
+          1098,
+          1241
+        ],
+        [
+          1098,
+          1270
+        ],
+        [
+          1044,
+          1270
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "창 작 소",
+      "confidence": 0.9828618935176304,
+      "bbox": [
+        [
+          229,
+          1242
+        ],
+        [
+          335,
+          1242
+        ],
+        [
+          335,
+          1270
+        ],
+        [
+          229,
+          1270
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "신부문화회관남산문화창작소 | 10,030 | 2,096,270",
+      "confidence": 0.9920618385076523,
+      "bbox": [
+        [
+          500,
+          1243
+        ],
+        [
+          1025,
+          1243
+        ],
+        [
+          1025,
+          1270
+        ],
+        [
+          500,
+          1270
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2026.05.29.",
+      "confidence": 0.9811778962612152,
+      "bbox": [
+        [
+          356,
+          1262
+        ],
+        [
+          484,
+          1262
+        ],
+        [
+          484,
+          1288
+        ],
+        [
+          356,
+          1288
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "대체",
+      "confidence": 0.9996415177981058,
+      "bbox": [
+        [
+          1044,
+          1279
+        ],
+        [
+          1100,
+          1279
+        ],
+        [
+          1100,
+          1307
+        ],
+        [
+          1044,
+          1307
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기획운영",
+      "confidence": 0.9985623240470887,
+      "bbox": [
+        [
+          227,
+          1279
+        ],
+        [
+          334,
+          1279
+        ],
+        [
+          334,
+          1307
+        ],
+        [
+          227,
+          1307
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(천안시 동남구 신부동사직동)",
+      "confidence": 0.995449013180203,
+      "bbox": [
+        [
+          499,
+          1281
+        ],
+        [
+          815,
+          1281
+        ],
+        [
+          815,
+          1308
+        ],
+        [
+          499,
+          1308
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "보훈",
+      "confidence": 0.9993444283803304,
+      "bbox": [
+        [
+          141,
+          1285
+        ],
+        [
+          196,
+          1285
+        ],
+        [
+          196,
+          1310
+        ],
+        [
+          141,
+          1310
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전형",
+      "confidence": 0.9988680879275004,
+      "bbox": [
+        [
+          142,
+          1323
+        ],
+        [
+          193,
+          1323
+        ],
+        [
+          193,
+          1349
+        ],
+        [
+          142,
+          1349
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "화 ~ 토요일,",
+      "confidence": 0.9128550112247467,
+      "bbox": [
+        [
+          579,
+          1326
+        ],
+        [
+          735,
+          1326
+        ],
+        [
+          735,
+          1351
+        ],
+        [
+          579,
+          1351
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "계약일 ~",
+      "confidence": 0.9993934886796134,
+      "bbox": [
+        [
+          363,
+          1344
+        ],
+        [
+          476,
+          1344
+        ],
+        [
+          476,
+          1372
+        ],
+        [
+          363,
+          1372
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문화예술",
+      "confidence": 0.9996112823486328,
+      "bbox": [
+        [
+          229,
+          1345
+        ],
+        [
+          337,
+          1345
+        ],
+        [
+          337,
+          1372
+        ],
+        [
+          229,
+          1372
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "10,030 | 2,096,270",
+      "confidence": 0.9498159477585241,
+      "bbox": [
+        [
+          828,
+          1362
+        ],
+        [
+          1025,
+          1362
+        ],
+        [
+          1025,
+          1390
+        ],
+        [
+          828,
+          1390
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시립미술관",
+      "confidence": 0.9977449178695679,
+      "bbox": [
+        [
+          565,
+          1363
+        ],
+        [
+          751,
+          1363
+        ],
+        [
+          751,
+          1389
+        ],
+        [
+          565,
+          1389
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "교 육 사",
+      "confidence": 0.9866157003811428,
+      "bbox": [
+        [
+          229,
+          1383
+        ],
+        [
+          338,
+          1383
+        ],
+        [
+          338,
+          1408
+        ],
+        [
+          229,
+          1408
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025.12.31.",
+      "confidence": 0.9806999663511912,
+      "bbox": [
+        [
+          355,
+          1383
+        ],
+        [
+          483,
+          1383
+        ],
+        [
+          483,
+          1409
+        ],
+        [
+          355,
+          1409
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(천안시 동남구 성남면)",
+      "confidence": 0.9983840465545655,
+      "bbox": [
+        [
+          522,
+          1401
+        ],
+        [
+          793,
+          1401
+        ],
+        [
+          793,
+          1428
+        ],
+        [
+          522,
+          1428
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "육아",
+      "confidence": 0.9988021453221639,
+      "bbox": [
+        [
+          1043,
+          1442
+        ],
+        [
+          1101,
+          1442
+        ],
+        [
+          1101,
+          1470
+        ],
+        [
+          1043,
+          1470
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시립",
+      "confidence": 0.9993963122367859,
+      "bbox": [
+        [
+          228,
+          1444
+        ],
+        [
+          333,
+          1444
+        ],
+        [
+          333,
+          1471
+        ],
+        [
+          228,
+          1471
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "월 ~ 금요일,",
+      "confidence": 0.9848874926567077,
+      "bbox": [
+        [
+          580,
+          1444
+        ],
+        [
+          736,
+          1444
+        ],
+        [
+          736,
+          1470
+        ],
+        [
+          580,
+          1470
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "장애인",
+      "confidence": 0.994297206401825,
+      "bbox": [
+        [
+          129,
+          1460
+        ],
+        [
+          208,
+          1460
+        ],
+        [
+          208,
+          1488
+        ],
+        [
+          129,
+          1488
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "계약일 ~",
+      "confidence": 0.9994953274726868,
+      "bbox": [
+        [
+          365,
+          1461
+        ],
+        [
+          477,
+          1461
+        ],
+        [
+          477,
+          1489
+        ],
+        [
+          365,
+          1489
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "미 술 관",
+      "confidence": 0.9738976444516864,
+      "bbox": [
+        [
+          228,
+          1480
+        ],
+        [
+          336,
+          1480
+        ],
+        [
+          336,
+          1508
+        ],
+        [
+          228,
+          1508
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "10,030 | 2,096,270",
+      "confidence": 0.9471288668481928,
+      "bbox": [
+        [
+          827,
+          1480
+        ],
+        [
+          1026,
+          1480
+        ],
+        [
+          1026,
+          1507
+        ],
+        [
+          827,
+          1507
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "휴직",
+      "confidence": 0.9987450838088989,
+      "bbox": [
+        [
+          1043,
+          1481
+        ],
+        [
+          1097,
+          1481
+        ],
+        [
+          1097,
+          1508
+        ],
+        [
+          1043,
+          1508
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시립미술관",
+      "confidence": 0.9982228055596352,
+      "bbox": [
+        [
+          565,
+          1482
+        ],
+        [
+          751,
+          1482
+        ],
+        [
+          751,
+          1507
+        ],
+        [
+          565,
+          1507
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전",
+      "confidence": 0.9959792196750641,
+      "bbox": [
+        [
+          130,
+          1500
+        ],
+        [
+          159,
+          1500
+        ],
+        [
+          159,
+          1526
+        ],
+        [
+          130,
+          1526
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2026.08.11.",
+      "confidence": 0.9836290329694748,
+      "bbox": [
+        [
+          356,
+          1500
+        ],
+        [
+          483,
+          1500
+        ],
+        [
+          483,
+          1526
+        ],
+        [
+          356,
+          1526
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "형",
+      "confidence": 0.7125787138938904,
+      "bbox": [
+        [
+          179,
+          1502
+        ],
+        [
+          206,
+          1502
+        ],
+        [
+          206,
+          1524
+        ],
+        [
+          179,
+          1524
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전시운영",
+      "confidence": 0.9992908477783203,
+      "bbox": [
+        [
+          229,
+          1517
+        ],
+        [
+          333,
+          1517
+        ],
+        [
+          333,
+          1546
+        ],
+        [
+          229,
+          1546
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "대체",
+      "confidence": 0.9995439847310384,
+      "bbox": [
+        [
+          1045,
+          1518
+        ],
+        [
+          1099,
+          1518
+        ],
+        [
+          1099,
+          1545
+        ],
+        [
+          1045,
+          1545
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(천안시 동남구 성남면)",
+      "confidence": 0.9974382956822713,
+      "bbox": [
+        [
+          522,
+          1519
+        ],
+        [
+          793,
+          1519
+        ],
+        [
+          793,
+          1545
+        ],
+        [
+          522,
+          1545
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 천안시생활임금(시급 11,876원) 적용, 초과근무수당, 연차수당 등 별도 지급",
+      "confidence": 0.9744309422870477,
+      "bbox": [
+        [
+          117,
+          1575
+        ],
+        [
+          1030,
+          1575
+        ],
+        [
+          1030,
+          1601
+        ],
+        [
+          117,
+          1601
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 육아휴직대체직은 휴직자의 복직시기에 따라 계약기간이 변경될 수 있음",
+      "confidence": 0.9962704661415844,
+      "bbox": [
+        [
+          117,
+          1617
+        ],
+        [
+          994,
+          1617
+        ],
+        [
+          994,
+          1642
+        ],
+        [
+          117,
+          1642
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 5 -",
+      "confidence": 0.8371400137742361,
+      "bbox": [
+        [
+          587,
+          1677
+        ],
+        [
+          651,
+          1677
+        ],
+        [
+          651,
+          1697
+        ],
+        [
+          587,
+          1697
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

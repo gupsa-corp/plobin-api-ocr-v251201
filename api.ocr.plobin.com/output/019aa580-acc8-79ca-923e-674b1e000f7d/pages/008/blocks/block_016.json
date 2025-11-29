@@ -1,0 +1,17 @@
+{
+  "block_id": 16,
+  "text": "기능:",
+  "confidence": 0.9889837980270386,
+  "bbox": {
+    "x_min": 142,
+    "y_min": 1249,
+    "x_max": 199,
+    "y_max": 1275,
+    "width": 57,
+    "height": 26
+  },
+  "block_type": "text",
+  "text_length": 3,
+  "created_at": "2025-11-21T08:21:17.490426",
+  "version": "1.0"
+}

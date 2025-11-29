@@ -1,0 +1,1088 @@
+{
+  "page_number": 8,
+  "total_blocks": 40,
+  "average_confidence": 0.9786308251510537,
+  "processing_time": 1.545635461807251,
+  "blocks": [
+    {
+      "text": "(재)천안시민프로축구단 공개채용 응시원서",
+      "confidence": 0.9895738934477171,
+      "bbox": [
+        [
+          187,
+          147
+        ],
+        [
+          1049,
+          147
+        ],
+        [
+          1049,
+          189
+        ],
+        [
+          187,
+          189
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 인적사항",
+      "confidence": 0.9979997144805061,
+      "bbox": [
+        [
+          134,
+          229
+        ],
+        [
+          273,
+          229
+        ],
+        [
+          273,
+          256
+        ],
+        [
+          134,
+          256
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지원구분",
+      "confidence": 0.9982938289642334,
+      "bbox": [
+        [
+          137,
+          266
+        ],
+        [
+          240,
+          266
+        ],
+        [
+          240,
+          292
+        ],
+        [
+          137,
+          292
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사무국장",
+      "confidence": 0.9987033367156982,
+      "bbox": [
+        [
+          274,
+          267
+        ],
+        [
+          379,
+          267
+        ],
+        [
+          379,
+          292
+        ],
+        [
+          274,
+          292
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지원직무",
+      "confidence": 0.9994643092155456,
+      "bbox": [
+        [
+          430,
+          266
+        ],
+        [
+          544,
+          266
+        ],
+        [
+          544,
+          291
+        ],
+        [
+          430,
+          291
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시민프로축구단 사무국",
+      "confidence": 0.9996775587399801,
+      "bbox": [
+        [
+          563,
+          267
+        ],
+        [
+          897,
+          267
+        ],
+        [
+          897,
+          293
+        ],
+        [
+          563,
+          293
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "접수번호",
+      "confidence": 0.9997799396514893,
+      "bbox": [
+        [
+          899,
+          267
+        ],
+        [
+          1004,
+          267
+        ],
+        [
+          1004,
+          292
+        ],
+        [
+          899,
+          292
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성명",
+      "confidence": 0.9984400471051534,
+      "bbox": [
+        [
+          162,
+          309
+        ],
+        [
+          213,
+          309
+        ],
+        [
+          213,
+          333
+        ],
+        [
+          162,
+          333
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(한글)",
+      "confidence": 0.9686638613541921,
+      "bbox": [
+        [
+          254,
+          310
+        ],
+        [
+          322,
+          310
+        ],
+        [
+          322,
+          334
+        ],
+        [
+          254,
+          334
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "현주소",
+      "confidence": 0.9992036819458008,
+      "bbox": [
+        [
+          148,
+          354
+        ],
+        [
+          226,
+          354
+        ],
+        [
+          226,
+          378
+        ],
+        [
+          148,
+          378
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(본인휴대폰)",
+      "confidence": 0.9985421299934387,
+      "bbox": [
+        [
+          255,
+          399
+        ],
+        [
+          391,
+          399
+        ],
+        [
+          391,
+          425
+        ],
+        [
+          255,
+          425
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전자우편",
+      "confidence": 0.9992561101913452,
+      "bbox": [
+        [
+          606,
+          399
+        ],
+        [
+          703,
+          399
+        ],
+        [
+          703,
+          424
+        ],
+        [
+          606,
+          424
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "연락처",
+      "confidence": 0.9993999302387238,
+      "bbox": [
+        [
+          150,
+          422
+        ],
+        [
+          227,
+          422
+        ],
+        [
+          227,
+          446
+        ],
+        [
+          150,
+          446
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(비상연락처)",
+      "confidence": 0.9992252190907797,
+      "bbox": [
+        [
+          255,
+          445
+        ],
+        [
+          391,
+          445
+        ],
+        [
+          391,
+          470
+        ],
+        [
+          255,
+          470
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가점항목",
+      "confidence": 0.9987093210220337,
+      "bbox": [
+        [
+          605,
+          445
+        ],
+        [
+          707,
+          445
+        ],
+        [
+          707,
+          470
+        ],
+        [
+          605,
+          470
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "□ 장애대상",
+      "confidence": 0.9754443698459201,
+      "bbox": [
+        [
+          761,
+          445
+        ],
+        [
+          916,
+          445
+        ],
+        [
+          916,
+          469
+        ],
+        [
+          761,
+          469
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "□ 보훈대상",
+      "confidence": 0.9590211047066582,
+      "bbox": [
+        [
+          943,
+          447
+        ],
+        [
+          1076,
+          447
+        ],
+        [
+          1076,
+          469
+        ],
+        [
+          943,
+          469
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 교육사항",
+      "confidence": 0.997166653474172,
+      "bbox": [
+        [
+          126,
+          512
+        ],
+        [
+          265,
+          512
+        ],
+        [
+          265,
+          538
+        ],
+        [
+          126,
+          538
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "* 지원직무 관련 과목 및 교육과정을 이수한 경우 그 내용을 기입해 주십시오.",
+      "confidence": 0.9873439616627163,
+      "bbox": [
+        [
+          126,
+          549
+        ],
+        [
+          961,
+          549
+        ],
+        [
+          961,
+          578
+        ],
+        [
+          126,
+          578
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "교육시간",
+      "confidence": 0.9993173003196716,
+      "bbox": [
+        [
+          944,
+          590
+        ],
+        [
+          1044,
+          590
+        ],
+        [
+          1044,
+          616
+        ],
+        [
+          944,
+          616
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "교육구분",
+      "confidence": 0.9992436051368714,
+      "bbox": [
+        [
+          254,
+          591
+        ],
+        [
+          353,
+          591
+        ],
+        [
+          353,
+          617
+        ],
+        [
+          254,
+          617
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "과목명 및 교육과정",
+      "confidence": 0.9963868459065756,
+      "bbox": [
+        [
+          568,
+          590
+        ],
+        [
+          782,
+          590
+        ],
+        [
+          782,
+          615
+        ],
+        [
+          568,
+          615
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "□ 학교교육 □ 직업훈련",
+      "confidence": 0.9885402359068394,
+      "bbox": [
+        [
+          168,
+          625
+        ],
+        [
+          436,
+          625
+        ],
+        [
+          436,
+          651
+        ],
+        [
+          168,
+          651
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "ㄱ 기타",
+      "confidence": 0.7862814664840698,
+      "bbox": [
+        [
+          277,
+          652
+        ],
+        [
+          350,
+          652
+        ],
+        [
+          350,
+          672
+        ],
+        [
+          277,
+          672
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "□ 학교교육 □ 직업훈련",
+      "confidence": 0.9882405512034893,
+      "bbox": [
+        [
+          169,
+          676
+        ],
+        [
+          437,
+          676
+        ],
+        [
+          437,
+          701
+        ],
+        [
+          169,
+          701
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기타",
+      "confidence": 0.9993205865224203,
+      "bbox": [
+        [
+          298,
+          703
+        ],
+        [
+          350,
+          703
+        ],
+        [
+          350,
+          723
+        ],
+        [
+          298,
+          723
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "학교교육 □ 직업훈련",
+      "confidence": 0.9804951165403638,
+      "bbox": [
+        [
+          196,
+          725
+        ],
+        [
+          436,
+          725
+        ],
+        [
+          436,
+          755
+        ],
+        [
+          196,
+          755
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "П",
+      "confidence": 0.6904861927032471,
+      "bbox": [
+        [
+          170,
+          736
+        ],
+        [
+          196,
+          736
+        ],
+        [
+          196,
+          752
+        ],
+        [
+          170,
+          752
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기타",
+      "confidence": 0.9994954268137614,
+      "bbox": [
+        [
+          294,
+          755
+        ],
+        [
+          351,
+          755
+        ],
+        [
+          351,
+          777
+        ],
+        [
+          294,
+          777
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "□ 학교교육 □ 직업훈련",
+      "confidence": 0.9880809560418129,
+      "bbox": [
+        [
+          168,
+          780
+        ],
+        [
+          436,
+          780
+        ],
+        [
+          436,
+          807
+        ],
+        [
+          168,
+          807
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기타",
+      "confidence": 0.9991668264071146,
+      "bbox": [
+        [
+          300,
+          808
+        ],
+        [
+          350,
+          808
+        ],
+        [
+          350,
+          826
+        ],
+        [
+          300,
+          826
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직무관련 교육 주요내용",
+      "confidence": 0.9999035894870758,
+      "bbox": [
+        [
+          492,
+          844
+        ],
+        [
+          748,
+          844
+        ],
+        [
+          748,
+          871
+        ],
+        [
+          492,
+          871
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 자격사항",
+      "confidence": 0.9948055346806844,
+      "bbox": [
+        [
+          129,
+          1178
+        ],
+        [
+          269,
+          1178
+        ],
+        [
+          269,
+          1210
+        ],
+        [
+          129,
+          1210
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "* <b>지원직무 관련</b> 국가기술/전문자격, 국가공인민간자격을 기입해 주십시오.",
+      "confidence": 0.9762595719761319,
+      "bbox": [
+        [
+          128,
+          1222
+        ],
+        [
+          919,
+          1222
+        ],
+        [
+          919,
+          1249
+        ],
+        [
+          128,
+          1249
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자격증명",
+      "confidence": 0.9992616295814514,
+      "bbox": [
+        [
+          137,
+          1265
+        ],
+        [
+          237,
+          1265
+        ],
+        [
+          237,
+          1293
+        ],
+        [
+          137,
+          1293
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "취득일자",
+      "confidence": 0.9996501445770264,
+      "bbox": [
+        [
+          506,
+          1265
+        ],
+        [
+          608,
+          1265
+        ],
+        [
+          608,
+          1293
+        ],
+        [
+          506,
+          1293
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "취득일자",
+      "confidence": 0.999550747871399,
+      "bbox": [
+        [
+          1001,
+          1265
+        ],
+        [
+          1102,
+          1265
+        ],
+        [
+          1102,
+          1293
+        ],
+        [
+          1001,
+          1293
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "발 급 기 관",
+      "confidence": 0.9614703986379836,
+      "bbox": [
+        [
+          303,
+          1266
+        ],
+        [
+          442,
+          1266
+        ],
+        [
+          442,
+          1293
+        ],
+        [
+          303,
+          1293
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자격증명",
+      "confidence": 0.9993361711502076,
+      "bbox": [
+        [
+          639,
+          1265
+        ],
+        [
+          739,
+          1265
+        ],
+        [
+          739,
+          1292
+        ],
+        [
+          639,
+          1292
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "발 급 기 관",
+      "confidence": 0.9360311362478468,
+      "bbox": [
+        [
+          800,
+          1266
+        ],
+        [
+          937,
+          1266
+        ],
+        [
+          937,
+          1293
+        ],
+        [
+          800,
+          1293
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

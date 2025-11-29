@@ -1,0 +1,17 @@
+{
+  "block_id": 24,
+  "text": "+12% 지난 달 대비 +5 이번 주 +3 이번 주 +7 지난 달 대비",
+  "confidence": 0.9624288587106599,
+  "bbox": {
+    "x_min": 409,
+    "y_min": 961,
+    "x_max": 972,
+    "y_max": 974,
+    "width": 563,
+    "height": 13
+  },
+  "block_type": "text",
+  "text_length": 39,
+  "created_at": "2025-11-21T07:48:48.422359",
+  "version": "1.0"
+}

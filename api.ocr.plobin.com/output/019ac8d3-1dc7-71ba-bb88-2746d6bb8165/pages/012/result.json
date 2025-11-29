@@ -1,0 +1,1439 @@
+{
+  "page_number": 12,
+  "total_blocks": 53,
+  "average_confidence": 0.9931529737866787,
+  "processing_time": 1.9050579071044922,
+  "blocks": [
+    {
+      "text": "개인정보보호를 위한 개인정보 수집이용제공 동의서",
+      "confidence": 0.9998631115470614,
+      "bbox": [
+        [
+          263,
+          148
+        ],
+        [
+          979,
+          148
+        ],
+        [
+          979,
+          180
+        ],
+        [
+          263,
+          180
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "이래의 내용을 충분히 숙지하신 후 반드시 본인이 수집, 이용, 제공 동의란에 서명하시기 비랍니다.",
+      "confidence": 0.997526649917875,
+      "bbox": [
+        [
+          199,
+          203
+        ],
+        [
+          1040,
+          203
+        ],
+        [
+          1040,
+          223
+        ],
+        [
+          199,
+          223
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 개인정보 수집·이용",
+      "confidence": 0.9582096908403479,
+      "bbox": [
+        [
+          121,
+          290
+        ],
+        [
+          418,
+          290
+        ],
+        [
+          418,
+          318
+        ],
+        [
+          121,
+          318
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "보유 및",
+      "confidence": 0.9960941970348358,
+      "bbox": [
+        [
+          859,
+          351
+        ],
+        [
+          939,
+          351
+        ],
+        [
+          939,
+          371
+        ],
+        [
+          859,
+          371
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "개인정보",
+      "confidence": 0.9994408130645752,
+      "bbox": [
+        [
+          1006,
+          352
+        ],
+        [
+          1094,
+          352
+        ],
+        [
+          1094,
+          370
+        ],
+        [
+          1006,
+          370
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필수수집항목",
+      "confidence": 0.9917007088661194,
+      "bbox": [
+        [
+          187,
+          362
+        ],
+        [
+          310,
+          362
+        ],
+        [
+          310,
+          382
+        ],
+        [
+          187,
+          382
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "수집목적",
+      "confidence": 0.9830510497093201,
+      "bbox": [
+        [
+          553,
+          364
+        ],
+        [
+          637,
+          364
+        ],
+        [
+          637,
+          382
+        ],
+        [
+          553,
+          382
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "이용기간",
+      "confidence": 0.998473608493805,
+      "bbox": [
+        [
+          849,
+          374
+        ],
+        [
+          940,
+          374
+        ],
+        [
+          940,
+          396
+        ],
+        [
+          849,
+          396
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "동의여부",
+      "confidence": 0.9978872418403626,
+      "bbox": [
+        [
+          1006,
+          376
+        ],
+        [
+          1094,
+          376
+        ],
+        [
+          1094,
+          394
+        ],
+        [
+          1006,
+          394
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성명, 성별, 사진,",
+      "confidence": 0.9996391305556664,
+      "bbox": [
+        [
+          163,
+          418
+        ],
+        [
+          332,
+          418
+        ],
+        [
+          332,
+          438
+        ],
+        [
+          163,
+          438
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시자 본인확인 및 최종임용시에 사용",
+      "confidence": 0.9998456320979379,
+      "bbox": [
+        [
+          383,
+          432
+        ],
+        [
+          737,
+          432
+        ],
+        [
+          737,
+          449
+        ],
+        [
+          383,
+          449
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "동의/미동의",
+      "confidence": 0.9983662217855453,
+      "bbox": [
+        [
+          995,
+          432
+        ],
+        [
+          1104,
+          432
+        ],
+        [
+          1104,
+          449
+        ],
+        [
+          995,
+          449
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주민등록번호",
+      "confidence": 0.977530802999224,
+      "bbox": [
+        [
+          189,
+          442
+        ],
+        [
+          308,
+          442
+        ],
+        [
+          308,
+          460
+        ],
+        [
+          189,
+          460
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전화번호",
+      "confidence": 0.9976369619369507,
+      "bbox": [
+        [
+          208,
+          498
+        ],
+        [
+          289,
+          498
+        ],
+        [
+          289,
+          516
+        ],
+        [
+          208,
+          516
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "동의/미동의",
+      "confidence": 0.997622437775135,
+      "bbox": [
+        [
+          995,
+          498
+        ],
+        [
+          1105,
+          498
+        ],
+        [
+          1105,
+          516
+        ],
+        [
+          995,
+          516
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "서류적격심사. 면접합격통지 등에 활용",
+      "confidence": 0.9999165399508043,
+      "bbox": [
+        [
+          383,
+          499
+        ],
+        [
+          737,
+          499
+        ],
+        [
+          737,
+          516
+        ],
+        [
+          383,
+          516
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인사자료로",
+      "confidence": 0.9989304840564728,
+      "bbox": [
+        [
+          845,
+          538
+        ],
+        [
+          945,
+          538
+        ],
+        [
+          945,
+          555
+        ],
+        [
+          845,
+          555
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "영구 보존",
+      "confidence": 0.9988883563450405,
+      "bbox": [
+        [
+          848,
+          561
+        ],
+        [
+          942,
+          561
+        ],
+        [
+          942,
+          579
+        ],
+        [
+          848,
+          579
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주 소",
+      "confidence": 0.9902459859848023,
+      "bbox": [
+        [
+          212,
+          562
+        ],
+        [
+          287,
+          562
+        ],
+        [
+          287,
+          579
+        ],
+        [
+          212,
+          579
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시자 본인확인",
+      "confidence": 0.9992241203784943,
+      "bbox": [
+        [
+          383,
+          562
+        ],
+        [
+          532,
+          562
+        ],
+        [
+          532,
+          580
+        ],
+        [
+          383,
+          580
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "동의/미동의",
+      "confidence": 0.997621014714241,
+      "bbox": [
+        [
+          995,
+          562
+        ],
+        [
+          1104,
+          562
+        ],
+        [
+          1104,
+          580
+        ],
+        [
+          995,
+          580
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시원서, 이력서, 경력,",
+      "confidence": 0.9943055994808674,
+      "bbox": [
+        [
+          150,
+          613
+        ],
+        [
+          346,
+          613
+        ],
+        [
+          346,
+          631
+        ],
+        [
+          150,
+          631
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "학력.",
+      "confidence": 0.9981452465057373,
+      "bbox": [
+        [
+          226,
+          637
+        ],
+        [
+          267,
+          637
+        ],
+        [
+          267,
+          654
+        ],
+        [
+          226,
+          654
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "서류적격심사, 면접 등 모집심사 진행 전반에",
+      "confidence": 0.9879578306124761,
+      "bbox": [
+        [
+          383,
+          637
+        ],
+        [
+          808,
+          637
+        ],
+        [
+          808,
+          655
+        ],
+        [
+          383,
+          655
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "동의/미동의",
+      "confidence": 0.9964227750897408,
+      "bbox": [
+        [
+          994,
+          649
+        ],
+        [
+          1106,
+          649
+        ],
+        [
+          1106,
+          667
+        ],
+        [
+          994,
+          667
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자격증, 가족사항 등",
+      "confidence": 0.9983230829238892,
+      "bbox": [
+        [
+          164,
+          661
+        ],
+        [
+          333,
+          661
+        ],
+        [
+          333,
+          679
+        ],
+        [
+          164,
+          679
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "활용",
+      "confidence": 0.9987707535425822,
+      "bbox": [
+        [
+          383,
+          662
+        ],
+        [
+          425,
+          662
+        ],
+        [
+          425,
+          678
+        ],
+        [
+          383,
+          678
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "증빙서류",
+      "confidence": 0.998525083065033,
+      "bbox": [
+        [
+          212,
+          685
+        ],
+        [
+          286,
+          685
+        ],
+        [
+          286,
+          703
+        ],
+        [
+          212,
+          703
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 위의 개인정보 수집·이용에 대한 동의를 거부할 권리가 있습니다. 그러나 동의를",
+      "confidence": 0.999102940162023,
+      "bbox": [
+        [
+          116,
+          734
+        ],
+        [
+          1123,
+          734
+        ],
+        [
+          1123,
+          760
+        ],
+        [
+          116,
+          760
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "거부할 경우 원활한 모집 심사를 할 수 없어 모집에 제한을 받을 수 있습니다.",
+      "confidence": 0.9999565641085307,
+      "bbox": [
+        [
+          155,
+          778
+        ],
+        [
+          1088,
+          778
+        ],
+        [
+          1088,
+          803
+        ],
+        [
+          155,
+          803
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 제3자의 제공",
+      "confidence": 0.9570402254660925,
+      "bbox": [
+        [
+          121,
+          872
+        ],
+        [
+          327,
+          872
+        ],
+        [
+          327,
+          899
+        ],
+        [
+          121,
+          899
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "보유 및 이용<br>기간",
+      "confidence": 0.9754066925782424,
+      "bbox": [
+        [
+          840,
+          932
+        ],
+        [
+          964,
+          932
+        ],
+        [
+          964,
+          980
+        ],
+        [
+          840,
+          980
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "개인정보<br>동의여부",
+      "confidence": 0.9887025902668635,
+      "bbox": [
+        [
+          1012,
+          934
+        ],
+        [
+          1099,
+          934
+        ],
+        [
+          1099,
+          980
+        ],
+        [
+          1012,
+          980
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제공 대상",
+      "confidence": 0.9977575029645648,
+      "bbox": [
+        [
+          188,
+          947
+        ],
+        [
+          283,
+          947
+        ],
+        [
+          283,
+          967
+        ],
+        [
+          188,
+          967
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제공 정보",
+      "confidence": 0.997663140296936,
+      "bbox": [
+        [
+          646,
+          947
+        ],
+        [
+          740,
+          947
+        ],
+        [
+          740,
+          967
+        ],
+        [
+          646,
+          967
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제공정보의 이용 목적",
+      "confidence": 0.9976802926797134,
+      "bbox": [
+        [
+          355,
+          949
+        ],
+        [
+          559,
+          949
+        ],
+        [
+          559,
+          967
+        ],
+        [
+          355,
+          967
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시청 등 감사기관",
+      "confidence": 0.9991007722341098,
+      "bbox": [
+        [
+          136,
+          1017
+        ],
+        [
+          336,
+          1017
+        ],
+        [
+          336,
+          1035
+        ],
+        [
+          136,
+          1035
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "감 사",
+      "confidence": 0.9912655711174011,
+      "bbox": [
+        [
+          428,
+          1017
+        ],
+        [
+          483,
+          1017
+        ],
+        [
+          483,
+          1035
+        ],
+        [
+          428,
+          1035
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시원서",
+      "confidence": 0.9860633969306946,
+      "bbox": [
+        [
+          654,
+          1017
+        ],
+        [
+          734,
+          1017
+        ],
+        [
+          734,
+          1035
+        ],
+        [
+          654,
+          1035
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "감사기간",
+      "confidence": 0.9820108652114868,
+      "bbox": [
+        [
+          861,
+          1017
+        ],
+        [
+          944,
+          1017
+        ],
+        [
+          944,
+          1035
+        ],
+        [
+          861,
+          1035
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "동의/미동의",
+      "confidence": 0.995323121547699,
+      "bbox": [
+        [
+          999,
+          1017
+        ],
+        [
+          1109,
+          1017
+        ],
+        [
+          1109,
+          1035
+        ],
+        [
+          999,
+          1035
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 법령의 규정에 의거하거나. 수사 목적으로 법령에 정해진 절차와 방법에 따라 수사기관의 요구가",
+      "confidence": 0.9992087981917641,
+      "bbox": [
+        [
+          134,
+          1083
+        ],
+        [
+          1103,
+          1083
+        ],
+        [
+          1103,
+          1101
+        ],
+        [
+          134,
+          1101
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "있는 경우",
+      "confidence": 0.9996379358427865,
+      "bbox": [
+        [
+          161,
+          1108
+        ],
+        [
+          258,
+          1108
+        ],
+        [
+          258,
+          1126
+        ],
+        [
+          161,
+          1126
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 위의 개인정보 수집·이용에 대한 동의를 거부할 권리가 있습니다. 그러나 동의를",
+      "confidence": 0.9970621913671494,
+      "bbox": [
+        [
+          116,
+          1174
+        ],
+        [
+          1121,
+          1174
+        ],
+        [
+          1121,
+          1202
+        ],
+        [
+          116,
+          1202
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "거부할 경우 원활한 모집 심사를 할 수 없어 모집에 제한을 받을 수 있습니다.",
+      "confidence": 0.9998956759770711,
+      "bbox": [
+        [
+          155,
+          1215
+        ],
+        [
+          1089,
+          1215
+        ],
+        [
+          1089,
+          1242
+        ],
+        [
+          155,
+          1242
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "본인은 위의 동의서 내용을 충분히 숙지했으며, 개인정보 수집, 이용, 제공하는 것에 동의",
+      "confidence": 0.9995639756614086,
+      "bbox": [
+        [
+          125,
+          1301
+        ],
+        [
+          1103,
+          1301
+        ],
+        [
+          1103,
+          1327
+        ],
+        [
+          125,
+          1327
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "합니다.",
+      "confidence": 0.997895767291387,
+      "bbox": [
+        [
+          114,
+          1343
+        ],
+        [
+          201,
+          1343
+        ],
+        [
+          201,
+          1368
+        ],
+        [
+          114,
+          1368
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "서명 또는 (인)",
+      "confidence": 0.9987099170684814,
+      "bbox": [
+        [
+          938,
+          1451
+        ],
+        [
+          1118,
+          1451
+        ],
+        [
+          1118,
+          1478
+        ],
+        [
+          938,
+          1478
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "일",
+      "confidence": 0.9966760277748108,
+      "bbox": [
+        [
+          653,
+          1452
+        ],
+        [
+          680,
+          1452
+        ],
+        [
+          680,
+          1476
+        ],
+        [
+          653,
+          1476
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "20",
+      "confidence": 0.9759352803230286,
+      "bbox": [
+        [
+          351,
+          1454
+        ],
+        [
+          384,
+          1454
+        ],
+        [
+          384,
+          1476
+        ],
+        [
+          351,
+          1476
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "년",
+      "confidence": 0.9962491393089294,
+      "bbox": [
+        [
+          426,
+          1454
+        ],
+        [
+          457,
+          1454
+        ],
+        [
+          457,
+          1476
+        ],
+        [
+          426,
+          1476
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "월",
+      "confidence": 0.9924143254756927,
+      "bbox": [
+        [
+          538,
+          1454
+        ],
+        [
+          568,
+          1454
+        ],
+        [
+          568,
+          1474
+        ],
+        [
+          538,
+          1474
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성명 :",
+      "confidence": 0.9666197697321574,
+      "bbox": [
+        [
+          776,
+          1453
+        ],
+        [
+          898,
+          1453
+        ],
+        [
+          898,
+          1475
+        ],
+        [
+          776,
+          1475
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

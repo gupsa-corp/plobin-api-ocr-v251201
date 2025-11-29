@@ -1,0 +1,17 @@
+{
+  "block_id": 24,
+  "text": "185 8 PC.",
+  "confidence": 0.5590210338433583,
+  "bbox": {
+    "x_min": 21,
+    "y_min": 239,
+    "x_max": 57,
+    "y_max": 245,
+    "width": 36,
+    "height": 6
+  },
+  "block_type": "text",
+  "text_length": 9,
+  "created_at": "2025-11-21T00:29:53.329600",
+  "version": "1.0"
+}

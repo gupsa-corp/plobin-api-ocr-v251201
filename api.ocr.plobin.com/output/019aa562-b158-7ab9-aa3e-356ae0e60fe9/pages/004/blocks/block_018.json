@@ -1,0 +1,17 @@
+{
+  "block_id": 18,
+  "text": "+82 ~ 010-1234-5678",
+  "confidence": 0.8744930766877674,
+  "bbox": {
+    "x_min": 490,
+    "y_min": 972,
+    "x_max": 667,
+    "y_max": 986,
+    "width": 177,
+    "height": 14
+  },
+  "block_type": "text",
+  "text_length": 19,
+  "created_at": "2025-11-21T07:48:25.453776",
+  "version": "1.0"
+}

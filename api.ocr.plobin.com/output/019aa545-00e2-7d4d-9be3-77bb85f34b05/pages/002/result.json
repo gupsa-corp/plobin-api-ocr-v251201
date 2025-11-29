@@ -1,0 +1,1088 @@
+{
+  "page_number": 2,
+  "total_blocks": 40,
+  "average_confidence": 0.987904539146699,
+  "processing_time": 1.8626682758331299,
+  "blocks": [
+    {
+      "text": "3. 응시 자격",
+      "confidence": 0.9517869293689728,
+      "bbox": [
+        [
+          113,
+          147
+        ],
+        [
+          298,
+          147
+        ],
+        [
+          298,
+          174
+        ],
+        [
+          113,
+          174
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "O 공통 요건",
+      "confidence": 0.8622473776340485,
+      "bbox": [
+        [
+          130,
+          207
+        ],
+        [
+          303,
+          207
+        ],
+        [
+          303,
+          235
+        ],
+        [
+          130,
+          235
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1) 지방공무원법 제31조에 의거 결격사유가 없는 자와 지방자치단체",
+      "confidence": 0.9992722502121558,
+      "bbox": [
+        [
+          151,
+          271
+        ],
+        [
+          1083,
+          271
+        ],
+        [
+          1083,
+          299
+        ],
+        [
+          151,
+          299
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "출자·출연 기관의 운영에 관한 법률 10조(임원의 결격사유 등) 및",
+      "confidence": 0.9932393476366996,
+      "bbox": [
+        [
+          189,
+          331
+        ],
+        [
+          1079,
+          331
+        ],
+        [
+          1079,
+          359
+        ],
+        [
+          189,
+          359
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기타 법령에 의하여 응시자격이 정지되지 아니한 자",
+      "confidence": 0.9999410592276474,
+      "bbox": [
+        [
+          190,
+          391
+        ],
+        [
+          907,
+          391
+        ],
+        [
+          907,
+          419
+        ],
+        [
+          190,
+          419
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2) 남자의 경우 병역을 필하였거나 면제된 자로 해외여행에 결격사유가 없는 자",
+      "confidence": 0.9997375580999587,
+      "bbox": [
+        [
+          150,
+          451
+        ],
+        [
+          1118,
+          451
+        ],
+        [
+          1118,
+          479
+        ],
+        [
+          150,
+          479
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3) 성별, 신체조건, 용모, 학력, 연령 등에 대한 제한 없음",
+      "confidence": 0.9988087109617285,
+      "bbox": [
+        [
+          151,
+          510
+        ],
+        [
+          938,
+          510
+        ],
+        [
+          938,
+          538
+        ],
+        [
+          151,
+          538
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4) 최소 자격 요건(아래의 요건 중 하나 이상을 갖춘 자)",
+      "confidence": 0.9984874708311898,
+      "bbox": [
+        [
+          150,
+          570
+        ],
+        [
+          926,
+          570
+        ],
+        [
+          926,
+          598
+        ],
+        [
+          150,
+          598
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직위",
+      "confidence": 0.9996575911839803,
+      "bbox": [
+        [
+          141,
+          649
+        ],
+        [
+          188,
+          649
+        ],
+        [
+          188,
+          674
+        ],
+        [
+          141,
+          674
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "비고",
+      "confidence": 0.9827309648195902,
+      "bbox": [
+        [
+          1034,
+          649
+        ],
+        [
+          1086,
+          649
+        ],
+        [
+          1086,
+          673
+        ],
+        [
+          1034,
+          673
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경력 기준",
+      "confidence": 0.984036922454834,
+      "bbox": [
+        [
+          518,
+          651
+        ],
+        [
+          685,
+          651
+        ],
+        [
+          685,
+          673
+        ],
+        [
+          518,
+          673
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 공무원 5급 이상 또는 6급으로 4년 이상 근무한 경력이 있는 자",
+      "confidence": 0.9983662788460894,
+      "bbox": [
+        [
+          215,
+          715
+        ],
+        [
+          943,
+          715
+        ],
+        [
+          943,
+          740
+        ],
+        [
+          215,
+          740
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 국가 또는 지방자치단체가 50% 이상 투자한 기관에서 과장급 이상의",
+      "confidence": 0.9997551398617881,
+      "bbox": [
+        [
+          216,
+          746
+        ],
+        [
+          994,
+          746
+        ],
+        [
+          994,
+          773
+        ],
+        [
+          216,
+          773
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직급으로 관련업무에 재직한 경력이 있는 자",
+      "confidence": 0.9999294233322144,
+      "bbox": [
+        [
+          250,
+          780
+        ],
+        [
+          728,
+          780
+        ],
+        [
+          728,
+          805
+        ],
+        [
+          250,
+          805
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "부장",
+      "confidence": 0.9986975193023682,
+      "bbox": [
+        [
+          140,
+          792
+        ],
+        [
+          191,
+          792
+        ],
+        [
+          191,
+          817
+        ],
+        [
+          140,
+          817
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "5급 공무원",
+      "confidence": 0.9977120980620384,
+      "bbox": [
+        [
+          1006,
+          795
+        ],
+        [
+          1110,
+          795
+        ],
+        [
+          1110,
+          822
+        ],
+        [
+          1006,
+          822
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 기업체 등에서 과장급 이상으로 3년 이상 재직한 경력이 있는 자",
+      "confidence": 0.999770675599575,
+      "bbox": [
+        [
+          218,
+          812
+        ],
+        [
+          950,
+          812
+        ],
+        [
+          950,
+          838
+        ],
+        [
+          218,
+          838
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "상당",
+      "confidence": 0.999205489953359,
+      "bbox": [
+        [
+          1036,
+          828
+        ],
+        [
+          1081,
+          828
+        ],
+        [
+          1081,
+          853
+        ],
+        [
+          1036,
+          853
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(사무국장)",
+      "confidence": 0.9988415315747261,
+      "bbox": [
+        [
+          129,
+          831
+        ],
+        [
+          204,
+          831
+        ],
+        [
+          204,
+          856
+        ],
+        [
+          129,
+          856
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4. 대학 조교수 이상으로 1년 이상 경력이 있는 자",
+      "confidence": 0.999171503128544,
+      "bbox": [
+        [
+          217,
+          845
+        ],
+        [
+          765,
+          845
+        ],
+        [
+          765,
+          870
+        ],
+        [
+          217,
+          870
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "5. 전항 각호에 준하는 경력이 있거나 스포츠 관련 기관·단체에서 경력이",
+      "confidence": 0.9928265228157952,
+      "bbox": [
+        [
+          217,
+          874
+        ],
+        [
+          994,
+          874
+        ],
+        [
+          994,
+          904
+        ],
+        [
+          217,
+          904
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "있는 자",
+      "confidence": 0.9988841811815897,
+      "bbox": [
+        [
+          253,
+          909
+        ],
+        [
+          339,
+          909
+        ],
+        [
+          339,
+          935
+        ],
+        [
+          253,
+          935
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4. 채용방법 : 1차(서류전형) ⇒ 2차(면접시험) ⇒ 최종합격자 결정",
+      "confidence": 0.9825324138929677,
+      "bbox": [
+        [
+          113,
+          1015
+        ],
+        [
+          1063,
+          1015
+        ],
+        [
+          1063,
+          1044
+        ],
+        [
+          113,
+          1044
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1) 당해 채용 분야와 관련되는 응시자격 요건 등 적격 여부",
+      "confidence": 0.9992159724235534,
+      "bbox": [
+        [
+          174,
+          1127
+        ],
+        [
+          1030,
+          1127
+        ],
+        [
+          1030,
+          1155
+        ],
+        [
+          174,
+          1155
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2)",
+      "confidence": 0.9341464440027872,
+      "bbox": [
+        [
+          175,
+          1183
+        ],
+        [
+          213,
+          1183
+        ],
+        [
+          213,
+          1213
+        ],
+        [
+          175,
+          1213
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "심사배점 기준 점수",
+      "confidence": 0.9997049619754156,
+      "bbox": [
+        [
+          548,
+          1237
+        ],
+        [
+          816,
+          1237
+        ],
+        [
+          816,
+          1265
+        ],
+        [
+          548,
+          1265
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직무관련",
+      "confidence": 0.9993415117263794,
+      "bbox": [
+        [
+          855,
+          1297
+        ],
+        [
+          978,
+          1297
+        ],
+        [
+          978,
+          1325
+        ],
+        [
+          855,
+          1325
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "비고",
+      "confidence": 0.9938922127087911,
+      "bbox": [
+        [
+          1043,
+          1305
+        ],
+        [
+          1106,
+          1305
+        ],
+        [
+          1106,
+          1331
+        ],
+        [
+          1043,
+          1331
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "구분",
+      "confidence": 0.9953852295875549,
+      "bbox": [
+        [
+          194,
+          1306
+        ],
+        [
+          257,
+          1306
+        ],
+        [
+          257,
+          1334
+        ],
+        [
+          194,
+          1334
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시원서의",
+      "confidence": 0.9975880682468414,
+      "bbox": [
+        [
+          372,
+          1315
+        ],
+        [
+          520,
+          1315
+        ],
+        [
+          520,
+          1343
+        ],
+        [
+          372,
+          1343
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직무적합도",
+      "confidence": 0.9991029103597006,
+      "bbox": [
+        [
+          607,
+          1334
+        ],
+        [
+          757,
+          1334
+        ],
+        [
+          757,
+          1362
+        ],
+        [
+          607,
+          1362
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경력(경험) 및",
+      "confidence": 0.9972053527832031,
+      "bbox": [
+        [
+          824,
+          1333
+        ],
+        [
+          1005,
+          1333
+        ],
+        [
+          1005,
+          1361
+        ],
+        [
+          824,
+          1361
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "충실성",
+      "confidence": 0.9993931651115417,
+      "bbox": [
+        [
+          401,
+          1354
+        ],
+        [
+          491,
+          1354
+        ],
+        [
+          491,
+          1381
+        ],
+        [
+          401,
+          1381
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지원동기",
+      "confidence": 0.9893516659736633,
+      "bbox": [
+        [
+          855,
+          1371
+        ],
+        [
+          974,
+          1371
+        ],
+        [
+          974,
+          1400
+        ],
+        [
+          855,
+          1400
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기간제",
+      "confidence": 0.9984949231147766,
+      "bbox": [
+        [
+          179,
+          1437
+        ],
+        [
+          270,
+          1437
+        ],
+        [
+          270,
+          1465
+        ],
+        [
+          179,
+          1465
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "30",
+      "confidence": 0.9749746123949686,
+      "bbox": [
+        [
+          430,
+          1437
+        ],
+        [
+          466,
+          1437
+        ],
+        [
+          466,
+          1464
+        ],
+        [
+          430,
+          1464
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "30",
+      "confidence": 0.9780415097872416,
+      "bbox": [
+        [
+          663,
+          1437
+        ],
+        [
+          699,
+          1437
+        ],
+        [
+          699,
+          1464
+        ],
+        [
+          663,
+          1464
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "40",
+      "confidence": 0.9265417655309042,
+      "bbox": [
+        [
+          897,
+          1437
+        ],
+        [
+          935,
+          1437
+        ],
+        [
+          935,
+          1464
+        ],
+        [
+          897,
+          1464
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3) 심사위원 점수합산 평균 80점 이상의 고득점 순으로 결정하되,",
+      "confidence": 0.9985645016034445,
+      "bbox": [
+        [
+          172,
+          1515
+        ],
+        [
+          1117,
+          1515
+        ],
+        [
+          1117,
+          1544
+        ],
+        [
+          172,
+          1544
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "선발인원의 최대 6배수를 합격인원으로 함(동점자 발생 시 전원합격)",
+      "confidence": 0.9995977985553253,
+      "bbox": [
+        [
+          208,
+          1572
+        ],
+        [
+          1124,
+          1572
+        ],
+        [
+          1124,
+          1600
+        ],
+        [
+          208,
+          1600
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

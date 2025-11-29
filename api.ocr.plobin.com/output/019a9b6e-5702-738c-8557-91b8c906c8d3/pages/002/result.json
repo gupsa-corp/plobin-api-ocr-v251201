@@ -1,0 +1,1304 @@
+{
+  "page_number": 2,
+  "total_blocks": 48,
+  "average_confidence": 0.9774167770982315,
+  "processing_time": 1.9560492038726807,
+  "blocks": [
+    {
+      "text": "채용 채용 근",
+      "confidence": 0.9980798562367758,
+      "bbox": [
+        [
+          396,
+          93
+        ],
+        [
+          551,
+          93
+        ],
+        [
+          551,
+          118
+        ],
+        [
+          396,
+          118
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용",
+      "confidence": 0.9991369247436523,
+      "bbox": [
+        [
+          159,
+          94
+        ],
+        [
+          212,
+          94
+        ],
+        [
+          212,
+          119
+        ],
+        [
+          159,
+          119
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "무",
+      "confidence": 0.9846605956554413,
+      "bbox": [
+        [
+          584,
+          94
+        ],
+        [
+          613,
+          94
+        ],
+        [
+          613,
+          118
+        ],
+        [
+          584,
+          118
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용등급",
+      "confidence": 0.9995741486549378,
+      "bbox": [
+        [
+          271,
+          107
+        ],
+        [
+          373,
+          107
+        ],
+        [
+          373,
+          134
+        ],
+        [
+          271,
+          134
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직무내용",
+      "confidence": 0.9995492339134217,
+      "bbox": [
+        [
+          818,
+          111
+        ],
+        [
+          920,
+          111
+        ],
+        [
+          920,
+          133
+        ],
+        [
+          818,
+          133
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "분야",
+      "confidence": 0.9988029797871908,
+      "bbox": [
+        [
+          159,
+          123
+        ],
+        [
+          213,
+          123
+        ],
+        [
+          213,
+          148
+        ],
+        [
+          159,
+          148
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "인원 기간 예정부서",
+      "confidence": 0.9937784324089686,
+      "bbox": [
+        [
+          397,
+          123
+        ],
+        [
+          613,
+          123
+        ],
+        [
+          613,
+          147
+        ],
+        [
+          397,
+          147
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "· 산불예방 종합대책 수립 및 운영",
+      "confidence": 0.9580714932896874,
+      "bbox": [
+        [
+          617,
+          156
+        ],
+        [
+          1016,
+          156
+        ],
+        [
+          1016,
+          181
+        ],
+        [
+          617,
+          181
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "· 산불발생지 원인 및 피해조사",
+      "confidence": 0.9530490681529045,
+      "bbox": [
+        [
+          617,
+          194
+        ],
+        [
+          982,
+          194
+        ],
+        [
+          982,
+          218
+        ],
+        [
+          617,
+          218
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "공원녹지 • 산불감시시스템 구축 및 운영",
+      "confidence": 0.8124974047144254,
+      "bbox": [
+        [
+          510,
+          226
+        ],
+        [
+          978,
+          226
+        ],
+        [
+          978,
+          259
+        ],
+        [
+          510,
+          259
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "산 림 재 해 지방시간선택제",
+      "confidence": 0.953659779885236,
+      "bbox": [
+        [
+          120,
+          231
+        ],
+        [
+          388,
+          231
+        ],
+        [
+          388,
+          281
+        ],
+        [
+          120,
+          281
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2년 사업본부 • 산림재해예방 센터관리",
+      "confidence": 0.996331178623697,
+      "bbox": [
+        [
+          456,
+          261
+        ],
+        [
+          904,
+          261
+        ],
+        [
+          904,
+          289
+        ],
+        [
+          456,
+          289
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "임기제",
+      "confidence": 0.9994687587022781,
+      "bbox": [
+        [
+          292,
+          264
+        ],
+        [
+          350,
+          264
+        ],
+        [
+          350,
+          292
+        ],
+        [
+          292,
+          292
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1명",
+      "confidence": 0.9943782836198807,
+      "bbox": [
+        [
+          403,
+          267
+        ],
+        [
+          446,
+          267
+        ],
+        [
+          446,
+          291
+        ],
+        [
+          403,
+          291
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "( 재 공 고 ) 다급(7급상당)",
+      "confidence": 0.824022912979126,
+      "bbox": [
+        [
+          121,
+          282
+        ],
+        [
+          397,
+          282
+        ],
+        [
+          397,
+          326
+        ],
+        [
+          121,
+          326
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "신림휴양과。 산불진화 차량·물품·통신 장비 관리",
+      "confidence": 0.987870284195604,
+      "bbox": [
+        [
+          510,
+          299
+        ],
+        [
+          1047,
+          299
+        ],
+        [
+          1047,
+          329
+        ],
+        [
+          510,
+          329
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 산림보호 관련 인력 선발 및 운영 등",
+      "confidence": 0.9703944573799769,
+      "bbox": [
+        [
+          617,
+          337
+        ],
+        [
+          1068,
+          337
+        ],
+        [
+          1068,
+          364
+        ],
+        [
+          617,
+          364
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 기타 부서장이 지정하는 업무 등",
+      "confidence": 0.968901168732416,
+      "bbox": [
+        [
+          617,
+          374
+        ],
+        [
+          1018,
+          374
+        ],
+        [
+          1018,
+          401
+        ],
+        [
+          617,
+          401
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 근무기간 : 업무실적 및 사업의 필요성에 따라 총 5년의 범위 내 연장가능",
+      "confidence": 0.9865079734060499,
+      "bbox": [
+        [
+          117,
+          421
+        ],
+        [
+          903,
+          421
+        ],
+        [
+          903,
+          446
+        ],
+        [
+          117,
+          446
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "관련법령",
+      "confidence": 0.9987214565277099,
+      "bbox": [
+        [
+          207,
+          476
+        ],
+        [
+          363,
+          476
+        ],
+        [
+          363,
+          509
+        ],
+        [
+          207,
+          509
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2",
+      "confidence": 0.8948188424110413,
+      "bbox": [
+        [
+          135,
+          478
+        ],
+        [
+          160,
+          478
+        ],
+        [
+          160,
+          507
+        ],
+        [
+          135,
+          507
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 지방공무원법 및 지방공무원임용령",
+      "confidence": 0.9992086318406191,
+      "bbox": [
+        [
+          144,
+          541
+        ],
+        [
+          663,
+          541
+        ],
+        [
+          663,
+          569
+        ],
+        [
+          144,
+          569
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 지방공무원보수규정",
+      "confidence": 0.9925738317625863,
+      "bbox": [
+        [
+          143,
+          588
+        ],
+        [
+          459,
+          588
+        ],
+        [
+          459,
+          615
+        ],
+        [
+          143,
+          615
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다. 지방공무원인사제도 운영 지침",
+      "confidence": 0.9915289521217346,
+      "bbox": [
+        [
+          145,
+          634
+        ],
+        [
+          606,
+          634
+        ],
+        [
+          606,
+          661
+        ],
+        [
+          145,
+          661
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "라. 천안시 지방공무원 인사 규칙",
+      "confidence": 0.9964667350053787,
+      "bbox": [
+        [
+          146,
+          679
+        ],
+        [
+          593,
+          679
+        ],
+        [
+          593,
+          706
+        ],
+        [
+          146,
+          706
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시자격 요건",
+      "confidence": 0.9947670168346829,
+      "bbox": [
+        [
+          204,
+          750
+        ],
+        [
+          448,
+          750
+        ],
+        [
+          448,
+          784
+        ],
+        [
+          204,
+          784
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3",
+      "confidence": 0.9401045739650726,
+      "bbox": [
+        [
+          133,
+          752
+        ],
+        [
+          161,
+          752
+        ],
+        [
+          161,
+          781
+        ],
+        [
+          133,
+          781
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 공통요건",
+      "confidence": 0.9994992680019803,
+      "bbox": [
+        [
+          130,
+          829
+        ],
+        [
+          302,
+          829
+        ],
+        [
+          302,
+          854
+        ],
+        [
+          130,
+          854
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 응시연령 : 공고일 현재 18세 이상",
+      "confidence": 0.9476310193538666,
+      "bbox": [
+        [
+          136,
+          871
+        ],
+        [
+          638,
+          871
+        ],
+        [
+          638,
+          898
+        ],
+        [
+          136,
+          898
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 거 주 지 : 제한없음",
+      "confidence": 0.9395560674807605,
+      "bbox": [
+        [
+          136,
+          915
+        ],
+        [
+          448,
+          915
+        ],
+        [
+          448,
+          941
+        ],
+        [
+          136,
+          941
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 성별 : 제한없음(단, 남자의 경우 병역을 필하였거나 면제된 자)",
+      "confidence": 0.983924512456103,
+      "bbox": [
+        [
+          136,
+          959
+        ],
+        [
+          1030,
+          959
+        ],
+        [
+          1030,
+          986
+        ],
+        [
+          136,
+          986
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "ㅇ 결격사유 :「지방공무원법」제31조(결격사유)에 해당되지 아니하고,",
+      "confidence": 0.9841986164450646,
+      "bbox": [
+        [
+          137,
+          1003
+        ],
+        [
+          1122,
+          1003
+        ],
+        [
+          1122,
+          1030
+        ],
+        [
+          137,
+          1030
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "「지방공무원임용령」 제65조 및 「부패방지 및 국민권익위원회의 설치와",
+      "confidence": 0.8882890313863754,
+      "bbox": [
+        [
+          183,
+          1044
+        ],
+        [
+          1124,
+          1044
+        ],
+        [
+          1124,
+          1071
+        ],
+        [
+          183,
+          1071
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제82조 등 기타 다른법령에 의하여 응시자격이",
+      "confidence": 0.9995198934166519,
+      "bbox": [
+        [
+          456,
+          1084
+        ],
+        [
+          1121,
+          1084
+        ],
+        [
+          1121,
+          1111
+        ],
+        [
+          456,
+          1111
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "운영에 관한 법률」",
+      "confidence": 0.9954937150080999,
+      "bbox": [
+        [
+          175,
+          1084
+        ],
+        [
+          452,
+          1084
+        ],
+        [
+          452,
+          1109
+        ],
+        [
+          175,
+          1109
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "정지되지 아니한 자",
+      "confidence": 0.9996077617009481,
+      "bbox": [
+        [
+          175,
+          1124
+        ],
+        [
+          443,
+          1124
+        ],
+        [
+          443,
+          1150
+        ],
+        [
+          175,
+          1150
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "「지방공무원법」 제31조(결격사유)",
+      "confidence": 0.9992243732724871,
+      "bbox": [
+        [
+          429,
+          1187
+        ],
+        [
+          823,
+          1187
+        ],
+        [
+          823,
+          1214
+        ],
+        [
+          429,
+          1214
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다음 각 호의 어느 하나에 해당하는 사람은 공무원이 될 수 없다.",
+      "confidence": 0.9997194440741288,
+      "bbox": [
+        [
+          129,
+          1239
+        ],
+        [
+          894,
+          1239
+        ],
+        [
+          894,
+          1261
+        ],
+        [
+          129,
+          1261
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 피성년후견인",
+      "confidence": 0.99623027714816,
+      "bbox": [
+        [
+          128,
+          1298
+        ],
+        [
+          319,
+          1298
+        ],
+        [
+          319,
+          1320
+        ],
+        [
+          128,
+          1320
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 파산선고를 받고 복권되지 아니한 사람",
+      "confidence": 0.9998648619651794,
+      "bbox": [
+        [
+          129,
+          1331
+        ],
+        [
+          622,
+          1331
+        ],
+        [
+          622,
+          1358
+        ],
+        [
+          129,
+          1358
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 금고 이상의 실형을 선고받고 그 집행이 끝나거나(집행이 끝난 것으로 보는 경우",
+      "confidence": 0.9996765926480293,
+      "bbox": [
+        [
+          129,
+          1368
+        ],
+        [
+          1104,
+          1368
+        ],
+        [
+          1104,
+          1393
+        ],
+        [
+          129,
+          1393
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "를 포함한다) 집행이 면제된 날부터 5년이 지나지 아니한 사람",
+      "confidence": 0.9992857045597501,
+      "bbox": [
+        [
+          163,
+          1406
+        ],
+        [
+          894,
+          1406
+        ],
+        [
+          894,
+          1428
+        ],
+        [
+          163,
+          1428
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4. 금고 이상의 형의 집행유예를 선고받고 그 집행유예기간이 끝난 날부터 2년이",
+      "confidence": 0.9996231742527174,
+      "bbox": [
+        [
+          129,
+          1442
+        ],
+        [
+          1104,
+          1442
+        ],
+        [
+          1104,
+          1466
+        ],
+        [
+          129,
+          1466
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지나지 아니한 사람",
+      "confidence": 0.9997191776831945,
+      "bbox": [
+        [
+          163,
+          1479
+        ],
+        [
+          395,
+          1479
+        ],
+        [
+          395,
+          1501
+        ],
+        [
+          163,
+          1501
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "5. 금고 이상의 형의 선고유예를 선고받고 그 선고유예기간 중에 있는 사람",
+      "confidence": 0.9999578692192255,
+      "bbox": [
+        [
+          129,
+          1516
+        ],
+        [
+          1009,
+          1516
+        ],
+        [
+          1009,
+          1538
+        ],
+        [
+          129,
+          1538
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6. 법원의 판결 또는 다른 법률에 따라 자격이 상실되거나 정지된 사람",
+      "confidence": 0.9997860265941154,
+      "bbox": [
+        [
+          128,
+          1552
+        ],
+        [
+          959,
+          1552
+        ],
+        [
+          959,
+          1574
+        ],
+        [
+          128,
+          1574
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6의2. 공무원으로 재직기간 중 직무와 관련하여 「형법」 제355조및 제356조에 규정된",
+      "confidence": 0.9986773004718855,
+      "bbox": [
+        [
+          128,
+          1587
+        ],
+        [
+          1104,
+          1587
+        ],
+        [
+          1104,
+          1611
+        ],
+        [
+          128,
+          1611
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "죄를 범한 사람으로서 300만원 이상의 벌금형을 선고받고 그 형이 확정된 후",
+      "confidence": 0.9995956380258907,
+      "bbox": [
+        [
+          206,
+          1623
+        ],
+        [
+          1107,
+          1623
+        ],
+        [
+          1107,
+          1647
+        ],
+        [
+          206,
+          1647
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

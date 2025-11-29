@@ -1,0 +1,278 @@
+{
+  "page_number": 20,
+  "total_blocks": 10,
+  "average_confidence": 0.9908032182472295,
+  "processing_time": 1.0873932838439941,
+  "blocks": [
+    {
+      "text": "[서식5 동의서]",
+      "confidence": 0.9972867261279713,
+      "bbox": [
+        [
+          116,
+          130
+        ],
+        [
+          292,
+          130
+        ],
+        [
+          292,
+          157
+        ],
+        [
+          116,
+          157
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자격요건 검증을 위한 동의서",
+      "confidence": 0.9996919667019564,
+      "bbox": [
+        [
+          276,
+          292
+        ],
+        [
+          956,
+          292
+        ],
+        [
+          956,
+          344
+        ],
+        [
+          276,
+          344
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "본인은 2025년도 제8회 천안시 지방임기제공무원 채용시험의 자격",
+      "confidence": 0.9992551882016031,
+      "bbox": [
+        [
+          146,
+          505
+        ],
+        [
+          1123,
+          505
+        ],
+        [
+          1123,
+          542
+        ],
+        [
+          146,
+          542
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기준과 관련하여 제출서류(거주지 확인, 경력증명서, 자격증 및 기타",
+      "confidence": 0.9998147365374442,
+      "bbox": [
+        [
+          114,
+          581
+        ],
+        [
+          1126,
+          581
+        ],
+        [
+          1126,
+          617
+        ],
+        [
+          114,
+          617
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제출서류 등)의 진위 여부 검증을 위한 본인의 개인정보 활용에",
+      "confidence": 0.999003580874867,
+      "bbox": [
+        [
+          113,
+          654
+        ],
+        [
+          1122,
+          654
+        ],
+        [
+          1122,
+          691
+        ],
+        [
+          113,
+          691
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "동의합니다.",
+      "confidence": 0.999169647693634,
+      "bbox": [
+        [
+          113,
+          729
+        ],
+        [
+          302,
+          729
+        ],
+        [
+          302,
+          765
+        ],
+        [
+          113,
+          765
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025년 월 일",
+      "confidence": 0.9913365515795621,
+      "bbox": [
+        [
+          452,
+          1081
+        ],
+        [
+          785,
+          1081
+        ],
+        [
+          785,
+          1117
+        ],
+        [
+          452,
+          1117
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성명",
+      "confidence": 0.9989112814267477,
+      "bbox": [
+        [
+          700,
+          1209
+        ],
+        [
+          776,
+          1209
+        ],
+        [
+          776,
+          1247
+        ],
+        [
+          700,
+          1247
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(세명)",
+      "confidence": 0.9245534340540568,
+      "bbox": [
+        [
+          1009,
+          1208
+        ],
+        [
+          1118,
+          1208
+        ],
+        [
+          1118,
+          1246
+        ],
+        [
+          1009,
+          1246
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "천안시인사위원회 위원장 귀하",
+      "confidence": 0.9990090692744535,
+      "bbox": [
+        [
+          112,
+          1496
+        ],
+        [
+          666,
+          1496
+        ],
+        [
+          666,
+          1549
+        ],
+        [
+          112,
+          1549
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

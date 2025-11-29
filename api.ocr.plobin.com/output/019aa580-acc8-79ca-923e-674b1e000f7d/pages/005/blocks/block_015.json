@@ -1,0 +1,17 @@
+{
+  "block_id": 15,
+  "text": "• 전체 동의: 모든 약관에 한번에 동의할 수 있습니다",
+  "confidence": 0.9840389471501112,
+  "bbox": {
+    "x_min": 172,
+    "y_min": 648,
+    "x_max": 650,
+    "y_max": 670,
+    "width": 478,
+    "height": 22
+  },
+  "block_type": "text",
+  "text_length": 30,
+  "created_at": "2025-11-21T08:21:12.263454",
+  "version": "1.0"
+}

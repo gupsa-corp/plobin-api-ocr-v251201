@@ -1,0 +1,683 @@
+{
+  "page_number": 7,
+  "total_blocks": 25,
+  "average_confidence": 0.9919166673418525,
+  "processing_time": 1.4943883419036865,
+  "blocks": [
+    {
+      "text": "⑥ 채용예정분야의 경력증명서 1부",
+      "confidence": 0.983166778087616,
+      "bbox": [
+        [
+          100,
+          188
+        ],
+        [
+          571,
+          188
+        ],
+        [
+          571,
+          214
+        ],
+        [
+          100,
+          214
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 경력증명서는 <u>근무기간 · 직책(급) · 담당업무 · 상근직 또는 비상근직</u> 등을 <u>구</u>",
+      "confidence": 0.9757024182213677,
+      "bbox": [
+        [
+          143,
+          242
+        ],
+        [
+          1153,
+          242
+        ],
+        [
+          1153,
+          273
+        ],
+        [
+          143,
+          273
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "체적으로 명시하고, 발행기관의 발급자·연락처·관인날인 등이 명확해야",
+      "confidence": 0.9929791260988284,
+      "bbox": [
+        [
+          175,
+          302
+        ],
+        [
+          1154,
+          302
+        ],
+        [
+          1154,
+          329
+        ],
+        [
+          175,
+          329
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "하며, 담당업무는 반드시 구체적으로 작성하여 관련분야 근무경력을 확인",
+      "confidence": 0.9958665072917938,
+      "bbox": [
+        [
+          176,
+          359
+        ],
+        [
+          1151,
+          359
+        ],
+        [
+          1151,
+          387
+        ],
+        [
+          176,
+          387
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "할 수 있어야 합니다. (근무경력 기준 : 1일 8시간, 주 40시간)",
+      "confidence": 0.9956259349497353,
+      "bbox": [
+        [
+          176,
+          418
+        ],
+        [
+          944,
+          418
+        ],
+        [
+          944,
+          445
+        ],
+        [
+          176,
+          445
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 서류작성 미비로 경력판정이 불분명할 경우 불인정될 수 있습니다.",
+      "confidence": 0.996837881895212,
+      "bbox": [
+        [
+          175,
+          475
+        ],
+        [
+          983,
+          475
+        ],
+        [
+          983,
+          500
+        ],
+        [
+          175,
+          500
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 근무행태가 불규칙적(시간단위 근무 등)인 근무경력자는 근무일 또는 기",
+      "confidence": 0.998790347859973,
+      "bbox": [
+        [
+          143,
+          527
+        ],
+        [
+          1152,
+          527
+        ],
+        [
+          1152,
+          555
+        ],
+        [
+          143,
+          555
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "간동안 1일 근무시간과 기간을 경력증명서에 명시하여 근무시간 산출이",
+      "confidence": 0.9995058087202219,
+      "bbox": [
+        [
+          175,
+          584
+        ],
+        [
+          1149,
+          584
+        ],
+        [
+          1149,
+          611
+        ],
+        [
+          175,
+          611
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가능하도록 제출하여야 하며 불분명한 경우에는 경력을 인정하지 않습니다.",
+      "confidence": 0.9998828710579291,
+      "bbox": [
+        [
+          175,
+          642
+        ],
+        [
+          1130,
+          642
+        ],
+        [
+          1130,
+          668
+        ],
+        [
+          175,
+          668
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑦ 국민건강보험 자격득실 확인서(원본) 1부",
+      "confidence": 0.9963005276826712,
+      "bbox": [
+        [
+          100,
+          724
+        ],
+        [
+          691,
+          724
+        ],
+        [
+          691,
+          751
+        ],
+        [
+          100,
+          751
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 국민건강보험공단(www.nhic.or.kr) 홈페이지에서 출력 또는 공단 방문 발급",
+      "confidence": 0.9902133509224537,
+      "bbox": [
+        [
+          143,
+          780
+        ],
+        [
+          1088,
+          780
+        ],
+        [
+          1088,
+          807
+        ],
+        [
+          143,
+          807
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 경력증명서 또는 재직증명서를 검토할 수 있도록 “보험가입 전체기간” 발급",
+      "confidence": 0.9949101575396277,
+      "bbox": [
+        [
+          143,
+          836
+        ],
+        [
+          1093,
+          836
+        ],
+        [
+          1093,
+          863
+        ],
+        [
+          143,
+          863
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 건강보험자격득실이 불명확할 경우 사업자등록증 사본 등 보충서류를 첨부",
+      "confidence": 0.993321126415616,
+      "bbox": [
+        [
+          143,
+          889
+        ],
+        [
+          1087,
+          889
+        ],
+        [
+          1087,
+          920
+        ],
+        [
+          143,
+          920
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑧ 자격증 및 면허증 사본 1부(원본지참)",
+      "confidence": 0.9847874999046325,
+      "bbox": [
+        [
+          101,
+          963
+        ],
+        [
+          648,
+          963
+        ],
+        [
+          648,
+          989
+        ],
+        [
+          101,
+          989
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑨ 자격요건 검증을 위한 동의서(별지 서식5) 1부",
+      "confidence": 0.9836525559425354,
+      "bbox": [
+        [
+          101,
+          1021
+        ],
+        [
+          763,
+          1021
+        ],
+        [
+          763,
+          1049
+        ],
+        [
+          101,
+          1049
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑩ 기타 응시자격 적합여부를 증빙할 수 있는 서류 1부(해당자)",
+      "confidence": 0.985088134134138,
+      "bbox": [
+        [
+          101,
+          1084
+        ],
+        [
+          955,
+          1084
+        ],
+        [
+          955,
+          1111
+        ],
+        [
+          101,
+          1111
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "① 취업지원대상자 증명서(해당자)",
+      "confidence": 0.9627586752176285,
+      "bbox": [
+        [
+          101,
+          1146
+        ],
+        [
+          562,
+          1146
+        ],
+        [
+          562,
+          1176
+        ],
+        [
+          101,
+          1176
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "유의사항",
+      "confidence": 0.9900447845458984,
+      "bbox": [
+        [
+          542,
+          1220
+        ],
+        [
+          645,
+          1220
+        ],
+        [
+          645,
+          1242
+        ],
+        [
+          542,
+          1242
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 제출서류는 발급확인을 할 수 있도록 공고일 전 6개월 이내에 발행분만 인정하고,",
+      "confidence": 0.9963354679445425,
+      "bbox": [
+        [
+          102,
+          1291
+        ],
+        [
+          1051,
+          1291
+        ],
+        [
+          1051,
+          1315
+        ],
+        [
+          102,
+          1315
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "외국어로 된 서류는 한글 번역문과 함께 제출하되 응시자격과 직접 관련된 증명서 등은",
+      "confidence": 0.9999447936813036,
+      "bbox": [
+        [
+          134,
+          1333
+        ],
+        [
+          1087,
+          1333
+        ],
+        [
+          1087,
+          1357
+        ],
+        [
+          134,
+          1357
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "공증을 필하여야 하며, 제출서류 중 미비 또는 불확실한 경우 불인정합니다.",
+      "confidence": 0.9987230619718862,
+      "bbox": [
+        [
+          133,
+          1375
+        ],
+        [
+          993,
+          1375
+        ],
+        [
+          993,
+          1400
+        ],
+        [
+          133,
+          1400
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 증빙자료가 없는 학력과 경력 등은 인정하지 아니하며, 필요시 추가서류 제출을",
+      "confidence": 0.9930250320745551,
+      "bbox": [
+        [
+          102,
+          1419
+        ],
+        [
+          1086,
+          1419
+        ],
+        [
+          1086,
+          1444
+        ],
+        [
+          102,
+          1444
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "요구할 수 있습니다.",
+      "confidence": 0.9996118728931134,
+      "bbox": [
+        [
+          133,
+          1464
+        ],
+        [
+          365,
+          1464
+        ],
+        [
+          365,
+          1486
+        ],
+        [
+          133,
+          1486
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 상기 제출서류는 위 순서대로 정리한 후 클립(또는 집게)로 고정하여 제출",
+      "confidence": 0.9946833090348677,
+      "bbox": [
+        [
+          102,
+          1506
+        ],
+        [
+          972,
+          1506
+        ],
+        [
+          972,
+          1530
+        ],
+        [
+          102,
+          1530
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(스테이플러 사용 금지)",
+      "confidence": 0.9961586594581604,
+      "bbox": [
+        [
+          133,
+          1549
+        ],
+        [
+          401,
+          1549
+        ],
+        [
+          401,
+          1573
+        ],
+        [
+          133,
+          1573
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

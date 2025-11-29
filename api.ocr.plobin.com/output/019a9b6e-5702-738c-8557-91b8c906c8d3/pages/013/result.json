@@ -1,0 +1,1007 @@
+{
+  "page_number": 13,
+  "total_blocks": 37,
+  "average_confidence": 0.9922455687887721,
+  "processing_time": 1.6480138301849365,
+  "blocks": [
+    {
+      "text": "근무예정부서",
+      "confidence": 0.9969466328620911,
+      "bbox": [
+        [
+          160,
+          110
+        ],
+        [
+          315,
+          110
+        ],
+        [
+          315,
+          136
+        ],
+        [
+          160,
+          136
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채용 분야",
+      "confidence": 0.9994885921478271,
+      "bbox": [
+        [
+          451,
+          110
+        ],
+        [
+          572,
+          110
+        ],
+        [
+          572,
+          136
+        ],
+        [
+          451,
+          136
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "선발예정인원",
+      "confidence": 0.9974455748285566,
+      "bbox": [
+        [
+          952,
+          110
+        ],
+        [
+          1107,
+          110
+        ],
+        [
+          1107,
+          135
+        ],
+        [
+          952,
+          135
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "임용예정직급",
+      "confidence": 0.9989683372633797,
+      "bbox": [
+        [
+          728,
+          111
+        ],
+        [
+          884,
+          111
+        ],
+        [
+          884,
+          135
+        ],
+        [
+          728,
+          135
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시간선택제임기제",
+      "confidence": 0.9979426794581943,
+      "bbox": [
+        [
+          703,
+          180
+        ],
+        [
+          907,
+          180
+        ],
+        [
+          907,
+          204
+        ],
+        [
+          703,
+          204
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "공원녹지사업본부",
+      "confidence": 0.9935498436292013,
+      "bbox": [
+        [
+          135,
+          183
+        ],
+        [
+          339,
+          183
+        ],
+        [
+          339,
+          209
+        ],
+        [
+          135,
+          209
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "산림재해",
+      "confidence": 0.9976415753364563,
+      "bbox": [
+        [
+          458,
+          196
+        ],
+        [
+          564,
+          196
+        ],
+        [
+          564,
+          222
+        ],
+        [
+          458,
+          222
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1명",
+      "confidence": 0.9919728934764862,
+      "bbox": [
+        [
+          1009,
+          197
+        ],
+        [
+          1051,
+          197
+        ],
+        [
+          1051,
+          222
+        ],
+        [
+          1009,
+          222
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "산림휴양과",
+      "confidence": 0.9988231559594473,
+      "bbox": [
+        [
+          172,
+          210
+        ],
+        [
+          304,
+          210
+        ],
+        [
+          304,
+          235
+        ],
+        [
+          172,
+          235
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다급(7급상당)",
+      "confidence": 0.9950500965118408,
+      "bbox": [
+        [
+          723,
+          213
+        ],
+        [
+          886,
+          213
+        ],
+        [
+          886,
+          238
+        ],
+        [
+          723,
+          238
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 산불예방 종합대책 수립 및 운영",
+      "confidence": 0.9894029904495586,
+      "bbox": [
+        [
+          362,
+          302
+        ],
+        [
+          777,
+          302
+        ],
+        [
+          777,
+          327
+        ],
+        [
+          362,
+          327
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 산불발생지 원인 및 피해조사",
+      "confidence": 0.9922065168619156,
+      "bbox": [
+        [
+          361,
+          332
+        ],
+        [
+          744,
+          332
+        ],
+        [
+          744,
+          361
+        ],
+        [
+          361,
+          361
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 산불감시시스템 구축 및 운영",
+      "confidence": 0.9856965243816376,
+      "bbox": [
+        [
+          361,
+          368
+        ],
+        [
+          739,
+          368
+        ],
+        [
+          739,
+          392
+        ],
+        [
+          361,
+          392
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주요 업무",
+      "confidence": 0.9997566172054836,
+      "bbox": [
+        [
+          178,
+          400
+        ],
+        [
+          295,
+          400
+        ],
+        [
+          295,
+          424
+        ],
+        [
+          178,
+          424
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 산림재해예방 센터관리",
+      "confidence": 0.9798865169286728,
+      "bbox": [
+        [
+          361,
+          400
+        ],
+        [
+          666,
+          400
+        ],
+        [
+          666,
+          425
+        ],
+        [
+          361,
+          425
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 산불진화 차량·물품·통신 장비 관리",
+      "confidence": 0.9891513609886169,
+      "bbox": [
+        [
+          361,
+          433
+        ],
+        [
+          807,
+          433
+        ],
+        [
+          807,
+          458
+        ],
+        [
+          361,
+          458
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 산림보호 관련 인력 선발 및 운영 등",
+      "confidence": 0.9914194083213806,
+      "bbox": [
+        [
+          361,
+          465
+        ],
+        [
+          828,
+          465
+        ],
+        [
+          828,
+          490
+        ],
+        [
+          361,
+          490
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 기타 부서장이 지정하는 업무 등",
+      "confidence": 0.991474062204361,
+      "bbox": [
+        [
+          361,
+          498
+        ],
+        [
+          778,
+          498
+        ],
+        [
+          778,
+          523
+        ],
+        [
+          361,
+          523
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ (<b>공통 역량</b>) 윤리의식, 공직의식, 조직적응력",
+      "confidence": 0.9434780568787546,
+      "bbox": [
+        [
+          362,
+          602
+        ],
+        [
+          917,
+          602
+        ],
+        [
+          917,
+          627
+        ],
+        [
+          362,
+          627
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필요 역량",
+      "confidence": 0.9990023970603943,
+      "bbox": [
+        [
+          178,
+          642
+        ],
+        [
+          298,
+          642
+        ],
+        [
+          298,
+          666
+        ],
+        [
+          178,
+          666
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ (직급별 역량) 상황인식·팬단력, 기획력, 팀워크지향, 의사소통능력, 조정능력",
+      "confidence": 0.9766504533436834,
+      "bbox": [
+        [
+          361,
+          642
+        ],
+        [
+          1108,
+          642
+        ],
+        [
+          1108,
+          667
+        ],
+        [
+          361,
+          667
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ (직렬별 역량) 재난·상황판단 이해력, 분석력, 인력 운영력, 전략적 사고력",
+      "confidence": 0.9806953147053719,
+      "bbox": [
+        [
+          362,
+          682
+        ],
+        [
+          1106,
+          682
+        ],
+        [
+          1106,
+          707
+        ],
+        [
+          362,
+          707
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필요 지식",
+      "confidence": 0.9993979334831238,
+      "bbox": [
+        [
+          178,
+          806
+        ],
+        [
+          295,
+          806
+        ],
+        [
+          295,
+          830
+        ],
+        [
+          178,
+          830
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 산림재해 및 산림보호관련 등 관련 전문지식",
+      "confidence": 0.9901596712214606,
+      "bbox": [
+        [
+          361,
+          806
+        ],
+        [
+          911,
+          806
+        ],
+        [
+          911,
+          830
+        ],
+        [
+          361,
+          830
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "아래의 경력요건 중 한 가지 이상을 충족하는 자",
+      "confidence": 0.9997709521225521,
+      "bbox": [
+        [
+          361,
+          952
+        ],
+        [
+          892,
+          952
+        ],
+        [
+          892,
+          976
+        ],
+        [
+          361,
+          976
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[경력요건]",
+      "confidence": 0.9974789321422577,
+      "bbox": [
+        [
+          361,
+          998
+        ],
+        [
+          484,
+          998
+        ],
+        [
+          484,
+          1022
+        ],
+        [
+          361,
+          1022
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 학사학위를 취득한 후 1년 이상 임용예정 직무분야의",
+      "confidence": 0.999474534482667,
+      "bbox": [
+        [
+          372,
+          1032
+        ],
+        [
+          990,
+          1032
+        ],
+        [
+          990,
+          1056
+        ],
+        [
+          372,
+          1056
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "실무경력자",
+      "confidence": 0.9992826581001282,
+      "bbox": [
+        [
+          407,
+          1068
+        ],
+        [
+          534,
+          1068
+        ],
+        [
+          534,
+          1092
+        ],
+        [
+          407,
+          1092
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 3년 이상 임용예정 직무분야의 실무경력자",
+      "confidence": 0.998848416187145,
+      "bbox": [
+        [
+          373,
+          1102
+        ],
+        [
+          877,
+          1102
+        ],
+        [
+          877,
+          1127
+        ],
+        [
+          373,
+          1127
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시자격요건",
+      "confidence": 0.996959252016885,
+      "bbox": [
+        [
+          160,
+          1122
+        ],
+        [
+          312,
+          1122
+        ],
+        [
+          312,
+          1146
+        ],
+        [
+          160,
+          1146
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 8급(8급상당) 이상의 공무원으로서 2년 이상 임용예정",
+      "confidence": 0.99388541834695,
+      "bbox": [
+        [
+          374,
+          1137
+        ],
+        [
+          993,
+          1137
+        ],
+        [
+          993,
+          1161
+        ],
+        [
+          374,
+          1161
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직무분야의 실무경력자",
+      "confidence": 0.9997967940110427,
+      "bbox": [
+        [
+          409,
+          1172
+        ],
+        [
+          661,
+          1172
+        ],
+        [
+          661,
+          1197
+        ],
+        [
+          409,
+          1197
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[실무경력]",
+      "confidence": 0.9976125136017799,
+      "bbox": [
+        [
+          361,
+          1220
+        ],
+        [
+          484,
+          1220
+        ],
+        [
+          484,
+          1246
+        ],
+        [
+          361,
+          1246
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "국가, 지자체, 공공기관, 민간기업에서 산림관련 직무분야로 근무한",
+      "confidence": 0.9999140846101862,
+      "bbox": [
+        [
+          372,
+          1252
+        ],
+        [
+          1113,
+          1252
+        ],
+        [
+          1113,
+          1282
+        ],
+        [
+          372,
+          1282
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경력",
+      "confidence": 0.9980458815892538,
+      "bbox": [
+        [
+          372,
+          1292
+        ],
+        [
+          423,
+          1292
+        ],
+        [
+          423,
+          1314
+        ],
+        [
+          372,
+          1314
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "우대요건",
+      "confidence": 0.9589828848838806,
+      "bbox": [
+        [
+          184,
+          1410
+        ],
+        [
+          288,
+          1410
+        ],
+        [
+          288,
+          1436
+        ],
+        [
+          184,
+          1436
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "해당없음",
+      "confidence": 0.9968265175819397,
+      "bbox": [
+        [
+          360,
+          1412
+        ],
+        [
+          465,
+          1412
+        ],
+        [
+          465,
+          1436
+        ],
+        [
+          360,
+          1436
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

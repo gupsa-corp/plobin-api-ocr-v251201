@@ -1,0 +1,1520 @@
+{
+  "page_number": 5,
+  "total_blocks": 56,
+  "average_confidence": 0.9814787866970357,
+  "processing_time": 2.108466148376465,
+  "blocks": [
+    {
+      "text": "근 무 조 건",
+      "confidence": 0.9943359427981906,
+      "bbox": [
+        [
+          207,
+          103
+        ],
+        [
+          450,
+          103
+        ],
+        [
+          450,
+          135
+        ],
+        [
+          207,
+          135
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 복 무",
+      "confidence": 0.932569719851017,
+      "bbox": [
+        [
+          134,
+          169
+        ],
+        [
+          279,
+          169
+        ],
+        [
+          279,
+          196
+        ],
+        [
+          134,
+          196
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 근무기간 : 2년",
+      "confidence": 0.9100918556962695,
+      "bbox": [
+        [
+          163,
+          216
+        ],
+        [
+          401,
+          216
+        ],
+        [
+          401,
+          244
+        ],
+        [
+          163,
+          244
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "ㅇ 근무시간",
+      "confidence": 0.8964238353073597,
+      "bbox": [
+        [
+          163,
+          265
+        ],
+        [
+          322,
+          265
+        ],
+        [
+          322,
+          294
+        ],
+        [
+          163,
+          294
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 시간선택제임기제 : 주 5일/주 35시간(09:00~17:00 또는 10:00~18:00)",
+      "confidence": 0.9792876449498263,
+      "bbox": [
+        [
+          185,
+          308
+        ],
+        [
+          1035,
+          308
+        ],
+        [
+          1035,
+          339
+        ],
+        [
+          185,
+          339
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 보수 수준",
+      "confidence": 0.9955910444259644,
+      "bbox": [
+        [
+          142,
+          363
+        ],
+        [
+          332,
+          363
+        ],
+        [
+          332,
+          390
+        ],
+        [
+          142,
+          390
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[지방공무원 보수규정]",
+      "confidence": 0.9941003450325557,
+      "bbox": [
+        [
+          463,
+          407
+        ],
+        [
+          775,
+          407
+        ],
+        [
+          775,
+          437
+        ],
+        [
+          463,
+          437
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나급",
+      "confidence": 0.986038088798523,
+      "bbox": [
+        [
+          475,
+          450
+        ],
+        [
+          537,
+          450
+        ],
+        [
+          537,
+          480
+        ],
+        [
+          475,
+          480
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가급",
+      "confidence": 0.9971478978792826,
+      "bbox": [
+        [
+          300,
+          451
+        ],
+        [
+          361,
+          451
+        ],
+        [
+          361,
+          479
+        ],
+        [
+          300,
+          479
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "라급",
+      "confidence": 0.9886732498804728,
+      "bbox": [
+        [
+          827,
+          451
+        ],
+        [
+          888,
+          451
+        ],
+        [
+          888,
+          480
+        ],
+        [
+          827,
+          480
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다급",
+      "confidence": 0.9892312089602152,
+      "bbox": [
+        [
+          651,
+          452
+        ],
+        [
+          713,
+          452
+        ],
+        [
+          713,
+          481
+        ],
+        [
+          651,
+          481
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "마급",
+      "confidence": 0.9964296023050944,
+      "bbox": [
+        [
+          1002,
+          452
+        ],
+        [
+          1064,
+          452
+        ],
+        [
+          1064,
+          480
+        ],
+        [
+          1002,
+          480
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "구 분",
+      "confidence": 0.995296585559845,
+      "bbox": [
+        [
+          141,
+          463
+        ],
+        [
+          222,
+          463
+        ],
+        [
+          222,
+          495
+        ],
+        [
+          141,
+          495
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(5급상당)",
+      "confidence": 0.9723917245864868,
+      "bbox": [
+        [
+          267,
+          480
+        ],
+        [
+          395,
+          480
+        ],
+        [
+          395,
+          509
+        ],
+        [
+          267,
+          509
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(7급상당)",
+      "confidence": 0.9497251585125923,
+      "bbox": [
+        [
+          607,
+          480
+        ],
+        [
+          747,
+          480
+        ],
+        [
+          747,
+          508
+        ],
+        [
+          607,
+          508
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(6급상당)",
+      "confidence": 0.9829009473323822,
+      "bbox": [
+        [
+          443,
+          481
+        ],
+        [
+          581,
+          481
+        ],
+        [
+          581,
+          509
+        ],
+        [
+          443,
+          509
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(8급상당)",
+      "confidence": 0.9631678238511086,
+      "bbox": [
+        [
+          792,
+          481
+        ],
+        [
+          930,
+          481
+        ],
+        [
+          930,
+          509
+        ],
+        [
+          792,
+          509
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(9급상당)",
+      "confidence": 0.9696576148271561,
+      "bbox": [
+        [
+          966,
+          481
+        ],
+        [
+          1097,
+          481
+        ],
+        [
+          1097,
+          510
+        ],
+        [
+          966,
+          510
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "83,677천원",
+      "confidence": 0.9933468103408813,
+      "bbox": [
+        [
+          427,
+          525
+        ],
+        [
+          586,
+          525
+        ],
+        [
+          586,
+          553
+        ],
+        [
+          427,
+          553
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "68,388천원",
+      "confidence": 0.9888176202774048,
+      "bbox": [
+        [
+          597,
+          525
+        ],
+        [
+          762,
+          525
+        ],
+        [
+          762,
+          553
+        ],
+        [
+          597,
+          553
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "59,996천원",
+      "confidence": 0.9939213395118713,
+      "bbox": [
+        [
+          778,
+          525
+        ],
+        [
+          935,
+          525
+        ],
+        [
+          935,
+          553
+        ],
+        [
+          778,
+          553
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "52,829천원",
+      "confidence": 0.9945225954055786,
+      "bbox": [
+        [
+          955,
+          525
+        ],
+        [
+          1108,
+          525
+        ],
+        [
+          1108,
+          553
+        ],
+        [
+          955,
+          553
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "상한액",
+      "confidence": 0.9985504746437073,
+      "bbox": [
+        [
+          134,
+          525
+        ],
+        [
+          229,
+          525
+        ],
+        [
+          229,
+          551
+        ],
+        [
+          134,
+          551
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "하한액",
+      "confidence": 0.9982389360666275,
+      "bbox": [
+        [
+          134,
+          578
+        ],
+        [
+          231,
+          578
+        ],
+        [
+          231,
+          605
+        ],
+        [
+          134,
+          605
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "55,756천원",
+      "confidence": 0.9913570880889893,
+      "bbox": [
+        [
+          425,
+          578
+        ],
+        [
+          589,
+          578
+        ],
+        [
+          589,
+          605
+        ],
+        [
+          425,
+          605
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "48,572천원",
+      "confidence": 0.9921011328697205,
+      "bbox": [
+        [
+          589,
+          578
+        ],
+        [
+          768,
+          578
+        ],
+        [
+          768,
+          605
+        ],
+        [
+          589,
+          605
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "42,798천원",
+      "confidence": 0.991873151063919,
+      "bbox": [
+        [
+          773,
+          578
+        ],
+        [
+          933,
+          578
+        ],
+        [
+          933,
+          604
+        ],
+        [
+          773,
+          604
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "67,307천원",
+      "confidence": 0.9918831765651703,
+      "bbox": [
+        [
+          251,
+          578
+        ],
+        [
+          413,
+          578
+        ],
+        [
+          413,
+          605
+        ],
+        [
+          251,
+          605
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 단, 임기제 공무원은 「지방공무원보수규정」 제35조 제3항 규정에 의거",
+      "confidence": 0.9985397471938022,
+      "bbox": [
+        [
+          150,
+          636
+        ],
+        [
+          1121,
+          636
+        ],
+        [
+          1121,
+          668
+        ],
+        [
+          150,
+          668
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "신규 임용자는 연봉 한계액의 하한액 책정을 원칙으로함.",
+      "confidence": 0.9997302070260048,
+      "bbox": [
+        [
+          353,
+          680
+        ],
+        [
+          1121,
+          680
+        ],
+        [
+          1121,
+          706
+        ],
+        [
+          353,
+          706
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 위 보수규정표는 2025년도 일반임기제공무원(주/40시간근무)기준이며.",
+      "confidence": 0.9866099135820255,
+      "bbox": [
+        [
+          220,
+          726
+        ],
+        [
+          1104,
+          726
+        ],
+        [
+          1104,
+          753
+        ],
+        [
+          220,
+          753
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시간선택제 임기제 공무원은 연봉 한계액에 근무시간을 비례하여 환산적용",
+      "confidence": 0.9989210098981858,
+      "bbox": [
+        [
+          255,
+          766
+        ],
+        [
+          1117,
+          766
+        ],
+        [
+          1117,
+          793
+        ],
+        [
+          255,
+          793
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ <b>수</b> 당 : 정액급식비, 직급보조비, 초과근무수당, 가족수당 등 연봉 외",
+      "confidence": 0.9366994563569414,
+      "bbox": [
+        [
+          167,
+          822
+        ],
+        [
+          1120,
+          822
+        ],
+        [
+          1120,
+          852
+        ],
+        [
+          167,
+          852
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "급여는 「지방공무원보수규정」 및 「지방공무원 수당 등에 관한",
+      "confidence": 0.9278016413961138,
+      "bbox": [
+        [
+          329,
+          867
+        ],
+        [
+          1124,
+          867
+        ],
+        [
+          1124,
+          899
+        ],
+        [
+          329,
+          899
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "규정」적용",
+      "confidence": 0.9494880338509878,
+      "bbox": [
+        [
+          329,
+          915
+        ],
+        [
+          477,
+          915
+        ],
+        [
+          477,
+          944
+        ],
+        [
+          329,
+          944
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시험일정 및 시험방법",
+      "confidence": 0.9983642743184016,
+      "bbox": [
+        [
+          205,
+          975
+        ],
+        [
+          570,
+          975
+        ],
+        [
+          570,
+          1009
+        ],
+        [
+          205,
+          1009
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "5",
+      "confidence": 0.9246790707111359,
+      "bbox": [
+        [
+          133,
+          980
+        ],
+        [
+          159,
+          980
+        ],
+        [
+          159,
+          1006
+        ],
+        [
+          133,
+          1006
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 시험일정",
+      "confidence": 0.9976484907997979,
+      "bbox": [
+        [
+          130,
+          1046
+        ],
+        [
+          299,
+          1046
+        ],
+        [
+          299,
+          1073
+        ],
+        [
+          130,
+          1073
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시원서접수기간",
+      "confidence": 0.9923983216285706,
+      "bbox": [
+        [
+          140,
+          1112
+        ],
+        [
+          382,
+          1112
+        ],
+        [
+          382,
+          1139
+        ],
+        [
+          140,
+          1139
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시험공고일",
+      "confidence": 0.9983872373898824,
+      "bbox": [
+        [
+          558,
+          1113
+        ],
+        [
+          714,
+          1113
+        ],
+        [
+          714,
+          1140
+        ],
+        [
+          558,
+          1140
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "합격자발표일",
+      "confidence": 0.999336872782026,
+      "bbox": [
+        [
+          918,
+          1111
+        ],
+        [
+          1093,
+          1111
+        ],
+        [
+          1093,
+          1141
+        ],
+        [
+          918,
+          1141
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시험구분",
+      "confidence": 0.9980304598808288,
+      "bbox": [
+        [
+          409,
+          1114
+        ],
+        [
+          533,
+          1114
+        ],
+        [
+          533,
+          1140
+        ],
+        [
+          409,
+          1140
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "시험일자",
+      "confidence": 0.9990301609039307,
+      "bbox": [
+        [
+          746,
+          1114
+        ],
+        [
+          871,
+          1114
+        ],
+        [
+          871,
+          1140
+        ],
+        [
+          746,
+          1140
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "서류전형",
+      "confidence": 0.9989453434944153,
+      "bbox": [
+        [
+          413,
+          1179
+        ],
+        [
+          530,
+          1179
+        ],
+        [
+          530,
+          1211
+        ],
+        [
+          413,
+          1211
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025. 12. 9.限",
+      "confidence": 0.9915088097254435,
+      "bbox": [
+        [
+          923,
+          1180
+        ],
+        [
+          1090,
+          1180
+        ],
+        [
+          1090,
+          1207
+        ],
+        [
+          923,
+          1207
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025. 12. 1. ~",
+      "confidence": 0.9422896107037863,
+      "bbox": [
+        [
+          166,
+          1189
+        ],
+        [
+          351,
+          1189
+        ],
+        [
+          351,
+          1216
+        ],
+        [
+          166,
+          1216
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "12. 3. (3일간)",
+      "confidence": 0.9793163537979126,
+      "bbox": [
+        [
+          164,
+          1234
+        ],
+        [
+          352,
+          1234
+        ],
+        [
+          352,
+          1262
+        ],
+        [
+          164,
+          1262
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "면접시험",
+      "confidence": 0.998067033290863,
+      "bbox": [
+        [
+          412,
+          1245
+        ],
+        [
+          532,
+          1245
+        ],
+        [
+          532,
+          1272
+        ],
+        [
+          412,
+          1272
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "추후공고",
+      "confidence": 0.9811959981918335,
+      "bbox": [
+        [
+          947,
+          1244
+        ],
+        [
+          1067,
+          1244
+        ],
+        [
+          1067,
+          1271
+        ],
+        [
+          947,
+          1271
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "추후공고",
+      "confidence": 0.9889385819435119,
+      "bbox": [
+        [
+          747,
+          1246
+        ],
+        [
+          873,
+          1246
+        ],
+        [
+          873,
+          1273
+        ],
+        [
+          747,
+          1273
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 시험방법",
+      "confidence": 0.9982931812604269,
+      "bbox": [
+        [
+          130,
+          1342
+        ],
+        [
+          299,
+          1342
+        ],
+        [
+          299,
+          1369
+        ],
+        [
+          130,
+          1369
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 제1차 시험 : 서류전형",
+      "confidence": 0.9619897603988647,
+      "bbox": [
+        [
+          135,
+          1397
+        ],
+        [
+          476,
+          1397
+        ],
+        [
+          476,
+          1424
+        ],
+        [
+          135,
+          1424
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 해당 직무수행에 관련되는 응시자격 등 소정의 기준에 적합여부 심사함",
+      "confidence": 0.999068425922859,
+      "bbox": [
+        [
+          144,
+          1448
+        ],
+        [
+          1123,
+          1448
+        ],
+        [
+          1123,
+          1475
+        ],
+        [
+          144,
+          1475
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 단, 응시인원이 선발예정인원의 3배수 이상인 때에는 서류심사 기준에",
+      "confidence": 0.9988596526587882,
+      "bbox": [
+        [
+          144,
+          1497
+        ],
+        [
+          1122,
+          1497
+        ],
+        [
+          1122,
+          1525
+        ],
+        [
+          144,
+          1525
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "따라 서류전형 합격자를 3배수 이상으로 결정할 수 있음",
+      "confidence": 0.9998606834560633,
+      "bbox": [
+        [
+          174,
+          1547
+        ],
+        [
+          938,
+          1547
+        ],
+        [
+          938,
+          1575
+        ],
+        [
+          174,
+          1575
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 서류전형 합격자에 한하여 면접시험 실시",
+      "confidence": 0.9911411070823669,
+      "bbox": [
+        [
+          146,
+          1596
+        ],
+        [
+          737,
+          1596
+        ],
+        [
+          737,
+          1623
+        ],
+        [
+          146,
+          1623
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

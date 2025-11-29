@@ -1,0 +1,17 @@
+{
+  "block_id": 19,
+  "text": "• 레벨 2: 조직/프로젝트 관리자",
+  "confidence": 0.9594983146304176,
+  "bbox": {
+    "x_min": 171,
+    "y_min": 959,
+    "x_max": 468,
+    "y_max": 983,
+    "width": 297,
+    "height": 24
+  },
+  "block_type": "text",
+  "text_length": 19,
+  "created_at": "2025-11-21T07:48:59.343549",
+  "version": "1.0"
+}

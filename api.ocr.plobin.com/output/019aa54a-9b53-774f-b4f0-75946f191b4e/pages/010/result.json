@@ -1,0 +1,494 @@
+{
+  "page_number": 10,
+  "total_blocks": 18,
+  "average_confidence": 0.9762779582199688,
+  "processing_time": 1.3138644695281982,
+  "blocks": [
+    {
+      "text": "자기소개서 및 직무수행계획서",
+      "confidence": 0.9950835494434133,
+      "bbox": [
+        [
+          232,
+          187
+        ],
+        [
+          1005,
+          187
+        ],
+        [
+          1005,
+          240
+        ],
+        [
+          232,
+          240
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "명 :",
+      "confidence": 0.9982805609703064,
+      "bbox": [
+        [
+          228,
+          326
+        ],
+        [
+          338,
+          326
+        ],
+        [
+          338,
+          354
+        ],
+        [
+          228,
+          354
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "◇ 지원분야와 관련된 본인의 보유 역량을 기술하시오.",
+      "confidence": 0.9904318694025278,
+      "bbox": [
+        [
+          134,
+          528
+        ],
+        [
+          931,
+          528
+        ],
+        [
+          931,
+          556
+        ],
+        [
+          134,
+          556
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(구단연고 지역사회와의 교류 및 대외협력 증진계획 필수작성)",
+      "confidence": 0.999373940059117,
+      "bbox": [
+        [
+          148,
+          575
+        ],
+        [
+          998,
+          575
+        ],
+        [
+          998,
+          605
+        ],
+        [
+          148,
+          605
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 작성요령",
+      "confidence": 0.9621504321694374,
+      "bbox": [
+        [
+          150,
+          683
+        ],
+        [
+          312,
+          683
+        ],
+        [
+          312,
+          709
+        ],
+        [
+          150,
+          709
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 출신지역, 가족관계, 학력(출신학교) 등을 암시하는 내용 기재",
+      "confidence": 0.9880871742199628,
+      "bbox": [
+        [
+          193,
+          741
+        ],
+        [
+          1104,
+          741
+        ],
+        [
+          1104,
+          769
+        ],
+        [
+          193,
+          769
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "할 수 없습니다.",
+      "confidence": 0.9997208931229331,
+      "bbox": [
+        [
+          221,
+          788
+        ],
+        [
+          444,
+          788
+        ],
+        [
+          444,
+          814
+        ],
+        [
+          221,
+          814
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 직무수행계획서는 자유롭게 작성하시되, 축구단 운영계획이",
+      "confidence": 0.991758075782231,
+      "bbox": [
+        [
+          193,
+          835
+        ],
+        [
+          1027,
+          835
+        ],
+        [
+          1027,
+          862
+        ],
+        [
+          193,
+          862
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나타나도록 작성바랍니다.",
+      "confidence": 0.9994376262029012,
+      "bbox": [
+        [
+          219,
+          882
+        ],
+        [
+          575,
+          882
+        ],
+        [
+          575,
+          908
+        ],
+        [
+          219,
+          908
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 운영목표 :",
+      "confidence": 0.7567211172797463,
+      "bbox": [
+        [
+          193,
+          928
+        ],
+        [
+          370,
+          928
+        ],
+        [
+          370,
+          954
+        ],
+        [
+          193,
+          954
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지원자는 본인의 지원 분야에서 구단에 기여할 수 있는",
+      "confidence": 0.999945382918081,
+      "bbox": [
+        [
+          221,
+          973
+        ],
+        [
+          969,
+          973
+        ],
+        [
+          969,
+          1003
+        ],
+        [
+          221,
+          1003
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자신만의 역량, 노하우, 계획 등을 상세히 기재하시기 바랍니다.",
+      "confidence": 0.999847276790722,
+      "bbox": [
+        [
+          222,
+          1022
+        ],
+        [
+          1097,
+          1022
+        ],
+        [
+          1097,
+          1049
+        ],
+        [
+          222,
+          1049
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 자기소개서의 전체분량은 A4지 5매 이내로 작성하여 주시기 바랍니다.",
+      "confidence": 0.9896370985291221,
+      "bbox": [
+        [
+          193,
+          1068
+        ],
+        [
+          1097,
+          1068
+        ],
+        [
+          1097,
+          1095
+        ],
+        [
+          193,
+          1095
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "■ 자기소개서는 한글 및 워드프로세서를 사용하여 작성하여 주십시오.",
+      "confidence": 0.9843071907758713,
+      "bbox": [
+        [
+          195,
+          1115
+        ],
+        [
+          1094,
+          1115
+        ],
+        [
+          1094,
+          1141
+        ],
+        [
+          195,
+          1141
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "상기내용은 사실과 다름없음을 확인합니다.",
+      "confidence": 0.9999088495969772,
+      "bbox": [
+        [
+          299,
+          1307
+        ],
+        [
+          939,
+          1307
+        ],
+        [
+          939,
+          1339
+        ],
+        [
+          299,
+          1339
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025. .",
+      "confidence": 0.9365906715393066,
+      "bbox": [
+        [
+          533,
+          1402
+        ],
+        [
+          739,
+          1402
+        ],
+        [
+          739,
+          1433
+        ],
+        [
+          533,
+          1433
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지원자 :",
+      "confidence": 0.9961204954556057,
+      "bbox": [
+        [
+          458,
+          1463
+        ],
+        [
+          630,
+          1463
+        ],
+        [
+          630,
+          1493
+        ],
+        [
+          458,
+          1493
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(인)",
+      "confidence": 0.9856010437011719,
+      "bbox": [
+        [
+          720,
+          1464
+        ],
+        [
+          781,
+          1464
+        ],
+        [
+          781,
+          1493
+        ],
+        [
+          720,
+          1493
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

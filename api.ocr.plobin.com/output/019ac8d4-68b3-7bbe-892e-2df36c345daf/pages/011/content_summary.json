@@ -1,0 +1,415 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "응시원서 작성요령. ◎ 응시원서는 다음 요령에 의하여 빠짐없이 작성하여야 합니다.. 1. 「※응시번호」: 기재하지 않음",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 10,
+      "footer": 0,
+      "other": 8
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.966,
+      "readability": "high",
+      "completeness": "complete",
+      "high_confidence_blocks": 16,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.644,
+      "english": 0.0,
+      "other": 0.356
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 18,
+    "total_characters": 536,
+    "analyzed_at": "2025-11-28T04:59:36.370892"
+  },
+  "block_summaries": [
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "응시원서 작성요령",
+      "keywords": [
+        "응시원서",
+        "작성요령"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 2,
+      "analyzed_at": "2025-11-28T04:59:36.370396"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "◎ 응시원서는 다음 요령에 의하여 빠짐없이 작성하여야 ...",
+      "keywords": [
+        "응시원서는",
+        "요령에",
+        "의하여",
+        "빠짐없이",
+        "작성하여야"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T04:59:36.370424"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 「※응시번호」: 기재하지 않음",
+      "keywords": [
+        "응시번호",
+        "기재하지"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T04:59:36.370445"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 응시직급 : 응시하고자 하는 모집단위의 직급을 기...",
+      "keywords": [
+        "응시직급",
+        "응시하고자",
+        "모집단위의",
+        "직급을",
+        "기재함"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T04:59:36.370463"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "(예, 지방행정주사보(일반임기제) 지방시간선택제임기제 ...",
+      "keywords": [
+        "지방행정주사보",
+        "일반임기제",
+        "지방시간선택제임기제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T04:59:36.370482"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "- (응시분야) : 응시하고자 하는 모집단위의 분야를 ...",
+      "keywords": [
+        "응시분야",
+        "응시하고자",
+        "모집단위의",
+        "분야를"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T04:59:36.370499"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(○○분야, △△분야, □□분야 등)",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 20,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T04:59:36.370515"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3. 주소 : 현재 거주하는 곳(우편물 수령 등)을 정...",
+      "keywords": [
+        "거주하는",
+        "우편물",
+        "정확히",
+        "기재함"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 10,
+      "analyzed_at": "2025-11-28T04:59:36.370534"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "4. 성명·생년월일·전자우편·(휴대)전화: 빠짐없이 정...",
+      "keywords": [
+        "생년월일",
+        "전자우편",
+        "빠짐없이",
+        "정확하게",
+        "기재함"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T04:59:36.370550"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "5. 복수국적 : 복수국적자의 경우 취득한 외국국적명 ...",
+      "keywords": [
+        "복수국적",
+        "복수국적자의",
+        "취득한",
+        "외국국적명"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T04:59:36.370566"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "6. 수입증지 (천안시청 민원실 구입 / 정부수입인지 ...",
+      "keywords": [
+        "수입증지",
+        "천안시청",
+        "민원실",
+        "정부수입인지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 9,
+      "analyzed_at": "2025-11-28T04:59:36.370581"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 5급(가급) 이상 : 1만원",
+      "keywords": [
+        "1만원"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 5,
+      "analyzed_at": "2025-11-28T04:59:36.370594"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 6급(나급)·7급(다급) : 7천원",
+      "keywords": [
+        "7천원"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 21,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T04:59:36.370607"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 8급(라급)·9급(마급) : 5천원",
+      "keywords": [
+        "5천원"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 21,
+      "word_count": 4,
+      "analyzed_at": "2025-11-28T04:59:36.370619"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "「국민기초생활 보장법」에 따른 수급자 및 차상위계층. ...",
+      "keywords": [
+        "국민기초생활",
+        "보장법",
+        "수급자",
+        "차상위계층",
+        "한부모가족"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T04:59:36.370640"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "지원법」에 따른 지원대상자, 「장애인연금법」에 따른 수...",
+      "keywords": [
+        "지원법",
+        "지원대상자",
+        "장애인연금법",
+        "수급자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 7,
+      "analyzed_at": "2025-11-28T04:59:36.370661"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "「민법」제4조에 따른 2명 이상의 미성년 자녀가 있는 ...",
+      "keywords": [
+        "제4조에",
+        "이상의",
+        "미성년",
+        "자녀가",
+        "사람으로서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T04:59:36.370678"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "응시수수료를 면제받을 경우 수입증지 대신 해당 증명서 ...",
+      "keywords": [
+        "응시수수료를",
+        "면제받을",
+        "수입증지",
+        "증명서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 8,
+      "analyzed_at": "2025-11-28T04:59:36.370694"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

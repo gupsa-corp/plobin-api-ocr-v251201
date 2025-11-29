@@ -1,0 +1,2033 @@
+{
+  "page_number": 4,
+  "total_blocks": 75,
+  "average_confidence": 0.98312915136819,
+  "processing_time": 2.600454568862915,
+  "blocks": [
+    {
+      "text": "분야",
+      "confidence": 0.9977963964144388,
+      "bbox": [
+        [
+          151,
+          104
+        ],
+        [
+          204,
+          104
+        ],
+        [
+          204,
+          126
+        ],
+        [
+          151,
+          126
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직급",
+      "confidence": 0.999105175336202,
+      "bbox": [
+        [
+          320,
+          104
+        ],
+        [
+          369,
+          104
+        ],
+        [
+          369,
+          126
+        ],
+        [
+          320,
+          126
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "용 자",
+      "confidence": 0.9609408736228943,
+      "bbox": [
+        [
+          688,
+          104
+        ],
+        [
+          800,
+          104
+        ],
+        [
+          800,
+          124
+        ],
+        [
+          688,
+          124
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "격",
+      "confidence": 0.9916881322860718,
+      "bbox": [
+        [
+          799,
+          105
+        ],
+        [
+          837,
+          105
+        ],
+        [
+          837,
+          123
+        ],
+        [
+          799,
+          123
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채",
+      "confidence": 0.9981344640254974,
+      "bbox": [
+        [
+          632,
+          106
+        ],
+        [
+          665,
+          106
+        ],
+        [
+          665,
+          124
+        ],
+        [
+          632,
+          124
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기",
+      "confidence": 0.9826178550720215,
+      "bbox": [
+        [
+          857,
+          106
+        ],
+        [
+          911,
+          106
+        ],
+        [
+          911,
+          124
+        ],
+        [
+          857,
+          124
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "쥰",
+      "confidence": 0.6994253545999527,
+      "bbox": [
+        [
+          916,
+          106
+        ],
+        [
+          945,
+          106
+        ],
+        [
+          945,
+          123
+        ],
+        [
+          916,
+          123
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "아래의 경력요건 중 한가지 이상을 충족하는 자",
+      "confidence": 0.9997518746941177,
+      "bbox": [
+        [
+          459,
+          138
+        ],
+        [
+          977,
+          138
+        ],
+        [
+          977,
+          162
+        ],
+        [
+          459,
+          162
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[경력요건]",
+      "confidence": 0.9845466315746307,
+      "bbox": [
+        [
+          460,
+          175
+        ],
+        [
+          580,
+          175
+        ],
+        [
+          580,
+          197
+        ],
+        [
+          460,
+          197
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 학사학위 취득 후 3년 이상 임용예정 직무분야의 실무경력자",
+      "confidence": 0.9986028751811465,
+      "bbox": [
+        [
+          466,
+          205
+        ],
+        [
+          1118,
+          205
+        ],
+        [
+          1118,
+          227
+        ],
+        [
+          466,
+          227
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 5년 이상 임용예정 직무분야의 실무경력자",
+      "confidence": 0.9991055660777621,
+      "bbox": [
+        [
+          468,
+          233
+        ],
+        [
+          972,
+          233
+        ],
+        [
+          972,
+          258
+        ],
+        [
+          468,
+          258
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 7급(7급상당) 이상의 공무원으로서 2년이상 임용예정 직무",
+      "confidence": 0.9956565096571639,
+      "bbox": [
+        [
+          470,
+          261
+        ],
+        [
+          1117,
+          261
+        ],
+        [
+          1117,
+          288
+        ],
+        [
+          470,
+          288
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "통지방시간선택제임기제",
+      "confidence": 0.9308611005544662,
+      "bbox": [
+        [
+          204,
+          284
+        ],
+        [
+          451,
+          284
+        ],
+        [
+          451,
+          306
+        ],
+        [
+          204,
+          306
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "분야의 실무경력자",
+      "confidence": 0.9989075877449729,
+      "bbox": [
+        [
+          505,
+          295
+        ],
+        [
+          706,
+          295
+        ],
+        [
+          706,
+          317
+        ],
+        [
+          505,
+          317
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나급(6급상당)",
+      "confidence": 0.990772795677185,
+      "bbox": [
+        [
+          265,
+          315
+        ],
+        [
+          422,
+          315
+        ],
+        [
+          422,
+          339
+        ],
+        [
+          265,
+          339
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(지능형",
+      "confidence": 0.9027850031852722,
+      "bbox": [
+        [
+          120,
+          318
+        ],
+        [
+          236,
+          318
+        ],
+        [
+          236,
+          338
+        ],
+        [
+          120,
+          338
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[실무경력]",
+      "confidence": 0.9942247644066811,
+      "bbox": [
+        [
+          461,
+          331
+        ],
+        [
+          579,
+          331
+        ],
+        [
+          579,
+          356
+        ],
+        [
+          461,
+          356
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "교통체계)",
+      "confidence": 0.9716961213520595,
+      "bbox": [
+        [
+          121,
+          348
+        ],
+        [
+          237,
+          348
+        ],
+        [
+          237,
+          370
+        ],
+        [
+          121,
+          370
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주35시간",
+      "confidence": 0.9992702092443194,
+      "bbox": [
+        [
+          290,
+          348
+        ],
+        [
+          399,
+          348
+        ],
+        [
+          399,
+          373
+        ],
+        [
+          290,
+          373
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "국가 및 지자체, 공공기관, 연구소 등에서 지능형교통체계",
+      "confidence": 0.9998249556079055,
+      "bbox": [
+        [
+          469,
+          363
+        ],
+        [
+          1104,
+          363
+        ],
+        [
+          1104,
+          387
+        ],
+        [
+          469,
+          387
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(ITS), 교통계획, 교통분석 분야 관련 근무 경력",
+      "confidence": 0.9989169873297215,
+      "bbox": [
+        [
+          469,
+          391
+        ],
+        [
+          989,
+          391
+        ],
+        [
+          989,
+          416
+        ],
+        [
+          469,
+          416
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[우대사항]",
+      "confidence": 0.9979370757937431,
+      "bbox": [
+        [
+          459,
+          432
+        ],
+        [
+          580,
+          432
+        ],
+        [
+          580,
+          456
+        ],
+        [
+          459,
+          456
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 교통공학, 교통(도시)계획, 도시공학 관련학과 전공자",
+      "confidence": 0.9994189809350407,
+      "bbox": [
+        [
+          464,
+          463
+        ],
+        [
+          1074,
+          463
+        ],
+        [
+          1074,
+          489
+        ],
+        [
+          464,
+          489
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 교통(산업)기사 자격증 취득자",
+      "confidence": 0.9991832999956041,
+      "bbox": [
+        [
+          464,
+          491
+        ],
+        [
+          824,
+          491
+        ],
+        [
+          824,
+          516
+        ],
+        [
+          464,
+          516
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "아래의 필수자격을 충족하고, 경력요건 중 한가지 이상을 충족하는 자",
+      "confidence": 0.999562416321192,
+      "bbox": [
+        [
+          460,
+          516
+        ],
+        [
+          1117,
+          516
+        ],
+        [
+          1117,
+          540
+        ],
+        [
+          460,
+          540
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[필수자격]",
+      "confidence": 0.9960257411003113,
+      "bbox": [
+        [
+          459,
+          553
+        ],
+        [
+          579,
+          553
+        ],
+        [
+          579,
+          578
+        ],
+        [
+          459,
+          578
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 「국가기술자격법」에 따른 건축구조기술사 또는 「건설기술",
+      "confidence": 0.9931182861328125,
+      "bbox": [
+        [
+          468,
+          581
+        ],
+        [
+          1117,
+          581
+        ],
+        [
+          1117,
+          606
+        ],
+        [
+          468,
+          606
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "진흥법 시행령」별표1에 따른 건설기술인 중 건축구조분야",
+      "confidence": 0.9895487278699875,
+      "bbox": [
+        [
+          505,
+          607
+        ],
+        [
+          1121,
+          607
+        ],
+        [
+          1121,
+          635
+        ],
+        [
+          505,
+          635
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "고급기술인 이상의 자격기준을 갖춘 사람 또는 「국가기술",
+      "confidence": 0.9997964110225439,
+      "bbox": [
+        [
+          505,
+          635
+        ],
+        [
+          1117,
+          635
+        ],
+        [
+          1117,
+          660
+        ],
+        [
+          505,
+          660
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자격법 | 에 따른 건축시공기술사",
+      "confidence": 0.9465056076645851,
+      "bbox": [
+        [
+          505,
+          663
+        ],
+        [
+          843,
+          663
+        ],
+        [
+          843,
+          687
+        ],
+        [
+          505,
+          687
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건 축 안 전 지방시간선택제임기제",
+      "confidence": 0.9979770094156265,
+      "bbox": [
+        [
+          120,
+          696
+        ],
+        [
+          452,
+          696
+        ],
+        [
+          452,
+          720
+        ],
+        [
+          120,
+          720
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 운전면허(2종보통 이상)를 소지하고 실제운전이 가능한 자",
+      "confidence": 0.9987279060814116,
+      "bbox": [
+        [
+          470,
+          698
+        ],
+        [
+          1117,
+          698
+        ],
+        [
+          1117,
+          720
+        ],
+        [
+          470,
+          720
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "과",
+      "confidence": 0.8363668024539948,
+      "bbox": [
+        [
+          121,
+          729
+        ],
+        [
+          156,
+          729
+        ],
+        [
+          156,
+          749
+        ],
+        [
+          121,
+          749
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나급(6급상당)",
+      "confidence": 0.9880403816699982,
+      "bbox": [
+        [
+          265,
+          728
+        ],
+        [
+          422,
+          728
+        ],
+        [
+          422,
+          752
+        ],
+        [
+          265,
+          752
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "리",
+      "confidence": 0.9207177758216858,
+      "bbox": [
+        [
+          204,
+          732
+        ],
+        [
+          236,
+          732
+        ],
+        [
+          236,
+          750
+        ],
+        [
+          204,
+          750
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[경력요건]",
+      "confidence": 0.9922580495476723,
+      "bbox": [
+        [
+          461,
+          734
+        ],
+        [
+          580,
+          734
+        ],
+        [
+          580,
+          759
+        ],
+        [
+          461,
+          759
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(건축구조)",
+      "confidence": 0.954567939043045,
+      "bbox": [
+        [
+          121,
+          761
+        ],
+        [
+          237,
+          761
+        ],
+        [
+          237,
+          785
+        ],
+        [
+          121,
+          785
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주35시간",
+      "confidence": 0.999079806464059,
+      "bbox": [
+        [
+          290,
+          761
+        ],
+        [
+          398,
+          761
+        ],
+        [
+          398,
+          785
+        ],
+        [
+          290,
+          785
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 학사학위 취득 후 3년 이상 임용예정 직무분야의 실무경력자",
+      "confidence": 0.9992548533388086,
+      "bbox": [
+        [
+          468,
+          763
+        ],
+        [
+          1117,
+          763
+        ],
+        [
+          1117,
+          787
+        ],
+        [
+          468,
+          787
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 5년 이상 임용예정 직무분야의 실무경력자",
+      "confidence": 0.9956103099717034,
+      "bbox": [
+        [
+          469,
+          790
+        ],
+        [
+          971,
+          790
+        ],
+        [
+          971,
+          816
+        ],
+        [
+          469,
+          816
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 7급(7급상당) 이상의 공무원으로서 2년이상 임용예정 직무",
+      "confidence": 0.9929325355065836,
+      "bbox": [
+        [
+          470,
+          818
+        ],
+        [
+          1117,
+          818
+        ],
+        [
+          1117,
+          842
+        ],
+        [
+          470,
+          842
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "분야의 실무경력자",
+      "confidence": 0.9995662515813654,
+      "bbox": [
+        [
+          505,
+          844
+        ],
+        [
+          706,
+          844
+        ],
+        [
+          706,
+          869
+        ],
+        [
+          505,
+          869
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[실무경력]",
+      "confidence": 0.9745829403400421,
+      "bbox": [
+        [
+          460,
+          885
+        ],
+        [
+          579,
+          885
+        ],
+        [
+          579,
+          907
+        ],
+        [
+          460,
+          907
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "국가, 지자체, 공공기관, 민간기업 등에서 건축시공, 건축감리,",
+      "confidence": 0.9996636316582963,
+      "bbox": [
+        [
+          469,
+          911
+        ],
+        [
+          1118,
+          911
+        ],
+        [
+          1118,
+          937
+        ],
+        [
+          469,
+          937
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "건축설계, 구조설계, 안전진단 등 건축안전 관련분야 업무 경력자",
+      "confidence": 0.9990710696658572,
+      "bbox": [
+        [
+          469,
+          939
+        ],
+        [
+          1119,
+          939
+        ],
+        [
+          1119,
+          964
+        ],
+        [
+          469,
+          964
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[필수자격]",
+      "confidence": 0.9717401787638664,
+      "bbox": [
+        [
+          460,
+          964
+        ],
+        [
+          580,
+          964
+        ],
+        [
+          580,
+          989
+        ],
+        [
+          460,
+          989
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자동차운전면허 2종 보통 이상 자격증 소지자로 실제",
+      "confidence": 0.9970715840657552,
+      "bbox": [
+        [
+          468,
+          993
+        ],
+        [
+          1059,
+          993
+        ],
+        [
+          1059,
+          1015
+        ],
+        [
+          468,
+          1015
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "운전이 가능한 자",
+      "confidence": 0.999426234852184,
+      "bbox": [
+        [
+          468,
+          1021
+        ],
+        [
+          666,
+          1021
+        ],
+        [
+          666,
+          1043
+        ],
+        [
+          468,
+          1043
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[경력요건]",
+      "confidence": 0.9845467507839203,
+      "bbox": [
+        [
+          460,
+          1053
+        ],
+        [
+          580,
+          1053
+        ],
+        [
+          580,
+          1075
+        ],
+        [
+          460,
+          1075
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1년 이상 임용예정 직무분야의 실무경력이 있는 사람",
+      "confidence": 0.9994792401790619,
+      "bbox": [
+        [
+          468,
+          1079
+        ],
+        [
+          1060,
+          1079
+        ],
+        [
+          1060,
+          1103
+        ],
+        [
+          468,
+          1103
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지방시간선택제임기제",
+      "confidence": 0.99790128252723,
+      "bbox": [
+        [
+          237,
+          1084
+        ],
+        [
+          451,
+          1084
+        ],
+        [
+          451,
+          1106
+        ],
+        [
+          237,
+          1106
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "교통지도",
+      "confidence": 0.9974063277244568,
+      "bbox": [
+        [
+          121,
+          1104
+        ],
+        [
+          230,
+          1104
+        ],
+        [
+          230,
+          1124
+        ],
+        [
+          121,
+          1124
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[기타요건]",
+      "confidence": 0.9980043917894363,
+      "bbox": [
+        [
+          459,
+          1111
+        ],
+        [
+          578,
+          1111
+        ],
+        [
+          578,
+          1135
+        ],
+        [
+          459,
+          1135
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "마급(9급상당)",
+      "confidence": 0.9933366000652313,
+      "bbox": [
+        [
+          268,
+          1115
+        ],
+        [
+          421,
+          1115
+        ],
+        [
+          421,
+          1139
+        ],
+        [
+          268,
+          1139
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(재공고)",
+      "confidence": 0.9850387913840157,
+      "bbox": [
+        [
+          121,
+          1126
+        ],
+        [
+          232,
+          1126
+        ],
+        [
+          232,
+          1154
+        ],
+        [
+          121,
+          1154
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "월 1회 이상 주말·휴일 근무가 가능한 자",
+      "confidence": 0.9839131900897393,
+      "bbox": [
+        [
+          470,
+          1138
+        ],
+        [
+          925,
+          1138
+        ],
+        [
+          925,
+          1162
+        ],
+        [
+          470,
+          1162
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주35시간",
+      "confidence": 0.9987865601267133,
+      "bbox": [
+        [
+          292,
+          1148
+        ],
+        [
+          398,
+          1148
+        ],
+        [
+          398,
+          1172
+        ],
+        [
+          292,
+          1172
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[실무경력 인정 직무분야]",
+      "confidence": 0.998074360191822,
+      "bbox": [
+        [
+          460,
+          1169
+        ],
+        [
+          746,
+          1169
+        ],
+        [
+          746,
+          1193
+        ],
+        [
+          460,
+          1193
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "국가, 지방자치단체, 공공기관, 기타 이에 준하는 기관의<br>교통 또는 지도·단속분야 및 행정업무 등",
+      "confidence": 0.9956109084581074,
+      "bbox": [
+        [
+          469,
+          1202
+        ],
+        [
+          1094,
+          1202
+        ],
+        [
+          1094,
+          1252
+        ],
+        [
+          469,
+          1252
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[<b>우대사항</b>] 컴퓨터활용(한글, 엑셀 등) 가능한 자<br>아래의 경력요건 중 한 가지 이상을 충족하는 자",
+      "confidence": 0.9681017309427261,
+      "bbox": [
+        [
+          458,
+          1264
+        ],
+        [
+          994,
+          1264
+        ],
+        [
+          994,
+          1317
+        ],
+        [
+          458,
+          1317
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[경력요건]",
+      "confidence": 0.9769192039966583,
+      "bbox": [
+        [
+          459,
+          1334
+        ],
+        [
+          580,
+          1334
+        ],
+        [
+          580,
+          1356
+        ],
+        [
+          459,
+          1356
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 학사학위를 취득한 후 1년 이상 임용예정 직무분야의",
+      "confidence": 0.9982533924507372,
+      "bbox": [
+        [
+          469,
+          1367
+        ],
+        [
+          1087,
+          1367
+        ],
+        [
+          1087,
+          1389
+        ],
+        [
+          469,
+          1389
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "실무경력자",
+      "confidence": 0.9962650537490845,
+      "bbox": [
+        [
+          505,
+          1399
+        ],
+        [
+          630,
+          1399
+        ],
+        [
+          630,
+          1421
+        ],
+        [
+          505,
+          1421
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지방시간선택제임기제",
+      "confidence": 0.9988821148872375,
+      "bbox": [
+        [
+          237,
+          1409
+        ],
+        [
+          451,
+          1409
+        ],
+        [
+          451,
+          1435
+        ],
+        [
+          237,
+          1435
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "산림재해",
+      "confidence": 0.9879395067691803,
+      "bbox": [
+        [
+          121,
+          1427
+        ],
+        [
+          228,
+          1427
+        ],
+        [
+          228,
+          1451
+        ],
+        [
+          121,
+          1451
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 3년 이상 임용예정 직무분야의 실무경력자",
+      "confidence": 0.9981484413146973,
+      "bbox": [
+        [
+          469,
+          1431
+        ],
+        [
+          972,
+          1431
+        ],
+        [
+          972,
+          1456
+        ],
+        [
+          469,
+          1456
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다급(7급상당)",
+      "confidence": 0.9971815586090088,
+      "bbox": [
+        [
+          267,
+          1441
+        ],
+        [
+          421,
+          1441
+        ],
+        [
+          421,
+          1468
+        ],
+        [
+          267,
+          1468
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(재공고)",
+      "confidence": 0.9810972128595624,
+      "bbox": [
+        [
+          121,
+          1458
+        ],
+        [
+          230,
+          1458
+        ],
+        [
+          230,
+          1483
+        ],
+        [
+          121,
+          1483
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 8급(8급상당) 이상의 공무원으로서 2년 이상 임용예정",
+      "confidence": 0.9939380901200431,
+      "bbox": [
+        [
+          470,
+          1462
+        ],
+        [
+          1089,
+          1462
+        ],
+        [
+          1089,
+          1486
+        ],
+        [
+          470,
+          1486
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주35시간",
+      "confidence": 0.9991431662014553,
+      "bbox": [
+        [
+          291,
+          1476
+        ],
+        [
+          398,
+          1476
+        ],
+        [
+          398,
+          1500
+        ],
+        [
+          291,
+          1500
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직무분야의 실무경력자",
+      "confidence": 0.999486125432528,
+      "bbox": [
+        [
+          505,
+          1497
+        ],
+        [
+          757,
+          1497
+        ],
+        [
+          757,
+          1519
+        ],
+        [
+          505,
+          1519
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[실무경력]",
+      "confidence": 0.9869873598217964,
+      "bbox": [
+        [
+          460,
+          1532
+        ],
+        [
+          580,
+          1532
+        ],
+        [
+          580,
+          1556
+        ],
+        [
+          460,
+          1556
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "국가, 지자체, 공공기관, 민간기업에서 산림관련 직무분야로",
+      "confidence": 0.9935197514646193,
+      "bbox": [
+        [
+          469,
+          1566
+        ],
+        [
+          1117,
+          1566
+        ],
+        [
+          1117,
+          1590
+        ],
+        [
+          469,
+          1590
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "근무한 경력",
+      "confidence": 0.9994473084807396,
+      "bbox": [
+        [
+          471,
+          1599
+        ],
+        [
+          600,
+          1599
+        ],
+        [
+          600,
+          1617
+        ],
+        [
+          471,
+          1617
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 실무경력 인정범위 : 관련(직무)분야 근무경력으로 경력증명서상 근무기간과 담당업무가 명시되어야 함.",
+      "confidence": 0.9948948914721861,
+      "bbox": [
+        [
+          121,
+          1633
+        ],
+        [
+          1106,
+          1633
+        ],
+        [
+          1106,
+          1660
+        ],
+        [
+          121,
+          1660
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

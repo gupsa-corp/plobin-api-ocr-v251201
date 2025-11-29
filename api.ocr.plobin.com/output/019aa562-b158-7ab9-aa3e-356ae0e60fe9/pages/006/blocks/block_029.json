@@ -1,0 +1,17 @@
+{
+  "block_id": 29,
+  "text": "• 내 프로젝트: 사용자가 소유하거나 참여 중인 프로젝트 목록",
+  "confidence": 0.9825744264655643,
+  "bbox": {
+    "x_min": 171,
+    "y_min": 1283,
+    "x_max": 730,
+    "y_max": 1308,
+    "width": 559,
+    "height": 25
+  },
+  "block_type": "text",
+  "text_length": 34,
+  "created_at": "2025-11-21T07:48:29.507085",
+  "version": "1.0"
+}

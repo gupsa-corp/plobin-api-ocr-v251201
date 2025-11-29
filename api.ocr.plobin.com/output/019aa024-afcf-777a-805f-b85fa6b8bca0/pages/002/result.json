@@ -1,0 +1,1196 @@
+{
+  "page_number": 2,
+  "total_blocks": 44,
+  "average_confidence": 0.9695560293595288,
+  "processing_time": 2.0628418922424316,
+  "blocks": [
+    {
+      "text": "〈 응시결격 사유(「인사규정」제20조) 〉",
+      "confidence": 0.9707948577404022,
+      "bbox": [
+        [
+          129,
+          136
+        ],
+        [
+          587,
+          136
+        ],
+        [
+          587,
+          160
+        ],
+        [
+          129,
+          160
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "① 피성년후견인 또는 피한정후견인",
+      "confidence": 0.9805357754230499,
+      "bbox": [
+        [
+          137,
+          181
+        ],
+        [
+          493,
+          181
+        ],
+        [
+          493,
+          205
+        ],
+        [
+          137,
+          205
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "② 파산선고를 받고 복권되지 아니한 사람",
+      "confidence": 0.9985771328210831,
+      "bbox": [
+        [
+          138,
+          226
+        ],
+        [
+          559,
+          226
+        ],
+        [
+          559,
+          250
+        ],
+        [
+          138,
+          250
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "③ 금고 이상의 형을 선고 받고 그 집행이 끝나거나 집행을 받지 아니하기로 확정된 후 5년이",
+      "confidence": 0.9989565172285404,
+      "bbox": [
+        [
+          138,
+          271
+        ],
+        [
+          1067,
+          271
+        ],
+        [
+          1067,
+          295
+        ],
+        [
+          138,
+          295
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지나지 아니한 사람",
+      "confidence": 0.9991132616996765,
+      "bbox": [
+        [
+          171,
+          317
+        ],
+        [
+          368,
+          317
+        ],
+        [
+          368,
+          339
+        ],
+        [
+          171,
+          339
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "④ 금고 이상의 형을 선고 받고 그 집행유예기간이 끝난 날부터 2년이 지나지 아니한 사람",
+      "confidence": 0.9986871317321179,
+      "bbox": [
+        [
+          138,
+          360
+        ],
+        [
+          911,
+          360
+        ],
+        [
+          911,
+          385
+        ],
+        [
+          138,
+          385
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑤ 금고 이상 형의 선고를 유예 받고 그 선고유예기간 중에 있는 사람",
+      "confidence": 0.9995184868574143,
+      "bbox": [
+        [
+          138,
+          407
+        ],
+        [
+          797,
+          407
+        ],
+        [
+          797,
+          429
+        ],
+        [
+          138,
+          429
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑥ 법원의 판결 또는 다른 법률에 따라 자격이 상실되거나 정지된 사람",
+      "confidence": 0.9990695580840111,
+      "bbox": [
+        [
+          138,
+          452
+        ],
+        [
+          795,
+          452
+        ],
+        [
+          795,
+          474
+        ],
+        [
+          138,
+          474
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑦ 징계로 파면처분을 받은 날부터 5년, 해임 처분을 받은 날부터 3년이 지나지 아니한 사람",
+      "confidence": 0.9943815750895806,
+      "bbox": [
+        [
+          138,
+          495
+        ],
+        [
+          916,
+          495
+        ],
+        [
+          916,
+          520
+        ],
+        [
+          138,
+          520
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑧ 「성폭력범죄의 처벌 등에 관한 특례법」 제2조에 규정된 죄를 범한 사람으로서 100만원 이상의",
+      "confidence": 0.9918511265090534,
+      "bbox": [
+        [
+          138,
+          540
+        ],
+        [
+          1063,
+          540
+        ],
+        [
+          1063,
+          564
+        ],
+        [
+          138,
+          564
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "벌금형을 선고받고 그 형이 확정된 후 3년이 지나지 아니한 사람",
+      "confidence": 0.9998860423629349,
+      "bbox": [
+        [
+          171,
+          587
+        ],
+        [
+          765,
+          587
+        ],
+        [
+          765,
+          609
+        ],
+        [
+          171,
+          609
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑨ 미성년자에 대한 다음 각 목의 어느 하나에 해당하는 죄를 저질러 파면·해임되거나 형 또는",
+      "confidence": 0.9909578815654472,
+      "bbox": [
+        [
+          138,
+          629
+        ],
+        [
+          1091,
+          629
+        ],
+        [
+          1091,
+          656
+        ],
+        [
+          138,
+          656
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "치료감호를 선고받아 그 형 또는 치료감호가 확정된 사람(집행유예를 선고받은 후 그 집행유예",
+      "confidence": 0.9999234573199198,
+      "bbox": [
+        [
+          171,
+          675
+        ],
+        [
+          1110,
+          675
+        ],
+        [
+          1110,
+          699
+        ],
+        [
+          171,
+          699
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기간이 경과한 사람을 포함한다)",
+      "confidence": 0.9997234062144631,
+      "bbox": [
+        [
+          171,
+          718
+        ],
+        [
+          492,
+          718
+        ],
+        [
+          492,
+          745
+        ],
+        [
+          171,
+          745
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 「성폭력범죄의 처벌 등에 관한 특례법」 제2조에 따른 성폭력범죄",
+      "confidence": 0.9983856350183486,
+      "bbox": [
+        [
+          180,
+          764
+        ],
+        [
+          881,
+          764
+        ],
+        [
+          881,
+          788
+        ],
+        [
+          180,
+          788
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 「아동·청소년의 성보호에 관한 법률」 제2조제2호에 따른 아동·청소년대상 성범죄",
+      "confidence": 0.9833545660972596,
+      "bbox": [
+        [
+          181,
+          810
+        ],
+        [
+          1020,
+          810
+        ],
+        [
+          1020,
+          834
+        ],
+        [
+          181,
+          834
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "⑩ 기타 건강상의 이유 등으로 업무를 수행하는데 지장이 있다고 인정되는 자",
+      "confidence": 0.9843523732640527,
+      "bbox": [
+        [
+          138,
+          855
+        ],
+        [
+          896,
+          855
+        ],
+        [
+          896,
+          879
+        ],
+        [
+          138,
+          879
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2) 남자의 경우 병역의무를 필하였거나 면제된 자",
+      "confidence": 0.9996085023057872,
+      "bbox": [
+        [
+          143,
+          954
+        ],
+        [
+          815,
+          954
+        ],
+        [
+          815,
+          981
+        ],
+        [
+          143,
+          981
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3) 만 20세 이상인 자로, 분야별 아래 자격 요건을 갖춘 자",
+      "confidence": 0.9830692571562689,
+      "bbox": [
+        [
+          143,
+          1006
+        ],
+        [
+          940,
+          1006
+        ],
+        [
+          940,
+          1035
+        ],
+        [
+          143,
+          1035
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "필수서류",
+      "confidence": 0.9930662989616394,
+      "bbox": [
+        [
+          1004,
+          1079
+        ],
+        [
+          1111,
+          1079
+        ],
+        [
+          1111,
+          1106
+        ],
+        [
+          1004,
+          1106
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자격요건",
+      "confidence": 0.9959654569625854,
+      "bbox": [
+        [
+          142,
+          1080
+        ],
+        [
+          256,
+          1080
+        ],
+        [
+          256,
+          1107
+        ],
+        [
+          142,
+          1107
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기 준",
+      "confidence": 0.9775455355644226,
+      "bbox": [
+        [
+          603,
+          1081
+        ],
+        [
+          678,
+          1081
+        ],
+        [
+          678,
+          1106
+        ],
+        [
+          603,
+          1106
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 「독립유공자 예우에 관한 법률」제16조",
+      "confidence": 0.9764726829528808,
+      "bbox": [
+        [
+          279,
+          1148
+        ],
+        [
+          795,
+          1148
+        ],
+        [
+          795,
+          1174
+        ],
+        [
+          279,
+          1174
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 「국가유공자 등 예우 및 지원에 관한 법률」제29조",
+      "confidence": 0.9902710355818272,
+      "bbox": [
+        [
+          277,
+          1188
+        ],
+        [
+          855,
+          1188
+        ],
+        [
+          855,
+          1217
+        ],
+        [
+          277,
+          1217
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "보훈처·",
+      "confidence": 0.7658335069815317,
+      "bbox": [
+        [
+          1016,
+          1213
+        ],
+        [
+          1101,
+          1213
+        ],
+        [
+          1101,
+          1238
+        ],
+        [
+          1016,
+          1238
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 「5.18 민주유공자 예우에 관한 법률」제20조 취업지원 대상자",
+      "confidence": 0.9900659643686734,
+      "bbox": [
+        [
+          276,
+          1235
+        ],
+        [
+          994,
+          1235
+        ],
+        [
+          994,
+          1261
+        ],
+        [
+          276,
+          1261
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "보훈",
+      "confidence": 0.998486320177714,
+      "bbox": [
+        [
+          171,
+          1256
+        ],
+        [
+          229,
+          1256
+        ],
+        [
+          229,
+          1281
+        ],
+        [
+          171,
+          1281
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "보훈지청",
+      "confidence": 0.8964189052581787,
+      "bbox": [
+        [
+          1008,
+          1256
+        ],
+        [
+          1105,
+          1256
+        ],
+        [
+          1105,
+          1280
+        ],
+        [
+          1008,
+          1280
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• ｢특수임무유공자 예우 및 단체설립에 관한 법률｣ 제24조",
+      "confidence": 0.9801717638969422,
+      "bbox": [
+        [
+          277,
+          1278
+        ],
+        [
+          992,
+          1278
+        ],
+        [
+          992,
+          1304
+        ],
+        [
+          277,
+          1304
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(취업지원",
+      "confidence": 0.9974877749170575,
+      "bbox": [
+        [
+          137,
+          1300
+        ],
+        [
+          261,
+          1300
+        ],
+        [
+          261,
+          1327
+        ],
+        [
+          137,
+          1327
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "발급",
+      "confidence": 0.9997124473253886,
+      "bbox": [
+        [
+          1031,
+          1300
+        ],
+        [
+          1086,
+          1300
+        ],
+        [
+          1086,
+          1327
+        ],
+        [
+          1031,
+          1327
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• ｢보훈보상대상자 지원에 관한 법률｣",
+      "confidence": 0.708245311094367,
+      "bbox": [
+        [
+          279,
+          1322
+        ],
+        [
+          773,
+          1322
+        ],
+        [
+          773,
+          1347
+        ],
+        [
+          279,
+          1347
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제33조",
+      "confidence": 0.9936828017234802,
+      "bbox": [
+        [
+          776,
+          1324
+        ],
+        [
+          863,
+          1324
+        ],
+        [
+          863,
+          1346
+        ],
+        [
+          776,
+          1346
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "증명서",
+      "confidence": 0.9996513277292252,
+      "bbox": [
+        [
+          1019,
+          1343
+        ],
+        [
+          1096,
+          1343
+        ],
+        [
+          1096,
+          1370
+        ],
+        [
+          1019,
+          1370
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "대상자)",
+      "confidence": 0.9982097446918488,
+      "bbox": [
+        [
+          152,
+          1344
+        ],
+        [
+          249,
+          1344
+        ],
+        [
+          249,
+          1369
+        ],
+        [
+          152,
+          1369
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 「고엽제후유의증 등 환자지원 및 단체설립에 관한 법률」",
+      "confidence": 0.9797678239205304,
+      "bbox": [
+        [
+          281,
+          1365
+        ],
+        [
+          993,
+          1365
+        ],
+        [
+          993,
+          1390
+        ],
+        [
+          281,
+          1390
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제출",
+      "confidence": 0.9996700088183085,
+      "bbox": [
+        [
+          1031,
+          1387
+        ],
+        [
+          1087,
+          1387
+        ],
+        [
+          1087,
+          1412
+        ],
+        [
+          1031,
+          1412
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "제7조의9 비고 보훈처 · 보훈지청에서 발급한 증명서 제출",
+      "confidence": 0.8409003124517553,
+      "bbox": [
+        [
+          303,
+          1407
+        ],
+        [
+          984,
+          1407
+        ],
+        [
+          984,
+          1435
+        ],
+        [
+          303,
+          1435
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "▶ 「제대군인지원에 관한 법률」 제14조제1항",
+      "confidence": 0.9698165144239154,
+      "bbox": [
+        [
+          277,
+          1452
+        ],
+        [
+          837,
+          1452
+        ],
+        [
+          837,
+          1477
+        ],
+        [
+          277,
+          1477
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "장애인",
+      "confidence": 0.9989563971757889,
+      "bbox": [
+        [
+          1018,
+          1516
+        ],
+        [
+          1097,
+          1516
+        ],
+        [
+          1097,
+          1541
+        ],
+        [
+          1018,
+          1541
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 「장애인고용촉진 및 직업재활법 및 동법 시행령」해당자",
+      "confidence": 0.988769941257708,
+      "bbox": [
+        [
+          274,
+          1536
+        ],
+        [
+          948,
+          1536
+        ],
+        [
+          948,
+          1562
+        ],
+        [
+          274,
+          1562
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "장애인",
+      "confidence": 0.9985803067684174,
+      "bbox": [
+        [
+          157,
+          1537
+        ],
+        [
+          244,
+          1537
+        ],
+        [
+          244,
+          1562
+        ],
+        [
+          157,
+          1562
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "증명서",
+      "confidence": 0.9996603280305862,
+      "bbox": [
+        [
+          1018,
+          1558
+        ],
+        [
+          1096,
+          1558
+        ],
+        [
+          1096,
+          1584
+        ],
+        [
+          1018,
+          1584
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 2 -",
+      "confidence": 0.7523102362950643,
+      "bbox": [
+        [
+          589,
+          1679
+        ],
+        [
+          651,
+          1679
+        ],
+        [
+          651,
+          1697
+        ],
+        [
+          589,
+          1697
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

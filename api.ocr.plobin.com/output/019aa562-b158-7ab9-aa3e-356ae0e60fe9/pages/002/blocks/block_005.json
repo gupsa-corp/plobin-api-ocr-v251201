@@ -1,0 +1,17 @@
+{
+  "block_id": 5,
+  "text": "1.3 초기 화면 ...... 2",
+  "confidence": 0.9405022442340851,
+  "bbox": {
+    "x_min": 168,
+    "y_min": 496,
+    "x_max": 1096,
+    "y_max": 514,
+    "width": 928,
+    "height": 18
+  },
+  "block_type": "text",
+  "text_length": 18,
+  "created_at": "2025-11-21T07:48:22.285223",
+  "version": "1.0"
+}

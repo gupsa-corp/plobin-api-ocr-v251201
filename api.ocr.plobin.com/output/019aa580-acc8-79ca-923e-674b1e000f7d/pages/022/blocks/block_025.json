@@ -1,0 +1,17 @@
+{
+  "block_id": 25,
+  "text": "3. 이메일 및 휴대폰 인증 완료",
+  "confidence": 0.9989327907562255,
+  "bbox": {
+    "x_min": 167,
+    "y_min": 1292,
+    "x_max": 447,
+    "y_max": 1317,
+    "width": 280,
+    "height": 25
+  },
+  "block_type": "text",
+  "text_length": 18,
+  "created_at": "2025-11-21T08:21:44.116929",
+  "version": "1.0"
+}

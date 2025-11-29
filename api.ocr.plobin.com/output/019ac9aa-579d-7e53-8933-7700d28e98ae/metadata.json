@@ -1,0 +1,12 @@
+{
+  "request_id": "019ac9aa-579d-7e53-8933-7700d28e98ae",
+  "original_filename": "test.pdf",
+  "timestamp": "20251128_085255",
+  "created_at": "2025-11-28T08:52:55.325690",
+  "file_type": "pdf",
+  "file_size": 132099,
+  "total_pages": 1,
+  "processing_status": "completed",
+  "version": "1.0",
+  "completed_at": "2025-11-28T08:52:59.081713"
+}

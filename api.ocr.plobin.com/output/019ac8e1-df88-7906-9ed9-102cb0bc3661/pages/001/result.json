@@ -1,0 +1,899 @@
+{
+  "page_number": 1,
+  "total_blocks": 33,
+  "average_confidence": 0.985540817034718,
+  "processing_time": 1.5541942119598389,
+  "blocks": [
+    {
+      "text": "충청남도인사위원회 공고 제2025-67호",
+      "confidence": 0.9945707395672798,
+      "bbox": [
+        [
+          103,
+          116
+        ],
+        [
+          586,
+          116
+        ],
+        [
+          586,
+          143
+        ],
+        [
+          103,
+          143
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 2025년도 제10회 충청남도 임기제공무원 -",
+      "confidence": 0.8998940032103966,
+      "bbox": [
+        [
+          164,
+          212
+        ],
+        [
+          1076,
+          212
+        ],
+        [
+          1076,
+          250
+        ],
+        [
+          164,
+          250
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "최종합격자 결정 및 임용후보자 등록요령",
+      "confidence": 0.999734974425772,
+      "bbox": [
+        [
+          127,
+          261
+        ],
+        [
+          1109,
+          261
+        ],
+        [
+          1109,
+          312
+        ],
+        [
+          127,
+          312
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025년도 제10회 충청남도 임기제공무원 임용시험 최종합격자 결정 및 임용후보자",
+      "confidence": 0.9996531745220752,
+      "bbox": [
+        [
+          116,
+          371
+        ],
+        [
+          1136,
+          371
+        ],
+        [
+          1136,
+          398
+        ],
+        [
+          116,
+          398
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "등록요령을 다음과 같이 공고합니다.",
+      "confidence": 0.9998764026732672,
+      "bbox": [
+        [
+          103,
+          414
+        ],
+        [
+          563,
+          414
+        ],
+        [
+          563,
+          441
+        ],
+        [
+          103,
+          441
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2025년 11월 28일",
+      "confidence": 0.9935394962628682,
+      "bbox": [
+        [
+          868,
+          475
+        ],
+        [
+          1132,
+          475
+        ],
+        [
+          1132,
+          504
+        ],
+        [
+          868,
+          504
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "충청남도인사위원회위원장",
+      "confidence": 0.99443191748399,
+      "bbox": [
+        [
+          705,
+          532
+        ],
+        [
+          1136,
+          532
+        ],
+        [
+          1136,
+          565
+        ],
+        [
+          705,
+          565
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 최종합격자",
+      "confidence": 0.9769295752048492,
+      "bbox": [
+        [
+          105,
+          646
+        ],
+        [
+          345,
+          646
+        ],
+        [
+          345,
+          680
+        ],
+        [
+          105,
+          680
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "임용 분야",
+      "confidence": 0.9969287514686584,
+      "bbox": [
+        [
+          241,
+          734
+        ],
+        [
+          352,
+          734
+        ],
+        [
+          352,
+          756
+        ],
+        [
+          241,
+          756
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "임용 직급",
+      "confidence": 0.9982391766139439,
+      "bbox": [
+        [
+          540,
+          733
+        ],
+        [
+          647,
+          733
+        ],
+        [
+          647,
+          755
+        ],
+        [
+          540,
+          755
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "선발인원",
+      "confidence": 0.9990592718124389,
+      "bbox": [
+        [
+          766,
+          734
+        ],
+        [
+          862,
+          734
+        ],
+        [
+          862,
+          756
+        ],
+        [
+          766,
+          756
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "응시번호",
+      "confidence": 0.9898445963859558,
+      "bbox": [
+        [
+          911,
+          734
+        ],
+        [
+          1007,
+          734
+        ],
+        [
+          1007,
+          756
+        ],
+        [
+          911,
+          756
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "비고",
+      "confidence": 0.9588060776392618,
+      "bbox": [
+        [
+          1045,
+          735
+        ],
+        [
+          1100,
+          735
+        ],
+        [
+          1100,
+          755
+        ],
+        [
+          1045,
+          755
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지방시간선택제",
+      "confidence": 0.9986165761947632,
+      "bbox": [
+        [
+          511,
+          790
+        ],
+        [
+          677,
+          790
+        ],
+        [
+          677,
+          814
+        ],
+        [
+          511,
+          814
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지역 문화예술 경영",
+      "confidence": 0.9997071027755737,
+      "bbox": [
+        [
+          191,
+          806
+        ],
+        [
+          399,
+          806
+        ],
+        [
+          399,
+          830
+        ],
+        [
+          191,
+          830
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "적격자 없음",
+      "confidence": 0.9996990635991096,
+      "bbox": [
+        [
+          894,
+          806
+        ],
+        [
+          1024,
+          806
+        ],
+        [
+          1024,
+          830
+        ],
+        [
+          894,
+          830
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1",
+      "confidence": 0.9959359765052795,
+      "bbox": [
+        [
+          808,
+          811
+        ],
+        [
+          824,
+          811
+        ],
+        [
+          824,
+          827
+        ],
+        [
+          808,
+          827
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "임기제 나급",
+      "confidence": 0.9988352060317993,
+      "bbox": [
+        [
+          530,
+          822
+        ],
+        [
+          659,
+          822
+        ],
+        [
+          659,
+          846
+        ],
+        [
+          530,
+          846
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지방시간선택제",
+      "confidence": 0.9987696632742882,
+      "bbox": [
+        [
+          512,
+          878
+        ],
+        [
+          676,
+          878
+        ],
+        [
+          676,
+          902
+        ],
+        [
+          512,
+          902
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "환경교육",
+      "confidence": 0.9994896292686463,
+      "bbox": [
+        [
+          248,
+          896
+        ],
+        [
+          344,
+          896
+        ],
+        [
+          344,
+          918
+        ],
+        [
+          248,
+          918
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "10102",
+      "confidence": 0.9848936398824056,
+      "bbox": [
+        [
+          926,
+          896
+        ],
+        [
+          994,
+          896
+        ],
+        [
+          994,
+          916
+        ],
+        [
+          926,
+          916
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1",
+      "confidence": 0.9953432083129883,
+      "bbox": [
+        [
+          809,
+          898
+        ],
+        [
+          823,
+          898
+        ],
+        [
+          823,
+          916
+        ],
+        [
+          809,
+          916
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "임기제 나급",
+      "confidence": 0.9988295957446098,
+      "bbox": [
+        [
+          530,
+          909
+        ],
+        [
+          659,
+          909
+        ],
+        [
+          659,
+          934
+        ],
+        [
+          530,
+          934
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 임용후보자 등록",
+      "confidence": 0.9862956221287067,
+      "bbox": [
+        [
+          102,
+          1036
+        ],
+        [
+          437,
+          1036
+        ],
+        [
+          437,
+          1071
+        ],
+        [
+          102,
+          1071
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 등록기간 : <b>2025. 12. 5.(금) 09:00~18:00</b>",
+      "confidence": 0.9499688794215521,
+      "bbox": [
+        [
+          138,
+          1115
+        ],
+        [
+          740,
+          1115
+        ],
+        [
+          740,
+          1145
+        ],
+        [
+          138,
+          1145
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 중식시간(12:00~13:00)에는 등록 불가",
+      "confidence": 0.9692229274156932,
+      "bbox": [
+        [
+          168,
+          1168
+        ],
+        [
+          623,
+          1168
+        ],
+        [
+          623,
+          1192
+        ],
+        [
+          168,
+          1192
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 등록장소 : 충남도청 인사담당관실 인사팀(본관 5층)",
+      "confidence": 0.9917752795359668,
+      "bbox": [
+        [
+          138,
+          1225
+        ],
+        [
+          914,
+          1225
+        ],
+        [
+          914,
+          1258
+        ],
+        [
+          138,
+          1258
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 제출서류",
+      "confidence": 0.9437025123172336,
+      "bbox": [
+        [
+          138,
+          1281
+        ],
+        [
+          312,
+          1281
+        ],
+        [
+          312,
+          1310
+        ],
+        [
+          138,
+          1310
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 임용후보자 등록원서(사진부착): 2부",
+      "confidence": 0.9952185501654943,
+      "bbox": [
+        [
+          163,
+          1336
+        ],
+        [
+          706,
+          1336
+        ],
+        [
+          706,
+          1369
+        ],
+        [
+          163,
+          1369
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 가족관계증명서 및 기본증명서(상세, 주민번호 표시) : 각 1부",
+      "confidence": 0.9969694690826612,
+      "bbox": [
+        [
+          163,
+          1392
+        ],
+        [
+          1002,
+          1392
+        ],
+        [
+          1002,
+          1425
+        ],
+        [
+          163,
+          1425
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 주민등록초본(병적사항 포함) : 1부",
+      "confidence": 0.9865902215242386,
+      "bbox": [
+        [
+          164,
+          1450
+        ],
+        [
+          664,
+          1450
+        ],
+        [
+          664,
+          1483
+        ],
+        [
+          164,
+          1483
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 최종학교 졸업증명서 : 1부",
+      "confidence": 0.9939165240839908,
+      "bbox": [
+        [
+          164,
+          1506
+        ],
+        [
+          579,
+          1506
+        ],
+        [
+          579,
+          1536
+        ],
+        [
+          164,
+          1536
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "\n    경력증명서 : 1부\n",
+      "confidence": 0.9375591576099396,
+      "bbox": [
+        [
+          164,
+          1562
+        ],
+        [
+          439,
+          1562
+        ],
+        [
+          439,
+          1591
+        ],
+        [
+          164,
+          1591
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

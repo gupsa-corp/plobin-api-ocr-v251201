@@ -1,0 +1,17 @@
+{
+  "block_id": 8,
+  "text": "내 프로젝트 전체 보기 내 조직 전체 보기",
+  "confidence": 0.9990338589109126,
+  "bbox": {
+    "x_min": 370,
+    "y_min": 623,
+    "x_max": 1046,
+    "y_max": 638,
+    "width": 676,
+    "height": 15
+  },
+  "block_type": "text",
+  "text_length": 23,
+  "created_at": "2025-11-21T08:21:14.371639",
+  "version": "1.0"
+}

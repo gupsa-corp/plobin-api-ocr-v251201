@@ -1,0 +1,740 @@
+{
+  "page_summary": {
+    "document_type": "report",
+    "main_content": "근무예정부서. 선발예정인원. 임용예정직급",
+    "key_entities": {
+      "companies": [
+        "민간기업"
+      ],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 3,
+      "footer": 0,
+      "other": 34
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.992,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 37,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.715,
+      "english": 0.004,
+      "other": 0.281
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 37,
+    "total_characters": 580,
+    "analyzed_at": "2025-11-19T09:25:20.322350"
+  },
+  "block_summaries": [
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "근무예정부서",
+      "keywords": [
+        "근무예정부서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.321616"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "채용 분야",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:20.321635"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "선발예정인원",
+      "keywords": [
+        "선발예정인원"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.321647"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "임용예정직급",
+      "keywords": [
+        "임용예정직급"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.321658"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "시간선택제임기제",
+      "keywords": [
+        "시간선택제임기제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.321669"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "공원녹지사업본부",
+      "keywords": [
+        "공원녹지사업본부"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.321680"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "산림재해",
+      "keywords": [
+        "산림재해"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.321690"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1명",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.321701"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "산림휴양과",
+      "keywords": [
+        "산림휴양과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.321711"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "다급(7급상당)",
+      "keywords": [
+        "7급상당"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.321724"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 산불예방 종합대책 수립 및 운영",
+      "keywords": [
+        "산불예방",
+        "종합대책"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:20.321742"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 산불발생지 원인 및 피해조사",
+      "keywords": [
+        "산불발생지",
+        "피해조사"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 5,
+      "analyzed_at": "2025-11-19T09:25:20.321757"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "○ 산불감시시스템 구축 및 운영",
+      "keywords": [
+        "산불감시시스템"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 5,
+      "analyzed_at": "2025-11-19T09:25:20.321771"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "주요 업무",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:20.321781"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 산림재해예방 센터관리",
+      "keywords": [
+        "산림재해예방",
+        "센터관리"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 3,
+      "analyzed_at": "2025-11-19T09:25:20.321794"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 산불진화 차량·물품·통신 장비 관리",
+      "keywords": [
+        "산불진화"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 21,
+      "word_count": 5,
+      "analyzed_at": "2025-11-19T09:25:20.321810"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 산림보호 관련 인력 선발 및 운영 등",
+      "keywords": [
+        "산림보호"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 22,
+      "word_count": 8,
+      "analyzed_at": "2025-11-19T09:25:20.321826"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 기타 부서장이 지정하는 업무 등",
+      "keywords": [
+        "부서장이",
+        "지정하는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:20.321842"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ (<b>공통 역량</b>) 윤리의식, 공직의식, 조...",
+      "keywords": [
+        "윤리의식",
+        "공직의식",
+        "조직적응력"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:20.321865"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "필요 역량",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:20.321875"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ (직급별 역량) 상황인식·팬단력, 기획력, 팀워크지...",
+      "keywords": [
+        "직급별",
+        "상황인식",
+        "팬단력",
+        "기획력",
+        "팀워크지향"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 45,
+      "word_count": 8,
+      "analyzed_at": "2025-11-19T09:25:20.321900"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ (직렬별 역량) 재난·상황판단 이해력, 분석력, 인...",
+      "keywords": [
+        "직렬별",
+        "상황판단",
+        "이해력",
+        "분석력",
+        "운영력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 44,
+      "word_count": 10,
+      "analyzed_at": "2025-11-19T09:25:20.321925"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "필요 지식",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:20.321935"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 산림재해 및 산림보호관련 등 관련 전문지식",
+      "keywords": [
+        "산림재해",
+        "산림보호관련",
+        "전문지식"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:20.321954"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "아래의 경력요건 중 한 가지 이상을 충족하는 자",
+      "keywords": [
+        "아래의",
+        "경력요건",
+        "이상을",
+        "충족하는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 8,
+      "analyzed_at": "2025-11-19T09:25:20.321973"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[경력요건]",
+      "keywords": [
+        "경력요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.321984"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 학사학위를 취득한 후 1년 이상 임용예정 직무분야...",
+      "keywords": [
+        "학사학위를",
+        "취득한",
+        "임용예정",
+        "직무분야의"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 31,
+      "word_count": 8,
+      "analyzed_at": "2025-11-19T09:25:20.322002"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "실무경력자",
+      "keywords": [
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.322013"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 3년 이상 임용예정 직무분야의 실무경력자",
+      "keywords": [
+        "임용예정",
+        "직무분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:20.322027"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "응시자격요건",
+      "keywords": [
+        "응시자격요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.322037"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3. 8급(8급상당) 이상의 공무원으로서 2년 이상 임...",
+      "keywords": [
+        "8급상당",
+        "이상의",
+        "공무원으로서",
+        "임용예정"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 33,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:20.322053"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "직무분야의 실무경력자",
+      "keywords": [
+        "직무분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:20.322066"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[실무경력]",
+      "keywords": [
+        "실무경력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.322077"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "국가, 지자체, 공공기관, 민간기업에서 산림관련 직무분...",
+      "keywords": [
+        "지자체",
+        "공공기관",
+        "민간기업에서",
+        "산림관련",
+        "직무분야로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:20.322096"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "경력",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.322106"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "우대요건",
+      "keywords": [
+        "우대요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.322115"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "해당없음",
+      "keywords": [
+        "해당없음"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:20.322125"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다.",
+    "주로 한국어 문서입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

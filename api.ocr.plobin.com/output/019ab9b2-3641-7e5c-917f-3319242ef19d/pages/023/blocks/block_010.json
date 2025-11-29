@@ -1,0 +1,17 @@
+{
+  "block_id": 10,
+  "text": "5. 팀원이 수락하면 협업 시작",
+  "confidence": 0.9996733038048995,
+  "bbox": {
+    "x_min": 166,
+    "y_min": 500,
+    "x_max": 440,
+    "y_max": 526,
+    "width": 274,
+    "height": 26
+  },
+  "block_type": "text",
+  "text_length": 17,
+  "created_at": "2025-11-25T06:28:16.577698",
+  "version": "1.0"
+}

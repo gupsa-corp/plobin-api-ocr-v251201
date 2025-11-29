@@ -1,0 +1,167 @@
+{
+  "total_pages": 26,
+  "total_blocks": 683,
+  "overall_confidence": 0.959,
+  "processing_time": 45.807,
+  "pages": [
+    {
+      "page_number": 1,
+      "total_blocks": 5,
+      "average_confidence": 0.995,
+      "processing_time": 0.67
+    },
+    {
+      "page_number": 2,
+      "total_blocks": 40,
+      "average_confidence": 0.977,
+      "processing_time": 1.264
+    },
+    {
+      "page_number": 3,
+      "total_blocks": 8,
+      "average_confidence": 0.986,
+      "processing_time": 0.758
+    },
+    {
+      "page_number": 4,
+      "total_blocks": 33,
+      "average_confidence": 0.983,
+      "processing_time": 1.249
+    },
+    {
+      "page_number": 5,
+      "total_blocks": 34,
+      "average_confidence": 0.964,
+      "processing_time": 1.283
+    },
+    {
+      "page_number": 6,
+      "total_blocks": 36,
+      "average_confidence": 0.969,
+      "processing_time": 1.412
+    },
+    {
+      "page_number": 7,
+      "total_blocks": 21,
+      "average_confidence": 0.985,
+      "processing_time": 0.832
+    },
+    {
+      "page_number": 8,
+      "total_blocks": 22,
+      "average_confidence": 0.928,
+      "processing_time": 1.055
+    },
+    {
+      "page_number": 9,
+      "total_blocks": 23,
+      "average_confidence": 0.919,
+      "processing_time": 1.005
+    },
+    {
+      "page_number": 10,
+      "total_blocks": 33,
+      "average_confidence": 0.955,
+      "processing_time": 1.305
+    },
+    {
+      "page_number": 11,
+      "total_blocks": 29,
+      "average_confidence": 0.877,
+      "processing_time": 1.621
+    },
+    {
+      "page_number": 12,
+      "total_blocks": 29,
+      "average_confidence": 0.948,
+      "processing_time": 1.102
+    },
+    {
+      "page_number": 13,
+      "total_blocks": 6,
+      "average_confidence": 0.989,
+      "processing_time": 0.541
+    },
+    {
+      "page_number": 14,
+      "total_blocks": 53,
+      "average_confidence": 0.959,
+      "processing_time": 2.263
+    },
+    {
+      "page_number": 15,
+      "total_blocks": 34,
+      "average_confidence": 0.958,
+      "processing_time": 1.14
+    },
+    {
+      "page_number": 16,
+      "total_blocks": 45,
+      "average_confidence": 0.953,
+      "processing_time": 1.944
+    },
+    {
+      "page_number": 17,
+      "total_blocks": 48,
+      "average_confidence": 0.913,
+      "processing_time": 2.153
+    },
+    {
+      "page_number": 18,
+      "total_blocks": 45,
+      "average_confidence": 0.944,
+      "processing_time": 1.619
+    },
+    {
+      "page_number": 19,
+      "total_blocks": 10,
+      "average_confidence": 0.975,
+      "processing_time": 0.624
+    },
+    {
+      "page_number": 20,
+      "total_blocks": 40,
+      "average_confidence": 0.947,
+      "processing_time": 1.41
+    },
+    {
+      "page_number": 21,
+      "total_blocks": 3,
+      "average_confidence": 0.951,
+      "processing_time": 0.43
+    },
+    {
+      "page_number": 22,
+      "total_blocks": 32,
+      "average_confidence": 0.923,
+      "processing_time": 0.843
+    },
+    {
+      "page_number": 23,
+      "total_blocks": 17,
+      "average_confidence": 0.986,
+      "processing_time": 0.68
+    },
+    {
+      "page_number": 24,
+      "total_blocks": 14,
+      "average_confidence": 0.991,
+      "processing_time": 0.884
+    },
+    {
+      "page_number": 25,
+      "total_blocks": 10,
+      "average_confidence": 0.983,
+      "processing_time": 0.621
+    },
+    {
+      "page_number": 26,
+      "total_blocks": 13,
+      "average_confidence": 0.966,
+      "processing_time": 0.934
+    }
+  ],
+  "completed_at": "2025-11-21T07:49:05.081382",
+  "sections_created": false,
+  "hierarchy_built": false
+}

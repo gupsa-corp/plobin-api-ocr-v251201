@@ -1,0 +1,17 @@
+{
+  "block_id": 9,
+  "text": "닉네임 (선택)",
+  "confidence": 0.9990721106529236,
+  "bbox": {
+    "x_min": 478,
+    "y_min": 672,
+    "x_max": 542,
+    "y_max": 686,
+    "width": 64,
+    "height": 14
+  },
+  "block_type": "text",
+  "text_length": 8,
+  "created_at": "2025-11-25T06:27:40.958095",
+  "version": "1.0"
+}

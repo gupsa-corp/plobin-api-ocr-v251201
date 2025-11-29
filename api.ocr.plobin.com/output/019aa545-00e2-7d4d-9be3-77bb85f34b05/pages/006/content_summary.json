@@ -1,0 +1,244 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "않은 자 중에서 차순위자로 추가합격자를 결정할 수 있습니다.. O 예비합격자는 최종합격자 공고 시 순번을 부여하여 공고하며, 예비. 합격자 명단의 유효기간은 최종합격자 공고일로부터 6개월로 합니다.",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 1,
+      "header": 0,
+      "body": 0,
+      "table": 3,
+      "footer": 0,
+      "other": 5
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.995,
+      "readability": "high",
+      "completeness": "complete",
+      "high_confidence_blocks": 9,
+      "low_confidence_blocks": 0
+    },
+    "language_distribution": {
+      "korean": 0.702,
+      "english": 0.004,
+      "other": 0.295
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 9,
+    "total_characters": 293,
+    "analyzed_at": "2025-11-21T07:16:04.762921"
+  },
+  "block_summaries": [
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "않은 자 중에서 차순위자로 추가합격자를 결정할 수 있습...",
+      "keywords": [
+        "중에서",
+        "차순위자로",
+        "추가합격자를",
+        "결정할",
+        "있습니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 33,
+      "word_count": 8,
+      "analyzed_at": "2025-11-21T07:16:04.762633"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "O 예비합격자는 최종합격자 공고 시 순번을 부여하여 공...",
+      "keywords": [
+        "예비합격자는",
+        "최종합격자",
+        "순번을",
+        "부여하여",
+        "공고하며"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 9,
+      "analyzed_at": "2025-11-21T07:16:04.762657"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "합격자 명단의 유효기간은 최종합격자 공고일로부터 6개월...",
+      "keywords": [
+        "합격자",
+        "명단의",
+        "유효기간은",
+        "최종합격자",
+        "공고일로부터"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 36,
+      "word_count": 7,
+      "analyzed_at": "2025-11-21T07:16:04.762677"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "○ 본 계획은 사정에 의하여 변경될 수 있으며, 변경된...",
+      "keywords": [
+        "계획은",
+        "사정에",
+        "의하여",
+        "변경될",
+        "있으며"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 11,
+      "analyzed_at": "2025-11-21T07:16:04.762703"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "7일전까지 천안시 및 (재)천안시민프로축구단 홈페이지,...",
+      "keywords": [
+        "7일전까지",
+        "천안시",
+        "천안시민프로축구단",
+        "홈페이지",
+        "통합공개"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 6,
+      "analyzed_at": "2025-11-21T07:16:04.762721"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "시스템에 변경 공고합니다.",
+      "keywords": [
+        "시스템에",
+        "공고합니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 14,
+      "word_count": 3,
+      "analyzed_at": "2025-11-21T07:16:04.762735"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "○ 본 공고의 내용 및 명시되지 않은 사항은 본회 규정...",
+      "keywords": [
+        "공고의",
+        "명시되지",
+        "사항은",
+        "규정의",
+        "해석에"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 41,
+      "word_count": 12,
+      "analyzed_at": "2025-11-21T07:16:04.762756"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "기타 문의사항은 (재)천안시민프로축구단 (070-880...",
+      "keywords": [
+        "문의사항은",
+        "천안시민프로축구단",
+        "070",
+        "8801",
+        "1688"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 4,
+      "analyzed_at": "2025-11-21T07:16:04.762779"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "문의하시기 바랍니다.",
+      "keywords": [
+        "문의하시기",
+        "바랍니다"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 2,
+      "analyzed_at": "2025-11-21T07:16:04.762792"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다.",
+    "주로 한국어 문서입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

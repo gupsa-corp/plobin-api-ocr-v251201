@@ -1,0 +1,852 @@
+{
+  "page_summary": {
+    "document_type": "mixed",
+    "main_content": "다. 전형별 합격자 인원(배수). 채용인원(응시분야)",
+    "key_entities": {
+      "companies": [],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 0,
+      "header": 0,
+      "body": 0,
+      "table": 14,
+      "footer": 0,
+      "other": 29
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.968,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 39,
+      "low_confidence_blocks": 2
+    },
+    "language_distribution": {
+      "korean": 0.572,
+      "english": 0.039,
+      "other": 0.389
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 43,
+    "total_characters": 844,
+    "analyzed_at": "2025-11-20T07:39:50.467618"
+  },
+  "block_summaries": [
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "다. 전형별 합격자 인원(배수)",
+      "keywords": [
+        "전형별",
+        "합격자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:50.466700"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "채용인원(응시분야)",
+      "keywords": [
+        "채용인원",
+        "응시분야"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.466720"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "서류전형",
+      "keywords": [
+        "서류전형"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.466732"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "면접전형",
+      "keywords": [
+        "면접전형"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.466742"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1명",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.466754"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "4배수",
+      "keywords": [
+        "4배수"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.466765"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "3배수",
+      "keywords": [
+        "3배수"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.466774"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "라. 최종합격자 발표 : 2025. 06. 30.(월)...",
+      "keywords": [
+        "최종합격자",
+        "2025",
+        "사이트"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 50,
+      "word_count": 14,
+      "analyzed_at": "2025-11-20T07:39:50.466801"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "※ 상기 일정은 재단 사정에 따라 변경될 수 있음",
+      "keywords": [
+        "일정은",
+        "사정에",
+        "변경될"
+      ],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 27,
+      "word_count": 9,
+      "analyzed_at": "2025-11-20T07:39:50.466820"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "마. 예비합격자 제도 운영",
+      "keywords": [
+        "예비합격자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 14,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:50.466834"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1) 운영목적 : 최종 합격자 중 임용미등록 및 임용포...",
+      "keywords": [
+        "운영목적",
+        "합격자",
+        "임용미등록",
+        "임용포기",
+        "6개월"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 41,
+      "word_count": 12,
+      "analyzed_at": "2025-11-20T07:39:50.466854"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "이내 퇴직 시, 차순위자 임용 가능",
+      "keywords": [
+        "차순위자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:50.466869"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2) 유효기간 : 최종 합격자 발표일로부터 6개월 이내",
+      "keywords": [
+        "유효기간",
+        "합격자",
+        "발표일로부터",
+        "6개월"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 30,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:50.466885"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3) 운영규모 : 선발인원의 2배수",
+      "keywords": [
+        "운영규모",
+        "선발인원의",
+        "2배수"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:50.466898"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "4. 응시원서 접수",
+      "keywords": [
+        "응시원서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:50.466908"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "가. 접수방법 : 채용 사이트 온라인 접수(E-mail...",
+      "keywords": [
+        "접수방법",
+        "사이트",
+        "온라인",
+        "mail"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 46,
+      "word_count": 12,
+      "analyzed_at": "2025-11-20T07:39:50.466935"
+    },
+    {
+      "content_type": "address",
+      "language": "mixed",
+      "text_preview": "- 채용 사이트 바로가기 : https://recrui...",
+      "keywords": [
+        "사이트",
+        "바로가기",
+        "https",
+        "recruit",
+        "incruit"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 49,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:50.466957"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "나. 접수기간 : 2025. 06. 10.(화) 09:...",
+      "keywords": [
+        "2025",
+        "접수기간",
+        "7일간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 63,
+      "word_count": 13,
+      "analyzed_at": "2025-11-20T07:39:50.466986"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "- 2025. 06. 16.(월) 18:00 정각까지 ...",
+      "keywords": [
+        "2025",
+        "정각까지",
+        "원서접수",
+        "완료한",
+        "서류만"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 47,
+      "word_count": 10,
+      "analyzed_at": "2025-11-20T07:39:50.467009"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "그 외 기간 응시원서 제출 불가 접수하지 않음(별도 통...",
+      "keywords": [
+        "응시원서",
+        "접수하지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 10,
+      "analyzed_at": "2025-11-20T07:39:50.467028"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "5. 제출서류 ※ 블라인드 채용에 따라 학력, 연령 등...",
+      "keywords": [
+        "제출서류",
+        "블라인드",
+        "채용에",
+        "인적사항",
+        "미기재"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 51,
+      "word_count": 13,
+      "analyzed_at": "2025-11-20T07:39:50.467047"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "내용",
+      "keywords": [],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.467057"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "부수",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.467066"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "제출방법",
+      "keywords": [
+        "제출방법"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.467076"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "비고",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.467085"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1) 응시원서 및 자기소개서",
+      "keywords": [
+        "응시원서",
+        "자기소개서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:50.467097"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "온라인 작성",
+      "keywords": [
+        "온라인"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:50.467109"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1부",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.467119"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2) 개인정보수집 및 활용동의서",
+      "keywords": [
+        "개인정보수집",
+        "활용동의서"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 17,
+      "word_count": 4,
+      "analyzed_at": "2025-11-20T07:39:50.467131"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "1부",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.467140"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "파일 첨부",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 2,
+      "analyzed_at": "2025-11-20T07:39:50.467151"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3) 분야별 필수사항 응시자격 증빙서류",
+      "keywords": [
+        "분야별",
+        "필수사항",
+        "응시자격",
+        "증빙서류"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 21,
+      "word_count": 5,
+      "analyzed_at": "2025-11-20T07:39:50.467164"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(남산문화창작소기획운영)",
+      "keywords": [
+        "남산문화창작소기획운영"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.467177"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "① 취업지원대상자증빙서류(보훈처·보훈지청 발급)",
+      "keywords": [
+        "취업지원대상자증빙서류",
+        "보훈처",
+        "보훈지청"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 26,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:50.467196"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(문화예술교육사)",
+      "keywords": [
+        "문화예술교육사"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.467207"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "필수",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.467216"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "① 취업지원대상자증빙서류(보훈처·보훈지청 발급) 각 1...",
+      "keywords": [
+        "취업지원대상자증빙서류",
+        "보훈처",
+        "보훈지청"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 39,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:50.467233"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "서류",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.467242"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "② 문화예술교육사자격증 사본",
+      "keywords": [
+        "문화예술교육사자격증"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 15,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:50.467256"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "(천안시립미술관전시운영)",
+      "keywords": [
+        "천안시립미술관전시운영"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 13,
+      "word_count": 1,
+      "analyzed_at": "2025-11-20T07:39:50.467267"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "① 장애인증명서 ② 3급 정학예사 이상 자격증 사본",
+      "keywords": [
+        "장애인증명서",
+        "정학예사",
+        "자격증"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 28,
+      "word_count": 8,
+      "analyzed_at": "2025-11-20T07:39:50.467282"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "※ 공고시작일 이후 발급분 유효(자격증은 해당없음)",
+      "keywords": [
+        "공고시작일",
+        "발급분",
+        "자격증은",
+        "해당없음"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 28,
+      "word_count": 6,
+      "analyzed_at": "2025-11-20T07:39:50.467298"
+    },
+    {
+      "content_type": "table",
+      "language": "other",
+      "text_preview": "- 4 -",
+      "keywords": [],
+      "confidence_level": "low",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 3,
+      "analyzed_at": "2025-11-20T07:39:50.467310"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

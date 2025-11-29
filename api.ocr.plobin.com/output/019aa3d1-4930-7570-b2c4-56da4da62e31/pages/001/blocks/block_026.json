@@ -1,0 +1,17 @@
+{
+  "block_id": 26,
+  "text": "NAME 1000,88 PE OWN",
+  "confidence": 0.5808614311739803,
+  "bbox": {
+    "x_min": 58,
+    "y_min": 264,
+    "x_max": 425,
+    "y_max": 271,
+    "width": 367,
+    "height": 7
+  },
+  "block_type": "text",
+  "text_length": 19,
+  "created_at": "2025-11-21T00:29:53.329651",
+  "version": "1.0"
+}

@@ -1,0 +1,737 @@
+{
+  "page_number": 8,
+  "total_blocks": 27,
+  "average_confidence": 0.9915211729256993,
+  "processing_time": 1.4928674697875977,
+  "blocks": [
+    {
+      "text": "기타 유의사항",
+      "confidence": 0.9977229237556458,
+      "bbox": [
+        [
+          174,
+          191
+        ],
+        [
+          421,
+          191
+        ],
+        [
+          421,
+          225
+        ],
+        [
+          174,
+          225
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "9",
+      "confidence": 0.9462958872318268,
+      "bbox": [
+        [
+          101,
+          195
+        ],
+        [
+          139,
+          195
+        ],
+        [
+          139,
+          223
+        ],
+        [
+          101,
+          223
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 1인이 1개 채용분야 및 등급에만 지원할 수 있습니다.",
+      "confidence": 0.997228365285056,
+      "bbox": [
+        [
+          101,
+          268
+        ],
+        [
+          878,
+          268
+        ],
+        [
+          878,
+          295
+        ],
+        [
+          101,
+          295
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 응시희망자는 자격요건 등이 적합한지를 철저히 검토한 후 응시하시기 바",
+      "confidence": 0.9998885919881422,
+      "bbox": [
+        [
+          101,
+          316
+        ],
+        [
+          1155,
+          316
+        ],
+        [
+          1155,
+          343
+        ],
+        [
+          101,
+          343
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "랍니다.",
+      "confidence": 0.9981909493605295,
+      "bbox": [
+        [
+          156,
+          356
+        ],
+        [
+          255,
+          356
+        ],
+        [
+          255,
+          383
+        ],
+        [
+          156,
+          383
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다. 응시원서 및 이력서에 기재된 사항은 증빙자료를 첨부하여야 인정합니다.",
+      "confidence": 0.999588830526485,
+      "bbox": [
+        [
+          101,
+          404
+        ],
+        [
+          1080,
+          404
+        ],
+        [
+          1080,
+          430
+        ],
+        [
+          101,
+          430
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "라. 제출된 서류는 최종합격자 발표일 이후 15일간 응시자의 청구가 있을 경우 채",
+      "confidence": 0.9997746297653686,
+      "bbox": [
+        [
+          101,
+          451
+        ],
+        [
+          1152,
+          451
+        ],
+        [
+          1152,
+          477
+        ],
+        [
+          101,
+          477
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "용절차법에 따라 반환되며, 반환되지 않은 서류는 최종합격자 발표일로부",
+      "confidence": 0.9999377816915512,
+      "bbox": [
+        [
+          155,
+          491
+        ],
+        [
+          1154,
+          491
+        ],
+        [
+          1154,
+          518
+        ],
+        [
+          155,
+          518
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "터 180일 보관 후 파기합니다. 또한 제출서류에 허위사실이 있을 때에는 합",
+      "confidence": 0.999408629807559,
+      "bbox": [
+        [
+          156,
+          532
+        ],
+        [
+          1154,
+          532
+        ],
+        [
+          1154,
+          559
+        ],
+        [
+          156,
+          559
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "격결정 후에도 합격을 취소할 수 있습니다.",
+      "confidence": 0.9997374963760376,
+      "bbox": [
+        [
+          155,
+          573
+        ],
+        [
+          736,
+          573
+        ],
+        [
+          736,
+          600
+        ],
+        [
+          155,
+          600
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "마. 응시원서에 e-mail주소와 휴대전화번호를 반드시 기재하고 응시원서상의 기",
+      "confidence": 0.9994649684175532,
+      "bbox": [
+        [
+          101,
+          619
+        ],
+        [
+          1152,
+          619
+        ],
+        [
+          1152,
+          646
+        ],
+        [
+          101,
+          646
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "재착오 및 누락이나 연락 불능으로 인하여 발생하는 일체의 불이익은 응시",
+      "confidence": 0.9998301296699338,
+      "bbox": [
+        [
+          155,
+          660
+        ],
+        [
+          1151,
+          660
+        ],
+        [
+          1151,
+          687
+        ],
+        [
+          155,
+          687
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자의 책임입니다.",
+      "confidence": 0.9998292001810941,
+      "bbox": [
+        [
+          154,
+          701
+        ],
+        [
+          385,
+          701
+        ],
+        [
+          385,
+          729
+        ],
+        [
+          154,
+          729
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "바. 서류전형 및 면접시험 결과 적격자가 없을 경우 선발하지 않을 수 있으며, 합격",
+      "confidence": 0.999892727782329,
+      "bbox": [
+        [
+          101,
+          749
+        ],
+        [
+          1151,
+          749
+        ],
+        [
+          1151,
+          776
+        ],
+        [
+          101,
+          776
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자 통지 후라도 신원조사 및 채용신체검사 등을 통하여 부적합한 결격 사",
+      "confidence": 0.9997850307604161,
+      "bbox": [
+        [
+          155,
+          796
+        ],
+        [
+          1154,
+          796
+        ],
+        [
+          1154,
+          823
+        ],
+        [
+          155,
+          823
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "유가 있을 경우 합격이 취소 될 수 있습니다.",
+      "confidence": 0.999609092871348,
+      "bbox": [
+        [
+          156,
+          842
+        ],
+        [
+          764,
+          842
+        ],
+        [
+          764,
+          868
+        ],
+        [
+          156,
+          868
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사. 응시원서 접수결과 응시자가 선발예정 인원과 같거나 응시자가 없을 경우",
+      "confidence": 0.9999209129533102,
+      "bbox": [
+        [
+          101,
+          895
+        ],
+        [
+          1153,
+          895
+        ],
+        [
+          1153,
+          921
+        ],
+        [
+          101,
+          921
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "에는 1회 이상 재공고 후 시험을 실시할 예정입니다.",
+      "confidence": 0.9996506225678229,
+      "bbox": [
+        [
+          157,
+          942
+        ],
+        [
+          866,
+          942
+        ],
+        [
+          866,
+          969
+        ],
+        [
+          157,
+          969
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "아. 본 시험계획은 사정에 의하여 변경될 수 있으며, 변경된 사항은 시험시행 7일",
+      "confidence": 0.9996742872481651,
+      "bbox": [
+        [
+          101,
+          996
+        ],
+        [
+          1152,
+          996
+        ],
+        [
+          1152,
+          1026
+        ],
+        [
+          101,
+          1026
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "전에 천안시 홈페이지(www.cheonan.go.kr)/시험공고란에 별도 공고합니다.",
+      "confidence": 0.995924164056778,
+      "bbox": [
+        [
+          156,
+          1046
+        ],
+        [
+          1140,
+          1046
+        ],
+        [
+          1140,
+          1073
+        ],
+        [
+          156,
+          1073
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "자. 기타 상세한 내용은 아래 연락처로 문의하시기 바랍니다.",
+      "confidence": 0.99952027457101,
+      "bbox": [
+        [
+          101,
+          1099
+        ],
+        [
+          921,
+          1099
+        ],
+        [
+          921,
+          1126
+        ],
+        [
+          101,
+          1126
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "· 채용 절차 및 시험에 관한 사항 : 행정지원과 인사팀(☎041-521-5212)",
+      "confidence": 0.9728470015525817,
+      "bbox": [
+        [
+          121,
+          1151
+        ],
+        [
+          1000,
+          1151
+        ],
+        [
+          1000,
+          1178
+        ],
+        [
+          121,
+          1178
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "•분야별 직무에 관한 사항 : 해당 부서 문의",
+      "confidence": 0.9579350230870424,
+      "bbox": [
+        [
+          121,
+          1202
+        ],
+        [
+          684,
+          1202
+        ],
+        [
+          684,
+          1230
+        ],
+        [
+          121,
+          1230
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "담헌달빛관 운영",
+      "confidence": 0.9934729695320129,
+      "bbox": [
+        [
+          205,
+          1271
+        ],
+        [
+          453,
+          1271
+        ],
+        [
+          453,
+          1299
+        ],
+        [
+          205,
+          1299
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "관광과 문화유산팀(041-521-2834)",
+      "confidence": 0.997227075099945,
+      "bbox": [
+        [
+          549,
+          1287
+        ],
+        [
+          963,
+          1287
+        ],
+        [
+          963,
+          1314
+        ],
+        [
+          549,
+          1314
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "<math>\\Rightarrow</math>",
+      "confidence": 0.9512570388615131,
+      "bbox": [
+        [
+          498,
+          1293
+        ],
+        [
+          523,
+          1293
+        ],
+        [
+          523,
+          1310
+        ],
+        [
+          498,
+          1310
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "( 학 예 연 구 사 )",
+      "confidence": 0.9674570639928182,
+      "bbox": [
+        [
+          203,
+          1303
+        ],
+        [
+          457,
+          1303
+        ],
+        [
+          457,
+          1331
+        ],
+        [
+          203,
+          1331
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

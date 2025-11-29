@@ -1,0 +1,17 @@
+{
+  "block_id": 27,
+  "text": "분석 요청",
+  "confidence": 0.9989495362554278,
+  "bbox": {
+    "x_min": 179,
+    "y_min": 958,
+    "x_max": 221,
+    "y_max": 971,
+    "width": 42,
+    "height": 13
+  },
+  "block_type": "text",
+  "text_length": 5,
+  "created_at": "2025-11-21T07:48:53.780538",
+  "version": "1.0"
+}

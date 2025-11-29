@@ -1,0 +1,1088 @@
+{
+  "page_number": 2,
+  "total_blocks": 40,
+  "average_confidence": 0.9941083739100286,
+  "processing_time": 1.764188289642334,
+  "blocks": [
+    {
+      "text": "응시자격 요건",
+      "confidence": 0.9936463766627841,
+      "bbox": [
+        [
+          174,
+          192
+        ],
+        [
+          419,
+          192
+        ],
+        [
+          419,
+          225
+        ],
+        [
+          174,
+          225
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3",
+      "confidence": 0.9454910755157471,
+      "bbox": [
+        [
+          101,
+          194
+        ],
+        [
+          140,
+          194
+        ],
+        [
+          140,
+          223
+        ],
+        [
+          101,
+          223
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 공통요건",
+      "confidence": 0.9986770219273038,
+      "bbox": [
+        [
+          101,
+          260
+        ],
+        [
+          273,
+          260
+        ],
+        [
+          273,
+          287
+        ],
+        [
+          101,
+          287
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 거 주 지 : 제한없음",
+      "confidence": 0.9398129740182091,
+      "bbox": [
+        [
+          107,
+          347
+        ],
+        [
+          420,
+          347
+        ],
+        [
+          420,
+          373
+        ],
+        [
+          107,
+          373
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 성별 : 제한없음(단, 남자의 경우 병역을 필하였거나 면제된 자)",
+      "confidence": 0.9828343740323695,
+      "bbox": [
+        [
+          107,
+          388
+        ],
+        [
+          1001,
+          388
+        ],
+        [
+          1001,
+          415
+        ],
+        [
+          107,
+          415
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "○ 결격사유: 「지방공무원법」제31조(결격사유)에 해당되지 아니하고, 「지방",
+      "confidence": 0.9904791090223525,
+      "bbox": [
+        [
+          107,
+          428
+        ],
+        [
+          1154,
+          428
+        ],
+        [
+          1154,
+          457
+        ],
+        [
+          107,
+          457
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "공무원임용령」 제65조 및 「부패방지 및 국민권익위원회의 설치와 운영에 관",
+      "confidence": 0.9926249218541522,
+      "bbox": [
+        [
+          145,
+          470
+        ],
+        [
+          1154,
+          470
+        ],
+        [
+          1154,
+          496
+        ],
+        [
+          145,
+          496
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "한 법률」 제82조 등 기타 다른법령에 의하여 응시자격이 정지되지 아니",
+      "confidence": 0.9995984798524438,
+      "bbox": [
+        [
+          146,
+          511
+        ],
+        [
+          1151,
+          511
+        ],
+        [
+          1151,
+          538
+        ],
+        [
+          146,
+          538
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "한 자",
+      "confidence": 0.9784546494483948,
+      "bbox": [
+        [
+          145,
+          550
+        ],
+        [
+          224,
+          550
+        ],
+        [
+          224,
+          576
+        ],
+        [
+          145,
+          576
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "「지방공무원법」 제31조(결격사유)",
+      "confidence": 0.9982180794080099,
+      "bbox": [
+        [
+          403,
+          607
+        ],
+        [
+          794,
+          607
+        ],
+        [
+          794,
+          633
+        ],
+        [
+          403,
+          633
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다음 각 호의 어느 하나에 해당하는 사람은 공무원이 될 수 없다",
+      "confidence": 0.9997968190425152,
+      "bbox": [
+        [
+          99,
+          643
+        ],
+        [
+          856,
+          643
+        ],
+        [
+          856,
+          667
+        ],
+        [
+          99,
+          667
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 피성년후견인",
+      "confidence": 0.996077911420302,
+      "bbox": [
+        [
+          99,
+          684
+        ],
+        [
+          290,
+          684
+        ],
+        [
+          290,
+          706
+        ],
+        [
+          99,
+          706
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 파산선고를 받고 복권되지 아니한 사람",
+      "confidence": 0.9990862727165222,
+      "bbox": [
+        [
+          99,
+          718
+        ],
+        [
+          593,
+          718
+        ],
+        [
+          593,
+          740
+        ],
+        [
+          99,
+          740
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 금고 이상의 실형을 선고받고 그 집행이 끝나거나(집행이 끝난 것으로 보는 경우",
+      "confidence": 0.9990770382185777,
+      "bbox": [
+        [
+          99,
+          749
+        ],
+        [
+          1075,
+          749
+        ],
+        [
+          1075,
+          773
+        ],
+        [
+          99,
+          773
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "를 포함한다) 집행이 면제된 날부터 5년이 지나지 아니한 사람",
+      "confidence": 0.9990481601821052,
+      "bbox": [
+        [
+          134,
+          781
+        ],
+        [
+          863,
+          781
+        ],
+        [
+          863,
+          808
+        ],
+        [
+          134,
+          808
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4. 금고 이상의 형의 집행유예를 선고받고 그 집행유예기간이 끝난 날부터 2년이",
+      "confidence": 0.9994877978511478,
+      "bbox": [
+        [
+          100,
+          817
+        ],
+        [
+          1075,
+          817
+        ],
+        [
+          1075,
+          842
+        ],
+        [
+          100,
+          842
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "지나지 아니한 사람",
+      "confidence": 0.9997673481702805,
+      "bbox": [
+        [
+          134,
+          853
+        ],
+        [
+          365,
+          853
+        ],
+        [
+          365,
+          875
+        ],
+        [
+          134,
+          875
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "5. 금고 이상의 형의 선고유예를 선고받고 그 선고유예기간 중에 있는 사람",
+      "confidence": 0.9998544593190037,
+      "bbox": [
+        [
+          100,
+          886
+        ],
+        [
+          978,
+          886
+        ],
+        [
+          978,
+          910
+        ],
+        [
+          100,
+          910
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6. 법원의 판결 또는 다른 법률에 따라 자격이 상실되거나 정지된 사람",
+      "confidence": 0.9998908101058588,
+      "bbox": [
+        [
+          99,
+          919
+        ],
+        [
+          927,
+          919
+        ],
+        [
+          927,
+          943
+        ],
+        [
+          99,
+          943
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6의2. 공무원으로 재직기간 중 직무와 관련하여 「형법」 제355조및 제356조에 규정된",
+      "confidence": 0.9993936209117665,
+      "bbox": [
+        [
+          100,
+          953
+        ],
+        [
+          1074,
+          953
+        ],
+        [
+          1074,
+          977
+        ],
+        [
+          100,
+          977
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "죄를 범한 사람으로서 300만원 이상의 벌금형을 선고받고 그 형이 확정된 후",
+      "confidence": 0.9998526315797459,
+      "bbox": [
+        [
+          176,
+          986
+        ],
+        [
+          1075,
+          986
+        ],
+        [
+          1075,
+          1010
+        ],
+        [
+          176,
+          1010
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2년이 지나지 아니한 사람",
+      "confidence": 0.9989862404763699,
+      "bbox": [
+        [
+          175,
+          1022
+        ],
+        [
+          484,
+          1022
+        ],
+        [
+          484,
+          1044
+        ],
+        [
+          175,
+          1044
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6의3. 다음 각 목의 어느 하나에 해당하는 죄를 범한 사람으로서 100만원 이상의",
+      "confidence": 0.9998769921561083,
+      "bbox": [
+        [
+          99,
+          1054
+        ],
+        [
+          1074,
+          1054
+        ],
+        [
+          1074,
+          1078
+        ],
+        [
+          99,
+          1078
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "벌금형을 선고받고 그 형이 확정된 후 3년이 지나지 아니한 사람",
+      "confidence": 0.9999091995728983,
+      "bbox": [
+        [
+          178,
+          1087
+        ],
+        [
+          935,
+          1087
+        ],
+        [
+          935,
+          1111
+        ],
+        [
+          178,
+          1111
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 「성폭력범죄의 처벌 등에 관한 특례법」 제2조에 따른 성폭력범죄",
+      "confidence": 0.99825399518013,
+      "bbox": [
+        [
+          149,
+          1121
+        ],
+        [
+          974,
+          1121
+        ],
+        [
+          974,
+          1146
+        ],
+        [
+          149,
+          1146
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」 제74조제1항제2호",
+      "confidence": 0.9990807703950189,
+      "bbox": [
+        [
+          149,
+          1155
+        ],
+        [
+          1075,
+          1155
+        ],
+        [
+          1075,
+          1181
+        ],
+        [
+          149,
+          1181
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "및 제3호에 규정된 죄",
+      "confidence": 0.9998464456626347,
+      "bbox": [
+        [
+          201,
+          1188
+        ],
+        [
+          480,
+          1188
+        ],
+        [
+          480,
+          1214
+        ],
+        [
+          201,
+          1214
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다. 「스토킹범죄의 처벌 등에 관한 법률」 제2조제2호에 따른 스토킹범죄",
+      "confidence": 0.9980916366690681,
+      "bbox": [
+        [
+          150,
+          1223
+        ],
+        [
+          1015,
+          1223
+        ],
+        [
+          1015,
+          1247
+        ],
+        [
+          150,
+          1247
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "6의4. 미성년자에 대하여 「성폭력범죄의 처벌 등에 관한 특례법」 제2조에 따른",
+      "confidence": 0.9994950942371202,
+      "bbox": [
+        [
+          100,
+          1256
+        ],
+        [
+          1075,
+          1256
+        ],
+        [
+          1075,
+          1280
+        ],
+        [
+          100,
+          1280
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "성폭력범죄 또는 「아동・청소년의 성보호에 관한 법률」 제2조제2호에 따른",
+      "confidence": 0.9897460577099823,
+      "bbox": [
+        [
+          175,
+          1291
+        ],
+        [
+          1075,
+          1291
+        ],
+        [
+          1075,
+          1315
+        ],
+        [
+          175,
+          1315
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "아동 • 청소년대상 성범죄를 범한 사람으로서 다음 각 목의 어느 하나에 해당",
+      "confidence": 0.9718956060030244,
+      "bbox": [
+        [
+          178,
+          1323
+        ],
+        [
+          1076,
+          1323
+        ],
+        [
+          1076,
+          1347
+        ],
+        [
+          178,
+          1347
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "하는 날부터 20년이 지나지 아니한 사람",
+      "confidence": 0.9996170525749525,
+      "bbox": [
+        [
+          178,
+          1359
+        ],
+        [
+          651,
+          1359
+        ],
+        [
+          651,
+          1381
+        ],
+        [
+          178,
+          1381
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "가. 금고 이상의 실형을 선고받고 그 집행이 끝나거나(집행이 끝난 것으로 보는",
+      "confidence": 0.999864685535431,
+      "bbox": [
+        [
+          149,
+          1391
+        ],
+        [
+          1075,
+          1391
+        ],
+        [
+          1075,
+          1416
+        ],
+        [
+          149,
+          1416
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "경우를 포함한다) 집행이 면제된 날",
+      "confidence": 0.999783090182713,
+      "bbox": [
+        [
+          196,
+          1424
+        ],
+        [
+          612,
+          1424
+        ],
+        [
+          612,
+          1449
+        ],
+        [
+          196,
+          1449
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 금고 이상의 형의 집행유예를 선고받고 그 집행유예가 확정된 날",
+      "confidence": 0.9998321487353399,
+      "bbox": [
+        [
+          148,
+          1457
+        ],
+        [
+          952,
+          1457
+        ],
+        [
+          952,
+          1483
+        ],
+        [
+          148,
+          1483
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다. 벌금 이하의 형을 선고받고 그 형이 확정된 날",
+      "confidence": 0.9998303016026815,
+      "bbox": [
+        [
+          149,
+          1492
+        ],
+        [
+          740,
+          1492
+        ],
+        [
+          740,
+          1517
+        ],
+        [
+          149,
+          1517
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "라. 치료감호를 선고받고 그 집행이 끝나거나 집행이 면제된 날",
+      "confidence": 0.99953726430734,
+      "bbox": [
+        [
+          149,
+          1525
+        ],
+        [
+          889,
+          1525
+        ],
+        [
+          889,
+          1550
+        ],
+        [
+          149,
+          1550
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "마. 징계로 파면처분 또는 해임처분을 받은 날",
+      "confidence": 0.9997960991329617,
+      "bbox": [
+        [
+          149,
+          1560
+        ],
+        [
+          690,
+          1560
+        ],
+        [
+          690,
+          1584
+        ],
+        [
+          149,
+          1584
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "7. 징계로 파면처분을 받은 날부터 5년이 지나지 아니한 사람",
+      "confidence": 0.9998832361565696,
+      "bbox": [
+        [
+          98,
+          1594
+        ],
+        [
+          817,
+          1594
+        ],
+        [
+          817,
+          1618
+        ],
+        [
+          98,
+          1618
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "8. 징계로 해임처분을 받은 날부터 3년이 지나지 아니한 사람",
+      "confidence": 0.9998391088512208,
+      "bbox": [
+        [
+          89,
+          1627
+        ],
+        [
+          821,
+          1627
+        ],
+        [
+          821,
+          1653
+        ],
+        [
+          89,
+          1653
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

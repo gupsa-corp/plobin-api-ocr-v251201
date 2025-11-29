@@ -1,0 +1,1385 @@
+{
+  "page_number": 3,
+  "total_blocks": 51,
+  "average_confidence": 0.9912140880935293,
+  "processing_time": 2.002286195755005,
+  "blocks": [
+    {
+      "text": "「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률ㅣ 제82조(결격사유)",
+      "confidence": 0.9996183771978725,
+      "bbox": [
+        [
+          133,
+          186
+        ],
+        [
+          1064,
+          186
+        ],
+        [
+          1064,
+          210
+        ],
+        [
+          133,
+          210
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "① 비위면직자 등은 다음 각 호의 어느 하나에 해당하는 사람을 말한다.",
+      "confidence": 0.9993921213033723,
+      "bbox": [
+        [
+          99,
+          222
+        ],
+        [
+          938,
+          222
+        ],
+        [
+          938,
+          244
+        ],
+        [
+          99,
+          244
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 공직자가 재직 중 직무와 관련된 부패행위로 당연퇴직, 파면 또는 해임된 자",
+      "confidence": 0.9991717740245487,
+      "bbox": [
+        [
+          102,
+          258
+        ],
+        [
+          1032,
+          258
+        ],
+        [
+          1032,
+          282
+        ],
+        [
+          102,
+          282
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 공직자였던 사람으로서 재직 중 직무와 관련된 부패행위로 벌금 300만원 이상의",
+      "confidence": 0.9994893123706182,
+      "bbox": [
+        [
+          102,
+          297
+        ],
+        [
+          1074,
+          297
+        ],
+        [
+          1074,
+          319
+        ],
+        [
+          102,
+          319
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "형의 선고를 받은 사람(해당 형의 집행유예 선고를 받고 그 유예기간이 경과된",
+      "confidence": 0.9999695826660503,
+      "bbox": [
+        [
+          134,
+          335
+        ],
+        [
+          1074,
+          335
+        ],
+        [
+          1074,
+          357
+        ],
+        [
+          134,
+          357
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "사람을 포함한다)",
+      "confidence": 0.993857437914068,
+      "bbox": [
+        [
+          133,
+          373
+        ],
+        [
+          335,
+          373
+        ],
+        [
+          335,
+          393
+        ],
+        [
+          133,
+          393
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "② 제1항에 따른 비위면직자 등(이하 “비위면직자등”이라 한다)은 제3항 각 호의 구",
+      "confidence": 0.999771883293074,
+      "bbox": [
+        [
+          99,
+          409
+        ],
+        [
+          1075,
+          409
+        ],
+        [
+          1075,
+          433
+        ],
+        [
+          99,
+          433
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "분에 따른 날부터 5년 동안 다음 각 호의 취업제한기관에 취업할 수 없다.",
+      "confidence": 0.999861805938011,
+      "bbox": [
+        [
+          134,
+          447
+        ],
+        [
+          1001,
+          447
+        ],
+        [
+          1001,
+          469
+        ],
+        [
+          134,
+          469
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 공공기관(「유아교육법」, 「초・중등교육법」, 「고등교육법」 및 그 밖의 다른",
+      "confidence": 0.9956383941074213,
+      "bbox": [
+        [
+          102,
+          484
+        ],
+        [
+          1075,
+          484
+        ],
+        [
+          1075,
+          509
+        ],
+        [
+          102,
+          509
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "법령에 따라 설치된 국·공립학교를 포함한다)",
+      "confidence": 0.9777442148098578,
+      "bbox": [
+        [
+          145,
+          523
+        ],
+        [
+          686,
+          523
+        ],
+        [
+          686,
+          545
+        ],
+        [
+          145,
+          545
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 대통령령으로 정하는 부패행위 관련 기관",
+      "confidence": 0.999545659010227,
+      "bbox": [
+        [
+          102,
+          559
+        ],
+        [
+          621,
+          559
+        ],
+        [
+          621,
+          581
+        ],
+        [
+          102,
+          581
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 퇴직 전 5년간 소속하였던 부서 또는 기관의 업무와 밀접한 관련이 있는 영리사",
+      "confidence": 0.9992983229458332,
+      "bbox": [
+        [
+          102,
+          595
+        ],
+        [
+          1077,
+          595
+        ],
+        [
+          1077,
+          619
+        ],
+        [
+          102,
+          619
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기업체 등(다음 각 목의 법인 등을 포함한다)",
+      "confidence": 0.9995483976823313,
+      "bbox": [
+        [
+          143,
+          633
+        ],
+        [
+          667,
+          633
+        ],
+        [
+          667,
+          657
+        ],
+        [
+          143,
+          657
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "4. 제3호에 따른 영리사기업체 등의 공동이익과 상호협력 등을 위하여 설립된 법인",
+      "confidence": 0.9997210705533941,
+      "bbox": [
+        [
+          106,
+          671
+        ],
+        [
+          1075,
+          671
+        ],
+        [
+          1075,
+          695
+        ],
+        [
+          106,
+          695
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "• 단체(이하 “협회”라 한다)",
+      "confidence": 0.9626255913784629,
+      "bbox": [
+        [
+          124,
+          707
+        ],
+        [
+          453,
+          707
+        ],
+        [
+          453,
+          735
+        ],
+        [
+          124,
+          735
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "나. 관련분야 최종경력 기준으로 시험공고일 현재 퇴직 후 10년이 경과되지",
+      "confidence": 0.9945911778960117,
+      "bbox": [
+        [
+          114,
+          763
+        ],
+        [
+          1083,
+          763
+        ],
+        [
+          1083,
+          788
+        ],
+        [
+          114,
+          788
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "않아야 함 (지방공무원임용령 제17조 제5항)",
+      "confidence": 0.9990062934380991,
+      "bbox": [
+        [
+          174,
+          802
+        ],
+        [
+          766,
+          802
+        ],
+        [
+          766,
+          828
+        ],
+        [
+          174,
+          828
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다. 자격 및 경력 : 분야별 채용기준 각 호의 어느 하나에 해당하는 자격 요건",
+      "confidence": 0.9636723230714384,
+      "bbox": [
+        [
+          115,
+          845
+        ],
+        [
+          1150,
+          845
+        ],
+        [
+          1150,
+          872
+        ],
+        [
+          115,
+          872
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "을 갖춘 자 (기준일 : 면접시험 예정일)",
+      "confidence": 0.9988099360466003,
+      "bbox": [
+        [
+          168,
+          881
+        ],
+        [
+          694,
+          881
+        ],
+        [
+          694,
+          907
+        ],
+        [
+          168,
+          907
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "분야",
+      "confidence": 0.9981663028399149,
+      "bbox": [
+        [
+          181,
+          928
+        ],
+        [
+          235,
+          928
+        ],
+        [
+          235,
+          950
+        ],
+        [
+          181,
+          950
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "직급",
+      "confidence": 0.9990171194076538,
+      "bbox": [
+        [
+          349,
+          928
+        ],
+        [
+          399,
+          928
+        ],
+        [
+          399,
+          950
+        ],
+        [
+          349,
+          950
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "용 자 격",
+      "confidence": 0.9842094693865094,
+      "bbox": [
+        [
+          716,
+          928
+        ],
+        [
+          871,
+          928
+        ],
+        [
+          871,
+          948
+        ],
+        [
+          716,
+          948
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "기",
+      "confidence": 0.9789568483829498,
+      "bbox": [
+        [
+          886,
+          928
+        ],
+        [
+          943,
+          928
+        ],
+        [
+          943,
+          948
+        ],
+        [
+          886,
+          948
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "준",
+      "confidence": 0.9939181506633759,
+      "bbox": [
+        [
+          945,
+          928
+        ],
+        [
+          976,
+          928
+        ],
+        [
+          976,
+          948
+        ],
+        [
+          945,
+          948
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "채",
+      "confidence": 0.9979848563671112,
+      "bbox": [
+        [
+          662,
+          930
+        ],
+        [
+          694,
+          930
+        ],
+        [
+          694,
+          948
+        ],
+        [
+          662,
+          948
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "아래의 필수자격을 충족하고 경력요건 중 한 가지 이상을",
+      "confidence": 0.9998095612972975,
+      "bbox": [
+        [
+          489,
+          966
+        ],
+        [
+          1109,
+          966
+        ],
+        [
+          1109,
+          988
+        ],
+        [
+          489,
+          988
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "충족하는 자",
+      "confidence": 0.9995046928524971,
+      "bbox": [
+        [
+          488,
+          997
+        ],
+        [
+          622,
+          997
+        ],
+        [
+          622,
+          1017
+        ],
+        [
+          488,
+          1017
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[<b>필수자격</b>] 박물관·미술관 정학예사 자격증 소지자",
+      "confidence": 0.9702685344964266,
+      "bbox": [
+        [
+          489,
+          1034
+        ],
+        [
+          1037,
+          1034
+        ],
+        [
+          1037,
+          1056
+        ],
+        [
+          489,
+          1056
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[경력요건]",
+      "confidence": 0.9977585822343826,
+      "bbox": [
+        [
+          489,
+          1071
+        ],
+        [
+          609,
+          1071
+        ],
+        [
+          609,
+          1093
+        ],
+        [
+          489,
+          1093
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 학사학위를 취득한 후 1년 이상 관련분야의 실무경력이",
+      "confidence": 0.9983888250939986,
+      "bbox": [
+        [
+          496,
+          1107
+        ],
+        [
+          1148,
+          1107
+        ],
+        [
+          1148,
+          1129
+        ],
+        [
+          496,
+          1129
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "있는 자",
+      "confidence": 0.9992930094401041,
+      "bbox": [
+        [
+          536,
+          1137
+        ],
+        [
+          624,
+          1137
+        ],
+        [
+          624,
+          1155
+        ],
+        [
+          536,
+          1155
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 3년 이상 관련분야의 실무경력이 있는 자",
+      "confidence": 0.9942774309052361,
+      "bbox": [
+        [
+          499,
+          1160
+        ],
+        [
+          989,
+          1160
+        ],
+        [
+          989,
+          1186
+        ],
+        [
+          499,
+          1186
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "3. 8급 또는 8급 상당 이상의 공무원으로서 2년 이상 관련",
+      "confidence": 0.9976798064178891,
+      "bbox": [
+        [
+          499,
+          1188
+        ],
+        [
+          1147,
+          1188
+        ],
+        [
+          1147,
+          1215
+        ],
+        [
+          499,
+          1215
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "분야의 실무경력이 있는 자",
+      "confidence": 0.9998612403869629,
+      "bbox": [
+        [
+          535,
+          1222
+        ],
+        [
+          834,
+          1222
+        ],
+        [
+          834,
+          1244
+        ],
+        [
+          535,
+          1244
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "담헌달빛관 지방시간선택제임기제",
+      "confidence": 0.9830624229378171,
+      "bbox": [
+        [
+          151,
+          1245
+        ],
+        [
+          481,
+          1245
+        ],
+        [
+          481,
+          1269
+        ],
+        [
+          151,
+          1269
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[관련학과 및 관련분야 실무경력]",
+      "confidence": 0.9916394084692002,
+      "bbox": [
+        [
+          490,
+          1258
+        ],
+        [
+          860,
+          1258
+        ],
+        [
+          860,
+          1280
+        ],
+        [
+          490,
+          1280
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "운 영",
+      "confidence": 0.9419352293014527,
+      "bbox": [
+        [
+          151,
+          1277
+        ],
+        [
+          266,
+          1277
+        ],
+        [
+          266,
+          1303
+        ],
+        [
+          151,
+          1303
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "다급(7급상당)",
+      "confidence": 0.9952928841114044,
+      "bbox": [
+        [
+          295,
+          1279
+        ],
+        [
+          452,
+          1279
+        ],
+        [
+          452,
+          1303
+        ],
+        [
+          295,
+          1303
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "1. 관련학과",
+      "confidence": 0.9420419600274827,
+      "bbox": [
+        [
+          497,
+          1291
+        ],
+        [
+          634,
+          1291
+        ],
+        [
+          634,
+          1313
+        ],
+        [
+          497,
+          1313
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "(학예연구사)",
+      "confidence": 0.9928949342833625,
+      "bbox": [
+        [
+          150,
+          1310
+        ],
+        [
+          267,
+          1310
+        ],
+        [
+          267,
+          1336
+        ],
+        [
+          150,
+          1336
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "주35시간",
+      "confidence": 0.9987937211990356,
+      "bbox": [
+        [
+          322,
+          1310
+        ],
+        [
+          429,
+          1310
+        ],
+        [
+          429,
+          1334
+        ],
+        [
+          322,
+          1334
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "-고고학, 민속학, 미술사학, 역사학, 박물관학,",
+      "confidence": 0.9898569152272981,
+      "bbox": [
+        [
+          510,
+          1318
+        ],
+        [
+          1056,
+          1318
+        ],
+        [
+          1056,
+          1345
+        ],
+        [
+          510,
+          1345
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "문화재보존학 등",
+      "confidence": 0.9991644561290741,
+      "bbox": [
+        [
+          532,
+          1356
+        ],
+        [
+          725,
+          1356
+        ],
+        [
+          725,
+          1378
+        ],
+        [
+          532,
+          1378
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "2. 관련분야 실무경력",
+      "confidence": 0.9892848942961011,
+      "bbox": [
+        [
+          498,
+          1398
+        ],
+        [
+          736,
+          1398
+        ],
+        [
+          736,
+          1420
+        ],
+        [
+          498,
+          1420
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "- 국립·공립·사립·대학(박물관 및 미술관 진흥법에 따라",
+      "confidence": 0.9970154797329622,
+      "bbox": [
+        [
+          509,
+          1430
+        ],
+        [
+          1150,
+          1430
+        ],
+        [
+          1150,
+          1455
+        ],
+        [
+          509,
+          1455
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "등록된 박물관에 한함) 박물관 학예업무(전시·교육·",
+      "confidence": 0.9926557752393907,
+      "bbox": [
+        [
+          536,
+          1460
+        ],
+        [
+          1148,
+          1460
+        ],
+        [
+          1148,
+          1484
+        ],
+        [
+          536,
+          1484
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "유물관리 등) 근무경력",
+      "confidence": 0.999330495085035,
+      "bbox": [
+        [
+          536,
+          1490
+        ],
+        [
+          800,
+          1490
+        ],
+        [
+          800,
+          1514
+        ],
+        [
+          536,
+          1514
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "[기타요건]",
+      "confidence": 0.9802038818597794,
+      "bbox": [
+        [
+          489,
+          1536
+        ],
+        [
+          609,
+          1536
+        ],
+        [
+          609,
+          1558
+        ],
+        [
+          489,
+          1558
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "휴관일(월요일)에 따른 주말 및 공휴일 근무가 가능한 자",
+      "confidence": 0.9994840802568378,
+      "bbox": [
+        [
+          498,
+          1565
+        ],
+        [
+          1125,
+          1565
+        ],
+        [
+          1125,
+          1589
+        ],
+        [
+          498,
+          1589
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※근무일: 화요일 ~ 금요일 및 주말(토, 일) 중 1일, 공휴일",
+      "confidence": 0.9725477162160372,
+      "bbox": [
+        [
+          502,
+          1592
+        ],
+        [
+          1149,
+          1592
+        ],
+        [
+          1149,
+          1617
+        ],
+        [
+          502,
+          1617
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    },
+    {
+      "text": "※ 실무경력 인정범위 : 관련(직무)분야 근무경력으로 경력증명서상 근무기간과 담당업무가 명시되어야 함.",
+      "confidence": 0.9962861325781224,
+      "bbox": [
+        [
+          151,
+          1635
+        ],
+        [
+          1147,
+          1635
+        ],
+        [
+          1147,
+          1660
+        ],
+        [
+          151,
+          1660
+        ]
+      ],
+      "block_type": "text",
+      "block_id": null,
+      "parent_id": null,
+      "children": [],
+      "level": 0
+    }
+  ]
+}

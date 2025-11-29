@@ -1,0 +1,1478 @@
+{
+  "page_summary": {
+    "document_type": "report",
+    "main_content": "No clear content summary available",
+    "key_entities": {
+      "companies": [
+        "민간기업"
+      ],
+      "dates": [],
+      "amounts": [],
+      "emails": [],
+      "phones": [],
+      "invoice_numbers": []
+    },
+    "content_sections": {
+      "title": 1,
+      "header": 0,
+      "body": 0,
+      "table": 18,
+      "footer": 0,
+      "other": 56
+    },
+    "quality_metrics": {
+      "overall_confidence": 0.983,
+      "readability": "medium",
+      "completeness": "complete",
+      "high_confidence_blocks": 73,
+      "low_confidence_blocks": 1
+    },
+    "language_distribution": {
+      "korean": 0.703,
+      "english": 0.007,
+      "other": 0.29
+    },
+    "structural_analysis": {
+      "has_header": true,
+      "has_footer": true,
+      "column_layout": "single",
+      "text_alignment": "mixed"
+    },
+    "total_blocks": 75,
+    "total_characters": 1307,
+    "analyzed_at": "2025-11-19T09:25:02.072206"
+  },
+  "block_summaries": [
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "분야",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.070747"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "직급",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 2,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.070763"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "용 자",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 3,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:02.070775"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "격",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.070784"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "채",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.070793"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "기",
+      "keywords": [],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.070802"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "쥰",
+      "keywords": [],
+      "confidence_level": "low",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.070811"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "아래의 경력요건 중 한가지 이상을 충족하는 자",
+      "keywords": [
+        "아래의",
+        "경력요건",
+        "한가지",
+        "이상을",
+        "충족하는"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:02.070835"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[경력요건]",
+      "keywords": [
+        "경력요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.070847"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 학사학위 취득 후 3년 이상 임용예정 직무분야의 ...",
+      "keywords": [
+        "학사학위",
+        "임용예정",
+        "직무분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 9,
+      "analyzed_at": "2025-11-19T09:25:02.070868"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 5년 이상 임용예정 직무분야의 실무경력자",
+      "keywords": [
+        "임용예정",
+        "직무분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:02.070884"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3. 7급(7급상당) 이상의 공무원으로서 2년이상 임용...",
+      "keywords": [
+        "7급상당",
+        "이상의",
+        "공무원으로서",
+        "2년이상",
+        "임용예정"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:02.070902"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "통지방시간선택제임기제",
+      "keywords": [
+        "통지방시간선택제임기제"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.070915"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "분야의 실무경력자",
+      "keywords": [
+        "분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:02.070928"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "나급(6급상당)",
+      "keywords": [
+        "6급상당"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.070940"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(지능형",
+      "keywords": [
+        "지능형"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.070951"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[실무경력]",
+      "keywords": [
+        "실무경력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.070962"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "교통체계)",
+      "keywords": [
+        "교통체계"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.070971"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "주35시간",
+      "keywords": [
+        "주35시간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.070982"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "국가 및 지자체, 공공기관, 연구소 등에서 지능형교통체...",
+      "keywords": [
+        "지자체",
+        "공공기관",
+        "연구소",
+        "등에서",
+        "지능형교통체계"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 31,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:02.071001"
+    },
+    {
+      "content_type": "title",
+      "language": "korean",
+      "text_preview": "(ITS), 교통계획, 교통분석 분야 관련 근무 경력",
+      "keywords": [
+        "its",
+        "교통계획",
+        "교통분석"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "critical",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 29,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:02.071015"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[우대사항]",
+      "keywords": [
+        "우대사항"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071026"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 교통공학, 교통(도시)계획, 도시공학 관련학과 전...",
+      "keywords": [
+        "교통공학",
+        "도시공학",
+        "관련학과",
+        "전공자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:02.071042"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 교통(산업)기사 자격증 취득자",
+      "keywords": [
+        "자격증",
+        "취득자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 19,
+      "word_count": 4,
+      "analyzed_at": "2025-11-19T09:25:02.071056"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "아래의 필수자격을 충족하고, 경력요건 중 한가지 이상을...",
+      "keywords": [
+        "아래의",
+        "필수자격을",
+        "충족하고",
+        "경력요건",
+        "한가지"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 37,
+      "word_count": 9,
+      "analyzed_at": "2025-11-19T09:25:02.071078"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[필수자격]",
+      "keywords": [
+        "필수자격"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071089"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 「국가기술자격법」에 따른 건축구조기술사 또는 「건...",
+      "keywords": [
+        "국가기술자격법",
+        "건축구조기술사",
+        "건설기술"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 33,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:02.071105"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "진흥법 시행령」별표1에 따른 건설기술인 중 건축구조분야",
+      "keywords": [
+        "진흥법",
+        "시행령",
+        "별표1에",
+        "건설기술인",
+        "건축구조분야"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 30,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:02.071124"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "고급기술인 이상의 자격기준을 갖춘 사람 또는 「국가기술",
+      "keywords": [
+        "고급기술인",
+        "이상의",
+        "자격기준을",
+        "국가기술"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 30,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:02.071143"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "자격법 | 에 따른 건축시공기술사",
+      "keywords": [
+        "자격법",
+        "건축시공기술사"
+      ],
+      "confidence_level": "medium",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 5,
+      "analyzed_at": "2025-11-19T09:25:02.071154"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "건 축 안 전 지방시간선택제임기제",
+      "keywords": [
+        "지방시간선택제임기제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 18,
+      "word_count": 5,
+      "analyzed_at": "2025-11-19T09:25:02.071168"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 운전면허(2종보통 이상)를 소지하고 실제운전이 가...",
+      "keywords": [
+        "운전면허",
+        "2종보통",
+        "소지하고",
+        "실제운전이",
+        "가능한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 34,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:02.071184"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "과",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071194"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "나급(6급상당)",
+      "keywords": [
+        "6급상당"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071206"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "리",
+      "keywords": [],
+      "confidence_level": "medium",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 1,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071216"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[경력요건]",
+      "keywords": [
+        "경력요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071227"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "(건축구조)",
+      "keywords": [
+        "건축구조"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071236"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "주35시간",
+      "keywords": [
+        "주35시간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071247"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 학사학위 취득 후 3년 이상 임용예정 직무분야의 ...",
+      "keywords": [
+        "학사학위",
+        "임용예정",
+        "직무분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 9,
+      "analyzed_at": "2025-11-19T09:25:02.071263"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 5년 이상 임용예정 직무분야의 실무경력자",
+      "keywords": [
+        "임용예정",
+        "직무분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:02.071277"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3. 7급(7급상당) 이상의 공무원으로서 2년이상 임용...",
+      "keywords": [
+        "7급상당",
+        "이상의",
+        "공무원으로서",
+        "2년이상",
+        "임용예정"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:02.071294"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "분야의 실무경력자",
+      "keywords": [
+        "분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:02.071306"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[실무경력]",
+      "keywords": [
+        "실무경력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071317"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "국가, 지자체, 공공기관, 민간기업 등에서 건축시공, ...",
+      "keywords": [
+        "지자체",
+        "공공기관",
+        "민간기업",
+        "등에서",
+        "건축시공"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:02.071336"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "건축설계, 구조설계, 안전진단 등 건축안전 관련분야 업...",
+      "keywords": [
+        "건축설계",
+        "구조설계",
+        "안전진단",
+        "건축안전",
+        "관련분야"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 35,
+      "word_count": 8,
+      "analyzed_at": "2025-11-19T09:25:02.071353"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[필수자격]",
+      "keywords": [
+        "필수자격"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071364"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "자동차운전면허 2종 보통 이상 자격증 소지자로 실제",
+      "keywords": [
+        "자동차운전면허",
+        "자격증",
+        "소지자로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 28,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:02.071378"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "운전이 가능한 자",
+      "keywords": [
+        "운전이",
+        "가능한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 9,
+      "word_count": 3,
+      "analyzed_at": "2025-11-19T09:25:02.071390"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[경력요건]",
+      "keywords": [
+        "경력요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071399"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1년 이상 임용예정 직무분야의 실무경력이 있는 사람",
+      "keywords": [
+        "임용예정",
+        "직무분야의",
+        "실무경력이"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 28,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:02.071413"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "지방시간선택제임기제",
+      "keywords": [
+        "지방시간선택제임기제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071424"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "교통지도",
+      "keywords": [
+        "교통지도"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071434"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[기타요건]",
+      "keywords": [
+        "기타요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071447"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "마급(9급상당)",
+      "keywords": [
+        "9급상당"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071459"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(재공고)",
+      "keywords": [
+        "재공고"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071469"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "월 1회 이상 주말·휴일 근무가 가능한 자",
+      "keywords": [
+        "근무가",
+        "가능한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 23,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:02.071484"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "주35시간",
+      "keywords": [
+        "주35시간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071494"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[실무경력 인정 직무분야]",
+      "keywords": [
+        "실무경력",
+        "직무분야"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 14,
+      "word_count": 3,
+      "analyzed_at": "2025-11-19T09:25:02.071508"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "국가, 지방자치단체, 공공기관, 기타 이에 준하는 기관...",
+      "keywords": [
+        "지방자치단체",
+        "공공기관",
+        "준하는",
+        "기관의",
+        "단속분야"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 57,
+      "word_count": 12,
+      "analyzed_at": "2025-11-19T09:25:02.071536"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[<b>우대사항</b>] 컴퓨터활용(한글, 엑셀 등) ...",
+      "keywords": [
+        "우대사항",
+        "컴퓨터활용",
+        "가능한",
+        "아래의",
+        "경력요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 65,
+      "word_count": 13,
+      "analyzed_at": "2025-11-19T09:25:02.071567"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[경력요건]",
+      "keywords": [
+        "경력요건"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071578"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "1. 학사학위를 취득한 후 1년 이상 임용예정 직무분야...",
+      "keywords": [
+        "학사학위를",
+        "취득한",
+        "임용예정",
+        "직무분야의"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 31,
+      "word_count": 8,
+      "analyzed_at": "2025-11-19T09:25:02.071593"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "실무경력자",
+      "keywords": [
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071603"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "지방시간선택제임기제",
+      "keywords": [
+        "지방시간선택제임기제"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 10,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071613"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "산림재해",
+      "keywords": [
+        "산림재해"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 4,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071623"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "2. 3년 이상 임용예정 직무분야의 실무경력자",
+      "keywords": [
+        "임용예정",
+        "직무분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 25,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:02.071636"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "다급(7급상당)",
+      "keywords": [
+        "7급상당"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 8,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071648"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "(재공고)",
+      "keywords": [
+        "재공고"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071658"
+    },
+    {
+      "content_type": "table",
+      "language": "korean",
+      "text_preview": "3. 8급(8급상당) 이상의 공무원으로서 2년 이상 임...",
+      "keywords": [
+        "8급상당",
+        "이상의",
+        "공무원으로서",
+        "임용예정"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "normal",
+      "contains_numbers": true,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 33,
+      "word_count": 7,
+      "analyzed_at": "2025-11-19T09:25:02.071673"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "주35시간",
+      "keywords": [
+        "주35시간"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 5,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071683"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "직무분야의 실무경력자",
+      "keywords": [
+        "직무분야의",
+        "실무경력자"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 11,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:02.071696"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "[실무경력]",
+      "keywords": [
+        "실무경력"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 1,
+      "analyzed_at": "2025-11-19T09:25:02.071706"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "국가, 지자체, 공공기관, 민간기업에서 산림관련 직무분...",
+      "keywords": [
+        "지자체",
+        "공공기관",
+        "민간기업에서",
+        "산림관련",
+        "직무분야로"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 32,
+      "word_count": 6,
+      "analyzed_at": "2025-11-19T09:25:02.071722"
+    },
+    {
+      "content_type": "other",
+      "language": "korean",
+      "text_preview": "근무한 경력",
+      "keywords": [
+        "근무한"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "low",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 6,
+      "word_count": 2,
+      "analyzed_at": "2025-11-19T09:25:02.071733"
+    },
+    {
+      "content_type": "address",
+      "language": "korean",
+      "text_preview": "※ 실무경력 인정범위 : 관련(직무)분야 근무경력으로 ...",
+      "keywords": [
+        "실무경력",
+        "인정범위",
+        "근무경력으로",
+        "경력증명서상",
+        "근무기간과"
+      ],
+      "confidence_level": "high",
+      "estimated_importance": "important",
+      "contains_numbers": false,
+      "contains_dates": false,
+      "contains_money": false,
+      "contains_email": false,
+      "contains_phone": false,
+      "text_length": 57,
+      "word_count": 11,
+      "analyzed_at": "2025-11-19T09:25:02.071754"
+    }
+  ],
+  "insights": [
+    "매우 높은 OCR 정확도로 신뢰할 수 있는 결과입니다.",
+    "주로 한국어 문서입니다."
+  ],
+  "recommendations": [
+    "테이블 데이터를 스프레드시트 형태로 내보내기를 고려해보세요."
+  ]
+}

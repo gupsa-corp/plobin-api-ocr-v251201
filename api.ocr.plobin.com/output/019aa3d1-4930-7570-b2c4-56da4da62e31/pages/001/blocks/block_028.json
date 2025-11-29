@@ -1,0 +1,17 @@
+{
+  "block_id": 28,
+  "text": "products, sales м PC:",
+  "confidence": 0.5642542435842401,
+  "bbox": {
+    "x_min": 395,
+    "y_min": 330,
+    "x_max": 531,
+    "y_max": 336,
+    "width": 136,
+    "height": 6
+  },
+  "block_type": "text",
+  "text_length": 21,
+  "created_at": "2025-11-21T00:29:53.329703",
+  "version": "1.0"
+}
